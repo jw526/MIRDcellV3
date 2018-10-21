@@ -1,0 +1,37 @@
+ 68-GERMANIUM-32         HALFLIFE = 270.95 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ K -L2 X-RAY                        1.29E-01    9.181E-03    1.19E-03
+ K -L3 X-RAY                        2.51E-01    9.209E-03    2.31E-03
+ K -M2 X-RAY                        1.63E-02    1.022E-02    1.67E-04
+ K -M3 X-RAY                        3.19E-02    1.022E-02    3.26E-04
+ L3-M5 X-RAY                        5.42E-03    1.095E-03    5.94E-06
+ Free-Bound X-RAY                   6.20E+00    1.579E-05*   9.78E-05
+ AUGER KLL                          3.38E-01    7.996E-03*   2.70E-03
+ AUGER KLX                          8.92E-02    9.049E-03*   8.08E-04
+ AUGER KXY                          6.40E-03    1.010E-02*   6.46E-05
+ CK LLX                             2.47E-01    9.468E-05*   2.33E-05
+ AUGER LMM                          1.23E+00    1.003E-03*   1.23E-03
+ AUGER LMX                          1.92E-02    1.054E-03*   2.02E-05
+ CK MMX                             1.56E+00    5.439E-05*   8.51E-05
+ AUGER MNN                          1.70E+00    1.174E-05*   2.00E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.10E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.36E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.96E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.15E-07
+ ALL LISTED RADIATIONS                                       9.05E-03
+ ALL NEGLECTED RADIATIONS**                                  1.37E-05
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 68-GALLIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  68-GERMANIUM.
+   DECAY OF THIS 67.71 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

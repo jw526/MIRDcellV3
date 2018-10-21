@@ -1,0 +1,221 @@
+%%%% 190 IR  77 M  IT           4.03200E+03 1.120 H    02-11-2005       BALASTAR
+1 190M  IR  77 1.120 H         IT         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              190M-IRIDIUM-77
++                                    HALFLIFE = 1.12 HOURS   
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+   2.6300E-02  1.0000E+02  1.0000E+02  0.0000E+00                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  2.630E-02 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  2.630E-02 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%% 190 IR  77 M  IT           4.03200E+03 1.120 H    02-11-2005       BALAEND 
+%%%% 190 IR  77 M  IT           4.03200E+03 1.120 H    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              190M-IRIDIUM-77
++                                    HALFLIFE = 1.12 HOURS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           I.C.E. + GAMMA   1   1.00E+00   2.630E-02   M3 MULTIPOLE                             
++                                                                    AK= 0.0                    
+                                                       AL1=9.06E+04  AL2=4.62E+03               
+                                                       AL3=6.01E+05  AM= 2.26E+05               
+                                                       AN+=6.85E+04                             
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Jan-1996
+%%%% 190 IR  77 M  IT           4.03200E+03 1.120 H    02-11-2005       INPUEND 
+%%%% 190 IR  77 M  IT           4.03200E+03 1.120 H    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              190M-IRIDIUM-77
++                                    HALFLIFE = 1.12 HOURS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           L1 CONV. ELECTRON, GAMMA-RAY   1   9.14E-02    1.290E-02    1.18E-03
+           L2 CONV. ELECTRON, GAMMA-RAY   1   4.66E-03    1.344E-02    6.26E-05
+           L3 CONV. ELECTRON, GAMMA-RAY   1   6.07E-01    1.509E-02    9.15E-03
+           M CONV. ELECTRON, GAMMA-RAY    1   2.28E-01    2.376E-02*   5.42E-03
+           N+ CONV. ELECTRON, GAMMA-RAY   1   6.91E-02    2.630E-02*   1.82E-03
+           L1-M2 X-RAY                        2.30E-03    1.050E-02    2.41E-05
+           L1-M3 X-RAY                        2.74E-03    1.086E-02    2.98E-05
+           L1-N2 X-RAY                        5.74E-04    1.283E-02    7.36E-06
+           L1-N3 X-RAY                        7.33E-04    1.291E-02    9.47E-06
+           L2-M4 X-RAY                        2.97E-03    1.074E-02    3.19E-05
+           L2-N4 X-RAY                        5.73E-04    1.255E-02    7.19E-06
+           L3-M1 X-RAY                        9.25E-03    8.068E-03    7.46E-05
+           L3-M4 X-RAY                        1.60E-02    9.091E-03    1.45E-04
+           L3-M5 X-RAY                        1.41E-01    9.169E-03    1.29E-03
+           L3-N1 X-RAY                        1.85E-03    1.054E-02    1.95E-05
+           L3-N4 X-RAY                        2.87E-03    1.090E-02    3.12E-05
+           L3-N5 X-RAY                        2.58E-02    1.092E-02    2.82E-04
+           L3-O1 X-RAY                        3.85E-04    1.111E-02    4.28E-06
+           L3-O5 X-RAY                        1.57E-03    1.121E-02    1.76E-05
+           M X-RAY                            3.32E-02    1.988E-03*   6.60E-05
+           Free-Bound X-RAY                   7.03E+00    4.538E-05*   3.19E-04
+           CK LLX                             7.24E-02    5.106E-04*   3.70E-05
+           AUGER LMM                          3.42E-01    6.701E-03*   2.29E-03
+           AUGER LMX                          1.37E-01    8.646E-03*   1.19E-03
+           AUGER LXY                          1.35E-02    1.061E-02*   1.44E-04
+           CK MMX                             4.69E-01    3.281E-04*   1.54E-04
+           AUGER MNN                          1.14E+00    1.636E-03*   1.86E-03
+           AUGER MNX                          1.00E-01    1.834E-03*   1.84E-04
+           CK NNX                             2.32E+00    1.698E-04*   3.93E-04
+           AUGER NXY                          9.81E-02    3.506E-04*   3.44E-05
+           CK OOX                             1.34E+00    3.547E-05*   4.76E-05
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.36E-03
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.26E-05
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.40E-02
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.08E-05
+           ALL LISTED RADIATIONS                                       2.63E-02
+           ALL NEGLECTED RADIATIONS**                                  2.35E-05
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 190-IRIDIUM
+             DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF 190M-IRIDIUM.
+             DECAY OF THIS 11.78 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Jan-1996
+%%%% 190 IR  77 M  IT           4.03200E+03 1.120 H    02-11-2005       OUTPEND 
+%%%% 190 IR  77 M  IT           4.03200E+03 1.120 H    02-11-2005       SEEISTAR
+190.M IRIDIUM      77.  1.120E+00 HOURS     63 IT                   190.IR 77.   0
+ 1 1  1.00875E-04  2.63000E-02  2.63000E-02  0.00000E+00            190.IR 77.   1   1
+ 6 5  9.13628E+00  1.29040E-02  1.29040E-02  1.00000E+00            190.IR 77.   2   5
+ 6 6  4.65923E-01  1.34410E-02  1.34410E-02  1.00000E+00            190.IR 77.   3   6
+ 6 7  6.06681E+01  1.50860E-02  1.50860E-02  1.00000E+00            190.IR 77.   4   7
+ 6 3  2.28237E+01  2.37610E-02  2.37610E-02  1.00000E+00            190.IR 77.   5   3
+ 6 4  6.90593E+00  2.63000E-02  2.63000E-02  1.00000E+00            190.IR 77.   6   4
+ 221  1.00125E-04  5.37000E-04  5.37000E-04  0.00000E+00            190.IR 77.   7  21
+ 222  1.60369E-02  2.18200E-03  2.18200E-03  0.00000E+00            190.IR 77.   8  22
+ 223  2.29558E-01  1.04958E-02  1.04958E-02  0.00000E+00            190.IR 77.   9  23
+ 224  2.74061E-01  1.08570E-02  1.08570E-02  0.00000E+00            190.IR 77.  10  24
+ 225  7.24781E-03  1.12728E-02  1.12728E-02  0.00000E+00            190.IR 77.  11  25
+ 226  1.08484E-02  1.13512E-02  1.13512E-02  0.00000E+00            190.IR 77.  12  26
+ 227  5.73786E-02  1.28256E-02  1.28256E-02  0.00000E+00            190.IR 77.  13  27
+ 228  7.33168E-02  1.29115E-02  1.29115E-02  0.00000E+00            190.IR 77.  14  28
+ 229  1.05689E-03  1.30855E-02  1.30855E-02  0.00000E+00            190.IR 77.  15  29
+ 230  1.65860E-03  1.31014E-02  1.31014E-02  0.00000E+00            190.IR 77.  16  30
+ 231  9.67258E-03  1.33303E-02  1.33303E-02  0.00000E+00            190.IR 77.  17  31
+ 232  1.19302E-02  1.33443E-02  1.33443E-02  0.00000E+00            190.IR 77.  18  32
+ 233  6.38060E-05  1.33880E-02  1.33880E-02  0.00000E+00            190.IR 77.  19  33
+ 234  9.75024E-05  1.33892E-02  1.33892E-02  0.00000E+00            190.IR 77.  20  34
+ 241  5.66016E-06  1.64500E-03  1.64500E-03  0.00000E+00            190.IR 77.  21  41
+ 242  8.10457E-03  9.71330E-03  9.71330E-03  0.00000E+00            190.IR 77.  22  42
+ 243  2.87624E-04  1.03200E-02  1.03200E-02  0.00000E+00            190.IR 77.  23  43
+ 244  2.96943E-01  1.07358E-02  1.07358E-02  0.00000E+00            190.IR 77.  24  44
+ 245  2.01566E-03  1.21837E-02  1.21837E-02  0.00000E+00            190.IR 77.  25  45
+ 246  7.64513E-05  1.23745E-02  1.23745E-02  0.00000E+00            190.IR 77.  26  46
+ 247  5.72672E-02  1.25485E-02  1.25485E-02  0.00000E+00            190.IR 77.  27  47
+ 248  1.84481E-04  1.27877E-02  1.27877E-02  0.00000E+00            190.IR 77.  28  48
+ 249  3.98127E-04  1.27599E-02  1.27599E-02  0.00000E+00            190.IR 77.  29  49
+ 250  1.54115E-05  1.28073E-02  1.28073E-02  0.00000E+00            190.IR 77.  30  50
+ 251  3.70315E-03  1.28510E-02  1.28510E-02  0.00000E+00            190.IR 77.  31  51
+ 261  9.25070E-01  8.06831E-03  8.06831E-03  0.00000E+00            190.IR 77.  32  61
+ 262  8.55428E-03  8.31379E-03  8.31379E-03  0.00000E+00            190.IR 77.  33  62
+ 263  7.74279E-03  8.67500E-03  8.67500E-03  0.00000E+00            190.IR 77.  34  63
+ 264  1.59760E+00  9.09081E-03  9.09081E-03  0.00000E+00            190.IR 77.  35  64
+ 265  1.40853E+01  9.16921E-03  9.16921E-03  0.00000E+00            190.IR 77.  36  65
+ 266  1.85451E-01  1.05387E-02  1.05387E-02  0.00000E+00            190.IR 77.  37  66
+ 267  1.87181E-03  1.06436E-02  1.06436E-02  0.00000E+00            190.IR 77.  38  67
+ 268  1.86837E-03  1.07295E-02  1.07295E-02  0.00000E+00            190.IR 77.  39  68
+ 269  2.86523E-01  1.09035E-02  1.09035E-02  0.00000E+00            190.IR 77.  40  69
+ 270  2.57819E+00  1.09194E-02  1.09194E-02  0.00000E+00            190.IR 77.  41  70
+ 271  1.66805E-03  1.11427E-02  1.11427E-02  0.00000E+00            190.IR 77.  42  71
+ 272  9.35028E-03  1.11459E-02  1.11459E-02  0.00000E+00            190.IR 77.  43  72
+ 273  3.84931E-02  1.11149E-02  1.11149E-02  0.00000E+00            190.IR 77.  44  73
+ 274  3.93968E-04  1.11483E-02  1.11483E-02  0.00000E+00            190.IR 77.  45  74
+ 275  3.85059E-04  1.11623E-02  1.11623E-02  0.00000E+00            190.IR 77.  46  75
+ 276  1.82598E-02  1.12060E-02  1.12060E-02  0.00000E+00            190.IR 77.  47  76
+ 277  1.56948E-01  1.12072E-02  1.12072E-02  0.00000E+00            190.IR 77.  48  77
+ 291  3.32207E+00  1.98762E-03  1.98762E-03  0.00000E+00            190.IR 77.  49  91
+ 292  6.79898E-02  2.71481E-04  2.71481E-04  0.00000E+00            190.IR 77.  50  92
+ 293  1.70752E-04  4.74081E-05  4.74081E-05  0.00000E+00            190.IR 77.  51  93
+ 294  7.02978E+02  4.53758E-05  4.53758E-05  0.00000E+00            190.IR 77.  52  94
+ 7 4  7.23717E+00  5.10632E-04  5.10632E-04  0.00000E+00            190.IR 77.  53   4
+ 7 5  3.42212E+01  6.70067E-03  6.70067E-03  0.00000E+00            190.IR 77.  54   5
+ 7 6  1.37467E+01  8.64556E-03  8.64556E-03  0.00000E+00            190.IR 77.  55   6
+ 7 7  1.35283E+00  1.06077E-02  1.06077E-02  0.00000E+00            190.IR 77.  56   7
+ 7 8  4.69321E+01  3.28056E-04  3.28056E-04  0.00000E+00            190.IR 77.  57   8
+ 7 9  1.13598E+02  1.63560E-03  1.63560E-03  0.00000E+00            190.IR 77.  58   9
+ 710  1.00458E+01  1.83421E-03  1.83421E-03  0.00000E+00            190.IR 77.  59  10
+ 711  5.04346E-01  2.14481E-03  2.14481E-03  0.00000E+00            190.IR 77.  60  11
+ 712  2.31502E+02  1.69806E-04  1.69806E-04  0.00000E+00            190.IR 77.  61  12
+ 713  9.80759E+00  3.50648E-04  3.50648E-04  0.00000E+00            190.IR 77.  62  13
+ 714  1.34066E+02  3.54700E-05  3.54700E-05  0.00000E+00            190.IR 77.  63  14
+%%%% 190 IR  77 M  IT           4.03200E+03 1.120 H    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   2.65301E-08
+    X-ray                           (MeV) =   2.05394E-03
+    Free-bound X-ray                (MeV) =   3.18982E-04
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   1.76334E-02
+    Auger and CK electron           (MeV) =   6.34408E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   2.63504E-02
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   2.63000E-02
+  Ratio of E-total/Q-value          ( % ) =   1.00192E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   1.00875E-06
+    X-ray                                 =   2.43559E-01
+    Free-bound X-ray                      =   7.02978E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   9.99999E-01
+    Auger and CK electron                 =   6.03014E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

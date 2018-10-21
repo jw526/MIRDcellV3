@@ -1,0 +1,59 @@
+ 186-RHENIUM-75          HALFLIFE = 3.7183 DAYS    
+
+  MODES OF DECAY: BETA MINUS, ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     3   2.15E-01    3.060E-01*   6.59E-02
+ BETA MINUS                     4   7.09E-01    3.591E-01*   2.55E-01
+ GAMMA-RAY                      1   9.42E-02    1.372E-01    1.29E-02
+ K CONV. ELECTRON, GAMMA-RAY    1   4.08E-02    6.309E-02    2.57E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   1   4.62E-03    1.242E-01    5.74E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   1   3.15E-02    1.247E-01    3.93E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   1   2.46E-02    1.263E-01    3.11E-03
+ M CONV. ELECTRON, GAMMA-RAY    1   1.55E-02    1.347E-01*   2.09E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   4.45E-03    1.372E-01*   6.10E-04
+ GAMMA-RAY                      6   2.93E-04    6.303E-01    1.85E-04
+ GAMMA-RAY                      7   3.27E-04    7.675E-01    2.51E-04
+ K -L2 X-RAY                        1.13E-02    6.164E-02    6.99E-04
+ K -L3 X-RAY                        1.95E-02    6.319E-02    1.23E-03
+ K -M2 X-RAY                        2.12E-03    7.128E-02    1.51E-04
+ K -M3 X-RAY                        4.10E-03    7.161E-02    2.94E-04
+ K -N2 X-RAY                        4.88E-04    7.352E-02    3.59E-05
+ K -N3 X-RAY                        9.50E-04    7.360E-02    6.99E-05
+ L2-M4 X-RAY                        1.15E-02    1.038E-02    1.19E-04
+ L2-N4 X-RAY                        2.19E-03    1.213E-02    2.65E-05
+ L3-M5 X-RAY                        1.11E-02    8.906E-03    9.92E-05
+ L3-N5 X-RAY                        2.02E-03    1.059E-02    2.14E-05
+ Free-Bound X-RAY                   9.00E-01    4.410E-05    3.97E-05
+ GAMMA-RAY                      1   6.03E-03    1.226E-01    7.40E-04
+ K -L2 X-RAY                        1.73E-02    5.812E-02    1.01E-03
+ K -L3 X-RAY                        3.00E-02    5.948E-02    1.79E-03
+ K -M2 X-RAY                        3.23E-03    6.712E-02    2.17E-04
+ K -M3 X-RAY                        6.24E-03    6.742E-02    4.21E-04
+ K -N2 X-RAY                        7.35E-04    6.920E-02    5.08E-05
+ K -N3 X-RAY                        1.42E-03    6.927E-02    9.87E-05
+ K -O3 X-RAY                        3.42E-04    6.964E-02    2.38E-05
+ L2-M4 X-RAY                        5.57E-03    9.692E-03    5.39E-05
+ L3-M5 X-RAY                        8.68E-03    8.390E-03    7.28E-05
+ Free-Bound X-RAY                   7.03E-01    3.126E-05    2.20E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.06E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.60E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.34E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.73E-03
+ ALL LISTED RADIATIONS                                       3.54E-01
+ ALL NEGLECTED RADIATIONS**                                  2.89E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 186-OSMIUM
+   DAUGHTER IS 9.2530E-01 PER TRANSFORMATION OF 186-RHENIUM.
+   DECAY OF THIS 0.2E+16 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 186-TUNGSTEN
+   DAUGHTER IS 7.4700E-02 PER TRANSFORMATION OF 186-RHENIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

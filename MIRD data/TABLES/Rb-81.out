@@ -1,0 +1,63 @@
+ 81-RUBIDIUM-37          HALFLIFE = 4.576 HOURS   
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      4   2.80E-03    2.258E-01*   6.33E-04
+ BETA PLUS                      5   1.76E-02    2.531E-01*   4.46E-03
+ BETA PLUS                      8   2.50E-01    4.467E-01*   1.12E-01
+ BETA PLUS                      9   1.20E-03    5.579E-01*   6.71E-04
+ ANNIHILATION RADIATION             5.45E-01    5.110E-01    2.78E-01
+ GAMMA-RAY                      9   3.09E-03    2.439E-01    7.52E-04
+ GAMMA-RAY                     14   7.56E-03    3.574E-01    2.70E-03
+ GAMMA-RAY                     16   4.55E-03    3.889E-01    1.77E-03
+ GAMMA-RAY                     19   2.32E-01    4.462E-01    1.04E-01
+ K CONV. ELECTRON, GAMMA-RAY   19   6.41E-04    4.319E-01    2.77E-04
+ GAMMA-RAY                     20   3.02E-02    4.567E-01    1.38E-02
+ GAMMA-RAY                     21   5.22E-03    4.767E-01    2.49E-03
+ GAMMA-RAY                     22   1.18E-03    4.994E-01    5.91E-04
+ GAMMA-RAY                     23   5.34E-02    5.104E-01    2.72E-02
+ GAMMA-RAY                     24   2.39E-03    5.323E-01    1.27E-03
+ GAMMA-RAY                     25   2.23E-02    5.376E-01    1.20E-02
+ GAMMA-RAY                     26   1.86E-03    5.382E-01    9.99E-04
+ GAMMA-RAY                     27   4.71E-03    5.490E-01    2.59E-03
+ GAMMA-RAY                     28   5.82E-03    5.689E-01    3.31E-03
+ GAMMA-RAY                     30   2.58E-03    6.085E-01    1.57E-03
+ GAMMA-RAY                     31   2.13E-03    6.823E-01    1.46E-03
+ GAMMA-RAY                     36   2.95E-03    7.291E-01    2.15E-03
+ GAMMA-RAY                     39   8.33E-03    8.037E-01    6.69E-03
+ GAMMA-RAY                     40   1.55E-03    8.228E-01    1.28E-03
+ GAMMA-RAY                     41   8.12E-03    8.347E-01    6.78E-03
+ GAMMA-RAY                     45   5.64E-03    9.772E-01    5.51E-03
+ GAMMA-RAY                     48   5.34E-03    1.041E+00    5.56E-03
+ GAMMA-RAY                     50   6.03E-04    1.069E+00    6.45E-04
+ GAMMA-RAY                     53   1.11E-03    1.100E+00    1.23E-03
+ GAMMA-RAY                     54   5.10E-04    1.108E+00    5.66E-04
+ GAMMA-RAY                     57   8.58E-03    1.368E+00    1.17E-02
+ GAMMA-RAY                     62   4.18E-04    1.555E+00    6.49E-04
+ K -L2 X-RAY                        1.21E-01    1.255E-02    1.52E-03
+ K -L3 X-RAY                        2.33E-01    1.261E-02    2.94E-03
+ AUGER KLL                          1.72E-01    1.080E-02*   1.86E-03
+ AUGER KLX                          5.47E-02    1.234E-02*   6.75E-04
+ AUGER LMM                          7.54E-01    1.407E-03*   1.06E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    5.02E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     6.53E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.21E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  7.38E-04
+ ALL LISTED RADIATIONS                                       6.23E-01
+ ALL NEGLECTED RADIATIONS**                                  7.27E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF 0.190620 MEV ISOMERIC LEVEL IN  81-KRYPTON     
+   DAUGHTER IS 9.5691E-01 PER TRANSFORMATION OF  81-RUBIDIUM.
+   DECAY OF THIS 60 SECONDS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 81-KRYPTON
+   DAUGHTER IS 4.3091E-02 PER TRANSFORMATION OF  81-RUBIDIUM.
+   DECAY OF THIS 229000 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

@@ -1,0 +1,126 @@
+%%%%   7 BE   4    EC           4.59821E+06 53.22 D    02-11-2005       BALASTAR
+1   7   BE   4 53.22 D         EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              7-BERYLLIUM-4
++                                    HALFLIFE = 53.22 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+   4.7762E-01  1.0440E+01  1.0440E+01  6.3944E-05                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  7.629E-06                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   7.63E-06% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  8.618E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  8.618E-01 MEV
+ PERCENT ERROR =  2.006E-04                      
+%%%%   7 BE   4    EC           4.59821E+06 53.22 D    02-11-2005       BALAEND 
+%%%%   7 BE   4    EC           4.59821E+06 53.22 D    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              7-BERYLLIUM-4
++                                    HALFLIFE = 53.22 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.04E-01   3.842E-01   ALLOWED                                  
+           ELECT. CAPTURE   2   8.96E-01   8.618E-01   ALLOWED                                  
+           I.C.E. + GAMMA   1   1.04E-01   4.776E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=0.0400                               
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: May-2001
+%%%%   7 BE   4    EC           4.59821E+06 53.22 D    02-11-2005       INPUEND 
+%%%%   7 BE   4    EC           4.59821E+06 53.22 D    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              7-BERYLLIUM-4
++                                    HALFLIFE = 53.22 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      1   1.04E-01    4.776E-01    4.99E-02
+           K CONV. ELECTRON, GAMMA-RAY    1   7.51E-08    4.775E-01    3.59E-08
+           L1 CONV. ELECTRON, GAMMA-RAY   1   1.10E-09    4.776E-01    5.26E-10
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.99E-02
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.64E-08
+           ALL LISTED RADIATIONS                                       4.99E-02
+ 
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 7-LITHIUM
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF   7-BERYLLIUM.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: May-2001
+%%%%   7 BE   4    EC           4.59821E+06 53.22 D    02-11-2005       OUTPEND 
+%%%%   7 BE   4    EC           4.59821E+06 53.22 D    02-11-2005       SEEISTAR
+  7.  BERYLLIUM     4.  5.322E+01 DAYS       3 EC                     7.BE  4.   0
+ 1 1  1.04400E+01  4.77603E-01  4.77603E-01  0.00000E+00              7.BE  4.   1   1
+ 6 1  7.51100E-06  4.77544E-01  4.77544E-01  1.00000E+00              7.BE  4.   2   1
+ 6 5  1.10205E-07  4.77598E-01  4.77598E-01  1.00000E+00              7.BE  4.   3   5
+%%%%   7 BE   4    EC           4.59821E+06 53.22 D    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   4.98618E-02
+    X-ray                           (MeV) =   0.00000E+00
+    Free-bound X-ray                (MeV) =   0.00000E+00
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   8.12022E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   3.63946E-08
+    Auger and CK electron           (MeV) =   0.00000E+00
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   8.61884E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   8.61815E-01
+  Ratio of E-total/Q-value          ( % ) =   1.00008E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   1.04400E-01
+    X-ray                                 =   0.00000E+00
+    Free-bound X-ray                      =   0.00000E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   7.62120E-08
+    Auger and CK electron                 =   0.00000E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

@@ -1,0 +1,54 @@
+ 190M-IRIDIUM-77         HALFLIFE = 1.12 HOURS   
+
+  MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ L1 CONV. ELECTRON, GAMMA-RAY   1   9.14E-02    1.290E-02    1.18E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   1   4.66E-03    1.344E-02    6.26E-05
+ L3 CONV. ELECTRON, GAMMA-RAY   1   6.07E-01    1.509E-02    9.15E-03
+ M CONV. ELECTRON, GAMMA-RAY    1   2.28E-01    2.376E-02*   5.42E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   6.91E-02    2.630E-02*   1.82E-03
+ L1-M2 X-RAY                        2.30E-03    1.050E-02    2.41E-05
+ L1-M3 X-RAY                        2.74E-03    1.086E-02    2.98E-05
+ L1-N2 X-RAY                        5.74E-04    1.283E-02    7.36E-06
+ L1-N3 X-RAY                        7.33E-04    1.291E-02    9.47E-06
+ L2-M4 X-RAY                        2.97E-03    1.074E-02    3.19E-05
+ L2-N4 X-RAY                        5.73E-04    1.255E-02    7.19E-06
+ L3-M1 X-RAY                        9.25E-03    8.068E-03    7.46E-05
+ L3-M4 X-RAY                        1.60E-02    9.091E-03    1.45E-04
+ L3-M5 X-RAY                        1.41E-01    9.169E-03    1.29E-03
+ L3-N1 X-RAY                        1.85E-03    1.054E-02    1.95E-05
+ L3-N4 X-RAY                        2.87E-03    1.090E-02    3.12E-05
+ L3-N5 X-RAY                        2.58E-02    1.092E-02    2.82E-04
+ L3-O1 X-RAY                        3.85E-04    1.111E-02    4.28E-06
+ L3-O5 X-RAY                        1.57E-03    1.121E-02    1.76E-05
+ M X-RAY                            3.32E-02    1.988E-03*   6.60E-05
+ Free-Bound X-RAY                   7.03E+00    4.538E-05*   3.19E-04
+ CK LLX                             7.24E-02    5.106E-04*   3.70E-05
+ AUGER LMM                          3.42E-01    6.701E-03*   2.29E-03
+ AUGER LMX                          1.37E-01    8.646E-03*   1.19E-03
+ AUGER LXY                          1.35E-02    1.061E-02*   1.44E-04
+ CK MMX                             4.69E-01    3.281E-04*   1.54E-04
+ AUGER MNN                          1.14E+00    1.636E-03*   1.86E-03
+ AUGER MNX                          1.00E-01    1.834E-03*   1.84E-04
+ CK NNX                             2.32E+00    1.698E-04*   3.93E-04
+ AUGER NXY                          9.81E-02    3.506E-04*   3.44E-05
+ CK OOX                             1.34E+00    3.547E-05*   4.76E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.36E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.26E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.40E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.08E-05
+ ALL LISTED RADIATIONS                                       2.63E-02
+ ALL NEGLECTED RADIATIONS**                                  2.35E-05
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 190-IRIDIUM
+   DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF 190M-IRIDIUM.
+   DECAY OF THIS 11.78 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

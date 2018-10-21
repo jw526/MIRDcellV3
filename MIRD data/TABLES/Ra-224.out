@@ -1,0 +1,56 @@
+ 224-RADIUM-88           HALFLIFE = 3.66 DAYS    
+
+  MODE OF DECAY: ALPHA
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ ALPHA                          4   5.06E-02    5.449E+00    2.76E-01
+ RECOIL ATOM                        5.06E-02    9.913E-02    5.02E-03
+ ALPHA                          5   9.49E-01    5.685E+00    5.40E+00
+ RECOIL ATOM                        9.49E-01    1.034E-01    9.82E-02
+ GAMMA-RAY                      1   4.10E-02    2.410E-01    9.88E-03
+ K CONV. ELECTRON, GAMMA-RAY    1   4.56E-03    1.422E-01    6.48E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   1   7.47E-04    2.229E-01    1.67E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   1   2.90E-03    2.236E-01    6.48E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   1   1.46E-03    2.264E-01    3.30E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   1.36E-03    2.375E-01*   3.22E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   1   4.48E-04    2.410E-01*   1.08E-04
+ GAMMA-RAY                      2   6.20E-05    2.927E-01    1.81E-05
+ GAMMA-RAY                      4   3.00E-05    4.220E-01    1.27E-05
+ GAMMA-RAY                      5   5.40E-05    6.455E-01    3.49E-05
+ K -L2 X-RAY                        1.30E-03    8.137E-02    1.06E-04
+ K -L3 X-RAY                        2.14E-03    8.415E-02    1.80E-04
+ K -M2 X-RAY                        2.42E-04    9.462E-02    2.29E-05
+ K -M3 X-RAY                        4.71E-04    9.525E-02    4.49E-05
+ K -N3 X-RAY                        1.17E-04    9.798E-02    1.15E-05
+ L2-M4 X-RAY                        1.54E-03    1.437E-02    2.21E-05
+ L3-M5 X-RAY                        1.29E-03    1.173E-02    1.52E-05
+ AUGER KLL                          1.01E-04    6.511E-02*   6.59E-06
+ AUGER KLX                          5.64E-05    7.867E-02*   4.44E-06
+ AUGER LMM                          3.18E-03    9.109E-03*   2.90E-05
+ AUGER LMX                          1.50E-03    1.186E-02*   1.78E-05
+ AUGER LXY                          1.69E-04    1.464E-02*   2.47E-06
+ CK MMX                             5.05E-03    4.638E-04*   2.34E-06
+ AUGER MNN                          1.13E-02    2.129E-03*   2.40E-05
+ AUGER MNX                          1.69E-03    2.463E-03*   4.16E-06
+ CK NNX                             2.07E-02    1.803E-04*   3.73E-06
+ AUGER NXY                          3.74E-02    1.134E-04*   4.24E-06
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.03E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.55E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.32E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  6.59E-06
+ ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               5.78E+00
+ ALL NEGLECTED ALPHA PARTICLES AND  RECOIL NUCLEI**          9.28E-04
+ ALL LISTED RADIATIONS                                       5.79E+00
+ ALL NEGLECTED RADIATIONS**                                  9.80E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 220-RADON
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 224-RADIUM.
+   DECAY OF THIS 55.6 SECONDS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

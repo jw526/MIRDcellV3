@@ -1,0 +1,42 @@
+ 87-YTTRIUM-39           HALFLIFE = 79.8 HOURS   
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      1   1.80E-03    2.004E-01*   3.61E-04
+ ANNIHILATION RADIATION             3.60E-03    5.110E-01    1.84E-03
+ GAMMA-RAY                      2   8.98E-01    4.848E-01    4.36E-01
+ K CONV. ELECTRON, GAMMA-RAY    2   2.52E-03    4.687E-01    1.18E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   2   2.64E-04    4.826E-01    1.27E-04
+ M CONV. ELECTRON, GAMMA-RAY    2   4.78E-05    4.845E-01*   2.32E-05
+ K -L2 X-RAY                        1.76E-01    1.405E-02    2.47E-03
+ K -L3 X-RAY                        3.37E-01    1.412E-02    4.76E-03
+ K -M3 X-RAY                        5.00E-02    1.580E-02    7.89E-04
+ AUGER KLL                          2.01E-01    1.202E-02*   2.41E-03
+ AUGER KLX                          6.80E-02    1.379E-02*   9.38E-04
+ AUGER KXY                          5.56E-03    1.556E-02*   8.65E-05
+ CK LLX                             2.12E-01    1.006E-04*   2.14E-05
+ AUGER LMM                          9.69E-01    1.573E-03*   1.52E-03
+ AUGER LMX                          8.62E-02    1.714E-03*   1.48E-04
+ CK MMX                             9.85E-01    9.392E-05*   9.25E-05
+ AUGER MNN                          2.32E+00    7.496E-05*   1.74E-04
+ AUGER MNX                          1.12E-01    1.099E-04*   1.24E-05
+ CK NNX                             2.32E+00    1.364E-05*   3.17E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.45E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     7.91E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   7.13E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.73E-05
+ ALL LISTED RADIATIONS                                       4.53E-01
+ ALL NEGLECTED RADIATIONS**                                  8.08E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF 0.388532 MEV ISOMERIC LEVEL IN  87-STRONTIUM   
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  87-YTTRIUM.
+   DECAY OF THIS 2.815 HOURS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

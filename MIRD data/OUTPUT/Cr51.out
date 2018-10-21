@@ -1,0 +1,178 @@
+%%%%  51 CR  24    EC           2.39350E+06 27.7025 D  02-11-2005       BALASTAR
+1  51   CR  24 27.7025 D       EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              51-CHROMIUM-24
++                                    HALFLIFE = 27.7025 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+   3.2008E-01  9.9400E+00  9.9400E+00  9.5943E-06                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   7.63E-06% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  7.527E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  7.527E-01 MEV
+ PERCENT ERROR =  1.584E-05                      
+%%%%  51 CR  24    EC           2.39350E+06 27.7025 D  02-11-2005       BALAEND 
+%%%%  51 CR  24    EC           2.39350E+06 27.7025 D  02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              51-CHROMIUM-24
++                                    HALFLIFE = 27.7025 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   9.94E-02   4.326E-01   ALLOWED                                  
+           ELECT. CAPTURE   2   9.01E-01   7.527E-01   ALLOWED                                  
+           I.C.E. + GAMMA   1   9.94E-02   3.201E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=0.230     AK= 0.00168                
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Feb-2001
+%%%%  51 CR  24    EC           2.39350E+06 27.7025 D  02-11-2005       INPUEND 
+%%%%  51 CR  24    EC           2.39350E+06 27.7025 D  02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              51-CHROMIUM-24
++                                    HALFLIFE = 27.7025 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      1   9.92E-02    3.201E-01    3.18E-02
+           K CONV. ELECTRON, GAMMA-RAY    1   1.66E-04    3.146E-01    5.23E-05
+           L1 CONV. ELECTRON, GAMMA-RAY   1   1.50E-05    3.195E-01    4.78E-06
+           K -L2 X-RAY                        6.53E-02    4.908E-03    3.20E-04
+           K -L3 X-RAY                        1.28E-01    4.915E-03    6.31E-04
+           K -M2 X-RAY                        7.56E-03    5.389E-03    4.07E-05
+           K -M3 X-RAY                        1.49E-02    5.390E-03    8.04E-05
+           Free-Bound X-RAY                   6.85E+00    9.238E-06*   6.32E-05
+           AUGER KLL                          5.40E-01    4.344E-03*   2.35E-03
+           AUGER KLX                          1.27E-01    4.835E-03*   6.14E-04
+           AUGER KXY                          7.51E-03    5.329E-03*   4.00E-05
+           CK LLX                             3.07E-01    5.146E-05*   1.58E-05
+           AUGER LMM                          1.46E+00    4.354E-04*   6.36E-04
+           AUGER LMX                          3.03E-02    4.821E-04*   1.46E-05
+           CK MMX                             3.37E+00    2.997E-05*   1.01E-04
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    3.29E-02
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.06E-06
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.82E-03
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.51E-07
+           ALL LISTED RADIATIONS                                       3.67E-02
+           ALL NEGLECTED RADIATIONS**                                  2.21E-06
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 51-VANADIUM
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  51-CHROMIUM.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Feb-2001
+%%%%  51 CR  24    EC           2.39350E+06 27.7025 D  02-11-2005       OUTPEND 
+%%%%  51 CR  24    EC           2.39350E+06 27.7025 D  02-11-2005       SEEISTAR
+ 51.  CHROMIUM     24.  2.770E+01 DAYS      37 EC                    51.CR 24.   0
+ 1 1  9.92183E+00  3.20082E-01  3.20082E-01  0.00000E+00             51.CR 24.   1   1
+ 6 1  1.66249E-02  3.14643E-01  3.14643E-01  1.00000E+00             51.CR 24.   2   1
+ 6 5  1.49543E-03  3.19459E-01  3.19459E-01  1.00000E+00             51.CR 24.   3   5
+ 6 6  2.40106E-05  3.19551E-01  3.19551E-01  1.00000E+00             51.CR 24.   4   6
+ 6 7  2.33553E-05  3.19558E-01  3.19558E-01  1.00000E+00             51.CR 24.   5   7
+ 2 1  6.52591E+00  4.90772E-03  4.90772E-03  0.00000E+00             51.CR 24.   6   1
+ 2 2  1.28279E+01  4.91507E-03  4.91507E-03  0.00000E+00             51.CR 24.   7   2
+ 2 3  7.55519E-01  5.38895E-03  5.38895E-03  0.00000E+00             51.CR 24.   8   3
+ 2 4  1.49108E+00  5.38981E-03  5.38981E-03  0.00000E+00             51.CR 24.   9   4
+ 2 5  1.12615E-04  5.42999E-03  5.42999E-03  0.00000E+00             51.CR 24.  10   5
+ 2 6  1.65388E-04  5.43005E-03  5.43005E-03  0.00000E+00             51.CR 24.  11   6
+ 221  1.84539E-03  9.19100E-05  9.19100E-05  0.00000E+00             51.CR 24.  12  21
+ 222  6.19887E-03  9.92500E-05  9.92500E-05  0.00000E+00             51.CR 24.  13  22
+ 223  1.35855E-02  5.73141E-04  5.73141E-04  0.00000E+00             51.CR 24.  14  23
+ 224  1.98586E-02  5.74001E-04  5.74001E-04  0.00000E+00             51.CR 24.  15  24
+ 225  2.03050E-05  6.14177E-04  6.14177E-04  0.00000E+00             51.CR 24.  16  25
+ 226  2.97466E-05  6.14261E-04  6.14261E-04  0.00000E+00             51.CR 24.  17  26
+ 241  2.59548E-09  7.34000E-06  7.34000E-06  0.00000E+00             51.CR 24.  18  41
+ 242  1.23566E-01  4.55461E-04  4.55461E-04  0.00000E+00             51.CR 24.  19  42
+ 243  1.69504E-04  4.82089E-04  4.82089E-04  0.00000E+00             51.CR 24.  20  43
+ 244  1.46815E-02  5.22269E-04  5.22269E-04  0.00000E+00             51.CR 24.  21  44
+ 245  2.28337E-03  5.25250E-04  5.25250E-04  0.00000E+00             51.CR 24.  22  45
+ 261  2.29383E-01  4.48118E-04  4.48118E-04  0.00000E+00             51.CR 24.  23  61
+ 262  1.58564E-04  4.73890E-04  4.73890E-04  0.00000E+00             51.CR 24.  24  62
+ 263  1.55325E-04  4.74749E-04  4.74749E-04  0.00000E+00             51.CR 24.  25  63
+ 264  2.18152E-03  5.14932E-04  5.14932E-04  0.00000E+00             51.CR 24.  26  64
+ 265  2.53146E-02  5.15009E-04  5.15009E-04  0.00000E+00             51.CR 24.  27  65
+ 266  4.24098E-03  5.17911E-04  5.17911E-04  0.00000E+00             51.CR 24.  28  66
+ 291  3.22799E-04  2.94687E-05  2.94687E-05  0.00000E+00             51.CR 24.  29  91
+ 294  6.84578E+02  9.23841E-06  9.23841E-06  0.00000E+00             51.CR 24.  30  94
+ 7 1  5.39923E+01  4.34375E-03  4.34375E-03  0.00000E+00             51.CR 24.  31   1
+ 7 2  1.27076E+01  4.83456E-03  4.83456E-03  0.00000E+00             51.CR 24.  32   2
+ 7 3  7.50531E-01  5.32917E-03  5.32917E-03  0.00000E+00             51.CR 24.  33   3
+ 7 4  3.06928E+01  5.14571E-05  5.14571E-05  0.00000E+00             51.CR 24.  34   4
+ 7 5  1.46055E+02  4.35413E-04  4.35413E-04  0.00000E+00             51.CR 24.  35   5
+ 7 6  3.02626E+00  4.82072E-04  4.82072E-04  0.00000E+00             51.CR 24.  36   6
+ 7 8  3.37335E+02  2.99660E-05  2.99660E-05  0.00000E+00             51.CR 24.  37   8
+%%%%  51 CR  24    EC           2.39350E+06 27.7025 D  02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   3.17580E-02
+    X-ray                           (MeV) =   1.07392E-03
+    Free-bound X-ray                (MeV) =   6.32441E-05
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   7.15813E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   5.72378E-05
+    Auger and CK electron           (MeV) =   3.76706E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   7.52532E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   7.52730E-01
+  Ratio of E-total/Q-value          ( % ) =   9.99737E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   9.92183E-02
+    X-ray                                 =   2.20447E-01
+    Free-bound X-ray                      =   6.84578E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   1.81677E-04
+    Auger and CK electron                 =   5.84560E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

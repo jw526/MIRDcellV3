@@ -1,0 +1,58 @@
+ 159-DYSPROSIUM-66       HALFLIFE = 144.4 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      2   2.22E-02    5.800E-02    1.29E-03
+ K CONV. ELECTRON, GAMMA-RAY    2   2.03E-01    5.940E-03    1.21E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   2   2.71E-02    4.933E-02    1.34E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   2   4.45E-03    4.974E-02    2.21E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   2   2.84E-03    5.049E-02    1.43E-04
+ M CONV. ELECTRON, GAMMA-RAY    2   7.62E-03    5.640E-02*   4.30E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   2   2.12E-03    5.800E-02*   1.23E-04
+ K -L2 X-RAY                        2.70E-01    4.380E-02    1.18E-02
+ K -L3 X-RAY                        4.84E-01    4.455E-02    2.16E-02
+ K -M2 X-RAY                        4.95E-02    5.031E-02    2.49E-03
+ K -M3 X-RAY                        9.57E-02    5.046E-02    4.83E-03
+ K -M5 X-RAY                        1.03E-03    5.082E-02    5.24E-05
+ K -N2 X-RAY                        1.09E-02    5.174E-02    5.62E-04
+ K -N3 X-RAY                        2.11E-02    5.178E-02    1.09E-03
+ K -O2 X-RAY                        2.33E-03    5.203E-02    1.21E-04
+ K -O3 X-RAY                        4.82E-03    5.203E-02    2.51E-04
+ L1-M3 X-RAY                        7.35E-03    7.076E-03    5.20E-05
+ L2-M4 X-RAY                        5.35E-02    6.982E-03    3.74E-04
+ L2-N4 X-RAY                        9.35E-03    8.100E-03    7.58E-05
+ L3-M4 X-RAY                        9.18E-03    6.226E-03    5.71E-05
+ L3-M5 X-RAY                        8.11E-02    6.261E-03    5.08E-04
+ L3-N5 X-RAY                        1.37E-02    7.351E-03    1.01E-04
+ Free-Bound X-RAY                   1.10E+01    1.383E-05*   1.53E-04
+ AUGER KLL                          4.02E-02    3.589E-02*   1.44E-03
+ AUGER KLX                          2.00E-02    4.255E-02*   8.50E-04
+ AUGER KXY                          2.38E-03    4.921E-02*   1.17E-04
+ CK LLX                             1.72E-01    6.231E-04*   1.07E-04
+ AUGER LMM                          6.14E-01    4.959E-03*   3.05E-03
+ AUGER LMX                          2.15E-01    6.167E-03*   1.32E-03
+ AUGER LXY                          1.89E-02    7.411E-03*   1.40E-04
+ CK MMX                             8.05E-01    1.975E-04*   1.59E-04
+ AUGER MNN                          1.70E+00    9.612E-04*   1.63E-03
+ AUGER MNX                          9.68E-02    1.137E-03*   1.10E-04
+ CK NNX                             5.05E+00    1.220E-04*   6.15E-04
+ AUGER NXY                          3.11E-01    1.359E-04*   4.23E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.54E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.26E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.31E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.80E-05
+ ALL LISTED RADIATIONS                                       5.84E-02
+ ALL NEGLECTED RADIATIONS**                                  2.44E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 159-TERBIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 159-DYSPROSIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

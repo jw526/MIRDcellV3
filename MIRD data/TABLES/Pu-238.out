@@ -1,0 +1,75 @@
+ 238-PLUTONIUM-94        HALFLIFE = 87.7 YEARS   
+
+  MODES OF DECAY: ALPHA, SPONT. FISSION
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ ALPHA                         14   1.05E-03    5.358E+00    5.63E-03
+ RECOIL ATOM                        1.05E-03    9.165E-02    9.62E-05
+ ALPHA                         15   2.90E-01    5.456E+00    1.58E+00
+ RECOIL ATOM                        2.90E-01    9.333E-02    2.70E-02
+ ALPHA                         16   7.09E-01    5.499E+00    3.90E+00
+ RECOIL ATOM                        7.09E-01    9.406E-02    6.67E-02
+ GAMMA-RAY                      1   3.95E-04    4.350E-02    1.72E-05
+ L1 CONV. ELECTRON, GAMMA-RAY   1   3.72E-03    2.173E-02    8.09E-05
+ L2 CONV. ELECTRON, GAMMA-RAY   1   1.09E-01    2.245E-02    2.45E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   1   9.73E-02    2.632E-02    2.56E-03
+ M CONV. ELECTRON, GAMMA-RAY    1   5.81E-02    3.921E-02*   2.28E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   2.04E-02    4.350E-02*   8.89E-04
+ GAMMA-RAY                      3   7.35E-05    9.985E-02    7.34E-06
+ L2 CONV. ELECTRON, GAMMA-RAY   3   4.23E-04    7.881E-02    3.34E-05
+ L3 CONV. ELECTRON, GAMMA-RAY   3   2.89E-04    8.267E-02    2.39E-05
+ M CONV. ELECTRON, GAMMA-RAY    3   2.05E-04    9.556E-02*   1.96E-05
+ L1-M2 X-RAY                        2.01E-04    1.659E-02    3.34E-06
+ L1-M3 X-RAY                        1.75E-04    1.748E-02    3.06E-06
+ L2-M1 X-RAY                        1.11E-03    1.552E-02    1.72E-05
+ L2-M4 X-RAY                        3.94E-02    1.731E-02    6.83E-04
+ L2-N1 X-RAY                        3.01E-04    1.962E-02    5.91E-06
+ L2-N4 X-RAY                        8.93E-03    2.027E-02    1.81E-04
+ L2-O4 X-RAY                        1.73E-03    2.093E-02    3.62E-05
+ L3-M1 X-RAY                        2.69E-03    1.166E-02    3.14E-05
+ L3-M4 X-RAY                        4.38E-03    1.345E-02    5.90E-05
+ L3-M5 X-RAY                        3.85E-02    1.363E-02    5.25E-04
+ L3-N1 X-RAY                        6.79E-04    1.576E-02    1.07E-05
+ L3-N4 X-RAY                        8.82E-04    1.640E-02    1.45E-05
+ L3-N5 X-RAY                        8.08E-03    1.645E-02    1.33E-04
+ L3-O1 X-RAY                        1.72E-04    1.686E-02    2.91E-06
+ L3-O4 X-RAY                        1.67E-04    1.707E-02    2.85E-06
+ L3-O5 X-RAY                        1.53E-03    1.708E-02    2.61E-05
+ M X-RAY                            1.80E-02    3.259E-03    5.86E-05
+ Free-Bound X-RAY                   2.94E+00    7.552E-05    2.22E-04
+ CK LLX                             2.77E-02    1.192E-03*   3.30E-05
+ AUGER LMM                          6.46E-02    1.026E-02*   6.63E-04
+ AUGER LMX                          3.29E-02    1.359E-02*   4.46E-04
+ AUGER LXY                          3.94E-03    1.695E-02*   6.68E-05
+ CK MMX                             1.14E-01    5.382E-04*   6.14E-05
+ AUGER MNN                          2.56E-01    2.443E-03*   6.26E-04
+ AUGER MNX                          4.82E-02    2.916E-03*   1.41E-04
+ CK NNX                             4.46E-01    1.924E-04*   8.58E-05
+ AUGER NXY                          7.77E-01    1.862E-04*   1.45E-04
+ CK OOX                             7.93E-01    7.219E-05*   5.72E-05
+ SPONTANEOUS FISSION NEUTRON        4.11E-09    2.021E+00*   8.30E-09
+ SPONTANEOUS FISSION FRAGMENT       3.70E-09    8.841E+01*   3.27E-07
+ SPONT. FISSION PROMPT GAMMA        1.19E-08    9.549E-01*   1.14E-08
+ SPONT. FISSION DELAYED GAMMA       8.81E-09    9.578E-01*   8.44E-09
+ SPONTANEOUS FISSION BETA           8.81E-09    9.795E-01*   8.63E-09
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.04E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.34E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.07E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.23E-05
+ ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               5.58E+00
+ ALL NEGLECTED ALPHA PARTICLES AND  RECOIL NUCLEI**          1.65E-04
+ ALL LISTED RADIATIONS                                       5.59E+00
+ ALL NEGLECTED RADIATIONS**                                  2.00E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 234-URANIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 238-PLUTONIUM.
+   DECAY OF THIS 245500 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ SPON. FISSION BRANCHING IS 1.8500E-09 PER DECAY OF 238-PLUTONIUM.

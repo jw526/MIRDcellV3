@@ -1,0 +1,256 @@
+%%%%  57 CO  27    EC           2.34783E+07 271.74 D   02-11-2005       BALASTAR
+1  57   CO  27 271.74 D        EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              57-COBALT-27
++                                    HALFLIFE = 271.74 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  9.9863E+01
+   1.4413E-02  8.7776E+01  8.7594E+01  2.0797E-01                      
+   1.3647E-01  9.9842E+01  9.9887E+01  4.4693E-02                      
+   3.6689E-01  3.7061E-03  4.6083E-03  2.1701E+01  ********************
+   7.0676E-01  1.7405E-01  1.7357E-01  2.7318E-01                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  9.986E+01
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  1.375E-01                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  8.360E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  8.360E-01 MEV
+ PERCENT ERROR =  4.135E-03                      
+%%%%  57 CO  27    EC           2.34783E+07 271.74 D   02-11-2005       BALAEND 
+%%%%  57 CO  27    EC           2.34783E+07 271.74 D   02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              57-COBALT-27
++                                    HALFLIFE = 271.74 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.74E-03   1.292E-01   ALLOWED                                  
+           ELECT. CAPTURE   2   9.98E-01   6.995E-01   ALLOWED                                  
+           I.C.E. + GAMMA   1   8.76E-01   1.441E-02   M1+E2 MULTIPOLE                          
+                                                       MRS=4.97E-06  AK= 7.76                   
+                                                       AL1=0.740     AL2=0.0460                 
+                                                       AL3=0.0189                               
+           I.C.E. + GAMMA   2   8.76E-01   1.221E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=0.0144    AK= 0.0215                 
+                                                       AL1=0.00202                              
+           I.C.E. + GAMMA   3   1.23E-01   1.365E-01   E2 MULTIPOLE                             
++                                                                    AK= 0.134                  
+                                                       AL1=0.0120    AL3=0.00113                
+           I.C.E. + GAMMA   4   4.02E-06   2.304E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=0.000400  AK= 0.00377                
+           I.C.E. + GAMMA   5   3.71E-05   3.397E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=0.00689   AK= 0.00150                
+           I.C.E. + GAMMA   6   3.00E-05   3.523E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=0.000625  AK= 0.00136                
+           I.C.E. + GAMMA   7   1.20E-05   3.668E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=0.202     AK= 0.00161                
+           I.C.E. + GAMMA   8   1.58E-04   5.701E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=0.00941                              
+           I.C.E. + GAMMA   9   1.49E-03   6.924E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=0.216                                
+           I.C.E. + GAMMA  10   5.00E-05   7.065E-01   E2 MULTIPOLE                             
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Dec-1998
+%%%%  57 CO  27    EC           2.34783E+07 271.74 D   02-11-2005       INPUEND 
+%%%%  57 CO  27    EC           2.34783E+07 271.74 D   02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              57-COBALT-27
++                                    HALFLIFE = 271.74 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      1   9.16E-02    1.441E-02    1.32E-03
+           K CONV. ELECTRON, GAMMA-RAY    1   7.11E-01    7.330E-03    5.21E-03
+           L1 CONV. ELECTRON, GAMMA-RAY   1   6.78E-02    1.357E-02    9.20E-04
+           L2 CONV. ELECTRON, GAMMA-RAY   1   4.22E-03    1.368E-02    5.77E-05
+           L3 CONV. ELECTRON, GAMMA-RAY   1   1.73E-03    1.369E-02    2.37E-05
+           GAMMA-RAY                      2   8.56E-01    1.221E-01    1.04E-01
+           K CONV. ELECTRON, GAMMA-RAY    2   1.84E-02    1.150E-01    2.12E-03
+           L1 CONV. ELECTRON, GAMMA-RAY   2   1.73E-03    1.212E-01    2.10E-04
+           GAMMA-RAY                      3   1.07E-01    1.365E-01    1.46E-02
+           K CONV. ELECTRON, GAMMA-RAY    3   1.43E-02    1.294E-01    1.86E-03
+           L1 CONV. ELECTRON, GAMMA-RAY   3   1.28E-03    1.356E-01    1.74E-04
+           GAMMA-RAY                      9   1.49E-03    6.924E-01    1.03E-03
+           K -L2 X-RAY                        1.65E-01    6.350E-03    1.05E-03
+           K -L3 X-RAY                        3.24E-01    6.363E-03    2.06E-03
+           K -M2 X-RAY                        1.99E-02    7.015E-03    1.40E-04
+           K -M3 X-RAY                        3.91E-02    7.017E-03    2.75E-04
+           Free-Bound X-RAY                   1.05E+01    1.253E-05*   1.31E-04
+           AUGER KLL                          8.59E-01    5.582E-03*   4.79E-03
+           AUGER KLX                          2.10E-01    6.258E-03*   1.31E-03
+           AUGER KXY                          1.31E-02    6.938E-03*   9.09E-05
+           CK LLX                             4.91E-01    6.972E-05*   3.42E-05
+           AUGER LMM                          2.54E+00    6.267E-04*   1.59E-03
+           AUGER LMX                          3.43E-02    6.738E-04*   2.31E-05
+           CK MMX                             4.49E+00    4.006E-05*   1.80E-04
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.25E-01
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.63E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.86E-02
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  4.10E-05
+           ALL LISTED RADIATIONS                                       1.44E-01
+           ALL NEGLECTED RADIATIONS**                                  2.04E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 57-IRON
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  57-COBALT.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Dec-1998
+%%%%  57 CO  27    EC           2.34783E+07 271.74 D   02-11-2005       OUTPEND 
+%%%%  57 CO  27    EC           2.34783E+07 271.74 D   02-11-2005       SEEISTAR
+ 57.  COBALT       27.  2.717E+02 DAYS      82 EC                    57.CO 27.   0
+ 1 1  9.16000E+00  1.44129E-02  1.44129E-02  0.00000E+00             57.CO 27.   1   1
+ 6 1  7.10613E+01  7.32950E-03  7.32950E-03  1.00000E+00             57.CO 27.   2   1
+ 6 5  6.77757E+00  1.35699E-02  1.35699E-02  1.00000E+00             57.CO 27.   3   5
+ 6 6  4.21724E-01  1.36794E-02  1.36794E-02  1.00000E+00             57.CO 27.   4   6
+ 6 7  1.73056E-01  1.36922E-02  1.36922E-02  1.00000E+00             57.CO 27.   5   7
+ 1 2  8.56000E+01  1.22061E-01  1.22061E-01  0.00000E+00             57.CO 27.   6   2
+ 6 1  1.84048E+00  1.14977E-01  1.14977E-01  2.00000E+00             57.CO 27.   7   1
+ 6 5  1.73132E-01  1.21218E-01  1.21218E-01  2.00000E+00             57.CO 27.   8   5
+ 6 6  5.96038E-03  1.21327E-01  1.21327E-01  2.00000E+00             57.CO 27.   9   6
+ 6 7  4.39225E-03  1.21340E-01  1.21340E-01  2.00000E+00             57.CO 27.  10   7
+ 1 3  1.06800E+01  1.36474E-01  1.36474E-01  0.00000E+00             57.CO 27.  11   3
+ 6 1  1.43414E+00  1.29390E-01  1.29390E-01  3.00000E+00             57.CO 27.  12   1
+ 6 5  1.28108E-01  1.35631E-01  1.35631E-01  3.00000E+00             57.CO 27.  13   5
+ 6 6  8.53553E-03  1.35740E-01  1.35740E-01  3.00000E+00             57.CO 27.  14   6
+ 6 7  1.20557E-02  1.35753E-01  1.35753E-01  3.00000E+00             57.CO 27.  15   7
+ 1 4  4.00000E-04  2.30400E-01  2.30400E-01  0.00000E+00             57.CO 27.  16   4
+ 6 1  1.50826E-06  2.23317E-01  2.23317E-01  4.00000E+00             57.CO 27.  17   1
+ 6 5  1.42988E-07  2.29557E-01  2.29557E-01  4.00000E+00             57.CO 27.  18   5
+ 6 6  2.75625E-09  2.29666E-01  2.29666E-01  4.00000E+00             57.CO 27.  19   6
+ 6 7  1.38721E-09  2.29679E-01  2.29679E-01  4.00000E+00             57.CO 27.  20   7
+ 1 5  3.70000E-03  3.39690E-01  3.39690E-01  0.00000E+00             57.CO 27.  21   5
+ 6 1  5.56408E-06  3.32607E-01  3.32607E-01  5.00000E+00             57.CO 27.  22   1
+ 6 5  5.25667E-07  3.38847E-01  3.38847E-01  5.00000E+00             57.CO 27.  23   5
+ 6 6  7.86069E-09  3.38956E-01  3.38956E-01  5.00000E+00             57.CO 27.  24   6
+ 6 7  4.43990E-09  3.38969E-01  3.38969E-01  5.00000E+00             57.CO 27.  25   7
+ 1 6  3.00000E-03  3.52330E-01  3.52330E-01  0.00000E+00             57.CO 27.  26   6
+ 6 1  4.08904E-06  3.45247E-01  3.45247E-01  6.00000E+00             57.CO 27.  27   1
+ 6 5  3.86564E-07  3.51487E-01  3.51487E-01  6.00000E+00             57.CO 27.  28   5
+ 6 6  5.53557E-09  3.51596E-01  3.51596E-01  6.00000E+00             57.CO 27.  29   6
+ 6 7  3.02891E-09  3.51609E-01  3.51609E-01  6.00000E+00             57.CO 27.  30   7
+ 1 7  1.20000E-03  3.66800E-01  3.66800E-01  0.00000E+00             57.CO 27.  31   7
+ 6 1  1.93361E-06  3.59717E-01  3.59717E-01  7.00000E+00             57.CO 27.  32   1
+ 6 5  1.81518E-07  3.65957E-01  3.65957E-01  7.00000E+00             57.CO 27.  33   5
+ 6 6  3.30931E-09  3.66066E-01  3.66066E-01  7.00000E+00             57.CO 27.  34   6
+ 6 7  2.86929E-09  3.66079E-01  3.66079E-01  7.00000E+00             57.CO 27.  35   7
+ 1 8  1.58000E-02  5.70090E-01  5.70090E-01  0.00000E+00             57.CO 27.  36   8
+ 6 1  7.29063E-06  5.63007E-01  5.63007E-01  8.00000E+00             57.CO 27.  37   1
+ 6 5  6.89446E-07  5.69247E-01  5.69247E-01  8.00000E+00             57.CO 27.  38   5
+ 6 6  6.90983E-09  5.69357E-01  5.69357E-01  8.00000E+00             57.CO 27.  39   6
+ 6 7  4.43106E-09  5.69369E-01  5.69369E-01  8.00000E+00             57.CO 27.  40   7
+ 1 9  1.49000E-01  6.92410E-01  6.92410E-01  0.00000E+00             57.CO 27.  41   9
+ 6 1  4.92149E-05  6.85327E-01  6.85327E-01  9.00000E+00             57.CO 27.  42   1
+ 6 5  4.63749E-06  6.91567E-01  6.91567E-01  9.00000E+00             57.CO 27.  43   5
+ 6 6  4.56694E-08  6.91676E-01  6.91676E-01  9.00000E+00             57.CO 27.  44   6
+ 6 7  3.79702E-08  6.91689E-01  6.91689E-01  9.00000E+00             57.CO 27.  45   7
+ 110  5.00000E-03  7.06540E-01  7.06540E-01  0.00000E+00             57.CO 27.  46  10
+ 6 1  2.18701E-06  6.99457E-01  6.99457E-01  1.00000E+01             57.CO 27.  47   1
+ 6 5  2.04662E-07  7.05697E-01  7.05697E-01  1.00000E+01             57.CO 27.  48   5
+ 6 6  2.80327E-09  7.05806E-01  7.05806E-01  1.00000E+01             57.CO 27.  49   6
+ 6 7  3.13005E-09  7.05819E-01  7.05819E-01  1.00000E+01             57.CO 27.  50   7
+ 2 1  1.65281E+01  6.34985E-03  6.34985E-03  0.00000E+00             57.CO 27.  51   1
+ 2 2  3.23779E+01  6.36272E-03  6.36272E-03  0.00000E+00             57.CO 27.  52   2
+ 2 3  1.99058E+00  7.01536E-03  7.01536E-03  0.00000E+00             57.CO 27.  53   3
+ 2 4  3.91301E+00  7.01694E-03  7.01694E-03  0.00000E+00             57.CO 27.  54   4
+ 2 5  9.79376E-04  7.07049E-03  7.07049E-03  0.00000E+00             57.CO 27.  55   5
+ 2 6  1.43000E-03  7.07066E-03  7.07066E-03  0.00000E+00             57.CO 27.  56   6
+ 221  1.70339E-03  1.09410E-04  1.09410E-04  0.00000E+00             57.CO 27.  57  21
+ 222  6.66683E-03  1.22270E-04  1.22270E-04  0.00000E+00             57.CO 27.  58  22
+ 223  3.16438E-02  7.74918E-04  7.74918E-04  0.00000E+00             57.CO 27.  59  23
+ 224  4.69778E-02  7.76510E-04  7.76510E-04  0.00000E+00             57.CO 27.  60  24
+ 225  9.61382E-05  8.30051E-04  8.30051E-04  0.00000E+00             57.CO 27.  61  25
+ 226  1.30578E-04  8.30220E-04  8.30220E-04  0.00000E+00             57.CO 27.  62  26
+ 241  1.68738E-08  1.28600E-05  1.28600E-05  0.00000E+00             57.CO 27.  63  41
+ 242  3.32802E-01  6.32537E-04  6.32537E-04  0.00000E+00             57.CO 27.  64  42
+ 243  7.56747E-04  6.67099E-04  6.67099E-04  0.00000E+00             57.CO 27.  65  43
+ 244  1.15558E-01  7.20640E-04  7.20640E-04  0.00000E+00             57.CO 27.  66  44
+ 245  6.81964E-03  7.26019E-04  7.26019E-04  0.00000E+00             57.CO 27.  67  45
+ 261  6.25807E-01  6.19680E-04  6.19680E-04  0.00000E+00             57.CO 27.  68  61
+ 262  7.60091E-04  6.52649E-04  6.52649E-04  0.00000E+00             57.CO 27.  69  62
+ 263  7.40848E-04  6.54240E-04  6.54240E-04  0.00000E+00             57.CO 27.  70  63
+ 264  1.91414E-02  7.07777E-04  7.07777E-04  0.00000E+00             57.CO 27.  71  64
+ 265  2.13934E-01  7.07953E-04  7.07953E-04  0.00000E+00             57.CO 27.  72  65
+ 266  1.28103E-02  7.13160E-04  7.13160E-04  0.00000E+00             57.CO 27.  73  66
+ 291  2.33176E-03  4.73414E-05  4.73414E-05  0.00000E+00             57.CO 27.  74  91
+ 294  1.04617E+03  1.25321E-05  1.25321E-05  0.00000E+00             57.CO 27.  75  94
+ 7 1  8.58795E+01  5.58186E-03  5.58186E-03  0.00000E+00             57.CO 27.  76   1
+ 7 2  2.10125E+01  6.25798E-03  6.25798E-03  0.00000E+00             57.CO 27.  77   2
+ 7 3  1.30958E+00  6.93818E-03  6.93818E-03  0.00000E+00             57.CO 27.  78   3
+ 7 4  4.90757E+01  6.97184E-05  6.97184E-05  0.00000E+00             57.CO 27.  79   4
+ 7 5  2.54269E+02  6.26716E-04  6.26716E-04  0.00000E+00             57.CO 27.  80   5
+ 7 6  3.42844E+00  6.73760E-04  6.73760E-04  0.00000E+00             57.CO 27.  81   6
+ 7 8  4.49158E+02  4.00631E-05  4.00631E-05  0.00000E+00             57.CO 27.  82   8
+%%%%  57 CO  27    EC           2.34783E+07 271.74 D   02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   1.21565E-01
+    X-ray                           (MeV) =   3.53326E-03
+    Free-bound X-ray                (MeV) =   1.31108E-04
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   6.91423E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   1.06059E-02
+    Auger and CK electron           (MeV) =   8.03030E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   8.35289E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   8.36000E-01
+  Ratio of E-total/Q-value          ( % ) =   9.99150E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   1.05618E+00
+    X-ray                                 =   5.62307E-01
+    Free-bound X-ray                      =   1.04617E+01
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   8.20405E-01
+    Auger and CK electron                 =   8.64133E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

@@ -1,0 +1,157 @@
+%%%%  37 AR  18    EC           3.02746E+06    35.04 D 02-11-2005       BALASTAR
+1  37   AR  18    35.04 D      EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              37-ARGON-18
++                                    HALFLIFE = 35.04 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  8.135E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  8.135E-01 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%%  37 AR  18    EC           3.02746E+06    35.04 D 02-11-2005       BALAEND 
+%%%%  37 AR  18    EC           3.02746E+06    35.04 D 02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              37-ARGON-18
++                                    HALFLIFE = 35.04 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.00E+00   8.135E-01   ALLOWED                                  
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Mar-2001
+%%%%  37 AR  18    EC           3.02746E+06    35.04 D 02-11-2005       INPUEND 
+%%%%  37 AR  18    EC           3.02746E+06    35.04 D 02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              37-ARGON-18
++                                    HALFLIFE = 35.04 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           K -L2 X-RAY                        2.69E-02    2.595E-03    6.99E-05
+           K -L3 X-RAY                        5.33E-02    2.597E-03    1.38E-04
+           K -M2 X-RAY                        1.72E-03    2.792E-03    4.79E-06
+           K -M3 X-RAY                        3.40E-03    2.793E-03    9.49E-06
+           L1-L2 X-RAY                        5.53E-05    5.857E-05    3.24E-09
+           L1-L3 X-RAY                        1.42E-04    6.035E-05    8.55E-09
+           L1-M2 X-RAY                        2.42E-05    2.556E-04    6.17E-09
+           L1-M3 X-RAY                        3.91E-05    2.558E-04    9.99E-09
+           L2-L3 X-RAY                        4.02E-13    1.780E-06    7.16E-19
+           L2-M1 X-RAY                        2.02E-04    1.846E-04    3.73E-08
+           L2-M3 X-RAY                        5.62E-08    1.972E-04    1.11E-11
+           L3-M1 X-RAY                        3.73E-04    1.829E-04    6.82E-08
+           L3-M2 X-RAY                        5.15E-08    1.953E-04    1.01E-11
+           L3-M3 X-RAY                        5.06E-08    1.954E-04    9.89E-12
+           Free-Bound X-RAY                   3.89E+00    1.488E-05*   5.79E-05
+           AUGER KLL                          7.03E-01    2.363E-03*   1.66E-03
+           AUGER KLX                          1.07E-01    2.566E-03*   2.74E-04
+           AUGER KXY                          4.08E-03    2.772E-03*   1.13E-05
+           CK LLX                             4.03E-01    4.058E-05*   1.63E-05
+           AUGER LMM                          1.68E+00    1.802E-04*   3.03E-04
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.81E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.27E-03
+           ALL LISTED RADIATIONS                                       2.55E-03
+ 
+           *  AVERAGE ENERGY (MEV)
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 37-CHLORINE
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  37-ARGON.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Mar-2001
+%%%%  37 AR  18    EC           3.02746E+06    35.04 D 02-11-2005       OUTPEND 
+%%%%  37 AR  18    EC           3.02746E+06    35.04 D 02-11-2005       SEEISTAR
+ 37.  ARGON        18.  3.504E+01 DAYS      20 EC                    37.AR 18.   0
+ 2 1  2.69429E+00  2.59542E-03  2.59542E-03  0.00000E+00             37.AR 18.   1   1
+ 2 2  5.32931E+00  2.59720E-03  2.59720E-03  0.00000E+00             37.AR 18.   2   2
+ 2 3  1.71705E-01  2.79248E-03  2.79248E-03  0.00000E+00             37.AR 18.   3   3
+ 2 4  3.39866E-01  2.79262E-03  2.79262E-03  0.00000E+00             37.AR 18.   4   4
+ 221  5.52929E-03  5.85700E-05  5.85700E-05  0.00000E+00             37.AR 18.   5  21
+ 222  1.41619E-02  6.03499E-05  6.03499E-05  0.00000E+00             37.AR 18.   6  22
+ 223  2.41504E-03  2.55630E-04  2.55630E-04  0.00000E+00             37.AR 18.   7  23
+ 224  3.90779E-03  2.55760E-04  2.55760E-04  0.00000E+00             37.AR 18.   8  24
+ 241  4.02224E-11  1.78000E-06  1.78000E-06  0.00000E+00             37.AR 18.   9  41
+ 242  2.02090E-02  1.84640E-04  1.84640E-04  0.00000E+00             37.AR 18.  10  42
+ 243  5.62461E-06  1.97191E-04  1.97191E-04  0.00000E+00             37.AR 18.  11  43
+ 261  3.72946E-02  1.82860E-04  1.82860E-04  0.00000E+00             37.AR 18.  12  61
+ 262  5.14810E-06  1.95280E-04  1.95280E-04  0.00000E+00             37.AR 18.  13  62
+ 263  5.06112E-06  1.95410E-04  1.95410E-04  0.00000E+00             37.AR 18.  14  63
+ 294  3.88764E+02  1.48818E-05  1.48818E-05  0.00000E+00             37.AR 18.  15  94
+ 7 1  7.03298E+01  2.36258E-03  2.36258E-03  0.00000E+00             37.AR 18.  16   1
+ 7 2  1.06953E+01  2.56578E-03  2.56578E-03  0.00000E+00             37.AR 18.  17   2
+ 7 3  4.07585E-01  2.77191E-03  2.77191E-03  0.00000E+00             37.AR 18.  18   3
+ 7 4  4.02825E+01  4.05815E-05  4.05815E-05  0.00000E+00             37.AR 18.  19   4
+ 7 5  1.68198E+02  1.80166E-04  1.80166E-04  0.00000E+00             37.AR 18.  20   5
+%%%%  37 AR  18    EC           3.02746E+06    35.04 D 02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   2.22761E-04
+    Free-bound X-ray                (MeV) =   5.78550E-05
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   8.10613E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   2.26670E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   8.13160E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   8.13500E-01
+  Ratio of E-total/Q-value          ( % ) =   9.99582E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   8.61871E-02
+    Free-bound X-ray                      =   3.88764E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   2.89913E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

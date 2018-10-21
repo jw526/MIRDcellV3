@@ -1,0 +1,50 @@
+ 140-LANTHANUM-57        HALFLIFE = 1.6781 DAYS    
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     8   6.47E-03    4.388E-01*   2.84E-03
+ BETA MINUS                     9   1.12E-01    4.418E-01*   4.95E-02
+ BETA MINUS                    10   5.84E-02    4.442E-01*   2.59E-02
+ BETA MINUS                    11   1.10E-02    4.588E-01*   5.04E-03
+ BETA MINUS                    12   5.60E-02    4.659E-01*   2.61E-02
+ BETA MINUS                    13   4.52E-01    4.880E-01*   2.21E-01
+ BETA MINUS                    14   3.70E-03    5.192E-01*   1.92E-03
+ BETA MINUS                    15   5.07E-02    5.154E-01*   2.61E-02
+ BETA MINUS                    16   1.97E-01    6.301E-01*   1.24E-01
+ BETA MINUS                    18   4.93E-02    8.468E-01*   4.18E-02
+ GAMMA-RAY                     10   2.03E-01    3.288E-01    6.68E-02
+ K CONV. ELECTRON, GAMMA-RAY   10   8.06E-03    2.883E-01    2.32E-03
+ GAMMA-RAY                     12   2.90E-02    4.325E-01    1.25E-02
+ GAMMA-RAY                     15   4.55E-01    4.870E-01    2.22E-01
+ K CONV. ELECTRON, GAMMA-RAY   15   4.41E-03    4.466E-01    1.97E-03
+ GAMMA-RAY                     17   4.33E-02    7.516E-01    3.26E-02
+ GAMMA-RAY                     18   2.33E-01    8.158E-01    1.90E-01
+ K CONV. ELECTRON, GAMMA-RAY   18   9.65E-04    7.753E-01    7.48E-04
+ GAMMA-RAY                     19   5.50E-02    8.678E-01    4.78E-02
+ GAMMA-RAY                     20   2.66E-02    9.196E-01    2.45E-02
+ GAMMA-RAY                     21   6.90E-02    9.252E-01    6.38E-02
+ GAMMA-RAY                     22   5.19E-03    9.510E-01    4.94E-03
+ GAMMA-RAY                     28   9.54E-01    1.596E+00    1.52E+00
+ K CONV. ELECTRON, GAMMA-RAY   28   6.52E-04    1.556E+00    1.01E-03
+ GAMMA-RAY                     33   8.49E-03    2.348E+00    1.99E-02
+ GAMMA-RAY                     35   3.46E-02    2.521E+00    8.73E-02
+ GAMMA-RAY                     36   1.01E-03    2.547E+00    2.58E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.30E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.14E-02
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.30E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  4.39E-03
+ ALL LISTED RADIATIONS                                       2.83E+00
+ ALL NEGLECTED RADIATIONS**                                  1.57E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 140-CERIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 140-LANTHANUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

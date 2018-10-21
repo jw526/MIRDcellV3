@@ -1,0 +1,67 @@
+ 211-ASTATINE-85         HALFLIFE = 7.214 HOURS   
+
+  MODES OF DECAY: ELECTRON CAPTURE, ALPHA
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   2.61E-03    6.870E-01    1.79E-03
+ K CONV. ELECTRON, GAMMA-RAY    1   1.22E-04    5.936E-01    7.22E-05
+ L1 CONV. ELECTRON, GAMMA-RAY   1   1.89E-05    6.701E-01    1.26E-05
+ K -L2 X-RAY                        1.17E-01    7.713E-02    8.99E-03
+ K -L3 X-RAY                        1.94E-01    7.961E-02    1.54E-02
+ K -M2 X-RAY                        2.18E-02    8.958E-02    1.95E-03
+ K -M3 X-RAY                        4.23E-02    9.014E-02    3.81E-03
+ K -M4 X-RAY                        6.26E-04    9.062E-02    5.67E-05
+ K -M5 X-RAY                        7.49E-04    9.074E-02    6.80E-05
+ K -N2 X-RAY                        5.25E-03    9.258E-02    4.86E-04
+ K -N3 X-RAY                        1.04E-02    9.272E-02    9.61E-04
+ K -O2 X-RAY                        1.23E-03    9.329E-02    1.15E-04
+ K -O3 X-RAY                        2.37E-03    9.332E-02    2.21E-04
+ L1-M2 X-RAY                        4.65E-03    1.308E-02    6.09E-05
+ L1-M3 X-RAY                        4.88E-03    1.364E-02    6.66E-05
+ L2-M4 X-RAY                        4.74E-02    1.349E-02    6.39E-04
+ L2-N4 X-RAY                        9.89E-03    1.580E-02    1.56E-04
+ L3-M1 X-RAY                        5.15E-03    9.689E-03    4.99E-05
+ L3-M4 X-RAY                        9.00E-03    1.101E-02    9.91E-05
+ L3-M5 X-RAY                        7.92E-02    1.113E-02    8.82E-04
+ L3-N5 X-RAY                        1.55E-02    1.335E-02    2.07E-04
+ M X-RAY                            3.01E-02    2.542E-03    7.65E-05
+ Free-Bound X-RAY                   7.11E+00    3.841E-05    2.73E-04
+ AUGER KLL                          9.45E-03    6.188E-02*   5.85E-04
+ AUGER KLX                          5.22E-03    7.462E-02*   3.89E-04
+ AUGER KXY                          6.96E-04    8.737E-02*   6.08E-05
+ CK LLX                             1.11E-01    1.036E-03*   1.15E-04
+ AUGER LMM                          1.82E-01    8.456E-03*   1.54E-03
+ AUGER LMX                          8.30E-02    1.101E-02*   9.14E-04
+ AUGER LXY                          9.04E-03    1.359E-02*   1.23E-04
+ CK MMX                             2.80E-01    4.361E-04*   1.22E-04
+ AUGER MNN                          6.45E-01    2.014E-03*   1.30E-03
+ AUGER MNX                          8.87E-02    2.307E-03*   2.05E-04
+ AUGER MXY                          4.62E-03    2.737E-03*   1.26E-05
+ CK NNX                             1.19E+00    1.748E-04*   2.08E-04
+ AUGER NXY                          2.21E+00    9.730E-05*   2.15E-04
+ CK OOX                             1.70E+00    3.945E-05*   6.71E-05
+ ALPHA                          4   4.18E-01    5.867E+00    2.45E+00
+ RECOIL ATOM                        4.18E-01    1.134E-01    4.74E-02
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    3.64E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.75E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.94E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  7.67E-06
+ ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               2.50E+00
+ ALL NEGLECTED ALPHA PARTICLES AND  RECOIL NUCLEI**          2.63E-04
+ ALL LISTED RADIATIONS                                       2.54E+00
+ ALL NEGLECTED RADIATIONS**                                  5.45E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 211-POLONIUM
+   DAUGHTER IS 5.8200E-01 PER TRANSFORMATION OF 211-ASTATINE.
+   DECAY OF THIS 0.516 SECONDS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 207-BISMUTH
+   DAUGHTER IS 4.1800E-01 PER TRANSFORMATION OF 211-ASTATINE.
+   DECAY OF THIS 32.9 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

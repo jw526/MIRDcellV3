@@ -1,0 +1,51 @@
+ 123-TELLURIUM-52        HALFLIFE = 0.6E+15 YEARS   
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ K -L2 X-RAY                        3.63E-04    2.609E-02    9.46E-06
+ K -L3 X-RAY                        6.77E-04    2.635E-02    1.78E-05
+ K -M2 X-RAY                        6.17E-05    2.967E-02    1.83E-06
+ K -M3 X-RAY                        1.20E-04    2.972E-02    3.56E-06
+ K -N2 X-RAY                        1.27E-05    3.036E-02    3.86E-07
+ K -N3 X-RAY                        2.49E-05    3.037E-02    7.56E-07
+ L1-M2 X-RAY                        3.31E-04    3.865E-03    1.28E-06
+ L1-M3 X-RAY                        5.34E-04    3.912E-03    2.09E-06
+ L1-N3 X-RAY                        1.09E-04    4.566E-03    4.99E-07
+ L2-M4 X-RAY                        4.14E-04    3.838E-03    1.59E-06
+ L3-M1 X-RAY                        4.47E-03    3.202E-03    1.43E-05
+ L3-M4 X-RAY                        4.15E-03    3.583E-03    1.49E-05
+ L3-M5 X-RAY                        3.68E-02    3.593E-03    1.32E-04
+ L3-N1 X-RAY                        3.47E-04    3.972E-03    1.38E-06
+ L3-N4 X-RAY                        5.22E-04    4.089E-03    2.14E-06
+ L3-N5 X-RAY                        4.64E-03    4.090E-03    1.90E-05
+ M X-RAY                            2.70E-03    4.983E-04*   1.35E-06
+ Free-Bound X-RAY                   1.07E+01    1.224E-05*   1.31E-04
+ AUGER KLL                          1.26E-04    2.179E-02*   2.76E-06
+ CK LLX                             1.58E-02    3.369E-04*   5.34E-06
+ AUGER LMM                          4.98E-01    2.882E-03*   1.44E-03
+ AUGER LMX                          1.33E-01    3.429E-03*   4.58E-04
+ AUGER LXY                          9.08E-03    3.994E-03*   3.63E-05
+ CK MMX                             5.89E-01    1.192E-04*   7.02E-05
+ AUGER MNN                          1.39E+00    4.209E-04*   5.85E-04
+ AUGER MNX                          4.18E-02    5.005E-04*   2.09E-05
+ CK NNX                             1.76E+00    2.719E-05*   4.79E-05
+ AUGER NXY                          5.29E+00    1.683E-05*   8.90E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    3.56E-04
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.14E-06
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.75E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.62E-06
+ ALL LISTED RADIATIONS                                       3.11E-03
+ ALL NEGLECTED RADIATIONS**                                  2.76E-06
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 123-ANTIMONY
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 123-TELLURIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

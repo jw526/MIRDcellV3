@@ -1,0 +1,210 @@
+%%%% 109 AG  47 M  IT           3.96000E+01 39.6 S     02-11-2005       BALASTAR
+1 109M  AG  47 39.6 S          IT         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              109M-SILVER-47
++                                    HALFLIFE = 39.6 SECONDS 
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+   8.8034E-02  1.0000E+02  1.0000E+02  0.0000E+00                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  8.803E-02 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  8.803E-02 MEV
+ PERCENT ERROR =  5.755E-04                      
+%%%% 109 AG  47 M  IT           3.96000E+01 39.6 S     02-11-2005       BALAEND 
+%%%% 109 AG  47 M  IT           3.96000E+01 39.6 S     02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              109M-SILVER-47
++                                    HALFLIFE = 39.6 SECONDS 
++                                                                  02-11-2005
+
+            MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           I.C.E. + GAMMA   1   1.00E+00   8.803E-02   E3 MULTIPOLE                             
++                                                                    AK= 11.4                   
+                                                       AL1=0.903     AL2=5.33                   
+                                                       AL3=6.20      AM= 2.56                   
+                                                       AN+=0.443                                
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: May-1999
+%%%% 109 AG  47 M  IT           3.96000E+01 39.6 S     02-11-2005       INPUEND 
+%%%% 109 AG  47 M  IT           3.96000E+01 39.6 S     02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              109M-SILVER-47
++                                    HALFLIFE = 39.6 SECONDS 
++                                                                  02-11-2005
+
+            MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      1   3.59E-02    8.803E-02    3.16E-03
+           K CONV. ELECTRON, GAMMA-RAY    1   4.09E-01    6.254E-02    2.56E-02
+           L1 CONV. ELECTRON, GAMMA-RAY   1   3.25E-02    8.425E-02    2.73E-03
+           L2 CONV. ELECTRON, GAMMA-RAY   1   1.92E-01    8.451E-02    1.62E-02
+           L3 CONV. ELECTRON, GAMMA-RAY   1   2.23E-01    8.468E-02    1.89E-02
+           M CONV. ELECTRON, GAMMA-RAY    1   9.21E-02    8.747E-02*   8.06E-03
+           N+ CONV. ELECTRON, GAMMA-RAY   1   1.59E-02    8.803E-02*   1.40E-03
+           K -L2 X-RAY                        9.81E-02    2.196E-02    2.15E-03
+           K -L3 X-RAY                        1.85E-01    2.214E-02    4.09E-03
+           K -M2 X-RAY                        1.61E-02    2.489E-02    4.01E-04
+           K -M3 X-RAY                        3.13E-02    2.492E-02    7.81E-04
+           K -N2 X-RAY                        3.28E-03    2.542E-02    8.33E-05
+           K -N3 X-RAY                        6.34E-03    2.543E-02    1.61E-04
+           L2-M4 X-RAY                        1.52E-02    3.145E-03    4.77E-05
+           L3-M5 X-RAY                        2.32E-02    2.973E-03    6.90E-05
+           Free-Bound X-RAY                   6.72E+00    1.208E-05*   8.12E-05
+           AUGER KLL                          4.74E-02    1.847E-02*   8.76E-04
+           AUGER KLX                          1.92E-02    2.146E-02*   4.11E-04
+           AUGER LMM                          6.46E-01    2.497E-03*   1.61E-03
+           AUGER LMX                          1.40E-01    2.904E-03*   4.06E-04
+           CK MMX                             6.89E-01    1.286E-04*   8.87E-05
+           AUGER MNN                          1.66E+00    3.189E-04*   5.29E-04
+           CK NNX                             2.44E+00    3.790E-05*   9.26E-05
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.10E-02
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.45E-05
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   7.69E-02
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  8.88E-05
+           ALL LISTED RADIATIONS                                       8.79E-02
+           ALL NEGLECTED RADIATIONS**                                  1.33E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 109-SILVER
+             DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF 109M-SILVER.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: May-1999
+%%%% 109 AG  47 M  IT           3.96000E+01 39.6 S     02-11-2005       OUTPEND 
+%%%% 109 AG  47 M  IT           3.96000E+01 39.6 S     02-11-2005       SEEISTAR
+109.M SILVER       47.  3.960E+01 SECONDS   60 IT                   109.AG 47.   0
+ 1 1  3.59460E+00  8.80336E-02  8.80336E-02  0.00000E+00            109.AG 47.   1   1
+ 6 1  4.08801E+01  6.25446E-02  6.25446E-02  1.00000E+00            109.AG 47.   2   1
+ 6 5  3.24540E+00  8.42502E-02  8.42502E-02  1.00000E+00            109.AG 47.   3   5
+ 6 6  1.91751E+01  8.45055E-02  8.45055E-02  1.00000E+00            109.AG 47.   4   6
+ 6 7  2.22976E+01  8.46836E-02  8.46836E-02  1.00000E+00            109.AG 47.   5   7
+ 6 3  9.21298E+00  8.74651E-02  8.74651E-02  1.00000E+00            109.AG 47.   6   3
+ 6 4  1.59420E+00  8.80336E-02  8.80336E-02  1.00000E+00            109.AG 47.   7   4
+ 2 1  9.81164E+00  2.19609E-02  2.19609E-02  0.00000E+00            109.AG 47.   8   1
+ 2 2  1.84889E+01  2.21389E-02  2.21389E-02  0.00000E+00            109.AG 47.   9   2
+ 2 3  1.61211E+00  2.48888E-02  2.48888E-02  0.00000E+00            109.AG 47.  10   3
+ 2 4  3.13253E+00  2.49204E-02  2.49204E-02  0.00000E+00            109.AG 47.  11   4
+ 2 5  1.08962E-02  2.51060E-02  2.51060E-02  0.00000E+00            109.AG 47.  12   5
+ 2 6  1.52041E-02  2.51124E-02  2.51124E-02  0.00000E+00            109.AG 47.  13   6
+ 2 7  3.27700E-01  2.54206E-02  2.54206E-02  0.00000E+00            109.AG 47.  14   7
+ 2 8  6.33683E-01  2.54258E-02  2.54258E-02  0.00000E+00            109.AG 47.  15   8
+ 2 9  1.22779E-03  2.54765E-02  2.54765E-02  0.00000E+00            109.AG 47.  16   9
+ 210  1.69227E-03  2.54771E-02  2.54771E-02  0.00000E+00            109.AG 47.  17  10
+ 221  1.03909E-04  2.55300E-04  2.55300E-04  0.00000E+00            109.AG 47.  18  21
+ 222  8.88505E-04  4.33400E-04  4.33400E-04  0.00000E+00            109.AG 47.  19  22
+ 223  2.86867E-02  3.18321E-03  3.18321E-03  0.00000E+00            109.AG 47.  20  23
+ 224  4.77358E-02  3.21487E-03  3.21487E-03  0.00000E+00            109.AG 47.  21  24
+ 225  3.17053E-04  3.40041E-03  3.40041E-03  0.00000E+00            109.AG 47.  22  25
+ 226  4.72930E-04  3.40685E-03  3.40685E-03  0.00000E+00            109.AG 47.  23  26
+ 227  5.12961E-03  3.71498E-03  3.71498E-03  0.00000E+00            109.AG 47.  24  27
+ 228  8.61975E-03  3.72025E-03  3.72025E-03  0.00000E+00            109.AG 47.  25  28
+ 229  2.53014E-05  3.77093E-03  3.77093E-03  0.00000E+00            109.AG 47.  26  29
+ 230  3.77431E-05  3.77154E-03  3.77154E-03  0.00000E+00            109.AG 47.  27  30
+ 241  5.02667E-07  1.78100E-04  1.78100E-04  0.00000E+00            109.AG 47.  28  41
+ 242  1.12136E-01  2.82430E-03  2.82430E-03  0.00000E+00            109.AG 47.  29  42
+ 243  1.32884E-03  2.95956E-03  2.95956E-03  0.00000E+00            109.AG 47.  30  43
+ 244  1.51737E+00  3.14510E-03  3.14510E-03  0.00000E+00            109.AG 47.  31  44
+ 245  1.18165E-02  3.42650E-03  3.42650E-03  0.00000E+00            109.AG 47.  32  45
+ 246  8.75572E-05  3.46496E-03  3.46496E-03  0.00000E+00            109.AG 47.  33  46
+ 247  1.41831E-01  3.51563E-03  3.51563E-03  0.00000E+00            109.AG 47.  34  47
+ 249  2.80235E-04  3.52121E-03  3.52121E-03  0.00000E+00            109.AG 47.  35  49
+ 261  3.22040E-01  2.64620E-03  2.64620E-03  0.00000E+00            109.AG 47.  36  61
+ 262  1.53816E-03  2.74981E-03  2.74981E-03  0.00000E+00            109.AG 47.  37  62
+ 263  1.44805E-03  2.78147E-03  2.78147E-03  0.00000E+00            109.AG 47.  38  63
+ 264  2.61662E-01  2.96701E-03  2.96701E-03  0.00000E+00            109.AG 47.  39  64
+ 265  2.32104E+00  2.97344E-03  2.97344E-03  0.00000E+00            109.AG 47.  40  65
+ 266  2.09080E-02  3.24839E-03  3.24839E-03  0.00000E+00            109.AG 47.  41  66
+ 267  7.62061E-05  3.28159E-03  3.28159E-03  0.00000E+00            109.AG 47.  42  67
+ 268  7.25085E-05  3.28686E-03  3.28686E-03  0.00000E+00            109.AG 47.  43  68
+ 269  2.40665E-02  3.33753E-03  3.33753E-03  0.00000E+00            109.AG 47.  44  69
+ 270  2.12078E-01  3.33814E-03  3.33814E-03  0.00000E+00            109.AG 47.  45  70
+ 273  5.94888E-04  3.34311E-03  3.34311E-03  0.00000E+00            109.AG 47.  46  73
+ 291  1.63688E-01  3.67203E-04  3.67203E-04  0.00000E+00            109.AG 47.  47  91
+ 292  3.12098E-03  4.74335E-05  4.74335E-05  0.00000E+00            109.AG 47.  48  92
+ 294  6.72460E+02  1.20804E-05  1.20804E-05  0.00000E+00            109.AG 47.  49  94
+ 7 1  4.74218E+00  1.84717E-02  1.84717E-02  0.00000E+00            109.AG 47.  50   1
+ 7 2  1.91607E+00  2.14605E-02  2.14605E-02  0.00000E+00            109.AG 47.  51   2
+ 7 3  1.86324E-01  2.44523E-02  2.44523E-02  0.00000E+00            109.AG 47.  52   3
+ 7 4  9.91098E+00  1.34434E-04  1.34434E-04  0.00000E+00            109.AG 47.  53   4
+ 7 5  6.45829E+01  2.49661E-03  2.49661E-03  0.00000E+00            109.AG 47.  54   5
+ 7 6  1.39901E+01  2.90377E-03  2.90377E-03  0.00000E+00            109.AG 47.  55   6
+ 7 7  8.04689E-01  3.32874E-03  3.32874E-03  0.00000E+00            109.AG 47.  56   7
+ 7 8  6.89474E+01  1.28632E-04  1.28632E-04  0.00000E+00            109.AG 47.  57   8
+ 7 9  1.65893E+02  3.18856E-04  3.18856E-04  0.00000E+00            109.AG 47.  58   9
+ 710  8.56071E-01  3.69237E-04  3.69237E-04  0.00000E+00            109.AG 47.  59  10
+ 712  2.44243E+02  3.78952E-05  3.78952E-05  0.00000E+00            109.AG 47.  60  12
+%%%% 109 AG  47 M  IT           3.96000E+01 39.6 S     02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   3.16446E-03
+    X-ray                           (MeV) =   7.83546E-03
+    Free-bound X-ray                (MeV) =   8.12357E-05
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   7.28506E-02
+    Auger and CK electron           (MeV) =   4.10482E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   8.80365E-02
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   8.80341E-02
+  Ratio of E-total/Q-value          ( % ) =   1.00003E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   3.59460E-02
+    X-ray                                 =   3.92448E-01
+    Free-bound X-ray                      =   6.72460E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   9.64054E-01
+    Auger and CK electron                 =   5.76073E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

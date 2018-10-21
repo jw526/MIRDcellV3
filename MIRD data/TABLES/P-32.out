@@ -1,0 +1,18 @@
+ 32-PHOSPHORUS-15        HALFLIFE = 14.263 DAYS    
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   1.00E+00    6.948E-01*   6.95E-01
+ 
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   6.95E-01
+ ALL LISTED RADIATIONS                                       6.95E-01
+ 
+ *  AVERAGE ENERGY (MEV)
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 32-SULPHUR
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  32-PHOSPHORUS.
+   THIS DAUGHTER GROUND STATE IS STABLE.

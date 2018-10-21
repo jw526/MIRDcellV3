@@ -1,0 +1,46 @@
+ 92-TECHNETIUM-43        HALFLIFE = 4.25 MINUTES 
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      1   4.22E-03    6.126E-01*   2.59E-03
+ BETA PLUS                      2   1.64E-02    8.596E-01*   1.41E-02
+ BETA PLUS                      3   9.31E-01    1.873E+00*   1.74E+00
+ ANNIHILATION RADIATION             1.90E+00    5.110E-01    9.73E-01
+ GAMMA-RAY                      1   1.21E-01    8.500E-02    1.03E-02
+ GAMMA-RAY                      2   7.10E-01    1.480E-01    1.05E-01
+ K CONV. ELECTRON, GAMMA-RAY    2   1.74E-01    1.280E-01    2.23E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   2   1.68E-02    1.452E-01    2.44E-03
+ GAMMA-RAY                      3   1.33E-01    2.437E-01    3.24E-02
+ GAMMA-RAY                      4   7.99E-01    3.293E-01    2.63E-01
+ K CONV. ELECTRON, GAMMA-RAY    4   1.23E-02    3.093E-01    3.80E-03
+ GAMMA-RAY                      5   1.00E+00    7.730E-01    7.73E-01
+ GAMMA-RAY                      6   1.01E+00    1.510E+00    1.52E+00
+ GAMMA-RAY                     10   1.20E-02    2.157E+00    2.59E-02
+ GAMMA-RAY                     11   9.20E-03    2.306E+00    2.12E-02
+ GAMMA-RAY                     13   3.00E-03    2.645E+00    7.94E-03
+ GAMMA-RAY                     14   4.40E-03    2.702E+00    1.19E-02
+ GAMMA-RAY                     15   4.00E-03    2.850E+00    1.14E-02
+ GAMMA-RAY                     17   1.60E-03    2.900E+00    4.64E-03
+ GAMMA-RAY                     18   5.40E-03    3.023E+00    1.63E-02
+ GAMMA-RAY                     19   4.80E-03    3.129E+00    1.50E-02
+ GAMMA-RAY                     20   1.20E-03    3.218E+00    3.86E-03
+ GAMMA-RAY                     21   1.70E-03    4.028E+00    6.85E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    3.81E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.13E-02
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.79E+00
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  8.41E-03
+ ALL LISTED RADIATIONS                                       5.60E+00
+ ALL NEGLECTED RADIATIONS**                                  2.97E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 92-MOLYBDENUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  92-TECHNETIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

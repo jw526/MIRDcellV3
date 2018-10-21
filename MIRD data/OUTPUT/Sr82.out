@@ -1,0 +1,184 @@
+%%%%  82 SR  38    EC           2.19110E+06 25.36 D    02-11-2005       BALASTAR
+1  82   SR  38 25.36 D         EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              82-STRONTIUM-38
++                                    HALFLIFE = 25.36 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  1.800E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  1.800E-01 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%%  82 SR  38    EC           2.19110E+06 25.36 D    02-11-2005       BALAEND 
+%%%%  82 SR  38    EC           2.19110E+06 25.36 D    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              82-STRONTIUM-38
++                                    HALFLIFE = 25.36 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.00E+00   1.800E-01   ALLOWED                                  
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Dec-1995
+%%%%  82 SR  38    EC           2.19110E+06 25.36 D    02-11-2005       INPUEND 
+%%%%  82 SR  38    EC           2.19110E+06 25.36 D    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              82-STRONTIUM-38
++                                    HALFLIFE = 25.36 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           K -L2 X-RAY                        1.67E-01    1.329E-02    2.22E-03
+           K -L3 X-RAY                        3.22E-01    1.335E-02    4.30E-03
+           K -M2 X-RAY                        2.40E-02    1.491E-02    3.58E-04
+           K -M3 X-RAY                        4.68E-02    1.492E-02    6.98E-04
+           K -N2 X-RAY                        2.61E-03    1.514E-02    3.96E-05
+           K -N3 X-RAY                        5.04E-03    1.514E-02    7.63E-05
+           L2-M4 X-RAY                        6.93E-03    1.748E-03    1.21E-05
+           L3-M5 X-RAY                        1.33E-02    1.688E-03    2.25E-05
+           Free-Bound X-RAY                   9.00E+00    1.528E-05*   1.38E-04
+           AUGER KLL                          2.13E-01    1.140E-02*   2.43E-03
+           AUGER KLX                          7.00E-02    1.305E-02*   9.14E-04
+           AUGER KXY                          5.61E-03    1.470E-02*   8.25E-05
+           CK LLX                             2.25E-01    1.075E-04*   2.42E-05
+           AUGER LMM                          9.93E-01    1.490E-03*   1.48E-03
+           AUGER LMX                          8.06E-02    1.612E-03*   1.30E-04
+           CK MMX                             1.07E+00    7.353E-05*   7.85E-05
+           AUGER MNN                          2.64E+00    6.503E-05*   1.72E-04
+           CK NNX                             2.64E+00    1.260E-05*   3.33E-05
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    7.87E-03
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.36E-05
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.35E-03
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  9.03E-06
+           ALL LISTED RADIATIONS                                       1.32E-02
+           ALL NEGLECTED RADIATIONS**                                  2.26E-05
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 82-RUBIDIUM
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  82-STRONTIUM.
+             DECAY OF THIS 1.273 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Dec-1995
+%%%%  82 SR  38    EC           2.19110E+06 25.36 D    02-11-2005       OUTPEND 
+%%%%  82 SR  38    EC           2.19110E+06 25.36 D    02-11-2005       SEEISTAR
+ 82.  STRONTIUM    38.  2.536E+01 DAYS      44 EC                    82.SR 38.   0
+ 2 1  1.67391E+01  1.32919E-02  1.32919E-02  0.00000E+00             82.SR 38.   1   1
+ 2 2  3.22028E+01  1.33539E-02  1.33539E-02  0.00000E+00             82.SR 38.   2   2
+ 2 3  2.40000E+00  1.49123E-02  1.49123E-02  0.00000E+00             82.SR 38.   3   3
+ 2 4  4.67838E+00  1.49217E-02  1.49217E-02  0.00000E+00             82.SR 38.   4   4
+ 2 5  7.70985E-03  1.50398E-02  1.50398E-02  0.00000E+00             82.SR 38.   5   5
+ 2 6  1.10251E-02  1.50414E-02  1.50414E-02  0.00000E+00             82.SR 38.   6   6
+ 2 7  2.61486E-01  1.51383E-02  1.51383E-02  0.00000E+00             82.SR 38.   7   7
+ 2 8  5.03912E-01  1.51392E-02  1.51392E-02  0.00000E+00             82.SR 38.   8   8
+ 221  3.31878E-04  1.80900E-04  1.80900E-04  0.00000E+00             82.SR 38.   9  21
+ 222  1.95245E-03  2.42900E-04  2.42900E-04  0.00000E+00             82.SR 38.  10  22
+ 223  2.82763E-02  1.80131E-03  1.80131E-03  0.00000E+00             82.SR 38.  11  23
+ 224  5.00287E-02  1.81071E-03  1.81071E-03  0.00000E+00             82.SR 38.  12  24
+ 225  1.78774E-04  1.92881E-03  1.92881E-03  0.00000E+00             82.SR 38.  13  25
+ 226  2.66057E-04  1.93043E-03  1.93043E-03  0.00000E+00             82.SR 38.  14  26
+ 227  3.15126E-03  2.02727E-03  2.02727E-03  0.00000E+00             82.SR 38.  15  27
+ 228  5.59278E-03  2.02825E-03  2.02825E-03  0.00000E+00             82.SR 38.  16  28
+ 241  7.38522E-08  6.20000E-05  6.20000E-05  0.00000E+00             82.SR 38.  17  41
+ 242  1.13693E-01  1.55392E-03  1.55392E-03  0.00000E+00             82.SR 38.  18  42
+ 243  8.48724E-04  1.62981E-03  1.62981E-03  0.00000E+00             82.SR 38.  19  43
+ 244  6.92881E-01  1.74790E-03  1.74790E-03  0.00000E+00             82.SR 38.  20  44
+ 245  6.12905E-03  1.83038E-03  1.83038E-03  0.00000E+00             82.SR 38.  21  45
+ 246  1.71658E-05  1.84735E-03  1.84735E-03  0.00000E+00             82.SR 38.  22  46
+ 261  3.06725E-01  1.49192E-03  1.49192E-03  0.00000E+00             82.SR 38.  23  61
+ 262  1.08374E-03  1.55841E-03  1.55841E-03  0.00000E+00             82.SR 38.  24  62
+ 263  1.03246E-03  1.56780E-03  1.56780E-03  0.00000E+00             82.SR 38.  25  63
+ 264  1.40947E-01  1.68590E-03  1.68590E-03  0.00000E+00             82.SR 38.  26  64
+ 265  1.33345E+00  1.68753E-03  1.68753E-03  0.00000E+00             82.SR 38.  27  65
+ 266  1.20571E-02  1.76838E-03  1.76838E-03  0.00000E+00             82.SR 38.  28  66
+ 267  1.79329E-05  1.78437E-03  1.78437E-03  0.00000E+00             82.SR 38.  29  67
+ 268  1.71391E-05  1.78535E-03  1.78535E-03  0.00000E+00             82.SR 38.  30  68
+ 291  2.82051E-02  1.36054E-04  1.36054E-04  0.00000E+00             82.SR 38.  31  91
+ 292  3.09063E-04  1.66827E-05  1.66827E-05  0.00000E+00             82.SR 38.  32  92
+ 294  9.00246E+02  1.52761E-05  1.52761E-05  0.00000E+00             82.SR 38.  33  94
+ 7 1  2.13375E+01  1.14024E-02  1.14024E-02  0.00000E+00             82.SR 38.  34   1
+ 7 2  7.00262E+00  1.30522E-02  1.30522E-02  0.00000E+00             82.SR 38.  35   2
+ 7 3  5.61117E-01  1.47045E-02  1.47045E-02  0.00000E+00             82.SR 38.  36   3
+ 7 4  2.24733E+01  1.07514E-04  1.07514E-04  0.00000E+00             82.SR 38.  37   4
+ 7 5  9.93430E+01  1.49002E-03  1.49002E-03  0.00000E+00             82.SR 38.  38   5
+ 7 6  8.05505E+00  1.61204E-03  1.61204E-03  0.00000E+00             82.SR 38.  39   6
+ 7 7  2.61404E-01  1.79201E-03  1.79201E-03  0.00000E+00             82.SR 38.  40   7
+ 7 8  1.06749E+02  7.35295E-05  7.35295E-05  0.00000E+00             82.SR 38.  41   8
+ 7 9  2.64413E+02  6.50274E-05  6.50274E-05  0.00000E+00             82.SR 38.  42   9
+ 710  4.71172E+00  9.23238E-05  9.23238E-05  0.00000E+00             82.SR 38.  43  10
+ 712  2.63976E+02  1.26043E-05  1.26043E-05  0.00000E+00             82.SR 38.  44  12
+%%%%  82 SR  38    EC           2.19110E+06 25.36 D    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   7.74530E-03
+    Free-bound X-ray                (MeV) =   1.37522E-04
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   1.65964E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   5.35649E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   1.79203E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   1.80000E-01
+  Ratio of E-total/Q-value          ( % ) =   9.95573E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   5.95316E-01
+    Free-bound X-ray                      =   9.00246E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   7.98883E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

@@ -1,0 +1,162 @@
+%%%%  63 NI  28    B-           3.15892E+09 100.1 Y    02-11-2005       BALASTAR
+1  63   NI  28 100.1 Y         B-         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              63-NICKEL-28
++                                    HALFLIFE = 100.1 YEARS   
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  6.695E-02 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  6.695E-02 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%%  63 NI  28    B-           3.15892E+09 100.1 Y    02-11-2005       BALAEND 
+%%%%  63 NI  28    B-           3.15892E+09 100.1 Y    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              63-NICKEL-28
++                                    HALFLIFE = 100.1 YEARS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: BETA MINUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+               BETA MINUS   1   1.00E+00   6.695E-02*  ALLOWED                                  
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Mar-2001
+%%%%  63 NI  28    B-           3.15892E+09 100.1 Y    02-11-2005       INPUEND 
+%%%%  63 NI  28    B-           3.15892E+09 100.1 Y    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              63-NICKEL-28
++                                    HALFLIFE = 100.1 YEARS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: BETA MINUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           BETA MINUS                     1   1.00E+00    1.742E-02*   1.74E-02
+ 
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.74E-02
+           ALL LISTED RADIATIONS                                       1.74E-02
+ 
+           *  AVERAGE ENERGY (MEV)
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 63-COPPER
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  63-NICKEL.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Mar-2001
+%%%%  63 NI  28    B-           3.15892E+09 100.1 Y    02-11-2005       OUTPEND 
+%%%%  63 NI  28    B-           3.15892E+09 100.1 Y    02-11-2005       BETASTAR
+1
+              63-NICKEL-28
++                                    HALFLIFE = 100.1 YEARS   
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   4.222E+01      0.00085   4.123E+01      0.00800   3.347E+01
+            0.00010   4.210E+01      0.00090   4.117E+01      0.00850   3.296E+01
+            0.00011   4.209E+01      0.00100   4.105E+01      0.00900   3.246E+01
+            0.00012   4.208E+01      0.00110   4.093E+01      0.01000   3.146E+01
+            0.00013   4.207E+01      0.00120   4.082E+01      0.01100   3.047E+01
+            0.00014   4.206E+01      0.00130   4.070E+01      0.01200   2.950E+01
+            0.00015   4.205E+01      0.00140   4.059E+01      0.01300   2.854E+01
+            0.00016   4.203E+01      0.00150   4.047E+01      0.01400   2.760E+01
+            0.00018   4.201E+01      0.00160   4.036E+01      0.01500   2.666E+01
+            0.00020   4.199E+01      0.00180   4.012E+01      0.01600   2.575E+01
+            0.00022   4.196E+01      0.00200   3.989E+01      0.01800   2.395E+01
+            0.00024   4.194E+01      0.00220   3.966E+01      0.02000   2.221E+01
+            0.00026   4.192E+01      0.00240   3.944E+01      0.02200   2.053E+01
+            0.00028   4.189E+01      0.00260   3.921E+01      0.02400   1.890E+01
+            0.00030   4.187E+01      0.00280   3.898E+01      0.02600   1.733E+01
+            0.00032   4.185E+01      0.00300   3.875E+01      0.02800   1.581E+01
+            0.00036   4.180E+01      0.00320   3.852E+01      0.03000   1.435E+01
+            0.00040   4.175E+01      0.00360   3.807E+01      0.03200   1.295E+01
+            0.00045   4.169E+01      0.00400   3.764E+01      0.03600   1.034E+01
+            0.00050   4.164E+01      0.00450   3.711E+01      0.04000   7.979E+00
+            0.00055   4.158E+01      0.00500   3.658E+01      0.04500   5.411E+00
+            0.00060   4.152E+01      0.00550   3.606E+01      0.05000   3.299E+00
+            0.00065   4.146E+01      0.00600   3.553E+01      0.05500   1.676E+00
+            0.00070   4.140E+01      0.00650   3.501E+01      0.06000   5.791E-01
+            0.00075   4.134E+01      0.00700   3.450E+01      0.06500   4.642E-02
+            0.00080   4.128E+01      0.00750   3.398E+01      0.06695   0.000E+00
+
+            AVERAGE BETA ENERGY =   1.742E-02
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   1.000E+00
+%%%%  63 NI  28    B-           3.15892E+09 100.1 Y    02-11-2005       BETAEND 
+%%%%  63 NI  28    B-           3.15892E+09 100.1 Y    02-11-2005       SEEISTAR
+ 63.  NICKEL       28.  1.001E+02 YEARS      1 B-                    63.NI 28.   0
+ 5 1  1.00000E+02  1.74220E-02  6.69450E-02  0.00000E+00             63.NI 28.   1   1
+%%%%  63 NI  28    B-           3.15892E+09 100.1 Y    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   0.00000E+00
+    Free-bound X-ray                (MeV) =   0.00000E+00
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   1.74220E-02
+    Neutrino-                       (MeV) =   4.95230E-02
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   0.00000E+00
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   6.69450E-02
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   6.69450E-02
+  Ratio of E-total/Q-value          ( % ) =   1.00000E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   0.00000E+00
+    Free-bound X-ray                      =   0.00000E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   1.00000E+00
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   0.00000E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

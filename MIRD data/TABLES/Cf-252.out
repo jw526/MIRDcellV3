@@ -1,0 +1,77 @@
+ 252-CALIFORNIUM-98      HALFLIFE = 2.645 YEARS   
+
+  MODES OF DECAY: ALPHA, SPONT. FISSION
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ ALPHA                          3   2.32E-03    5.977E+00    1.39E-02
+ RECOIL ATOM                        2.32E-03    9.646E-02    2.24E-04
+ ALPHA                          4   1.52E-01    6.075E+00    9.23E-01
+ RECOIL ATOM                        1.52E-01    9.805E-02    1.49E-02
+ ALPHA                          5   8.15E-01    6.118E+00    4.99E+00
+ RECOIL ATOM                        8.15E-01    9.874E-02    8.05E-02
+ GAMMA-RAY                      1   1.48E-04    4.340E-02    6.43E-06
+ L1 CONV. ELECTRON, GAMMA-RAY   1   2.23E-03    1.884E-02    4.20E-05
+ L2 CONV. ELECTRON, GAMMA-RAY   1   5.85E-02    1.962E-02    1.15E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   1   4.95E-02    2.440E-02    1.21E-03
+ M CONV. ELECTRON, GAMMA-RAY    1   3.07E-02    3.857E-02*   1.18E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.14E-02    4.340E-02*   4.97E-04
+ GAMMA-RAY                      2   1.26E-04    1.002E-01    1.26E-05
+ L2 CONV. ELECTRON, GAMMA-RAY   2   1.01E-03    7.642E-02    7.75E-05
+ L3 CONV. ELECTRON, GAMMA-RAY   2   6.44E-04    8.121E-02    5.23E-05
+ M CONV. ELECTRON, GAMMA-RAY    2   4.82E-04    9.537E-02*   4.59E-05
+ N+ CONV. ELECTRON, GAMMA-RAY   2   1.81E-04    1.002E-01*   1.81E-05
+ L1-M2 X-RAY                        1.52E-04    1.861E-02    2.82E-06
+ L1-M3 X-RAY                        1.17E-04    1.972E-02    2.31E-06
+ L2-M1 X-RAY                        6.66E-04    1.746E-02    1.16E-05
+ L2-M4 X-RAY                        2.32E-02    1.954E-02    4.54E-04
+ L2-N1 X-RAY                        1.84E-04    2.211E-02    4.07E-06
+ L2-N4 X-RAY                        5.45E-03    2.286E-02    1.25E-04
+ L2-O4 X-RAY                        1.13E-03    2.364E-02    2.68E-05
+ L3-M1 X-RAY                        1.54E-03    1.268E-02    1.96E-05
+ L3-M4 X-RAY                        2.38E-03    1.476E-02    3.51E-05
+ L3-M5 X-RAY                        2.09E-02    1.498E-02    3.13E-04
+ L3-N1 X-RAY                        3.97E-04    1.733E-02    6.88E-06
+ L3-N4 X-RAY                        4.89E-04    1.807E-02    8.84E-06
+ L3-N5 X-RAY                        4.50E-03    1.813E-02    8.16E-05
+ L3-O1 X-RAY                        1.05E-04    1.861E-02    1.95E-06
+ L3-O4 X-RAY                        9.87E-05    1.886E-02    1.86E-06
+ L3-O5 X-RAY                        9.09E-04    1.887E-02    1.72E-05
+ M X-RAY                            1.06E-02    3.661E-03    3.86E-05
+ Free-Bound X-RAY                   1.49E+00    7.765E-05    1.16E-04
+ CK LLX                             1.36E-02    1.796E-03*   2.44E-05
+ AUGER LMM                          3.09E-02    1.129E-02*   3.49E-04
+ AUGER LMX                          1.64E-02    1.506E-02*   2.47E-04
+ AUGER LXY                          2.04E-03    1.888E-02*   3.84E-05
+ CK MMX                             6.48E-02    6.012E-04*   3.90E-05
+ AUGER MNN                          1.27E-01    2.678E-03*   3.40E-04
+ AUGER MNX                          2.81E-02    3.273E-03*   9.20E-05
+ AUGER MXY                          1.77E-03    3.982E-03*   7.05E-06
+ CK NNX                             2.26E-01    1.906E-04*   4.32E-05
+ AUGER NXY                          3.92E-01    2.797E-04*   1.10E-04
+ CK OOX                             4.23E-01    9.711E-05*   4.11E-05
+ SPONTANEOUS FISSION NEUTRON        1.16E-01    2.306E+00*   2.68E-01
+ SPONTANEOUS FISSION FRAGMENT       6.18E-02    9.404E+01*   5.82E+00
+ SPONT. FISSION PROMPT GAMMA        2.51E-01    8.581E-01*   2.15E-01
+ SPONT. FISSION DELAYED GAMMA       2.51E-01    9.578E-01*   2.41E-01
+ SPONTANEOUS FISSION BETA           1.92E-01    1.280E+00*   2.46E-01
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.29E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     9.72E-06
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.60E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  6.61E-06
+ ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               6.02E+00
+ ALL NEGLECTED ALPHA PARTICLES AND  RECOIL NUCLEI**          1.18E-04
+ ALL LISTED RADIATIONS                                       1.26E+01
+ ALL NEGLECTED RADIATIONS**                                  1.34E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 248-CURIUM
+   DAUGHTER IS 9.6908E-01 PER TRANSFORMATION OF 252-CALIFORNIUM.
+   DECAY OF THIS 348000 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ SPON. FISSION BRANCHING IS 3.0920E-02 PER DECAY OF 252-CALIFORNIUM.

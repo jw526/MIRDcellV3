@@ -1,0 +1,32 @@
+#include "c:\pbcc40\winapi\resource.h"
+
+// Windows 95 does NOT display icons FOR CONSOLE applications IN Explorer.
+RADTABS ICON MIRD.ICO
+MESSAGE BITMAP PATIENT.BMP
+bell bitmap FreedomBell.bmp
+cover bitmap Mird1.bmp
+
+// Version information
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1, 0, 0, 0
+PRODUCTVERSION 1, 0, 0, 0
+FILEOS VOS_WINDOWS32
+FILETYPE VFT_APP
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName",      "K.F. Eckerman\0"
+      VALUE "FileDescription",  "Application\0"
+      VALUE "FileVersion",      "Version 2.2\0"
+      VALUE "InternalName",     "RADTABS\0"
+      VALUE "OriginalFilename", "RADTABS.EXE\0"
+      VALUE "LegalCopyright",   " Portions © Copyright 2002 Perfect Sync, Inc\0"
+      VALUE "LegalTrademarks",  " \0"
+      VALUE "ProductName",      "RADTABS\0"
+      VALUE "ProductVersion",   "Version 2.2\0"
+      VALUE "Comments",         "MIRD Monograph\0"
+    END
+  END
+END

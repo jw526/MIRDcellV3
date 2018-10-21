@@ -1,0 +1,196 @@
+%%%% 218 AT  85    A  B-        1.50000E+00   1.5 S    02-11-2005       BALASTAR
+1 218   AT  85   1.5 S         A  B-      
+1INTENSITY AND ENERGY BALANCE DATA
+
+              218-ASTATINE-85
++                                    HALFLIFE = 1.5 SECONDS 
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  3.5964E+00
+   6.2700E-02  8.9910E+01  0.0000E+00  2.0000E+02  ********************
+   1.0300E-01  6.3936E+00  0.0000E+00  2.0000E+02  ********************
+   0.0000E+00  1.0000E-01
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  3.696E+00
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  2.605E+03  ********************
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  6.870E+00 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  6.807E+00 MEV
+ PERCENT ERROR =  9.249E-01                      
+%%%% 218 AT  85    A  B-        1.50000E+00   1.5 S    02-11-2005       BALAEND 
+%%%% 218 AT  85    A  B-        1.50000E+00   1.5 S    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              218-ASTATINE-85
++                                    HALFLIFE = 1.5 SECONDS 
++                                                                  02-11-2005
+
+            MODES OF DECAY: ALPHA, BETA MINUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+                    ALPHA   1   6.39E-02   6.771E+00                                            
+                    ALPHA   2   8.99E-01   6.811E+00                                            
+                    ALPHA   3   3.60E-02   6.874E+00                                            
+               BETA MINUS   1   1.00E-03   2.883E+00*  FIRST FORBIDDEN                          
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Jan-1996
+%%%% 218 AT  85    A  B-        1.50000E+00   1.5 S    02-11-2005       INPUEND 
+%%%% 218 AT  85    A  B-        1.50000E+00   1.5 S    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              218-ASTATINE-85
++                                    HALFLIFE = 1.5 SECONDS 
++                                                                  02-11-2005
+
+            MODES OF DECAY: ALPHA, BETA MINUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           ALPHA                          1   6.39E-02    6.647E+00    4.25E-01
+           RECOIL ATOM                        6.39E-02    1.243E-01    7.95E-03
+           ALPHA                          2   8.99E-01    6.686E+00    6.01E+00
+           RECOIL ATOM                        8.99E-01    1.251E-01    1.12E-01
+           ALPHA                          3   3.60E-02    6.748E+00    2.43E-01
+           RECOIL ATOM                        3.60E-02    1.262E-01    4.54E-03
+           BETA MINUS                     1   1.00E-03    1.095E+00*   1.10E-03
+ 
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.10E-03
+           ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               6.80E+00
+           ALL LISTED RADIATIONS                                       6.81E+00
+ 
+           *  AVERAGE ENERGY (MEV)
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 214-BISMUTH
+             DAUGHTER IS 9.9900E-01 PER TRANSFORMATION OF 218-ASTATINE.
+             DECAY OF THIS 19.9 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 218-RADON
+             DAUGHTER IS 1.0000E-03 PER TRANSFORMATION OF 218-ASTATINE.
+             DECAY OF THIS 0.35E-01 SECONDS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Jan-1996
+%%%% 218 AT  85    A  B-        1.50000E+00   1.5 S    02-11-2005       OUTPEND 
+%%%% 218 AT  85    A  B-        1.50000E+00   1.5 S    02-11-2005       BETASTAR
+1
+              218-ASTATINE-85
++                                    HALFLIFE = 1.5 SECONDS 
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   2.644E-04      0.00300   2.654E-04      0.10000   3.171E-04
+            0.00010   2.644E-04      0.00320   2.655E-04      0.11000   3.226E-04
+            0.00011   2.644E-04      0.00360   2.656E-04      0.12000   3.280E-04
+            0.00012   2.644E-04      0.00400   2.658E-04      0.13000   3.334E-04
+            0.00013   2.644E-04      0.00450   2.659E-04      0.14000   3.387E-04
+            0.00014   2.644E-04      0.00500   2.661E-04      0.15000   3.440E-04
+            0.00015   2.644E-04      0.00550   2.663E-04      0.16000   3.492E-04
+            0.00016   2.644E-04      0.00600   2.665E-04      0.18000   3.596E-04
+            0.00018   2.644E-04      0.00650   2.666E-04      0.20000   3.698E-04
+            0.00020   2.644E-04      0.00700   2.668E-04      0.22000   3.798E-04
+            0.00022   2.645E-04      0.00750   2.670E-04      0.24000   3.896E-04
+            0.00024   2.645E-04      0.00800   2.671E-04      0.26000   3.992E-04
+            0.00026   2.645E-04      0.00850   2.673E-04      0.28000   4.086E-04
+            0.00028   2.645E-04      0.00900   2.675E-04      0.30000   4.177E-04
+            0.00030   2.645E-04      0.01000   2.678E-04      0.32000   4.267E-04
+            0.00032   2.645E-04      0.01100   2.682E-04      0.36000   4.438E-04
+            0.00036   2.645E-04      0.01200   2.685E-04      0.40000   4.600E-04
+            0.00040   2.645E-04      0.01300   2.688E-04      0.45000   4.787E-04
+            0.00045   2.645E-04      0.01400   2.692E-04      0.50000   4.957E-04
+            0.00050   2.645E-04      0.01500   2.695E-04      0.55000   5.109E-04
+            0.00055   2.646E-04      0.01600   2.699E-04      0.60000   5.243E-04
+            0.00060   2.646E-04      0.01800   2.710E-04      0.65000   5.358E-04
+            0.00065   2.646E-04      0.02000   2.722E-04      0.70000   5.455E-04
+            0.00070   2.646E-04      0.02200   2.733E-04      0.75000   5.533E-04
+            0.00075   2.646E-04      0.02400   2.745E-04      0.80000   5.593E-04
+            0.00080   2.647E-04      0.02600   2.756E-04      0.85000   5.633E-04
+            0.00085   2.647E-04      0.02800   2.768E-04      0.90000   5.656E-04
+            0.00090   2.647E-04      0.03000   2.779E-04      1.00000   5.646E-04
+            0.00100   2.647E-04      0.03200   2.791E-04      1.10000   5.565E-04
+            0.00110   2.648E-04      0.03600   2.814E-04      1.20000   5.419E-04
+            0.00120   2.648E-04      0.04000   2.836E-04      1.30000   5.211E-04
+            0.00130   2.648E-04      0.04500   2.865E-04      1.40000   4.948E-04
+            0.00140   2.649E-04      0.05000   2.893E-04      1.50000   4.635E-04
+            0.00150   2.649E-04      0.05500   2.922E-04      1.60000   4.280E-04
+            0.00160   2.649E-04      0.06000   2.950E-04      1.80000   3.474E-04
+            0.00180   2.650E-04      0.06500   2.978E-04      2.00000   2.600E-04
+            0.00200   2.651E-04      0.07000   3.006E-04      2.20000   1.734E-04
+            0.00220   2.651E-04      0.07500   3.034E-04      2.40000   9.585E-05
+            0.00240   2.652E-04      0.08000   3.061E-04      2.60000   3.609E-05
+            0.00260   2.653E-04      0.08500   3.089E-04      2.80000   3.383E-06
+            0.00280   2.653E-04      0.09000   3.117E-04      2.88300   0.000E+00
+
+            AVERAGE BETA ENERGY =   1.095E+00
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   1.000E-03
+%%%% 218 AT  85    A  B-        1.50000E+00   1.5 S    02-11-2005       BETAEND 
+%%%% 218 AT  85    A  B-        1.50000E+00   1.5 S    02-11-2005       SEEISTAR
+218.  ASTATINE     85.  1.500E+00 SECONDS    4 A  B-                218.AT 85.   0
+ 8 1  6.39360E+00  6.64668E+00  1.24318E-01  0.00000E+00            218.AT 85.   1   1
+ 8 2  8.99100E+01  6.68624E+00  1.25058E-01  0.00000E+00            218.AT 85.   2   2
+ 8 3  3.59640E+00  6.74779E+00  1.26209E-01  0.00000E+00            218.AT 85.   3   3
+ 5 1  1.00000E-01  1.09548E+00  2.88300E+00  0.00000E+00            218.AT 85.   4   1
+%%%% 218 AT  85    A  B-        1.50000E+00   1.5 S    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   0.00000E+00
+    Free-bound X-ray                (MeV) =   0.00000E+00
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   1.09548E-03
+    Neutrino-                       (MeV) =   1.78752E-03
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   0.00000E+00
+    Alpha particle                  (MeV) =   6.67924E+00
+    Recoil nucleus                  (MeV) =   1.24927E-01
+  E-total (except unplaced radiat.) (MeV) =   6.80705E+00
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   6.87001E+00
+  Ratio of E-total/Q-value          ( % ) =   9.90836E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   0.00000E+00
+    Free-bound X-ray                      =   0.00000E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   1.00000E-03
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   0.00000E+00
+    Alpha particle                        =   9.99000E-01
+  Yield of unplaced radiation             =   0.00000E+00
+
+

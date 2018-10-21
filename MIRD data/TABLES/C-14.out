@@ -1,0 +1,18 @@
+ 14-CARBON-6             HALFLIFE = 5700 YEARS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   1.00E+00    4.945E-02*   4.95E-02
+ 
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.95E-02
+ ALL LISTED RADIATIONS                                       4.95E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 14-NITROGEN
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  14-CARBON.
+   THIS DAUGHTER GROUND STATE IS STABLE.

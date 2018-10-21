@@ -1,0 +1,40 @@
+ 34-CHLORINE-17          HALFLIFE = 1.5264 SECONDS 
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      1   9.99E-01    2.052E+00*   2.05E+00
+ ANNIHILATION RADIATION             2.00E+00    5.110E-01    1.02E+00
+ K -L2 X-RAY                        1.77E-05    2.283E-03    4.04E-08
+ K -L3 X-RAY                        3.50E-05    2.285E-03    8.01E-08
+ K -M2 X-RAY                        8.26E-07    2.446E-03    2.02E-09
+ K -M3 X-RAY                        1.64E-06    2.446E-03    4.00E-09
+ L1-L2 X-RAY                        4.43E-08    5.324E-05    2.36E-12
+ L1-L3 X-RAY                        1.09E-07    5.457E-05    5.92E-12
+ L1-M2 X-RAY                        1.04E-08    2.156E-04    2.24E-12
+ L1-M3 X-RAY                        1.75E-08    2.157E-04    3.78E-12
+ L2-L3 X-RAY                        1.13E-16    1.330E-06    1.50E-22
+ L2-M1 X-RAY                        9.46E-08    1.518E-04    1.44E-11
+ L2-M3 X-RAY                        1.58E-11    1.625E-04    2.56E-15
+ L3-M1 X-RAY                        1.75E-07    1.504E-04    2.63E-11
+ L3-M2 X-RAY                        1.44E-11    1.611E-04    2.33E-15
+ L3-M3 X-RAY                        1.42E-11    1.612E-04    2.29E-15
+ Free-Bound X-RAY                   3.13E-03    1.291E-05*   4.05E-08
+ AUGER KLL                          5.84E-04    2.089E-03*   1.22E-06
+ AUGER KLX                          7.29E-05    2.256E-03*   1.64E-07
+ AUGER KXY                          2.28E-06    2.426E-03*   5.53E-09
+ CK LLX                             3.29E-04    3.721E-05*   1.22E-08
+ AUGER LMM                          1.36E-03    1.475E-04*   2.01E-07
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.02E+00
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.05E+00
+ ALL LISTED RADIATIONS                                       3.07E+00
+ 
+ *  AVERAGE ENERGY (MEV)
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 34-SULPHUR
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  34-CHLORINE.
+   THIS DAUGHTER GROUND STATE IS STABLE.

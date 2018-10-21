@@ -1,0 +1,44 @@
+ 118-TELLURIUM-52        HALFLIFE = 6 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ K -L2 X-RAY                        2.09E-01    2.609E-02    5.44E-03
+ K -L3 X-RAY                        3.89E-01    2.635E-02    1.03E-02
+ K -M2 X-RAY                        3.55E-02    2.967E-02    1.05E-03
+ K -M3 X-RAY                        6.89E-02    2.972E-02    2.05E-03
+ K -N2 X-RAY                        7.31E-03    3.036E-02    2.22E-04
+ K -N3 X-RAY                        1.43E-02    3.037E-02    4.35E-04
+ L2-M4 X-RAY                        1.81E-02    3.838E-03    6.94E-05
+ L3-M5 X-RAY                        3.16E-02    3.593E-03    1.13E-04
+ Free-Bound X-RAY                   1.33E+01    1.223E-05*   1.62E-04
+ AUGER KLL                          7.27E-02    2.179E-02*   1.59E-03
+ AUGER KLX                          3.15E-02    2.545E-02*   8.02E-04
+ AUGER KXY                          3.27E-03    2.911E-02*   9.51E-05
+ CK LLX                             1.42E-01    2.881E-04*   4.09E-05
+ AUGER LMM                          6.47E-01    2.968E-03*   1.92E-03
+ AUGER LMX                          1.75E-01    3.524E-03*   6.18E-04
+ AUGER LXY                          1.21E-02    4.100E-03*   4.94E-05
+ CK MMX                             7.43E-01    1.218E-04*   9.05E-05
+ AUGER MNN                          1.65E+00    4.228E-04*   6.96E-04
+ AUGER MNX                          4.99E-02    5.056E-04*   2.52E-05
+ CK NNX                             2.21E+00    2.735E-05*   6.05E-05
+ AUGER NXY                          6.53E+00    1.690E-05*   1.10E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.98E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.36E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   6.09E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  8.48E-08
+ ALL LISTED RADIATIONS                                       2.59E-02
+ ALL NEGLECTED RADIATIONS**                                  1.36E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 118-ANTIMONY
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 118-TELLURIUM.
+   DECAY OF THIS 3.6 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

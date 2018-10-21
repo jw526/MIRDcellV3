@@ -1,0 +1,50 @@
+ 171-THULIUM-69          HALFLIFE = 1.92 YEARS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   2.00E-02    7.499E-03*   1.50E-04
+ BETA MINUS                     2   9.80E-01    2.512E-02*   2.46E-02
+ GAMMA-RAY                      1   1.42E-03    6.673E-02    9.47E-05
+ K CONV. ELECTRON, GAMMA-RAY    1   9.80E-03    5.290E-03    5.18E-05
+ L1 CONV. ELECTRON, GAMMA-RAY   1   1.36E-03    5.628E-02    7.68E-05
+ L2 CONV. ELECTRON, GAMMA-RAY   1   2.65E-03    5.674E-02    1.50E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   1   2.70E-03    5.780E-02    1.56E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   1.63E-03    6.480E-02*   1.06E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   1   4.36E-04    6.673E-02*   2.91E-05
+ K -L2 X-RAY                        2.68E-03    5.145E-02    1.38E-04
+ K -L3 X-RAY                        4.72E-03    5.251E-02    2.48E-04
+ K -M2 X-RAY                        4.98E-04    5.928E-02    2.95E-05
+ K -M3 X-RAY                        9.62E-04    5.951E-02    5.72E-05
+ K -M5 X-RAY                        1.21E-05    5.991E-02    7.27E-07
+ K -N2 X-RAY                        1.11E-04    6.105E-02    6.76E-06
+ K -N3 X-RAY                        2.14E-04    6.111E-02    1.31E-05
+ K -O2 X-RAY                        2.49E-05    6.140E-02    1.53E-06
+ K -O3 X-RAY                        5.16E-05    6.141E-02    3.17E-06
+ L2-M4 X-RAY                        1.16E-03    8.415E-03    9.73E-06
+ L2-N4 X-RAY                        2.06E-04    9.799E-03    2.02E-06
+ L3-M1 X-RAY                        1.07E-04    6.566E-03    7.03E-07
+ L3-M4 X-RAY                        1.71E-04    7.356E-03    1.26E-06
+ L3-M5 X-RAY                        1.51E-03    7.405E-03    1.12E-05
+ L3-N5 X-RAY                        2.57E-04    8.749E-03    2.25E-06
+ Free-Bound X-RAY                   1.66E-01    8.664E-06*   1.44E-06
+ AUGER LMM                          8.12E-03    5.822E-03*   4.73E-05
+ AUGER MNN                          2.45E-02    1.257E-03*   3.08E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    6.21E-04
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     3.31E-06
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.54E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  6.27E-05
+ ALL LISTED RADIATIONS                                       2.60E-02
+ ALL NEGLECTED RADIATIONS**                                  6.61E-05
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 171-YTTERBIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 171-THULIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

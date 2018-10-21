@@ -1,0 +1,177 @@
+%%%%  55 FE  26    EC           8.63732E+07 2.737 Y    02-11-2005       BALASTAR
+1  55   FE  26 2.737 Y         EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              55-IRON-26
++                                    HALFLIFE = 2.737 YEARS   
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+   1.2600E-01  1.3000E-07  1.3010E-07  7.9473E-02                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  2.314E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  2.314E-01 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%%  55 FE  26    EC           8.63732E+07 2.737 Y    02-11-2005       BALAEND 
+%%%%  55 FE  26    EC           8.63732E+07 2.737 Y    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              55-IRON-26
++                                    HALFLIFE = 2.737 YEARS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.30E-09   1.054E-01   SECOND FORBIDDEN                         
+           ELECT. CAPTURE   2   1.00E+00   2.314E-01   ALLOWED                                  
+           I.C.E. + GAMMA   1   1.30E-09   1.260E-01   M1 MULTIPOLE                             
++                                                                    AK= 0.0150                 
+                                                       AL1=0.00141                              
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Aug-2001
+%%%%  55 FE  26    EC           8.63732E+07 2.737 Y    02-11-2005       INPUEND 
+%%%%  55 FE  26    EC           8.63732E+07 2.737 Y    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              55-IRON-26
++                                    HALFLIFE = 2.737 YEARS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           K -L2 X-RAY                        8.11E-02    5.848E-03    4.74E-04
+           K -L3 X-RAY                        1.59E-01    5.859E-03    9.32E-04
+           K -M2 X-RAY                        9.67E-03    6.449E-03    6.23E-05
+           K -M3 X-RAY                        1.90E-02    6.450E-03    1.23E-04
+           L3-M1 X-RAY                        3.11E-03    5.596E-04    1.74E-06
+           Free-Bound X-RAY                   6.05E+00    1.149E-05*   6.95E-05
+           AUGER KLL                          4.90E-01    5.151E-03*   2.52E-03
+           AUGER KLX                          1.18E-01    5.762E-03*   6.82E-04
+           AUGER KXY                          7.22E-03    6.377E-03*   4.60E-05
+           CK LLX                             2.84E-01    6.490E-05*   1.84E-05
+           AUGER LMM                          1.41E+00    5.594E-04*   7.88E-04
+           AUGER LMX                          2.20E-02    6.068E-04*   1.34E-05
+           CK MMX                             2.72E+00    3.645E-05*   9.92E-05
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.66E-03
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.12E-06
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.17E-03
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.52E-12
+           ALL LISTED RADIATIONS                                       5.83E-03
+           ALL NEGLECTED RADIATIONS**                                  2.12E-06
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 55-MANGANESE
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  55-IRON.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Aug-2001
+%%%%  55 FE  26    EC           8.63732E+07 2.737 Y    02-11-2005       OUTPEND 
+%%%%  55 FE  26    EC           8.63732E+07 2.737 Y    02-11-2005       SEEISTAR
+ 55.  IRON         26.  2.737E+00 YEARS     37 EC                    55.FE 26.   0
+ 1 1  1.28000E-07  1.26000E-01  1.26000E-01  0.00000E+00             55.FE 26.   1   1
+ 6 1  1.91597E-09  1.19489E-01  1.19489E-01  1.00000E+00             55.FE 26.   2   1
+ 6 5  1.80429E-10  1.25234E-01  1.25234E-01  1.00000E+00             55.FE 26.   3   5
+ 6 6  4.72253E-12  1.25337E-01  1.25337E-01  1.00000E+00             55.FE 26.   4   6
+ 6 7  2.24658E-12  1.25348E-01  1.25348E-01  1.00000E+00             55.FE 26.   5   7
+ 2 1  8.11273E+00  5.84793E-03  5.84793E-03  0.00000E+00             55.FE 26.   6   1
+ 2 2  1.59075E+01  5.85866E-03  5.85866E-03  0.00000E+00             55.FE 26.   7   2
+ 2 3  9.66745E-01  6.44881E-03  6.44881E-03  0.00000E+00             55.FE 26.   8   3
+ 2 4  1.90263E+00  6.45011E-03  6.45011E-03  0.00000E+00             55.FE 26.   9   4
+ 2 5  3.40799E-04  6.49905E-03  6.49905E-03  0.00000E+00             55.FE 26.  10   5
+ 2 6  4.98708E-04  6.49918E-03  6.49918E-03  0.00000E+00             55.FE 26.  11   6
+ 221  1.17413E-03  1.03500E-04  1.03500E-04  0.00000E+00             55.FE 26.  12  21
+ 222  4.38031E-03  1.14250E-04  1.14250E-04  0.00000E+00             55.FE 26.  13  22
+ 223  1.66207E-02  7.04378E-04  7.04378E-04  0.00000E+00             55.FE 26.  14  23
+ 224  2.41340E-02  7.05689E-04  7.05689E-04  0.00000E+00             55.FE 26.  15  24
+ 225  4.29652E-05  7.54620E-04  7.54620E-04  0.00000E+00             55.FE 26.  16  25
+ 226  6.00163E-05  7.54750E-04  7.54750E-04  0.00000E+00             55.FE 26.  17  26
+ 241  6.25779E-09  1.07500E-05  1.07500E-05  0.00000E+00             55.FE 26.  18  41
+ 242  1.62576E-01  5.70389E-04  5.70389E-04  0.00000E+00             55.FE 26.  19  42
+ 243  3.18577E-04  6.02191E-04  6.02191E-04  0.00000E+00             55.FE 26.  20  43
+ 244  3.99022E-02  6.51120E-04  6.51120E-04  0.00000E+00             55.FE 26.  21  44
+ 245  3.16941E-03  6.55721E-04  6.55721E-04  0.00000E+00             55.FE 26.  22  45
+ 261  3.10859E-01  5.59640E-04  5.59640E-04  0.00000E+00             55.FE 26.  23  61
+ 262  3.16675E-04  5.90131E-04  5.90131E-04  0.00000E+00             55.FE 26.  24  62
+ 263  3.09210E-04  5.91440E-04  5.91440E-04  0.00000E+00             55.FE 26.  25  63
+ 264  6.54429E-03  6.40370E-04  6.40370E-04  0.00000E+00             55.FE 26.  26  64
+ 265  7.39121E-02  6.40499E-04  6.40499E-04  0.00000E+00             55.FE 26.  27  65
+ 266  6.07351E-03  6.44970E-04  6.44970E-04  0.00000E+00             55.FE 26.  28  66
+ 291  8.23583E-04  4.11844E-05  4.11844E-05  0.00000E+00             55.FE 26.  29  91
+ 294  6.05100E+02  1.14853E-05  1.14853E-05  0.00000E+00             55.FE 26.  30  94
+ 7 1  4.89514E+01  5.15113E-03  5.15113E-03  0.00000E+00             55.FE 26.  31   1
+ 7 2  1.18368E+01  5.76225E-03  5.76225E-03  0.00000E+00             55.FE 26.  32   2
+ 7 3  7.21578E-01  6.37745E-03  6.37745E-03  0.00000E+00             55.FE 26.  33   3
+ 7 4  2.84114E+01  6.48980E-05  6.48980E-05  0.00000E+00             55.FE 26.  34   4
+ 7 5  1.40879E+02  5.59386E-04  5.59386E-04  0.00000E+00             55.FE 26.  35   5
+ 7 6  2.20246E+00  6.06838E-04  6.06838E-04  0.00000E+00             55.FE 26.  36   6
+ 7 8  2.72098E+02  3.64544E-05  3.64544E-05  0.00000E+00             55.FE 26.  37   8
+%%%%  55 FE  26    EC           8.63732E+07 2.737 Y    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   1.61280E-10
+    X-ray                           (MeV) =   1.59532E-03
+    Free-bound X-ray                (MeV) =   6.94976E-05
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   2.25053E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   2.52407E-12
+    Auger and CK electron           (MeV) =   4.16868E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   2.30886E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   2.31380E-01
+  Ratio of E-total/Q-value          ( % ) =   9.97865E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   1.28000E-09
+    X-ray                                 =   2.75417E-01
+    Free-bound X-ray                      =   6.05100E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   2.10337E-11
+    Auger and CK electron                 =   5.05100E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

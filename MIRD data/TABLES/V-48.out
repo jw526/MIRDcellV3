@@ -1,0 +1,34 @@
+ 48-VANADIUM-23          HALFLIFE = 15.9735 DAYS    
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      2   4.94E-01    2.903E-01*   1.44E-01
+ BETA PLUS                      3   7.83E-03    9.063E-01*   7.09E-03
+ ANNIHILATION RADIATION             1.00E+00    5.110E-01    5.13E-01
+ GAMMA-RAY                      2   7.70E-03    9.283E-01    7.15E-03
+ GAMMA-RAY                      4   7.76E-02    9.441E-01    7.32E-02
+ GAMMA-RAY                      5   1.00E+00    9.835E-01    9.83E-01
+ GAMMA-RAY                      7   9.75E-01    1.312E+00    1.28E+00
+ GAMMA-RAY                      9   2.41E-02    2.240E+00    5.40E-02
+ AUGER KLL                          2.81E-01    3.967E-03*   1.11E-03
+ AUGER KLX                          6.50E-02    4.403E-03*   2.86E-04
+ AUGER LMM                          7.39E-01    3.810E-04*   2.81E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.91E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     3.93E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.52E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.09E-04
+ ALL LISTED RADIATIONS                                       3.06E+00
+ ALL NEGLECTED RADIATIONS**                                  4.24E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 48-TITANIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  48-VANADIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

@@ -1,0 +1,41 @@
+ 141-CERIUM-58           HALFLIFE = 32.508 DAYS    
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   6.97E-01    1.298E-01*   9.05E-02
+ BETA MINUS                     2   3.03E-01    1.809E-01*   5.48E-02
+ GAMMA-RAY                      1   4.83E-01    1.454E-01    7.02E-02
+ K CONV. ELECTRON, GAMMA-RAY    1   1.89E-01    1.034E-01    1.95E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   1   2.39E-02    1.386E-01    3.32E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   1   1.85E-03    1.390E-01    2.57E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   5.55E-03    1.442E-01*   8.00E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.55E-03    1.454E-01*   2.26E-04
+ K -L2 X-RAY                        4.97E-02    3.557E-02    1.77E-03
+ K -L3 X-RAY                        9.07E-02    3.606E-02    3.27E-03
+ K -M2 X-RAY                        8.89E-03    4.068E-02    3.62E-04
+ K -M3 X-RAY                        1.72E-02    4.078E-02    7.02E-04
+ K -N2 X-RAY                        1.90E-03    4.177E-02    7.94E-05
+ K -N3 X-RAY                        3.70E-03    4.179E-02    1.54E-04
+ AUGER KLL                          1.01E-02    2.934E-02*   2.97E-04
+ AUGER LMM                          1.22E-01    3.996E-03*   4.88E-04
+ AUGER LMX                          4.07E-02    4.899E-03*   1.99E-04
+ AUGER MNN                          3.19E-01    6.675E-04*   2.13E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    7.66E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.31E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.71E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  4.24E-04
+ ALL LISTED RADIATIONS                                       2.47E-01
+ ALL NEGLECTED RADIATIONS**                                  6.55E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 141-PRASEODYMIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 141-CERIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

@@ -1,0 +1,50 @@
+ 139-CERIUM-58           HALFLIFE = 137.641 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   7.89E-01    1.659E-01    1.31E-01
+ K CONV. ELECTRON, GAMMA-RAY    1   1.80E-01    1.269E-01    2.28E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   1   2.24E-02    1.596E-01    3.57E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   1   1.53E-03    1.600E-01    2.45E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   1   3.29E-04    1.604E-01    5.28E-05
+ M CONV. ELECTRON, GAMMA-RAY    1   5.07E-03    1.647E-01*   8.35E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.40E-03    1.659E-01*   2.33E-04
+ K -L2 X-RAY                        2.35E-01    3.304E-02    7.78E-03
+ K -L3 X-RAY                        4.32E-01    3.346E-02    1.45E-02
+ K -M2 X-RAY                        4.17E-02    3.774E-02    1.57E-03
+ K -M3 X-RAY                        8.07E-02    3.782E-02    3.05E-03
+ K -N2 X-RAY                        8.84E-03    3.872E-02    3.42E-04
+ K -N3 X-RAY                        1.72E-02    3.874E-02    6.67E-04
+ L3-M5 X-RAY                        5.04E-02    4.637E-03    2.34E-04
+ Free-Bound X-RAY                   1.50E+01    2.107E-05*   3.17E-04
+ AUGER KLL                          5.41E-02    2.731E-02*   1.48E-03
+ AUGER KLX                          2.53E-02    3.213E-02*   8.13E-04
+ AUGER KXY                          2.83E-03    3.695E-02*   1.05E-04
+ CK LLX                             2.03E-01    3.724E-04*   7.57E-05
+ AUGER LMM                          6.74E-01    3.716E-03*   2.50E-03
+ AUGER LMX                          2.23E-01    4.532E-03*   1.01E-03
+ AUGER LXY                          1.76E-02    5.382E-03*   9.48E-05
+ CK MMX                             7.66E-01    1.175E-04*   9.00E-05
+ AUGER MNN                          1.72E+00    5.806E-04*   1.00E-03
+ AUGER MNX                          1.49E-01    7.325E-04*   1.09E-04
+ CK NNX                             1.68E+00    6.284E-05*   1.06E-04
+ AUGER NXY                          5.22E+00    6.081E-05*   3.18E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.59E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     5.81E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.55E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.34E-05
+ ALL LISTED RADIATIONS                                       1.95E-01
+ ALL NEGLECTED RADIATIONS**                                  6.14E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 139-LANTHANUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 139-CERIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

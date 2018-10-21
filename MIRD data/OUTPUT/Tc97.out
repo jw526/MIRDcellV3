@@ -1,0 +1,400 @@
+%%%%  97 TC  43    EC           8.20498E+13  2.6E+6 Y  02-11-2005       BALASTAR
+1  97   TC  43  2.6E+6 Y       EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              97-TECHNETIUM-43
++                                    HALFLIFE = 0.26E+07 YEARS   
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  3.200E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  3.200E-01 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%%  97 TC  43    EC           8.20498E+13  2.6E+6 Y  02-11-2005       BALAEND 
+%%%%  97 TC  43    EC           8.20498E+13  2.6E+6 Y  02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              97-TECHNETIUM-43
++                                    HALFLIFE = 0.26E+07 YEARS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.00E+00   3.200E-01   SECOND FORBIDDEN                         
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Nov-1993
+%%%%  97 TC  43    EC           8.20498E+13  2.6E+6 Y  02-11-2005       INPUEND 
+%%%%  97 TC  43    EC           8.20498E+13  2.6E+6 Y  02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              97-TECHNETIUM-43
++                                    HALFLIFE = 0.26E+07 YEARS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           K -L2 X-RAY                        1.83E-01    1.734E-02    3.17E-03
+           K -L3 X-RAY                        3.49E-01    1.744E-02    6.08E-03
+           K -M2 X-RAY                        2.84E-02    1.956E-02    5.56E-04
+           K -M3 X-RAY                        5.53E-02    1.957E-02    1.08E-03
+           K -N2 X-RAY                        5.24E-03    1.992E-02    1.04E-04
+           K -N3 X-RAY                        1.01E-02    1.992E-02    2.01E-04
+           L2-M4 X-RAY                        9.26E-03    2.389E-03    2.21E-05
+           L3-M5 X-RAY                        2.07E-02    2.284E-03    4.74E-05
+           Free-Bound X-RAY                   1.00E+01    6.848E-06*   6.88E-05
+           AUGER KLL                          1.39E-01    1.471E-02*   2.05E-03
+           AUGER KLX                          5.17E-02    1.697E-02*   8.77E-04
+           AUGER KXY                          4.62E-03    1.924E-02*   8.89E-05
+           CK LLX                             2.08E-01    1.076E-04*   2.24E-05
+           AUGER LMM                          8.39E-01    1.952E-03*   1.64E-03
+           AUGER LMX                          1.19E-01    2.201E-03*   2.62E-04
+           AUGER LXY                          5.07E-03    2.486E-03*   1.26E-05
+           CK MMX                             8.84E-01    1.064E-04*   9.42E-05
+           AUGER MNN                          2.12E+00    1.763E-04*   3.74E-04
+           CK NNX                             4.65E+00    2.736E-05*   1.27E-04
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.13E-02
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.81E-05
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.55E-03
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  4.44E-06
+           ALL LISTED RADIATIONS                                       1.69E-02
+           ALL NEGLECTED RADIATIONS**                                  3.25E-05
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 97-MOLYBDENUM
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  97-TECHNETIUM.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Nov-1993
+%%%%  97 TC  43    EC           8.20498E+13  2.6E+6 Y  02-11-2005       OUTPEND 
+%%%%  97 TC  43    EC           8.20498E+13  2.6E+6 Y  02-11-2005       SEEISTAR
+ 97.  TECHNETIUM   43.  2.600E+06 YEARS     51 EC                    97.TC 43.   0
+ 2 1  1.83016E+01  1.73355E-02  1.73355E-02  0.00000E+00             97.TC 43.   1   1
+ 2 2  3.48748E+01  1.74440E-02  1.74440E-02  0.00000E+00             97.TC 43.   2   2
+ 2 3  2.84137E+00  1.95554E-02  1.95554E-02  0.00000E+00             97.TC 43.   3   3
+ 2 4  5.53140E+00  1.95734E-02  1.95734E-02  0.00000E+00             97.TC 43.   4   4
+ 2 5  1.38037E-02  1.97245E-02  1.97245E-02  0.00000E+00             97.TC 43.   5   5
+ 2 6  1.95197E-02  1.97280E-02  1.97280E-02  0.00000E+00             97.TC 43.   6   6
+ 2 7  5.24411E-01  1.99200E-02  1.99200E-02  0.00000E+00             97.TC 43.   7   7
+ 2 8  1.01104E+00  1.99225E-02  1.99225E-02  0.00000E+00             97.TC 43.   8   8
+ 2 9  5.54753E-04  1.99581E-02  1.99581E-02  0.00000E+00             97.TC 43.   9   9
+ 210  7.76148E-04  1.99582E-02  1.99582E-02  0.00000E+00             97.TC 43.  10  10
+ 221  3.00339E-04  2.17000E-04  2.17000E-04  0.00000E+00             97.TC 43.  11  21
+ 222  1.93369E-03  3.25500E-04  3.25500E-04  0.00000E+00             97.TC 43.  12  22
+ 223  4.23481E-02  2.43686E-03  2.43686E-03  0.00000E+00             97.TC 43.  13  23
+ 224  7.28331E-02  2.45487E-03  2.45487E-03  0.00000E+00             97.TC 43.  14  24
+ 225  3.64053E-04  2.60605E-03  2.60605E-03  0.00000E+00             97.TC 43.  15  25
+ 226  5.42420E-04  2.60950E-03  2.60950E-03  0.00000E+00             97.TC 43.  16  26
+ 227  6.59801E-03  2.80143E-03  2.80143E-03  0.00000E+00             97.TC 43.  17  27
+ 228  1.14472E-02  2.80404E-03  2.80404E-03  0.00000E+00             97.TC 43.  18  28
+ 229  1.10903E-05  2.83950E-03  2.83950E-03  0.00000E+00             97.TC 43.  19  29
+ 230  1.64862E-05  2.83973E-03  2.83973E-03  0.00000E+00             97.TC 43.  20  30
+ 241  1.54798E-07  1.08500E-04  1.08500E-04  0.00000E+00             97.TC 43.  21  41
+ 242  8.96500E-02  2.13542E-03  2.13542E-03  0.00000E+00             97.TC 43.  22  42
+ 243  8.79194E-04  2.23787E-03  2.23787E-03  0.00000E+00             97.TC 43.  23  43
+ 244  9.26312E-01  2.38904E-03  2.38904E-03  0.00000E+00             97.TC 43.  24  44
+ 245  7.09388E-03  2.55987E-03  2.55987E-03  0.00000E+00             97.TC 43.  25  45
+ 246  3.65341E-05  2.58703E-03  2.58703E-03  0.00000E+00             97.TC 43.  26  46
+ 247  3.18541E-02  2.62250E-03  2.62250E-03  0.00000E+00             97.TC 43.  27  47
+ 261  3.45187E-01  2.02691E-03  2.02691E-03  0.00000E+00             97.TC 43.  28  61
+ 262  1.46616E-03  2.11136E-03  2.11136E-03  0.00000E+00             97.TC 43.  29  62
+ 263  1.38703E-03  2.12937E-03  2.12937E-03  0.00000E+00             97.TC 43.  30  63
+ 264  2.33572E-01  2.28055E-03  2.28055E-03  0.00000E+00             97.TC 43.  31  64
+ 265  2.07461E+00  2.28400E-03  2.28400E-03  0.00000E+00             97.TC 43.  32  65
+ 266  1.75161E-02  2.45137E-03  2.45137E-03  0.00000E+00             97.TC 43.  33  66
+ 267  4.66540E-05  2.47592E-03  2.47592E-03  0.00000E+00             97.TC 43.  34  67
+ 268  4.46017E-05  2.47854E-03  2.47854E-03  0.00000E+00             97.TC 43.  35  68
+ 269  7.94942E-03  2.51400E-03  2.51400E-03  0.00000E+00             97.TC 43.  36  69
+ 270  7.01225E-02  2.51423E-03  2.51423E-03  0.00000E+00             97.TC 43.  37  70
+ 291  7.76365E-02  2.25215E-04  2.25215E-04  0.00000E+00             97.TC 43.  38  91
+ 292  1.27488E-03  2.94318E-05  2.94318E-05  0.00000E+00             97.TC 43.  39  92
+ 294  1.00421E+03  6.84794E-06  6.84794E-06  0.00000E+00             97.TC 43.  40  94
+ 7 1  1.39487E+01  1.47064E-02  1.47064E-02  0.00000E+00             97.TC 43.  41   1
+ 7 2  5.16702E+00  1.69714E-02  1.69714E-02  0.00000E+00             97.TC 43.  42   2
+ 7 3  4.61922E-01  1.92385E-02  1.92385E-02  0.00000E+00             97.TC 43.  43   3
+ 7 4  2.07688E+01  1.07617E-04  1.07617E-04  0.00000E+00             97.TC 43.  44   4
+ 7 5  8.38656E+01  1.95185E-03  1.95185E-03  0.00000E+00             97.TC 43.  45   5
+ 7 6  1.18831E+01  2.20133E-03  2.20133E-03  0.00000E+00             97.TC 43.  46   6
+ 7 7  5.07268E-01  2.48565E-03  2.48565E-03  0.00000E+00             97.TC 43.  47   7
+ 7 8  8.84462E+01  1.06450E-04  1.06450E-04  0.00000E+00             97.TC 43.  48   8
+ 7 9  2.11871E+02  1.76290E-04  1.76290E-04  0.00000E+00             97.TC 43.  49   9
+ 710  2.03127E+00  2.18368E-04  2.18368E-04  0.00000E+00             97.TC 43.  50  10
+ 712  4.65262E+02  2.73561E-05  2.73561E-05  0.00000E+00             97.TC 43.  51  12
+%%%%  97 TC  43    EC           8.20498E+13  2.6E+6 Y  02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   1.12980E-02
+    Free-bound X-ray                (MeV) =   6.87679E-05
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   3.02192E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   5.54999E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   3.19109E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   3.20000E-01
+  Ratio of E-total/Q-value          ( % ) =   9.97215E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   6.71422E-01
+    Free-bound X-ray                      =   1.00421E+01
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   9.04213E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+
+%%%%  97 TC  43 M  IT           7.78464E+06  90.1 D    02-11-2005       BALASTAR
+1  97M  TC  43  90.1 D         IT         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              97M-TECHNETIUM-43
++                                    HALFLIFE = 90.1 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  9.9912E+01
+   9.6500E-02  9.9912E+01  9.9912E+01  0.0000E+00                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  9.991E+01
+ TOTAL INTENSITY FROM PARENT=  9.991E+01
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  9.991E+01
+ VALUE IS WITHIN   8.81E-02% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  9.642E-02 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  9.642E-02 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%%  97 TC  43 M  IT           7.78464E+06  90.1 D    02-11-2005       BALAEND 
+%%%%  97 TC  43 M  IT           7.78464E+06  90.1 D    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              97M-TECHNETIUM-43
++                                    HALFLIFE = 90.1 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           I.C.E. + GAMMA   1   9.99E-01   9.650E-02   M4 MULTIPOLE                             
++                                                                    AK= 199.                   
+                                                       AL1=42.4      AL2=9.44                   
+                                                       AL3=43.7      AM= 19.5                   
+                                                       AN+=3.39                                 
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Nov-1993
+%%%%  97 TC  43 M  IT           7.78464E+06  90.1 D    02-11-2005       INPUEND 
+%%%%  97 TC  43 M  IT           7.78464E+06  90.1 D    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              97M-TECHNETIUM-43
++                                    HALFLIFE = 90.1 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      1   3.14E-03    9.650E-02    3.03E-04
+           K CONV. ELECTRON, GAMMA-RAY    1   6.24E-01    7.549E-02    4.71E-02
+           L1 CONV. ELECTRON, GAMMA-RAY   1   1.33E-01    9.348E-02    1.24E-02
+           L2 CONV. ELECTRON, GAMMA-RAY   1   2.96E-02    9.370E-02    2.78E-03
+           L3 CONV. ELECTRON, GAMMA-RAY   1   1.37E-01    9.382E-02    1.29E-02
+           M CONV. ELECTRON, GAMMA-RAY    1   6.11E-02    9.608E-02*   5.87E-03
+           N+ CONV. ELECTRON, GAMMA-RAY   1   1.06E-02    9.650E-02*   1.03E-03
+           K -L2 X-RAY                        1.41E-01    1.821E-02    2.56E-03
+           K -L3 X-RAY                        2.68E-01    1.833E-02    4.91E-03
+           K -M2 X-RAY                        2.21E-02    2.057E-02    4.55E-04
+           K -M3 X-RAY                        4.31E-02    2.059E-02    8.87E-04
+           K -N2 X-RAY                        4.27E-03    2.096E-02    8.95E-05
+           K -N3 X-RAY                        8.21E-03    2.097E-02    1.72E-04
+           L2-M4 X-RAY                        8.57E-03    2.531E-03    2.17E-05
+           L3-M5 X-RAY                        2.18E-02    2.415E-03    5.26E-05
+           Free-Bound X-RAY                   8.97E+00    7.876E-06*   7.06E-05
+           AUGER KLL                          9.75E-02    1.542E-02*   1.50E-03
+           AUGER KLX                          3.68E-02    1.782E-02*   6.57E-04
+           AUGER LMM                          7.74E-01    2.051E-03*   1.59E-03
+           AUGER LMX                          1.21E-01    2.330E-03*   2.81E-04
+           CK MMX                             8.20E-01    1.099E-04*   9.01E-05
+           AUGER MNN                          1.98E+00    2.040E-04*   4.05E-04
+           CK NNX                             3.92E+00    2.939E-05*   1.15E-04
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    9.53E-03
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.99E-05
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   8.68E-02
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.07E-04
+           ALL LISTED RADIATIONS                                       9.63E-02
+           ALL NEGLECTED RADIATIONS**                                  1.37E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 97-TECHNETIUM
+             DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF  97M-TECHNETIUM.
+             DECAY OF THIS 0.26E+07 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Nov-1993
+%%%%  97 TC  43 M  IT           7.78464E+06  90.1 D    02-11-2005       OUTPEND 
+%%%%  97 TC  43 M  IT           7.78464E+06  90.1 D    02-11-2005       SEEISTAR
+ 97.M TECHNETIUM   43.  9.010E+01 DAYS      58 IT                    97.TC 43.   0
+ 1 1  3.14000E-01  9.65000E-02  9.65000E-02  0.00000E+00             97.TC 43.   1   1
+ 6 1  6.24277E+01  7.54880E-02  7.54880E-02  1.00000E+00             97.TC 43.   2   1
+ 6 5  1.32999E+01  9.34776E-02  9.34776E-02  1.00000E+00             97.TC 43.   3   5
+ 6 6  2.96348E+00  9.37021E-02  9.37021E-02  1.00000E+00             97.TC 43.   4   6
+ 6 7  1.37316E+01  9.38224E-02  9.38224E-02  1.00000E+00             97.TC 43.   5   7
+ 6 3  6.11174E+00  9.60751E-02  9.60751E-02  1.00000E+00             97.TC 43.   6   3
+ 6 4  1.06352E+00  9.65000E-02  9.65000E-02  1.00000E+00             97.TC 43.   7   4
+ 2 1  1.40819E+01  1.82141E-02  1.82141E-02  0.00000E+00             97.TC 43.   8   1
+ 2 2  2.67723E+01  1.83344E-02  1.83344E-02  0.00000E+00             97.TC 43.   9   2
+ 2 3  2.21414E+00  2.05668E-02  2.05668E-02  0.00000E+00             97.TC 43.  10   3
+ 2 4  4.30910E+00  2.05871E-02  2.05871E-02  0.00000E+00             97.TC 43.  11   4
+ 2 5  1.15504E-02  2.07450E-02  2.07450E-02  0.00000E+00             97.TC 43.  12   5
+ 2 6  1.63024E-02  2.07489E-02  2.07489E-02  0.00000E+00             97.TC 43.  13   6
+ 2 7  4.27177E-01  2.09624E-02  2.09624E-02  0.00000E+00             97.TC 43.  14   7
+ 2 8  8.20931E-01  2.09655E-02  2.09655E-02  0.00000E+00             97.TC 43.  15   8
+ 2 9  6.11120E-04  2.10040E-02  2.10040E-02  0.00000E+00             97.TC 43.  16   9
+ 210  8.52831E-04  2.10042E-02  2.10042E-02  0.00000E+00             97.TC 43.  17  10
+ 221  2.82895E-04  2.24500E-04  2.24500E-04  0.00000E+00             97.TC 43.  18  21
+ 222  1.88157E-03  3.44800E-04  3.44800E-04  0.00000E+00             97.TC 43.  19  22
+ 223  4.41138E-02  2.57716E-03  2.57716E-03  0.00000E+00             97.TC 43.  20  23
+ 224  7.54021E-02  2.59745E-03  2.59745E-03  0.00000E+00             97.TC 43.  21  24
+ 225  4.00178E-04  2.75539E-03  2.75539E-03  0.00000E+00             97.TC 43.  22  25
+ 226  5.96503E-04  2.75933E-03  2.75933E-03  0.00000E+00             97.TC 43.  23  26
+ 227  7.12260E-03  2.97280E-03  2.97280E-03  0.00000E+00             97.TC 43.  24  27
+ 228  1.22844E-02  2.97585E-03  2.97585E-03  0.00000E+00             97.TC 43.  25  28
+ 229  1.58044E-05  3.01432E-03  3.01432E-03  0.00000E+00             97.TC 43.  26  29
+ 230  2.35114E-05  3.01462E-03  3.01462E-03  0.00000E+00             97.TC 43.  27  30
+ 241  1.63414E-07  1.20300E-04  1.20300E-04  0.00000E+00             97.TC 43.  28  41
+ 242  7.79511E-02  2.26447E-03  2.26447E-03  0.00000E+00             97.TC 43.  29  42
+ 243  7.98049E-04  2.37296E-03  2.37296E-03  0.00000E+00             97.TC 43.  30  43
+ 244  8.56985E-01  2.53088E-03  2.53088E-03  0.00000E+00             97.TC 43.  31  44
+ 245  6.57138E-03  2.72205E-03  2.72205E-03  0.00000E+00             97.TC 43.  32  45
+ 246  3.68164E-05  2.75134E-03  2.75134E-03  0.00000E+00             97.TC 43.  33  46
+ 247  3.85285E-02  2.78982E-03  2.78982E-03  0.00000E+00             97.TC 43.  34  47
+ 261  3.48413E-01  2.14418E-03  2.14418E-03  0.00000E+00             97.TC 43.  35  61
+ 262  1.51662E-03  2.23236E-03  2.23236E-03  0.00000E+00             97.TC 43.  36  62
+ 263  1.43792E-03  2.25265E-03  2.25265E-03  0.00000E+00             97.TC 43.  37  63
+ 264  2.45608E-01  2.41059E-03  2.41059E-03  0.00000E+00             97.TC 43.  38  64
+ 265  2.18043E+00  2.41453E-03  2.41453E-03  0.00000E+00             97.TC 43.  39  65
+ 266  1.86151E-02  2.60175E-03  2.60175E-03  0.00000E+00             97.TC 43.  40  66
+ 267  5.33916E-05  2.62800E-03  2.62800E-03  0.00000E+00             97.TC 43.  41  67
+ 268  5.09874E-05  2.63105E-03  2.63105E-03  0.00000E+00             97.TC 43.  42  68
+ 269  1.09059E-02  2.66952E-03  2.66952E-03  0.00000E+00             97.TC 43.  43  69
+ 270  9.62299E-02  2.66983E-03  2.66983E-03  0.00000E+00             97.TC 43.  44  70
+ 291  8.94913E-02  2.50847E-04  2.50847E-04  0.00000E+00             97.TC 43.  45  91
+ 292  1.50632E-03  3.27982E-05  3.27982E-05  0.00000E+00             97.TC 43.  46  92
+ 294  8.96953E+02  7.87601E-06  7.87601E-06  0.00000E+00             97.TC 43.  47  94
+ 7 1  9.75327E+00  1.54229E-02  1.54229E-02  0.00000E+00             97.TC 43.  48   1
+ 7 2  3.68410E+00  1.78238E-02  1.78238E-02  0.00000E+00             97.TC 43.  49   2
+ 7 3  3.35557E-01  2.02270E-02  2.02270E-02  0.00000E+00             97.TC 43.  50   3
+ 7 4  1.91498E+01  1.07699E-04  1.07699E-04  0.00000E+00             97.TC 43.  51   4
+ 7 5  7.74174E+01  2.05140E-03  2.05140E-03  0.00000E+00             97.TC 43.  52   5
+ 7 6  1.20542E+01  2.33031E-03  2.33031E-03  0.00000E+00             97.TC 43.  53   6
+ 7 7  5.44061E-01  2.63961E-03  2.63961E-03  0.00000E+00             97.TC 43.  54   7
+ 7 8  8.20111E+01  1.09878E-04  1.09878E-04  0.00000E+00             97.TC 43.  55   8
+ 7 9  1.98352E+02  2.03975E-04  2.03975E-04  0.00000E+00             97.TC 43.  56   9
+ 710  1.66531E+00  2.47746E-04  2.47746E-04  0.00000E+00             97.TC 43.  57  10
+ 712  3.92337E+02  2.93893E-05  2.93893E-05  0.00000E+00             97.TC 43.  58  12
+%%%%  97 TC  43 M  IT           7.78464E+06  90.1 D    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   3.03010E-04
+    X-ray                           (MeV) =   9.18177E-03
+    Free-bound X-ray                (MeV) =   7.06441E-05
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   8.21162E-02
+    Auger and CK electron           (MeV) =   4.74691E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   9.64185E-02
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   9.65000E-02
+  Ratio of E-total/Q-value          ( % ) =   9.99156E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   3.14000E-03
+    X-ray                                 =   5.27720E-01
+    Free-bound X-ray                      =   8.96953E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   9.95979E-01
+    Auger and CK electron                 =   7.97304E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

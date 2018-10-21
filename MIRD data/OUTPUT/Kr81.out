@@ -1,0 +1,426 @@
+%%%%  81 KR  36    EC           7.22669E+12 2.29E+5 Y  02-11-2005       BALASTAR
+1  81   KR  36 2.29E+5 Y       EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              81-KRYPTON-36
++                                    HALFLIFE = 229000 YEARS   
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  9.9999E+01
+   2.7599E-01  3.0000E-01  2.9945E-01  1.8329E-01                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  5.493E-04                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   7.63E-06% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  2.807E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  2.807E-01 MEV
+ PERCENT ERROR =  5.415E-04                      
+%%%%  81 KR  36    EC           7.22669E+12 2.29E+5 Y  02-11-2005       BALAEND 
+%%%%  81 KR  36    EC           7.22669E+12 2.29E+5 Y  02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              81-KRYPTON-36
++                                    HALFLIFE = 229000 YEARS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   3.00E-03   4.709E-03   FIRST FORBIDDEN                          
+           ELECT. CAPTURE   2   9.97E-01   2.807E-01   UNIQUE FIRST FORBIDDEN                   
+           I.C.E. + GAMMA   1   2.99E-03   2.760E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=0.0100    AK= 0.00731                
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Feb-1997
+%%%%  81 KR  36    EC           7.22669E+12 2.29E+5 Y  02-11-2005       INPUEND 
+%%%%  81 KR  36    EC           7.22669E+12 2.29E+5 Y  02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              81-KRYPTON-36
++                                    HALFLIFE = 229000 YEARS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      1   2.97E-03    2.760E-01    8.20E-04
+           K CONV. ELECTRON, GAMMA-RAY    1   2.17E-05    2.626E-01    5.70E-06
+           K -L2 X-RAY                        1.53E-01    1.183E-02    1.82E-03
+           K -L3 X-RAY                        2.96E-01    1.188E-02    3.52E-03
+           K -M2 X-RAY                        2.12E-02    1.324E-02    2.80E-04
+           K -M3 X-RAY                        4.13E-02    1.325E-02    5.47E-04
+           K -N2 X-RAY                        1.41E-03    1.342E-02    1.89E-05
+           K -N3 X-RAY                        2.72E-03    1.342E-02    3.65E-05
+           L2-M4 X-RAY                        5.29E-03    1.523E-03    8.06E-06
+           L3-M5 X-RAY                        1.08E-02    1.475E-03    1.59E-05
+           Free-Bound X-RAY                   7.13E+00    1.759E-05*   1.25E-04
+           AUGER KLL                          2.45E-01    1.020E-02*   2.50E-03
+           AUGER KLX                          7.51E-02    1.164E-02*   8.74E-04
+           AUGER KXY                          5.76E-03    1.307E-02*   7.53E-05
+           CK LLX                             2.31E-01    9.137E-05*   2.11E-05
+           AUGER LMM                          1.06E+00    1.321E-03*   1.40E-03
+           AUGER LMX                          6.29E-02    1.412E-03*   8.89E-05
+           CK MMX                             1.24E+00    5.776E-05*   7.18E-05
+           AUGER MNN                          3.21E+00    4.387E-05*   1.41E-04
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    7.19E-03
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.08E-05
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.18E-03
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.00E-06
+           ALL LISTED RADIATIONS                                       1.24E-02
+           ALL NEGLECTED RADIATIONS**                                  1.38E-05
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 81-BROMINE
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  81-KRYPTON.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Feb-1997
+%%%%  81 KR  36    EC           7.22669E+12 2.29E+5 Y  02-11-2005       OUTPEND 
+%%%%  81 KR  36    EC           7.22669E+12 2.29E+5 Y  02-11-2005       SEEISTAR
+ 81.  KRYPTON      36.  2.290E+05 YEARS     48 EC                    81.KR 36.   0
+ 1 1  2.97000E-01  2.75990E-01  2.75990E-01  0.00000E+00             81.KR 36.   1   1
+ 6 1  2.17225E-03  2.62555E-01  2.62555E-01  1.00000E+00             81.KR 36.   2   1
+ 6 5  2.25735E-04  2.74221E-01  2.74221E-01  1.00000E+00             81.KR 36.   3   5
+ 6 6  6.78086E-06  2.74388E-01  2.74388E-01  1.00000E+00             81.KR 36.   4   6
+ 6 7  3.14123E-06  2.74436E-01  2.74436E-01  1.00000E+00             81.KR 36.   5   7
+ 6 3  3.83599E-05  2.75805E-01  2.75805E-01  1.00000E+00             81.KR 36.   6   3
+ 6 4  4.40427E-06  2.75990E-01  2.75990E-01  1.00000E+00             81.KR 36.   7   4
+ 2 1  1.53441E+01  1.18329E-02  1.18329E-02  0.00000E+00             81.KR 36.   8   1
+ 2 2  2.96255E+01  1.18814E-02  1.18814E-02  0.00000E+00             81.KR 36.   9   2
+ 2 3  2.11642E+00  1.32432E-02  1.32432E-02  0.00000E+00             81.KR 36.  10   3
+ 2 4  4.12943E+00  1.32502E-02  1.32502E-02  0.00000E+00             81.KR 36.  11   4
+ 2 5  5.56592E-03  1.33554E-02  1.33554E-02  0.00000E+00             81.KR 36.  12   5
+ 2 6  7.99105E-03  1.33565E-02  1.33565E-02  0.00000E+00             81.KR 36.  13   6
+ 2 7  1.41103E-01  1.34234E-02  1.34234E-02  0.00000E+00             81.KR 36.  14   7
+ 2 8  2.71554E-01  1.34240E-02  1.34240E-02  0.00000E+00             81.KR 36.  15   8
+ 221  3.53879E-04  1.67100E-04  1.67100E-04  0.00000E+00             81.KR 36.  16  21
+ 222  1.99445E-03  2.15600E-04  2.15600E-04  0.00000E+00             81.KR 36.  17  22
+ 223  2.54416E-02  1.57738E-03  1.57738E-03  0.00000E+00             81.KR 36.  18  23
+ 224  4.54957E-02  1.58442E-03  1.58442E-03  0.00000E+00             81.KR 36.  19  24
+ 225  1.38662E-04  1.68961E-03  1.68961E-03  0.00000E+00             81.KR 36.  20  25
+ 226  2.06245E-04  1.69075E-03  1.69075E-03  0.00000E+00             81.KR 36.  21  26
+ 227  1.80711E-03  1.75761E-03  1.75761E-03  0.00000E+00             81.KR 36.  22  27
+ 228  3.20933E-03  1.75817E-03  1.75817E-03  0.00000E+00             81.KR 36.  23  28
+ 241  5.29264E-08  4.85000E-05  4.85000E-05  0.00000E+00             81.KR 36.  24  41
+ 242  1.22500E-01  1.35061E-03  1.35061E-03  0.00000E+00             81.KR 36.  25  42
+ 243  7.88275E-04  1.41732E-03  1.41732E-03  0.00000E+00             81.KR 36.  26  43
+ 244  5.29195E-01  1.52251E-03  1.52251E-03  0.00000E+00             81.KR 36.  27  44
+ 245  5.55248E-03  1.57792E-03  1.57792E-03  0.00000E+00             81.KR 36.  28  45
+ 246  8.68408E-06  1.59107E-03  1.59107E-03  0.00000E+00             81.KR 36.  29  46
+ 261  3.19347E-01  1.30211E-03  1.30211E-03  0.00000E+00             81.KR 36.  30  61
+ 262  1.02271E-03  1.36178E-03  1.36178E-03  0.00000E+00             81.KR 36.  31  62
+ 263  9.78424E-04  1.36881E-03  1.36881E-03  0.00000E+00             81.KR 36.  32  63
+ 264  1.09953E-01  1.47401E-03  1.47401E-03  0.00000E+00             81.KR 36.  33  64
+ 265  1.07680E+00  1.47515E-03  1.47515E-03  0.00000E+00             81.KR 36.  34  65
+ 266  1.12602E-02  1.52943E-03  1.52943E-03  0.00000E+00             81.KR 36.  35  66
+ 267  9.43303E-06  1.54201E-03  1.54201E-03  0.00000E+00             81.KR 36.  36  67
+ 268  8.95252E-06  1.54257E-03  1.54257E-03  0.00000E+00             81.KR 36.  37  68
+ 291  1.86551E-02  1.15548E-04  1.15548E-04  0.00000E+00             81.KR 36.  38  91
+ 294  7.12774E+02  1.75899E-05  1.75899E-05  0.00000E+00             81.KR 36.  39  94
+ 7 1  2.45476E+01  1.02029E-02  1.02029E-02  0.00000E+00             81.KR 36.  40   1
+ 7 2  7.50934E+00  1.16354E-02  1.16354E-02  0.00000E+00             81.KR 36.  41   2
+ 7 3  5.76279E-01  1.30708E-02  1.30708E-02  0.00000E+00             81.KR 36.  42   3
+ 7 4  2.30662E+01  9.13731E-05  9.13731E-05  0.00000E+00             81.KR 36.  43   4
+ 7 5  1.05895E+02  1.32099E-03  1.32099E-03  0.00000E+00             81.KR 36.  44   5
+ 7 6  6.29304E+00  1.41223E-03  1.41223E-03  0.00000E+00             81.KR 36.  45   6
+ 7 7  1.44061E-01  1.55454E-03  1.55454E-03  0.00000E+00             81.KR 36.  46   7
+ 7 8  1.24344E+02  5.77605E-05  5.77605E-05  0.00000E+00             81.KR 36.  47   8
+ 7 9  3.20667E+02  4.38687E-05  4.38687E-05  0.00000E+00             81.KR 36.  48   9
+%%%%  81 KR  36    EC           7.22669E+12 2.29E+5 Y  02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   8.19690E-04
+    X-ray                           (MeV) =   6.25314E-03
+    Free-bound X-ray                (MeV) =   1.25377E-04
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   2.67587E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   6.46755E-06
+    Auger and CK electron           (MeV) =   5.17719E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   2.79969E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   2.80700E-01
+  Ratio of E-total/Q-value          ( % ) =   9.97394E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   2.97000E-03
+    X-ray                                 =   5.39163E-01
+    Free-bound X-ray                      =   7.12774E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   2.45067E-05
+    Auger and CK electron                 =   6.13043E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+
+%%%%  81 KR  36 M  IT EC        1.31000E+01 13.10 S    02-11-2005       BALASTAR
+1  81M  KR  36 13.10 S         IT EC      
+1INTENSITY AND ENERGY BALANCE DATA
+
+              81M-KRYPTON-36
++                                    HALFLIFE = 13.1 SECONDS 
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  9.9998E+01
+   1.9062E-01  9.9998E+01  9.9998E+01  0.0000E+00                      
+   0.0000E+00  2.5000E-03
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   7.63E-06% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  1.906E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  1.905E-01 MEV
+ PERCENT ERROR =  8.400E-02                      
+%%%%  81 KR  36 M  IT EC        1.31000E+01 13.10 S    02-11-2005       BALAEND 
+%%%%  81 KR  36 M  IT EC        1.31000E+01 13.10 S    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              81M-KRYPTON-36
++                                    HALFLIFE = 13.1 SECONDS 
++                                                                  02-11-2005
+
+            MODES OF DECAY: ISOMERIC LEVEL, ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           I.C.E. + GAMMA   1   1.00E+00   1.905E-01   E3 MULTIPOLE                             
++                                                                    AK= 0.399                  
+                                                       AL1=0.0378    AL2=0.0158                 
+                                                       AL3=0.0160    AM= 0.0116                 
+           ELECT. CAPTURE   1   2.50E-05   4.713E-01   ALLOWED                                  
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Feb-1997
+%%%%  81 KR  36 M  IT EC        1.31000E+01 13.10 S    02-11-2005       INPUEND 
+%%%%  81 KR  36 M  IT EC        1.31000E+01 13.10 S    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              81M-KRYPTON-36
++                                    HALFLIFE = 13.1 SECONDS 
++                                                                  02-11-2005
+
+            MODES OF DECAY: ISOMERIC LEVEL, ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      1   6.75E-01    1.905E-01    1.29E-01
+           K CONV. ELECTRON, GAMMA-RAY    1   2.69E-01    1.762E-01    4.74E-02
+           L1 CONV. ELECTRON, GAMMA-RAY   1   2.55E-02    1.886E-01    4.81E-03
+           L2 CONV. ELECTRON, GAMMA-RAY   1   1.07E-02    1.887E-01    2.01E-03
+           L3 CONV. ELECTRON, GAMMA-RAY   1   1.08E-02    1.888E-01    2.04E-03
+           M CONV. ELECTRON, GAMMA-RAY    1   7.81E-03    1.903E-01*   1.49E-03
+           N+ CONV. ELECTRON, GAMMA-RAY   1   8.41E-04    1.905E-01*   1.60E-04
+           K -L2 X-RAY                        5.08E-02    1.255E-02    6.38E-04
+           K -L3 X-RAY                        9.80E-02    1.261E-02    1.24E-03
+           K -M3 X-RAY                        1.39E-02    1.407E-02    1.96E-04
+           AUGER KLL                          7.25E-02    1.080E-02*   7.83E-04
+           AUGER KLX                          2.30E-02    1.234E-02*   2.84E-04
+           AUGER LMM                          3.31E-01    1.407E-03*   4.66E-04
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.31E-01
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.82E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.95E-02
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.46E-04
+           ALL LISTED RADIATIONS                                       1.90E-01
+           ALL NEGLECTED RADIATIONS**                                  3.28E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 81-KRYPTON
+             DAUGHTER IS 9.9998E-01  PER TRANSFORMATION OF  81M-KRYPTON.
+             DECAY OF THIS 229000 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 81-BROMINE
+             DAUGHTER IS 2.5000E-05  PER TRANSFORMATION OF  81M-KRYPTON.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Feb-1997
+%%%%  81 KR  36 M  IT EC        1.31000E+01 13.10 S    02-11-2005       OUTPEND 
+%%%%  81 KR  36 M  IT EC        1.31000E+01 13.10 S    02-11-2005       SEEISTAR
+ 81.M KRYPTON      36.  1.310E+01 SECONDS   89 IT EC                 81.KR 36.   0
+ 1 1  6.75199E+01  1.90460E-01  1.90460E-01  0.00000E+00             81.KR 36.   1   1
+ 6 1  2.69130E+01  1.76180E-01  1.76180E-01  1.00000E+00             81.KR 36.   2   1
+ 6 5  2.55162E+00  1.88558E-01  1.88558E-01  1.00000E+00             81.KR 36.   3   5
+ 6 6  1.06526E+00  1.88732E-01  1.88732E-01  1.00000E+00             81.KR 36.   4   6
+ 6 7  1.08225E+00  1.88787E-01  1.88787E-01  1.00000E+00             81.KR 36.   5   7
+ 6 3  7.81308E-01  1.90253E-01  1.90253E-01  1.00000E+00             81.KR 36.   6   3
+ 6 4  8.41337E-02  1.90460E-01  1.90460E-01  1.00000E+00             81.KR 36.   7   4
+ 2 1  5.08304E+00  1.25517E-02  1.25517E-02  0.00000E+00             81.KR 36.   8   1
+ 2 2  9.80170E+00  1.26066E-02  1.26066E-02  0.00000E+00             81.KR 36.   9   2
+ 2 3  7.15157E-01  1.40649E-02  1.40649E-02  0.00000E+00             81.KR 36.  10   3
+ 2 4  1.39471E+00  1.40730E-02  1.40730E-02  0.00000E+00             81.KR 36.  11   4
+ 2 5  2.08502E-03  1.41846E-02  1.41846E-02  0.00000E+00             81.KR 36.  12   5
+ 2 6  2.98735E-03  1.41860E-02  1.41860E-02  0.00000E+00             81.KR 36.  13   6
+ 2 7  6.28416E-02  1.42666E-02  1.42666E-02  0.00000E+00             81.KR 36.  14   7
+ 2 8  1.20890E-01  1.42673E-02  1.42673E-02  0.00000E+00             81.KR 36.  15   8
+ 221  9.22643E-05  1.74000E-04  1.74000E-04  0.00000E+00             81.KR 36.  16  21
+ 222  5.31464E-04  2.28901E-04  2.28901E-04  0.00000E+00             81.KR 36.  17  22
+ 223  7.21641E-03  1.68718E-03  1.68718E-03  0.00000E+00             81.KR 36.  18  23
+ 224  1.28359E-02  1.69534E-03  1.69534E-03  0.00000E+00             81.KR 36.  19  24
+ 225  4.24554E-05  1.80695E-03  1.80695E-03  0.00000E+00             81.KR 36.  20  25
+ 226  6.31753E-05  1.80832E-03  1.80832E-03  0.00000E+00             81.KR 36.  21  26
+ 227  6.76699E-04  1.88887E-03  1.88887E-03  0.00000E+00             81.KR 36.  22  27
+ 228  1.19610E-03  1.88958E-03  1.88958E-03  0.00000E+00             81.KR 36.  23  28
+ 241  2.11938E-08  5.49000E-05  5.49000E-05  0.00000E+00             81.KR 36.  24  41
+ 242  3.98933E-02  1.45013E-03  1.45013E-03  0.00000E+00             81.KR 36.  25  42
+ 243  2.77098E-04  1.52134E-03  1.52134E-03  0.00000E+00             81.KR 36.  26  43
+ 244  2.06185E-01  1.63295E-03  1.63295E-03  0.00000E+00             81.KR 36.  27  44
+ 245  1.97451E-03  1.70086E-03  1.70086E-03  0.00000E+00             81.KR 36.  28  45
+ 246  4.31655E-06  1.71558E-03  1.71558E-03  0.00000E+00             81.KR 36.  29  46
+ 261  9.92152E-02  1.39523E-03  1.39523E-03  0.00000E+00             81.KR 36.  30  61
+ 262  3.34247E-04  1.45829E-03  1.45829E-03  0.00000E+00             81.KR 36.  31  62
+ 263  3.19094E-04  1.46644E-03  1.46644E-03  0.00000E+00             81.KR 36.  32  63
+ 264  3.97580E-02  1.57805E-03  1.57805E-03  0.00000E+00             81.KR 36.  33  64
+ 265  3.86964E-01  1.57942E-03  1.57942E-03  0.00000E+00             81.KR 36.  34  65
+ 266  3.69654E-03  1.64596E-03  1.64596E-03  0.00000E+00             81.KR 36.  35  66
+ 267  4.35341E-06  1.65997E-03  1.65997E-03  0.00000E+00             81.KR 36.  36  67
+ 268  4.12858E-06  1.66068E-03  1.66068E-03  0.00000E+00             81.KR 36.  37  68
+ 291  7.38279E-03  1.24939E-04  1.24939E-04  0.00000E+00             81.KR 36.  38  91
+ 294  2.15276E+02  1.93791E-05  1.93791E-05  0.00000E+00             81.KR 36.  39  94
+ 7 1  7.24870E+00  1.07980E-02  1.07980E-02  0.00000E+00             81.KR 36.  40   1
+ 7 2  2.30065E+00  1.23371E-02  1.23371E-02  0.00000E+00             81.KR 36.  41   2
+ 7 3  1.80281E-01  1.38786E-02  1.38786E-02  0.00000E+00             81.KR 36.  42   3
+ 7 4  6.39987E+00  9.82524E-05  9.82524E-05  0.00000E+00             81.KR 36.  43   4
+ 7 5  3.31218E+01  1.40715E-03  1.40715E-03  0.00000E+00             81.KR 36.  44   5
+ 7 6  2.39096E+00  1.51159E-03  1.51159E-03  0.00000E+00             81.KR 36.  45   6
+ 7 7  6.85276E-02  1.67036E-03  1.67036E-03  0.00000E+00             81.KR 36.  46   7
+ 7 8  3.69770E+01  6.54780E-05  6.54780E-05  0.00000E+00             81.KR 36.  47   8
+ 7 9  9.41951E+01  5.62585E-05  5.62585E-05  0.00000E+00             81.KR 36.  48   9
+ 2 1  3.97278E-04  1.18329E-02  1.18329E-02  0.00000E+00             81.KR 36.  49   1
+ 2 2  7.67041E-04  1.18814E-02  1.18814E-02  0.00000E+00             81.KR 36.  50   2
+ 2 3  5.47967E-05  1.32432E-02  1.32432E-02  0.00000E+00             81.KR 36.  51   3
+ 2 4  1.06916E-04  1.32502E-02  1.32502E-02  0.00000E+00             81.KR 36.  52   4
+ 2 5  1.44108E-07  1.33554E-02  1.33554E-02  0.00000E+00             81.KR 36.  53   5
+ 2 6  2.06898E-07  1.33565E-02  1.33565E-02  0.00000E+00             81.KR 36.  54   6
+ 2 7  3.65333E-06  1.34234E-02  1.34234E-02  0.00000E+00             81.KR 36.  55   7
+ 2 8  7.03087E-06  1.34240E-02  1.34240E-02  0.00000E+00             81.KR 36.  56   8
+ 221  8.57946E-09  1.67100E-04  1.67100E-04  0.00000E+00             81.KR 36.  57  21
+ 222  4.83533E-08  2.15600E-04  2.15600E-04  0.00000E+00             81.KR 36.  58  22
+ 223  6.16807E-07  1.57738E-03  1.57738E-03  0.00000E+00             81.KR 36.  59  23
+ 224  1.10300E-06  1.58442E-03  1.58442E-03  0.00000E+00             81.KR 36.  60  24
+ 225  3.36172E-09  1.68961E-03  1.68961E-03  0.00000E+00             81.KR 36.  61  25
+ 226  5.00021E-09  1.69075E-03  1.69075E-03  0.00000E+00             81.KR 36.  62  26
+ 227  4.38117E-08  1.75761E-03  1.75761E-03  0.00000E+00             81.KR 36.  63  27
+ 228  7.78071E-08  1.75817E-03  1.75817E-03  0.00000E+00             81.KR 36.  64  28
+ 241  1.35991E-12  4.85000E-05  4.85000E-05  0.00000E+00             81.KR 36.  65  41
+ 242  3.14755E-06  1.35061E-03  1.35061E-03  0.00000E+00             81.KR 36.  66  42
+ 243  2.02542E-08  1.41732E-03  1.41732E-03  0.00000E+00             81.KR 36.  67  43
+ 244  1.35973E-05  1.52251E-03  1.52251E-03  0.00000E+00             81.KR 36.  68  44
+ 245  1.42667E-07  1.57792E-03  1.57792E-03  0.00000E+00             81.KR 36.  69  45
+ 246  2.23132E-10  1.59107E-03  1.59107E-03  0.00000E+00             81.KR 36.  70  46
+ 261  8.02868E-06  1.30211E-03  1.30211E-03  0.00000E+00             81.KR 36.  71  61
+ 262  2.57120E-08  1.36178E-03  1.36178E-03  0.00000E+00             81.KR 36.  72  62
+ 263  2.45985E-08  1.36881E-03  1.36881E-03  0.00000E+00             81.KR 36.  73  63
+ 264  2.76431E-06  1.47401E-03  1.47401E-03  0.00000E+00             81.KR 36.  74  64
+ 265  2.70716E-05  1.47515E-03  1.47515E-03  0.00000E+00             81.KR 36.  75  65
+ 266  2.83092E-07  1.52943E-03  1.52943E-03  0.00000E+00             81.KR 36.  76  66
+ 267  2.37155E-10  1.54201E-03  1.54201E-03  0.00000E+00             81.KR 36.  77  67
+ 268  2.25075E-10  1.54257E-03  1.54257E-03  0.00000E+00             81.KR 36.  78  68
+ 291  4.69060E-07  1.15520E-04  1.15520E-04  0.00000E+00             81.KR 36.  79  91
+ 294  1.79323E-02  1.75894E-05  1.75894E-05  0.00000E+00             81.KR 36.  80  94
+ 7 1  6.35567E-04  1.02029E-02  1.02029E-02  0.00000E+00             81.KR 36.  81   1
+ 7 2  1.94426E-04  1.16354E-02  1.16354E-02  0.00000E+00             81.KR 36.  82   2
+ 7 3  1.49206E-05  1.30708E-02  1.30708E-02  0.00000E+00             81.KR 36.  83   3
+ 7 4  5.63471E-04  9.09391E-05  9.09391E-05  0.00000E+00             81.KR 36.  84   4
+ 7 5  2.67465E-03  1.32095E-03  1.32095E-03  0.00000E+00             81.KR 36.  85   5
+ 7 6  1.58831E-04  1.41199E-03  1.41199E-03  0.00000E+00             81.KR 36.  86   6
+ 7 7  3.63479E-06  1.55422E-03  1.55422E-03  0.00000E+00             81.KR 36.  87   7
+ 7 8  3.12246E-03  5.77330E-05  5.77330E-05  0.00000E+00             81.KR 36.  88   8
+ 7 9  8.07015E-03  4.38624E-05  4.38624E-05  0.00000E+00             81.KR 36.  89   9
+%%%%  81 KR  36 M  IT EC        1.31000E+01 13.10 S    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   1.28598E-01
+    X-ray                           (MeV) =   2.21019E-03
+    Free-bound X-ray                (MeV) =   4.17218E-05
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   1.14658E-05
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   5.79270E-02
+    Auger and CK electron           (MeV) =   1.67855E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   1.90467E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   1.90627E-01
+  Ratio of E-total/Q-value          ( % ) =   9.99162E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   6.75199E-01
+    X-ray                                 =   1.79935E-01
+    Free-bound X-ray                      =   2.15294E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   3.24776E-01
+    Auger and CK electron                 =   1.82898E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

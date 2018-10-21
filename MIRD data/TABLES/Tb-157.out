@@ -1,0 +1,58 @@
+ 157-TERBIUM-65          HALFLIFE = 71 YEARS   
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ K -L2 X-RAY                        2.98E-02    4.236E-02    1.26E-03
+ K -L3 X-RAY                        5.36E-02    4.306E-02    2.31E-03
+ K -M2 X-RAY                        5.45E-03    4.862E-02    2.65E-04
+ K -M3 X-RAY                        1.05E-02    4.876E-02    5.14E-04
+ K -N2 X-RAY                        1.20E-03    4.999E-02    5.99E-05
+ K -N3 X-RAY                        2.32E-03    5.002E-02    1.16E-04
+ K -O2 X-RAY                        2.52E-04    5.027E-02    1.27E-05
+ K -O3 X-RAY                        5.20E-04    5.027E-02    2.61E-05
+ L1-M2 X-RAY                        1.50E-02    6.663E-03    9.98E-05
+ L1-M3 X-RAY                        2.14E-02    6.808E-03    1.45E-04
+ L1-N2 X-RAY                        3.55E-03    8.038E-03    2.86E-05
+ L1-N3 X-RAY                        5.28E-03    8.071E-03    4.26E-05
+ L1-03 X-RAY                        7.07E-04    8.320E-03    5.88E-06
+ L2-M1 X-RAY                        1.01E-03    6.082E-03    6.15E-06
+ L2-M4 X-RAY                        2.78E-02    6.715E-03    1.86E-04
+ L2-N4 X-RAY                        4.88E-03    7.785E-03    3.80E-05
+ L3-M1 X-RAY                        2.88E-03    5.378E-03    1.55E-05
+ L3-M4 X-RAY                        4.01E-03    6.011E-03    2.41E-05
+ L3-M5 X-RAY                        3.54E-02    6.043E-03    2.14E-04
+ L3-N5 X-RAY                        6.02E-03    7.086E-03    4.27E-05
+ M X-RAY                            1.28E-02    1.107E-03*   1.42E-05
+ Free-Bound X-RAY                   9.65E+00    1.949E-05*   1.88E-04
+ AUGER KLL                          4.65E-03    3.474E-02*   1.62E-04
+ AUGER KLX                          2.30E-03    4.115E-02*   9.48E-05
+ AUGER KXY                          2.73E-04    4.756E-02*   1.30E-05
+ CK LLX                             3.78E-01    6.114E-04*   2.31E-04
+ AUGER LMM                          4.42E-01    4.984E-03*   2.20E-03
+ AUGER LMX                          1.57E-01    6.164E-03*   9.67E-04
+ AUGER LXY                          1.39E-02    7.390E-03*   1.03E-04
+ CK MMX                             8.27E-01    1.842E-04*   1.52E-04
+ AUGER MNN                          1.26E+00    9.080E-04*   1.14E-03
+ AUGER MNX                          8.78E-02    1.100E-03*   9.66E-05
+ CK NNX                             4.38E+00    1.129E-04*   4.94E-04
+ AUGER NXY                          3.67E-01    1.322E-04*   4.85E-05
+ CK OOX                             6.82E-01    1.686E-05*   1.15E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    5.62E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     3.78E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.72E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.83E-05
+ ALL LISTED RADIATIONS                                       1.13E-02
+ ALL NEGLECTED RADIATIONS**                                  5.60E-05
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 157-GADOLINIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 157-TERBIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

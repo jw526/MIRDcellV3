@@ -1,0 +1,34 @@
+ 90-YTTRIUM-39           HALFLIFE = 64.1 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     3   1.00E+00    9.330E-01*   9.33E-01
+ GAMMA-RAY                      2   1.40E-08    2.186E+00    3.06E-08
+ K -L2 X-RAY                        2.16E-05    1.565E-02    3.37E-07
+ K -L3 X-RAY                        4.12E-05    1.574E-02    6.49E-07
+ K -M2 X-RAY                        3.25E-06    1.762E-02    5.73E-08
+ K -M3 X-RAY                        6.33E-06    1.763E-02    1.12E-07
+ K -N2 X-RAY                        5.33E-07    1.792E-02    9.55E-09
+ K -N3 X-RAY                        1.02E-06    1.793E-02    1.83E-08
+ L2-M4 X-RAY                        9.70E-07    2.119E-03    2.06E-09
+ L3-M5 X-RAY                        2.10E-06    2.034E-03    4.26E-09
+ Free-Bound X-RAY                   1.39E-03    6.524E-06*   9.05E-09
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.23E-06
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.38E-09
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   9.33E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.23E-04
+ ALL LISTED RADIATIONS                                       9.33E-01
+ ALL NEGLECTED RADIATIONS**                                  2.23E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 90-ZIRCONIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  90-YTTRIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

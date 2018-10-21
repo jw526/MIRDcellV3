@@ -1,0 +1,71 @@
+ 79-KRYPTON-36           HALFLIFE = 35.04 HOURS   
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      3   1.70E-03    1.523E-01*   2.58E-04
+ BETA PLUS                      4   6.67E-02    2.632E-01*   1.76E-02
+ ANNIHILATION RADIATION             1.37E-01    5.110E-01    7.02E-02
+ K CONV. ELECTRON, GAMMA-RAY    1   2.22E-03    3.077E-02    6.82E-05
+ GAMMA-RAY                      2   8.51E-03    1.361E-01    1.16E-03
+ K CONV. ELECTRON, GAMMA-RAY    2   4.80E-04    1.227E-01    5.88E-05
+ GAMMA-RAY                      4   7.75E-03    2.085E-01    1.62E-03
+ K CONV. ELECTRON, GAMMA-RAY    4   1.24E-04    1.950E-01    2.42E-05
+ GAMMA-RAY                      5   2.37E-02    2.171E-01    5.16E-03
+ K CONV. ELECTRON, GAMMA-RAY    5   3.17E-04    2.036E-01    6.45E-05
+ GAMMA-RAY                      6   1.27E-01    2.613E-01    3.32E-02
+ K CONV. ELECTRON, GAMMA-RAY    6   1.08E-03    2.479E-01    2.67E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   6   1.12E-04    2.595E-01    2.91E-05
+ GAMMA-RAY                      8   1.54E-02    2.995E-01    4.60E-03
+ K CONV. ELECTRON, GAMMA-RAY    8   1.12E-04    2.861E-01    3.20E-05
+ GAMMA-RAY                      9   2.60E-02    3.065E-01    7.98E-03
+ K CONV. ELECTRON, GAMMA-RAY    9   1.47E-04    2.930E-01    4.31E-05
+ GAMMA-RAY                     10   2.36E-03    3.447E-01    8.14E-04
+ GAMMA-RAY                     11   1.51E-02    3.890E-01    5.88E-03
+ GAMMA-RAY                     12   9.33E-02    3.975E-01    3.71E-02
+ K CONV. ELECTRON, GAMMA-RAY   12   3.03E-04    3.841E-01    1.16E-04
+ GAMMA-RAY                     15   8.89E-04    5.066E-01    4.50E-04
+ GAMMA-RAY                     16   2.29E-03    5.232E-01    1.20E-03
+ GAMMA-RAY                     17   3.94E-03    5.253E-01    2.07E-03
+ GAMMA-RAY                     20   8.12E-02    6.061E-01    4.92E-02
+ K CONV. ELECTRON, GAMMA-RAY   20   9.35E-05    5.927E-01    5.54E-05
+ GAMMA-RAY                     21   9.53E-04    6.149E-01    5.86E-04
+ GAMMA-RAY                     26   9.65E-04    8.092E-01    7.81E-04
+ GAMMA-RAY                     27   1.26E-02    8.320E-01    1.05E-02
+ GAMMA-RAY                     28   3.81E-04    8.511E-01    3.24E-04
+ GAMMA-RAY                     32   1.21E-03    9.348E-01    1.13E-03
+ GAMMA-RAY                     33   1.51E-03    1.026E+00    1.55E-03
+ GAMMA-RAY                     34   6.10E-04    1.071E+00    6.53E-04
+ GAMMA-RAY                     37   6.60E-04    1.113E+00    7.35E-04
+ GAMMA-RAY                     38   3.72E-03    1.115E+00    4.15E-03
+ GAMMA-RAY                     39   4.19E-04    1.132E+00    4.74E-04
+ GAMMA-RAY                     42   4.31E-03    1.332E+00    5.74E-03
+ K -L2 X-RAY                        1.50E-01    1.183E-02    1.77E-03
+ K -L3 X-RAY                        2.89E-01    1.188E-02    3.43E-03
+ K -M2 X-RAY                        2.06E-02    1.324E-02    2.73E-04
+ K -M3 X-RAY                        4.03E-02    1.325E-02    5.33E-04
+ AUGER KLL                          2.39E-01    1.020E-02*   2.44E-03
+ AUGER KLX                          7.32E-02    1.164E-02*   8.52E-04
+ AUGER KXY                          5.62E-03    1.307E-02*   7.34E-05
+ AUGER LMM                          1.00E+00    1.321E-03*   1.33E-03
+ AUGER LMX                          5.96E-02    1.412E-03*   8.41E-05
+ CK MMX                             1.17E+00    5.773E-05*   6.76E-05
+ AUGER MNN                          3.03E+00    4.386E-05*   1.33E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.53E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.77E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.36E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.72E-04
+ ALL LISTED RADIATIONS                                       2.77E-01
+ ALL NEGLECTED RADIATIONS**                                  1.95E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 79-BROMINE
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  79-KRYPTON.
+   THIS DAUGHTER GROUND STATE IS STABLE.

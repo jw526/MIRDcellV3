@@ -1,0 +1,132 @@
+ 201-LEAD-82             HALFLIFE = 9.33 HOURS   
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      1   6.37E-04    2.780E-01*   1.77E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   1   3.87E-03    4.359E-02    1.69E-04
+ K CONV. ELECTRON, GAMMA-RAY    3   1.74E-03    3.840E-02    6.69E-05
+ K CONV. ELECTRON, GAMMA-RAY    4   3.89E-03    4.412E-02    1.72E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   4   6.01E-04    1.146E-01    6.89E-05
+ K CONV. ELECTRON, GAMMA-RAY    5   3.00E-03    6.951E-02    2.09E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   5   4.64E-04    1.400E-01    6.50E-05
+ K CONV. ELECTRON, GAMMA-RAY    6   6.94E-04    1.170E-01    8.11E-05
+ K CONV. ELECTRON, GAMMA-RAY    7   6.92E-04    1.461E-01    1.01E-04
+ K CONV. ELECTRON, GAMMA-RAY    8   1.08E-03    1.552E-01    1.67E-04
+ K CONV. ELECTRON, GAMMA-RAY   10   3.09E-04    1.993E-01    6.15E-05
+ GAMMA-RAY                     14   7.91E-01    3.312E-01    2.62E-01
+ K CONV. ELECTRON, GAMMA-RAY   14   8.62E-02    2.454E-01    2.12E-02
+ L1 CONV. ELECTRON, GAMMA-RAY  14   1.29E-02    3.158E-01    4.08E-03
+ L2 CONV. ELECTRON, GAMMA-RAY  14   6.09E-03    3.164E-01    1.93E-03
+ L3 CONV. ELECTRON, GAMMA-RAY  14   2.53E-03    3.185E-01    8.07E-04
+ M CONV. ELECTRON, GAMMA-RAY   14   5.27E-03    3.282E-01*   1.73E-03
+ N+ CONV. ELECTRON, GAMMA-RAY  14   1.65E-03    3.312E-01*   5.46E-04
+ K CONV. ELECTRON, GAMMA-RAY   15   2.46E-04    2.557E-01    6.28E-05
+ GAMMA-RAY                     16   2.85E-03    3.450E-01    9.83E-04
+ K CONV. ELECTRON, GAMMA-RAY   16   6.62E-04    2.592E-01    1.72E-04
+ GAMMA-RAY                     17   9.89E-02    3.613E-01    3.57E-02
+ K CONV. ELECTRON, GAMMA-RAY   17   2.02E-02    2.755E-01    5.56E-03
+ L1 CONV. ELECTRON, GAMMA-RAY  17   3.08E-03    3.459E-01    1.06E-03
+ L2 CONV. ELECTRON, GAMMA-RAY  17   2.86E-04    3.465E-01    9.90E-05
+ M CONV. ELECTRON, GAMMA-RAY   17   7.94E-04    3.583E-01*   2.84E-04
+ N+ CONV. ELECTRON, GAMMA-RAY  17   2.52E-04    3.613E-01*   9.10E-05
+ GAMMA-RAY                     18   2.29E-03    3.814E-01    8.75E-04
+ K CONV. ELECTRON, GAMMA-RAY   18   4.08E-04    2.956E-01    1.21E-04
+ K CONV. ELECTRON, GAMMA-RAY   19   2.68E-04    3.091E-01    8.28E-05
+ GAMMA-RAY                     20   2.01E-02    4.060E-01    8.16E-03
+ K CONV. ELECTRON, GAMMA-RAY   20   3.02E-03    3.202E-01    9.68E-04
+ L1 CONV. ELECTRON, GAMMA-RAY  20   4.60E-04    3.907E-01    1.80E-04
+ GAMMA-RAY                     22   3.56E-03    4.650E-01    1.65E-03
+ K CONV. ELECTRON, GAMMA-RAY   22   3.74E-04    3.792E-01    1.42E-04
+ GAMMA-RAY                     24   1.66E-03    5.144E-01    8.54E-04
+ GAMMA-RAY                     25   2.61E-03    5.410E-01    1.41E-03
+ K CONV. ELECTRON, GAMMA-RAY   25   1.84E-04    4.552E-01    8.37E-05
+ GAMMA-RAY                     26   2.69E-03    5.463E-01    1.47E-03
+ K CONV. ELECTRON, GAMMA-RAY   26   1.85E-04    4.605E-01    8.50E-05
+ GAMMA-RAY                     28   3.56E-02    5.846E-01    2.08E-02
+ K CONV. ELECTRON, GAMMA-RAY   28   1.96E-03    4.988E-01    9.76E-04
+ L1 CONV. ELECTRON, GAMMA-RAY  28   2.95E-04    5.692E-01    1.68E-04
+ GAMMA-RAY                     29   3.24E-03    5.976E-01    1.94E-03
+ GAMMA-RAY                     30   4.27E-03    6.380E-01    2.73E-03
+ K CONV. ELECTRON, GAMMA-RAY   30   1.96E-04    5.522E-01    1.08E-04
+ GAMMA-RAY                     31   4.27E-02    6.924E-01    2.96E-02
+ K CONV. ELECTRON, GAMMA-RAY   31   4.45E-04    6.066E-01    2.70E-04
+ GAMMA-RAY                     32   7.67E-03    7.088E-01    5.44E-03
+ K CONV. ELECTRON, GAMMA-RAY   32   2.68E-04    6.230E-01    1.67E-04
+ GAMMA-RAY                     33   1.42E-03    7.275E-01    1.04E-03
+ GAMMA-RAY                     34   1.52E-03    7.534E-01    1.14E-03
+ GAMMA-RAY                     35   3.16E-02    7.673E-01    2.43E-02
+ K CONV. ELECTRON, GAMMA-RAY   35   9.00E-04    6.815E-01    6.14E-04
+ L1 CONV. ELECTRON, GAMMA-RAY  35   1.35E-04    7.520E-01    1.02E-04
+ GAMMA-RAY                     36   5.93E-03    7.873E-01    4.67E-03
+ K CONV. ELECTRON, GAMMA-RAY   36   1.58E-04    7.015E-01    1.11E-04
+ GAMMA-RAY                     37   1.51E-02    8.037E-01    1.21E-02
+ K CONV. ELECTRON, GAMMA-RAY   37   1.18E-04    7.179E-01    8.44E-05
+ GAMMA-RAY                     38   2.36E-02    8.262E-01    1.95E-02
+ K CONV. ELECTRON, GAMMA-RAY   38   2.12E-04    7.404E-01    1.57E-04
+ GAMMA-RAY                     39   5.70E-02    9.076E-01    5.17E-02
+ K CONV. ELECTRON, GAMMA-RAY   39   9.15E-04    8.218E-01    7.52E-04
+ L1 CONV. ELECTRON, GAMMA-RAY  39   1.36E-04    8.922E-01    1.22E-04
+ GAMMA-RAY                     40   7.36E-02    9.460E-01    6.96E-02
+ K CONV. ELECTRON, GAMMA-RAY   40   1.07E-03    8.602E-01    9.17E-04
+ L1 CONV. ELECTRON, GAMMA-RAY  40   1.59E-04    9.306E-01    1.48E-04
+ GAMMA-RAY                     41   4.75E-03    9.468E-01    4.49E-03
+ K CONV. ELECTRON, GAMMA-RAY   41   7.90E-05    8.610E-01    6.81E-05
+ GAMMA-RAY                     43   6.41E-03    9.992E-01    6.40E-03
+ K CONV. ELECTRON, GAMMA-RAY   43   9.31E-05    9.134E-01    8.50E-05
+ GAMMA-RAY                     47   1.14E-02    1.070E+00    1.22E-02
+ GAMMA-RAY                     48   8.62E-03    1.089E+00    9.39E-03
+ GAMMA-RAY                     49   1.83E-02    1.099E+00    2.01E-02
+ K CONV. ELECTRON, GAMMA-RAY   49   1.01E-04    1.013E+00    1.02E-04
+ GAMMA-RAY                     50   1.66E-03    1.115E+00    1.85E-03
+ GAMMA-RAY                     52   7.59E-03    1.149E+00    8.72E-03
+ GAMMA-RAY                     53   1.34E-03    1.158E+00    1.56E-03
+ GAMMA-RAY                     55   1.18E-02    1.239E+00    1.46E-02
+ K CONV. ELECTRON, GAMMA-RAY   55   5.87E-05    1.153E+00    6.77E-05
+ GAMMA-RAY                     56   1.63E-02    1.277E+00    2.08E-02
+ K CONV. ELECTRON, GAMMA-RAY   56   1.27E-04    1.191E+00    1.51E-04
+ GAMMA-RAY                     57   6.49E-04    1.286E+00    8.34E-04
+ GAMMA-RAY                     58   5.46E-03    1.308E+00    7.14E-03
+ GAMMA-RAY                     60   4.27E-03    1.341E+00    5.73E-03
+ GAMMA-RAY                     62   1.32E-03    1.401E+00    1.85E-03
+ GAMMA-RAY                     63   9.18E-04    1.424E+00    1.31E-03
+ GAMMA-RAY                     65   1.64E-03    1.480E+00    2.42E-03
+ K -L2 X-RAY                        2.58E-01    7.105E-02    1.83E-02
+ K -L3 X-RAY                        4.36E-01    7.314E-02    3.19E-02
+ K -M2 X-RAY                        4.83E-02    8.239E-02    3.98E-03
+ K -M3 X-RAY                        9.36E-02    8.285E-02    7.75E-03
+ K -N2 X-RAY                        1.15E-02    8.508E-02    9.75E-04
+ K -N3 X-RAY                        2.25E-02    8.520E-02    1.92E-03
+ L2-M4 X-RAY                        9.46E-02    1.225E-02    1.16E-03
+ L3-M5 X-RAY                        1.50E-01    1.027E-02    1.54E-03
+ AUGER KLL                          2.24E-02    5.722E-02*   1.28E-03
+ AUGER KLX                          1.22E-02    6.881E-02*   8.38E-04
+ AUGER KXY                          1.60E-03    8.040E-02*   1.28E-04
+ CK LLX                             1.84E-01    8.869E-04*   1.63E-04
+ AUGER LMM                          4.01E-01    7.844E-03*   3.14E-03
+ AUGER LMX                          1.74E-01    1.014E-02*   1.77E-03
+ AUGER LXY                          1.82E-02    1.245E-02*   2.27E-04
+ CK MMX                             5.61E-01    4.178E-04*   2.34E-04
+ AUGER MNN                          1.35E+00    1.859E-03*   2.51E-03
+ AUGER MNX                          1.59E-01    2.104E-03*   3.35E-04
+ CK NNX                             2.57E+00    1.745E-04*   4.48E-04
+ AUGER NXY                          4.90E+00    7.577E-05*   3.71E-04
+ CK OOX                             3.28E+00    4.301E-05*   1.41E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    7.44E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.18E-02
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.73E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.04E-03
+ ALL LISTED RADIATIONS                                       8.02E-01
+ ALL NEGLECTED RADIATIONS**                                  1.38E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 201-THALLIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 201-LEAD.
+   DECAY OF THIS 72.912 HOURS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

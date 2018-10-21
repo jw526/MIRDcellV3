@@ -1,0 +1,58 @@
+ 203-LEAD-82             HALFLIFE = 51.873 HOURS   
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   8.08E-01    2.792E-01    2.26E-01
+ K CONV. ELECTRON, GAMMA-RAY    1   1.36E-01    1.934E-01    2.63E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   1   2.04E-02    2.639E-01    5.39E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   1   1.08E-02    2.645E-01    2.85E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   1   4.91E-03    2.665E-01    1.31E-03
+ M CONV. ELECTRON, GAMMA-RAY    1   8.88E-03    2.763E-01*   2.45E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   2.77E-03    2.792E-01*   7.74E-04
+ GAMMA-RAY                      2   3.35E-02    4.013E-01    1.34E-02
+ K CONV. ELECTRON, GAMMA-RAY    2   5.19E-03    3.155E-01    1.64E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   2   7.89E-04    3.860E-01    3.05E-04
+ M CONV. ELECTRON, GAMMA-RAY    2   2.02E-04    3.984E-01*   8.06E-05
+ GAMMA-RAY                      3   7.53E-03    6.805E-01    5.12E-03
+ K -L2 X-RAY                        2.58E-01    7.105E-02    1.83E-02
+ K -L3 X-RAY                        4.35E-01    7.314E-02    3.18E-02
+ K -M2 X-RAY                        4.82E-02    8.239E-02    3.97E-03
+ K -M3 X-RAY                        9.33E-02    8.285E-02    7.73E-03
+ K -N2 X-RAY                        1.14E-02    8.508E-02    9.72E-04
+ K -N3 X-RAY                        2.24E-02    8.520E-02    1.91E-03
+ K -O3 X-RAY                        5.17E-03    8.572E-02    4.43E-04
+ L2-M4 X-RAY                        9.59E-02    1.225E-02    1.17E-03
+ L3-M5 X-RAY                        1.51E-01    1.027E-02    1.55E-03
+ L3-N5 X-RAY                        2.88E-02    1.227E-02    3.54E-04
+ AUGER KLL                          2.23E-02    5.722E-02*   1.28E-03
+ AUGER KLX                          1.21E-02    6.881E-02*   8.36E-04
+ AUGER KXY                          1.59E-03    8.040E-02*   1.28E-04
+ CK LLX                             1.89E-01    8.845E-04*   1.67E-04
+ AUGER LMM                          4.05E-01    7.847E-03*   3.18E-03
+ AUGER LMX                          1.76E-01    1.014E-02*   1.79E-03
+ AUGER LXY                          1.84E-02    1.246E-02*   2.30E-04
+ CK MMX                             5.69E-01    4.181E-04*   2.38E-04
+ AUGER MNN                          1.37E+00    1.859E-03*   2.55E-03
+ AUGER MNX                          1.61E-01    2.104E-03*   3.39E-04
+ CK NNX                             2.60E+00    1.745E-04*   4.54E-04
+ AUGER NXY                          4.96E+00    7.579E-05*   3.76E-04
+ CK OOX                             3.33E+00    4.301E-05*   1.43E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    3.12E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.94E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.28E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.41E-04
+ ALL LISTED RADIATIONS                                       3.65E-01
+ ALL NEGLECTED RADIATIONS**                                  2.08E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 203-THALLIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 203-LEAD.
+   THIS DAUGHTER GROUND STATE IS STABLE.

@@ -1,0 +1,49 @@
+ 82-BROMINE-35           HALFLIFE = 35.3 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     2   1.28E-02    7.619E-02*   9.76E-04
+ BETA MINUS                     3   9.70E-01    1.378E-01*   1.34E-01
+ BETA MINUS                     4   4.93E-03    1.716E-01*   8.45E-04
+ BETA MINUS                     7   9.85E-04    3.779E-01*   3.72E-04
+ BETA MINUS                     8   3.94E-04    4.599E-01*   1.81E-04
+ BETA MINUS                     9   3.94E-03    4.741E-01*   1.87E-03
+ BETA MINUS                    10   1.97E-03    6.665E-01*   1.31E-03
+ BETA MINUS                    11   3.94E-03    9.781E-01*   3.85E-03
+ GAMMA-RAY                      6   2.26E-02    2.215E-01    5.01E-03
+ GAMMA-RAY                     11   7.08E-01    5.543E-01    3.92E-01
+ K CONV. ELECTRON, GAMMA-RAY   11   4.80E-04    5.401E-01    2.59E-04
+ GAMMA-RAY                     13   1.21E-02    6.064E-01    7.35E-03
+ GAMMA-RAY                     14   4.34E-01    6.191E-01    2.69E-01
+ K CONV. ELECTRON, GAMMA-RAY   14   6.30E-04    6.048E-01    3.81E-04
+ GAMMA-RAY                     15   2.85E-01    6.984E-01    1.99E-01
+ K CONV. ELECTRON, GAMMA-RAY   15   3.00E-04    6.841E-01    2.06E-04
+ GAMMA-RAY                     18   8.35E-01    7.765E-01    6.49E-01
+ K CONV. ELECTRON, GAMMA-RAY   18   6.88E-04    7.622E-01    5.25E-04
+ GAMMA-RAY                     19   2.40E-01    8.278E-01    1.99E-01
+ GAMMA-RAY                     20   3.68E-03    9.520E-01    3.50E-03
+ GAMMA-RAY                     21   1.27E-02    1.008E+00    1.28E-02
+ GAMMA-RAY                     22   2.72E-01    1.044E+00    2.84E-01
+ GAMMA-RAY                     24   6.18E-03    1.081E+00    6.68E-03
+ GAMMA-RAY                     28   2.65E-01    1.317E+00    3.49E-01
+ GAMMA-RAY                     29   1.63E-01    1.475E+00    2.41E-01
+ GAMMA-RAY                     30   7.43E-03    1.650E+00    1.23E-02
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.63E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     9.66E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.44E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  9.83E-04
+ ALL LISTED RADIATIONS                                       2.77E+00
+ ALL NEGLECTED RADIATIONS**                                  1.06E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 82-KRYPTON
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  82-BROMINE.
+   THIS DAUGHTER GROUND STATE IS STABLE.

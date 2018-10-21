@@ -1,0 +1,44 @@
+ 133M-XENON-54           HALFLIFE = 2.19 DAYS    
+
+  MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   1.00E-01    2.332E-01    2.33E-02
+ K CONV. ELECTRON, GAMMA-RAY    1   6.32E-01    1.987E-01    1.26E-01
+ L1 CONV. ELECTRON, GAMMA-RAY   1   1.20E-01    2.278E-01    2.74E-02
+ L2 CONV. ELECTRON, GAMMA-RAY   1   2.60E-02    2.281E-01    5.93E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   1   6.40E-02    2.284E-01    1.46E-02
+ M CONV. ELECTRON, GAMMA-RAY    1   4.70E-02    2.323E-01*   1.09E-02
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.16E-02    2.332E-01*   2.70E-03
+ K -L2 X-RAY                        1.62E-01    2.945E-02    4.76E-03
+ K -L3 X-RAY                        3.00E-01    2.978E-02    8.92E-03
+ K -M2 X-RAY                        2.81E-02    3.357E-02    9.44E-04
+ K -M3 X-RAY                        5.45E-02    3.363E-02    1.83E-03
+ K -N2 X-RAY                        5.89E-03    3.440E-02    2.03E-04
+ K -N3 X-RAY                        1.15E-02    3.441E-02    3.96E-04
+ L2-M4 X-RAY                        1.86E-02    4.413E-03    8.20E-05
+ L3-M5 X-RAY                        3.34E-02    4.097E-03    1.37E-04
+ Free-Bound X-RAY                   1.05E+01    1.662E-05*   1.75E-04
+ AUGER KLL                          4.55E-02    2.447E-02*   1.11E-03
+ AUGER KLX                          2.03E-02    2.869E-02*   5.84E-04
+ AUGER LMM                          5.35E-01    3.327E-03*   1.78E-03
+ AUGER LMX                          1.59E-01    4.005E-03*   6.36E-04
+ AUGER MNN                          1.36E+00    5.054E-04*   6.89E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.08E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.96E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.92E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  5.20E-04
+ ALL LISTED RADIATIONS                                       2.33E-01
+ ALL NEGLECTED RADIATIONS**                                  7.16E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 133-XENON
+   DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF 133M-XENON.
+   DECAY OF THIS 5.243 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

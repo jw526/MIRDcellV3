@@ -1,0 +1,46 @@
+ 97M-TECHNETIUM-43       HALFLIFE = 90.1 DAYS    
+
+  MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   3.14E-03    9.650E-02    3.03E-04
+ K CONV. ELECTRON, GAMMA-RAY    1   6.24E-01    7.549E-02    4.71E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   1   1.33E-01    9.348E-02    1.24E-02
+ L2 CONV. ELECTRON, GAMMA-RAY   1   2.96E-02    9.370E-02    2.78E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   1   1.37E-01    9.382E-02    1.29E-02
+ M CONV. ELECTRON, GAMMA-RAY    1   6.11E-02    9.608E-02*   5.87E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.06E-02    9.650E-02*   1.03E-03
+ K -L2 X-RAY                        1.41E-01    1.821E-02    2.56E-03
+ K -L3 X-RAY                        2.68E-01    1.833E-02    4.91E-03
+ K -M2 X-RAY                        2.21E-02    2.057E-02    4.55E-04
+ K -M3 X-RAY                        4.31E-02    2.059E-02    8.87E-04
+ K -N2 X-RAY                        4.27E-03    2.096E-02    8.95E-05
+ K -N3 X-RAY                        8.21E-03    2.097E-02    1.72E-04
+ L2-M4 X-RAY                        8.57E-03    2.531E-03    2.17E-05
+ L3-M5 X-RAY                        2.18E-02    2.415E-03    5.26E-05
+ Free-Bound X-RAY                   8.97E+00    7.876E-06*   7.06E-05
+ AUGER KLL                          9.75E-02    1.542E-02*   1.50E-03
+ AUGER KLX                          3.68E-02    1.782E-02*   6.57E-04
+ AUGER LMM                          7.74E-01    2.051E-03*   1.59E-03
+ AUGER LMX                          1.21E-01    2.330E-03*   2.81E-04
+ CK MMX                             8.20E-01    1.099E-04*   9.01E-05
+ AUGER MNN                          1.98E+00    2.040E-04*   4.05E-04
+ CK NNX                             3.92E+00    2.939E-05*   1.15E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    9.53E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.99E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   8.68E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.07E-04
+ ALL LISTED RADIATIONS                                       9.63E-02
+ ALL NEGLECTED RADIATIONS**                                  1.37E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 97-TECHNETIUM
+   DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF  97M-TECHNETIUM.
+   DECAY OF THIS 0.26E+07 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

@@ -1,0 +1,125 @@
+ 195M-MERCURY-80         HALFLIFE = 41.6 HOURS   
+
+  MODES OF DECAY: ISOMERIC LEVEL, ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ L1 CONV. ELECTRON, GAMMA-RAY   1   3.55E-01    1.381E-03    4.91E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   9.64E-02    1.337E-02*   1.29E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   3.02E-02    1.621E-02*   4.89E-04
+ GAMMA-RAY                      2   1.84E-02    3.709E-02    6.84E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   2   3.52E-01    2.226E-02    7.84E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   2   3.62E-02    2.284E-02    8.27E-04
+ M CONV. ELECTRON, GAMMA-RAY    2   9.21E-02    3.425E-02*   3.15E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   2   2.89E-02    3.709E-02*   1.07E-03
+ K CONV. ELECTRON, GAMMA-RAY    4   4.58E-02    3.943E-02    1.81E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   4   9.15E-02    1.080E-01    9.88E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   4   1.95E-02    1.085E-01    2.12E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   4   2.37E-01    1.105E-01    2.62E-02
+ M CONV. ELECTRON, GAMMA-RAY    4   1.15E-01    1.199E-01*   1.38E-02
+ N+ CONV. ELECTRON, GAMMA-RAY   4   3.62E-02    1.228E-01*   4.45E-03
+ K -L2 X-RAY                        1.29E-02    6.910E-02    8.88E-04
+ K -L3 X-RAY                        2.18E-02    7.107E-02    1.55E-03
+ K -M3 X-RAY                        4.66E-03    8.052E-02    3.75E-04
+ L1-M2 X-RAY                        2.32E-02    1.155E-02    2.68E-04
+ L1-M3 X-RAY                        2.63E-02    1.199E-02    3.15E-04
+ L2-M4 X-RAY                        5.17E-02    1.186E-02    6.14E-04
+ L3-M4 X-RAY                        2.26E-02    9.892E-03    2.24E-04
+ L3-M5 X-RAY                        1.99E-01    9.986E-03    1.99E-03
+ L3-N5 X-RAY                        3.76E-02    1.193E-02    4.49E-04
+ Free-Bound X-RAY                   2.32E+01    1.470E-05    3.41E-04
+ CK LLX                             6.36E-01    6.629E-04*   4.22E-04
+ AUGER LMM                          5.31E-01    7.612E-03*   4.05E-03
+ AUGER LMX                          2.27E-01    9.827E-03*   2.23E-03
+ AUGER LXY                          2.35E-02    1.208E-02*   2.84E-04
+ CK MMX                             9.04E-01    4.186E-04*   3.78E-04
+ AUGER MNN                          2.06E+00    1.804E-03*   3.71E-03
+ AUGER MNX                          2.27E-01    2.035E-03*   4.61E-04
+ CK NNX                             4.02E+00    1.745E-04*   7.01E-04
+ AUGER NXY                          7.67E+00    7.035E-05*   5.39E-04
+ CK OOX                             5.28E+00    4.204E-05*   2.22E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   1   3.80E-03    4.246E-02    1.61E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   1   1.59E-01    4.302E-02    6.83E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   1   1.44E-01    4.488E-02    6.45E-03
+ M CONV. ELECTRON, GAMMA-RAY    1   9.21E-02    5.407E-02*   4.98E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   2.76E-02    5.680E-02*   1.57E-03
+ GAMMA-RAY                      5   7.92E-03    2.004E-01    1.59E-03
+ K CONV. ELECTRON, GAMMA-RAY    5   1.34E-03    1.194E-01    1.60E-04
+ GAMMA-RAY                      6   3.64E-03    2.071E-01    7.55E-04
+ GAMMA-RAY                      7   3.09E-01    2.618E-01    8.09E-02
+ K CONV. ELECTRON, GAMMA-RAY    7   1.08E-01    1.808E-01    1.94E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   7   1.61E-02    2.474E-01    3.97E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   7   3.08E-03    2.480E-01    7.63E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   7   1.06E-03    2.498E-01    2.64E-04
+ M CONV. ELECTRON, GAMMA-RAY    7   4.77E-03    2.590E-01*   1.24E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   7   1.47E-03    2.618E-01*   3.85E-04
+ GAMMA-RAY                      8   1.40E-03    2.793E-01    3.91E-04
+ K CONV. ELECTRON, GAMMA-RAY   11   1.12E-03    2.376E-01    2.67E-04
+ GAMMA-RAY                     14   3.31E-03    3.686E-01    1.22E-03
+ K CONV. ELECTRON, GAMMA-RAY   14   5.45E-04    2.876E-01    1.57E-04
+ GAMMA-RAY                     15   2.73E-03    3.864E-01    1.06E-03
+ GAMMA-RAY                     16   2.15E-02    3.879E-01    8.34E-03
+ K CONV. ELECTRON, GAMMA-RAY   16   7.27E-04    3.069E-01    2.23E-04
+ GAMMA-RAY                     18   6.10E-04    4.190E-01    2.55E-04
+ GAMMA-RAY                     20   2.04E-03    4.520E-01    9.22E-04
+ GAMMA-RAY                     22   2.82E-03    4.674E-01    1.32E-03
+ GAMMA-RAY                     24   4.91E-03    5.258E-01    2.58E-03
+ GAMMA-RAY                     28   4.98E-04    5.494E-01    2.73E-04
+ GAMMA-RAY                     29   4.41E-04    5.566E-01    2.46E-04
+ GAMMA-RAY                     30   7.01E-02    5.603E-01    3.93E-02
+ K CONV. ELECTRON, GAMMA-RAY   30   3.83E-03    4.793E-01    1.83E-03
+ L1 CONV. ELECTRON, GAMMA-RAY  30   5.67E-04    5.459E-01    3.10E-04
+ GAMMA-RAY                     31   2.10E-03    5.755E-01    1.21E-03
+ GAMMA-RAY                     36   5.47E-04    6.654E-01    3.64E-04
+ GAMMA-RAY                     37   2.17E-03    6.807E-01    1.48E-03
+ GAMMA-RAY                     38   4.34E-04    6.932E-01    3.01E-04
+ GAMMA-RAY                     39   6.45E-04    6.981E-01    4.50E-04
+ GAMMA-RAY                     44   4.77E-04    7.272E-01    3.47E-04
+ GAMMA-RAY                     46   5.54E-04    7.549E-01    4.18E-04
+ GAMMA-RAY                     49   2.66E-03    8.531E-01    2.27E-03
+ GAMMA-RAY                     51   3.92E-04    8.995E-01    3.53E-04
+ GAMMA-RAY                     53   2.11E-03    9.619E-01    2.03E-03
+ GAMMA-RAY                     54   1.14E-03    1.027E+00    1.17E-03
+ GAMMA-RAY                     56   4.77E-04    1.086E+00    5.18E-04
+ GAMMA-RAY                     57   6.25E-03    1.241E+00    7.76E-03
+ K -L2 X-RAY                        1.35E-01    6.718E-02    9.05E-03
+ K -L3 X-RAY                        2.29E-01    6.904E-02    1.58E-02
+ K -M2 X-RAY                        2.52E-02    7.782E-02    1.96E-03
+ K -M3 X-RAY                        4.88E-02    7.823E-02    3.82E-03
+ K -N2 X-RAY                        5.91E-03    8.032E-02    4.75E-04
+ K -N3 X-RAY                        1.16E-02    8.042E-02    9.29E-04
+ K -O3 X-RAY                        2.69E-03    8.090E-02    2.18E-04
+ L2-M4 X-RAY                        9.30E-02    1.148E-02    1.07E-03
+ L2-N4 X-RAY                        1.84E-02    1.342E-02    2.47E-04
+ L3-M5 X-RAY                        1.12E-01    9.710E-03    1.09E-03
+ L3-N5 X-RAY                        2.10E-02    1.159E-02    2.43E-04
+ AUGER KLL                          1.23E-02    5.424E-02*   6.65E-04
+ AUGER KLX                          6.60E-03    6.510E-02*   4.30E-04
+ AUGER LMM                          3.56E-01    7.517E-03*   2.67E-03
+ AUGER LMX                          1.50E-01    9.648E-03*   1.44E-03
+ AUGER LXY                          1.53E-02    1.181E-02*   1.80E-04
+ CK MMX                             4.59E-01    4.170E-04*   1.92E-04
+ AUGER MNN                          1.18E+00    1.757E-03*   2.08E-03
+ AUGER MNX                          1.23E-01    1.980E-03*   2.43E-04
+ CK NNX                             2.38E+00    1.747E-04*   4.15E-04
+ AUGER NXY                          4.48E+00    6.413E-05*   2.88E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.00E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.35E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.44E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.98E-03
+ ALL LISTED RADIATIONS                                       3.44E-01
+ ALL NEGLECTED RADIATIONS**                                  8.33E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 195-MERCURY
+   DAUGHTER IS 5.4200E-01  PER TRANSFORMATION OF 195M-MERCURY.
+   DECAY OF THIS 10.53 HOURS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 195-GOLD
+   DAUGHTER IS 4.5800E-01  PER TRANSFORMATION OF 195M-MERCURY.
+   DECAY OF THIS 186.098 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

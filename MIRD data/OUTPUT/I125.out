@@ -1,0 +1,226 @@
+%%%% 125 I   53    EC           5.13216E+06 59.400 D   02-11-2005       BALASTAR
+1 125   I   53 59.400 D        EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              125-IODINE-53
++                                    HALFLIFE = 59.4 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0115E+02
+   3.5492E-02  1.0000E+02  1.0115E+02  1.1409E+00                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.011E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  1.134E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  1.858E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  1.862E-01 MEV
+ PERCENT ERROR =  2.187E-01                      
+%%%% 125 I   53    EC           5.13216E+06 59.400 D   02-11-2005       BALAEND 
+%%%% 125 I   53    EC           5.13216E+06 59.400 D   02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              125-IODINE-53
++                                    HALFLIFE = 59.4 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.00E+00   1.503E-01   ALLOWED                                  
+           I.C.E. + GAMMA   1   1.01E+00   3.549E-02   M1+E2 MULTIPOLE                          
+                                                       MRS=0.000841  AK= 12.1                   
+                                                       AL1=1.45      AL2=0.134                  
+                                                       AL3=0.0543    AM= 0.330                  
+                                                       AN+=0.0785                               
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Jul-1999
+%%%% 125 I   53    EC           5.13216E+06 59.400 D   02-11-2005       INPUEND 
+%%%% 125 I   53    EC           5.13216E+06 59.400 D   02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              125-IODINE-53
++                                    HALFLIFE = 59.4 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      1   6.68E-02    3.549E-02    2.37E-03
+           K CONV. ELECTRON, GAMMA-RAY    1   8.08E-01    3.687E-03    2.98E-03
+           L1 CONV. ELECTRON, GAMMA-RAY   1   9.69E-02    3.058E-02    2.96E-03
+           L2 CONV. ELECTRON, GAMMA-RAY   1   8.92E-03    3.087E-02    2.75E-04
+           L3 CONV. ELECTRON, GAMMA-RAY   1   3.62E-03    3.115E-02    1.13E-04
+           M CONV. ELECTRON, GAMMA-RAY    1   2.20E-02    3.468E-02*   7.64E-04
+           N+ CONV. ELECTRON, GAMMA-RAY   1   5.24E-03    3.549E-02*   1.86E-04
+           K -L2 X-RAY                        4.05E-01    2.719E-02    1.10E-02
+           K -L3 X-RAY                        7.54E-01    2.747E-02    2.07E-02
+           K -M2 X-RAY                        6.95E-02    3.094E-02    2.15E-03
+           K -M3 X-RAY                        1.35E-01    3.099E-02    4.17E-03
+           K -N2 X-RAY                        1.44E-02    3.167E-02    4.56E-04
+           K -N3 X-RAY                        2.83E-02    3.168E-02    8.96E-04
+           K -O3 X-RAY                        1.52E-03    3.180E-02    4.85E-05
+           L2-M4 X-RAY                        3.76E-02    4.024E-03    1.51E-04
+           L3-M5 X-RAY                        6.48E-02    3.757E-03    2.43E-04
+           Free-Bound X-RAY                   2.50E+01    1.361E-05*   3.40E-04
+           AUGER KLL                          1.31E-01    2.267E-02*   2.97E-03
+           AUGER KLX                          5.77E-02    2.651E-02*   1.53E-03
+           AUGER KXY                          6.08E-03    3.035E-02*   1.84E-04
+           CK LLX                             2.76E-01    2.998E-04*   8.28E-05
+           AUGER LMM                          1.23E+00    3.088E-03*   3.79E-03
+           AUGER LMX                          3.47E-01    3.683E-03*   1.28E-03
+           AUGER LXY                          2.46E-02    4.300E-03*   1.06E-04
+           CK MMX                             1.41E+00    1.209E-04*   1.71E-04
+           AUGER MNN                          3.12E+00    4.497E-04*   1.41E-03
+           AUGER MNX                          1.21E-01    5.417E-04*   6.53E-05
+           CK NNX                             4.08E+00    2.492E-05*   1.02E-04
+           AUGER NXY                          1.22E+01    2.293E-05*   2.80E-04
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.26E-02
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.71E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.92E-02
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.15E-07
+           ALL LISTED RADIATIONS                                       6.18E-02
+           ALL NEGLECTED RADIATIONS**                                  2.71E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 125-TELLURIUM
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 125-IODINE.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Jul-1999
+%%%% 125 I   53    EC           5.13216E+06 59.400 D   02-11-2005       OUTPEND 
+%%%% 125 I   53    EC           5.13216E+06 59.400 D   02-11-2005       SEEISTAR
+125.  IODINE       53.  5.940E+01 DAYS      69 EC                   125.I  53.   0
+ 1 1  6.68000E+00  3.54922E-02  3.54922E-02  0.00000E+00            125.I  53.   1   1
+ 6 1  8.07993E+01  3.68720E-03  3.68720E-03  1.00000E+00            125.I  53.   2   1
+ 6 5  9.68557E+00  3.05780E-02  3.05780E-02  1.00000E+00            125.I  53.   3   5
+ 6 6  8.91922E-01  3.08740E-02  3.08740E-02  1.00000E+00            125.I  53.   4   6
+ 6 7  3.62428E-01  3.11525E-02  3.11525E-02  1.00000E+00            125.I  53.   5   7
+ 6 3  2.20403E+00  3.46773E-02  3.46773E-02  1.00000E+00            125.I  53.   6   3
+ 6 4  5.24219E-01  3.54922E-02  3.54922E-02  1.00000E+00            125.I  53.   7   4
+ 2 1  4.05237E+01  2.71868E-02  2.71868E-02  0.00000E+00            125.I  53.   8   1
+ 2 2  7.54385E+01  2.74652E-02  2.74652E-02  0.00000E+00            125.I  53.   9   2
+ 2 3  6.94621E+00  3.09378E-02  3.09378E-02  0.00000E+00            125.I  53.  10   3
+ 2 4  1.34715E+01  3.09901E-02  3.09901E-02  0.00000E+00            125.I  53.  11   4
+ 2 5  6.19879E-02  3.12112E-02  3.12112E-02  0.00000E+00            125.I  53.  12   5
+ 2 6  8.52372E-02  3.12223E-02  3.12223E-02  0.00000E+00            125.I  53.  13   6
+ 2 7  1.43907E+00  3.16740E-02  3.16740E-02  0.00000E+00            125.I  53.  14   7
+ 2 8  2.82834E+00  3.16841E-02  3.16841E-02  0.00000E+00            125.I  53.  15   8
+ 2 9  1.04343E-02  3.17543E-02  3.17543E-02  0.00000E+00            125.I  53.  16   9
+ 210  1.42876E-02  3.17559E-02  3.17559E-02  0.00000E+00            125.I  53.  17  10
+ 211  8.24488E-02  3.17957E-02  3.17957E-02  0.00000E+00            125.I  53.  18  11
+ 212  1.52455E-01  3.17967E-02  3.17967E-02  0.00000E+00            125.I  53.  19  12
+ 221  6.81913E-04  2.96000E-04  2.96000E-04  0.00000E+00            125.I  53.  20  21
+ 222  1.08032E-02  5.74501E-04  5.74501E-04  0.00000E+00            125.I  53.  21  22
+ 223  4.21387E-01  4.04711E-03  4.04711E-03  0.00000E+00            125.I  53.  22  23
+ 224  6.74974E-01  4.09935E-03  4.09935E-03  0.00000E+00            125.I  53.  23  24
+ 225  5.79104E-03  4.32046E-03  4.32046E-03  0.00000E+00            125.I  53.  24  25
+ 226  8.64782E-03  4.33146E-03  4.33146E-03  0.00000E+00            125.I  53.  25  26
+ 227  8.67524E-02  4.78322E-03  4.78322E-03  0.00000E+00            125.I  53.  26  27
+ 228  1.41965E-01  4.79328E-03  4.79328E-03  0.00000E+00            125.I  53.  27  28
+ 229  6.49787E-04  4.86349E-03  4.86349E-03  0.00000E+00            125.I  53.  28  29
+ 230  9.83095E-04  4.86503E-03  4.86503E-03  0.00000E+00            125.I  53.  29  30
+ 231  5.45455E-03  4.90497E-03  4.90497E-03  0.00000E+00            125.I  53.  30  31
+ 232  8.53238E-03  4.90587E-03  4.90587E-03  0.00000E+00            125.I  53.  31  32
+ 241  2.60776E-06  2.78500E-04  2.78500E-04  0.00000E+00            125.I  53.  32  41
+ 242  2.19240E-01  3.62711E-03  3.62711E-03  0.00000E+00            125.I  53.  33  42
+ 243  2.98967E-03  3.80335E-03  3.80335E-03  0.00000E+00            125.I  53.  34  43
+ 244  3.75653E+00  4.02446E-03  4.02446E-03  0.00000E+00            125.I  53.  35  44
+ 245  2.90122E-02  4.44388E-03  4.44388E-03  0.00000E+00            125.I  53.  36  45
+ 246  3.15615E-04  4.49729E-03  4.49729E-03  0.00000E+00            125.I  53.  37  46
+ 247  5.10992E-01  4.56748E-03  4.56748E-03  0.00000E+00            125.I  53.  38  47
+ 249  3.02849E-03  4.59974E-03  4.59974E-03  0.00000E+00            125.I  53.  39  49
+ 250  1.89909E-05  4.60991E-03  4.60991E-03  0.00000E+00            125.I  53.  40  50
+ 261  7.61896E-01  3.34861E-03  3.34861E-03  0.00000E+00            125.I  53.  41  61
+ 262  4.04396E-03  3.47261E-03  3.47261E-03  0.00000E+00            125.I  53.  42  62
+ 263  3.77626E-03  3.52484E-03  3.52484E-03  0.00000E+00            125.I  53.  43  63
+ 264  7.30394E-01  3.74596E-03  3.74596E-03  0.00000E+00            125.I  53.  44  64
+ 265  6.47587E+00  3.75695E-03  3.75695E-03  0.00000E+00            125.I  53.  45  65
+ 266  6.17276E-02  4.16537E-03  4.16537E-03  0.00000E+00            125.I  53.  46  66
+ 267  3.05415E-04  4.20872E-03  4.20872E-03  0.00000E+00            125.I  53.  47  67
+ 268  2.92379E-04  4.21879E-03  4.21879E-03  0.00000E+00            125.I  53.  48  68
+ 269  9.70601E-02  4.28899E-03  4.28899E-03  0.00000E+00            125.I  53.  49  69
+ 270  8.63838E-01  4.29052E-03  4.29052E-03  0.00000E+00            125.I  53.  50  70
+ 273  7.60492E-03  4.32125E-03  4.32125E-03  0.00000E+00            125.I  53.  51  73
+ 274  1.91261E-05  4.33049E-03  4.33049E-03  0.00000E+00            125.I  53.  52  74
+ 275  1.75210E-05  4.33139E-03  4.33139E-03  0.00000E+00            125.I  53.  53  75
+ 291  7.15065E-01  5.33991E-04  5.33991E-04  0.00000E+00            125.I  53.  54  91
+ 292  1.69993E-02  7.62079E-05  7.62079E-05  0.00000E+00            125.I  53.  55  92
+ 294  2.49659E+03  1.36106E-05  1.36106E-05  0.00000E+00            125.I  53.  56  94
+ 7 1  1.30975E+01  2.26653E-02  2.26653E-02  0.00000E+00            125.I  53.  57   1
+ 7 2  5.76870E+00  2.65056E-02  2.65056E-02  0.00000E+00            125.I  53.  58   2
+ 7 3  6.07509E-01  3.03461E-02  3.03461E-02  0.00000E+00            125.I  53.  59   3
+ 7 4  2.75991E+01  2.99843E-04  2.99843E-04  0.00000E+00            125.I  53.  60   4
+ 7 5  1.22640E+02  3.08817E-03  3.08817E-03  0.00000E+00            125.I  53.  61   5
+ 7 6  3.47461E+01  3.68276E-03  3.68276E-03  0.00000E+00            125.I  53.  62   6
+ 7 7  2.45935E+00  4.29994E-03  4.29994E-03  0.00000E+00            125.I  53.  63   7
+ 7 8  1.41044E+02  1.20899E-04  1.20899E-04  0.00000E+00            125.I  53.  64   8
+ 7 9  3.12454E+02  4.49679E-04  4.49679E-04  0.00000E+00            125.I  53.  65   9
+ 710  1.20544E+01  5.41735E-04  5.41735E-04  0.00000E+00            125.I  53.  66  10
+ 711  4.57128E-02  6.90006E-04  6.90006E-04  0.00000E+00            125.I  53.  67  11
+ 712  4.08498E+02  2.49224E-05  2.49224E-05  0.00000E+00            125.I  53.  68  12
+ 713  1.21980E+03  2.29271E-05  2.29271E-05  0.00000E+00            125.I  53.  69  13
+%%%% 125 I   53    EC           5.13216E+06 59.400 D   02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   2.37088E-03
+    X-ray                           (MeV) =   4.01263E-02
+    Free-bound X-ray                (MeV) =   3.39800E-04
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   1.23002E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   7.27952E-03
+    Auger and CK electron           (MeV) =   1.19601E-02
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   1.85078E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   1.85770E-01
+  Ratio of E-total/Q-value          ( % ) =   9.96277E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   6.68000E-02
+    X-ray                                 =   1.56682E+00
+    Free-bound X-ray                      =   2.49659E+01
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   9.44674E-01
+    Auger and CK electron                 =   2.30082E+01
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

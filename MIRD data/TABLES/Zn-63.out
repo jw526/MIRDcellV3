@@ -1,0 +1,37 @@
+ 63-ZINC-30              HALFLIFE = 38.47 MINUTES 
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      5   5.00E-03    4.000E-01*   2.00E-03
+ BETA PLUS                      6   4.90E-02    5.998E-01*   2.94E-02
+ BETA PLUS                      7   7.00E-02    7.322E-01*   5.13E-02
+ BETA PLUS                      8   8.03E-01    1.042E+00*   8.37E-01
+ ANNIHILATION RADIATION             1.86E+00    5.110E-01    9.48E-01
+ GAMMA-RAY                     10   8.20E-02    6.696E-01    5.49E-02
+ GAMMA-RAY                     19   6.48E-02    9.621E-01    6.23E-02
+ GAMMA-RAY                     22   1.11E-03    1.124E+00    1.24E-03
+ GAMMA-RAY                     32   9.68E-04    1.393E+00    1.35E-03
+ GAMMA-RAY                     33   7.46E-03    1.412E+00    1.05E-02
+ GAMMA-RAY                     36   1.22E-03    1.547E+00    1.89E-03
+ GAMMA-RAY                     46   5.58E-04    2.027E+00    1.13E-03
+ GAMMA-RAY                     55   7.46E-04    2.337E+00    1.74E-03
+ GAMMA-RAY                     58   6.64E-04    2.536E+00    1.68E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.09E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.15E-02
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   9.20E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  5.40E-04
+ ALL LISTED RADIATIONS                                       2.01E+00
+ ALL NEGLECTED RADIATIONS**                                  1.21E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 63-COPPER
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  63-ZINC.
+   THIS DAUGHTER GROUND STATE IS STABLE.

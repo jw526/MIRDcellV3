@@ -1,0 +1,74 @@
+ 75-BROMINE-35           HALFLIFE = 96.7 MINUTES 
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      4   6.39E-03    3.307E-01*   2.11E-03
+ BETA PLUS                      5   4.29E-03    3.509E-01*   1.51E-03
+ BETA PLUS                      6   2.60E-03    3.571E-01*   9.27E-04
+ BETA PLUS                      8   4.19E-03    4.053E-01*   1.70E-03
+ BETA PLUS                      9   6.49E-03    4.286E-01*   2.78E-03
+ BETA PLUS                     12   9.78E-03    4.839E-01*   4.73E-03
+ BETA PLUS                     13   3.39E-02    4.998E-01*   1.70E-02
+ BETA PLUS                     14   4.69E-03    5.363E-01*   2.52E-03
+ BETA PLUS                     16   3.29E-02    5.870E-01*   1.93E-02
+ BETA PLUS                     17   1.21E-02    6.220E-01*   7.51E-03
+ BETA PLUS                     18   4.89E-02    6.935E-01*   3.39E-02
+ BETA PLUS                     19   5.19E-01    7.578E-01*   3.93E-01
+ BETA PLUS                     20   3.99E-02    8.893E-01*   3.55E-02
+ ANNIHILATION RADIATION             1.46E+00    5.110E-01    7.46E-01
+ GAMMA-RAY                      2   1.67E-02    1.121E-01    1.87E-03
+ GAMMA-RAY                      3   6.60E-02    1.412E-01    9.32E-03
+ GAMMA-RAY                      5   7.92E-03    2.361E-01    1.87E-03
+ GAMMA-RAY                      6   8.80E-01    2.865E-01    2.52E-01
+ K CONV. ELECTRON, GAMMA-RAY    6   2.86E-03    2.739E-01    7.83E-04
+ GAMMA-RAY                      7   2.67E-02    2.929E-01    7.81E-03
+ GAMMA-RAY                     10   6.07E-03    3.156E-01    1.92E-03
+ GAMMA-RAY                     15   3.93E-02    3.774E-01    1.48E-02
+ GAMMA-RAY                     16   4.40E-02    4.278E-01    1.88E-02
+ GAMMA-RAY                     17   3.87E-02    4.318E-01    1.67E-02
+ GAMMA-RAY                     20   2.82E-03    4.844E-01    1.36E-03
+ GAMMA-RAY                     22   3.26E-03    4.907E-01    1.60E-03
+ GAMMA-RAY                     26   2.99E-03    5.517E-01    1.65E-03
+ GAMMA-RAY                     27   4.49E-03    5.664E-01    2.54E-03
+ GAMMA-RAY                     28   1.99E-02    5.729E-01    1.14E-02
+ GAMMA-RAY                     31   3.26E-03    5.982E-01    1.95E-03
+ GAMMA-RAY                     32   1.68E-02    6.089E-01    1.02E-02
+ GAMMA-RAY                     35   3.52E-03    6.591E-01    2.32E-03
+ GAMMA-RAY                     38   1.85E-03    7.016E-01    1.30E-03
+ GAMMA-RAY                     39   1.54E-02    7.339E-01    1.13E-02
+ GAMMA-RAY                     40   4.66E-03    7.708E-01    3.60E-03
+ GAMMA-RAY                     42   3.34E-03    7.887E-01    2.64E-03
+ GAMMA-RAY                     43   2.38E-03    8.593E-01    2.04E-03
+ GAMMA-RAY                     44   2.46E-03    8.907E-01    2.19E-03
+ GAMMA-RAY                     45   5.02E-03    8.976E-01    4.50E-03
+ GAMMA-RAY                     46   1.01E-02    9.121E-01    9.23E-03
+ GAMMA-RAY                     47   1.41E-03    9.462E-01    1.33E-03
+ GAMMA-RAY                     48   1.66E-02    9.521E-01    1.58E-02
+ GAMMA-RAY                     49   2.64E-03    9.590E-01    2.53E-03
+ GAMMA-RAY                     50   4.40E-03    9.614E-01    4.23E-03
+ GAMMA-RAY                     53   1.85E-03    1.145E+00    2.12E-03
+ GAMMA-RAY                     54   4.75E-03    1.246E+00    5.92E-03
+ GAMMA-RAY                     55   1.14E-03    1.381E+00    1.58E-03
+ GAMMA-RAY                     56   3.26E-03    1.449E+00    4.72E-03
+ GAMMA-RAY                     57   1.14E-03    1.516E+00    1.73E-03
+ GAMMA-RAY                     58   1.23E-03    1.561E+00    1.92E-03
+ AUGER KLL                          7.74E-02    9.627E-03*   7.46E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.18E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.55E-02
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.24E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.77E-03
+ ALL LISTED RADIATIONS                                       1.71E+00
+ ALL NEGLECTED RADIATIONS**                                  1.93E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 75-SELENIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  75-BROMINE.
+   DECAY OF THIS 119.779 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

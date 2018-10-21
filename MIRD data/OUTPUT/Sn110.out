@@ -1,0 +1,217 @@
+%%%% 110 SN  50    EC           1.47960E+04 4.11 H     02-11-2005       BALASTAR
+1 110   SN  50 4.11 H          EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              110-TIN-50
++                                    HALFLIFE = 4.11 HOURS   
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  0.0000E+00
+   6.2080E-02  1.0000E+02  0.0000E+00  2.0000E+02  ********************
+   3.4500E-01  1.0000E+02  1.0000E+02  0.0000E+00                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  6.290E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  6.291E-01 MEV
+ PERCENT ERROR =  1.272E-02                      
+%%%% 110 SN  50    EC           1.47960E+04 4.11 H     02-11-2005       BALAEND 
+%%%% 110 SN  50    EC           1.47960E+04 4.11 H     02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              110-TIN-50
++                                    HALFLIFE = 4.11 HOURS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.00E+00   2.840E-01   ALLOWED                                  
+           I.C.E. + GAMMA   2   1.00E+00   2.830E-01   M1+E2 MULTIPOLE                          
+                                                       AK= 0.0312    AL1=0.00364                
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Mar-2000
+%%%% 110 SN  50    EC           1.47960E+04 4.11 H     02-11-2005       INPUEND 
+%%%% 110 SN  50    EC           1.47960E+04 4.11 H     02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              110-TIN-50
++                                    HALFLIFE = 4.11 HOURS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      2   9.65E-01    2.830E-01    2.73E-01
+           K CONV. ELECTRON, GAMMA-RAY    2   3.01E-02    2.551E-01    7.69E-03
+           L1 CONV. ELECTRON, GAMMA-RAY   2   3.51E-03    2.788E-01    9.79E-04
+           L2 CONV. ELECTRON, GAMMA-RAY   2   1.69E-04    2.791E-01    4.72E-05
+           M CONV. ELECTRON, GAMMA-RAY    2   7.26E-04    2.823E-01*   2.05E-04
+           N+ CONV. ELECTRON, GAMMA-RAY   2   1.58E-04    2.830E-01*   4.48E-05
+           K -L2 X-RAY                        2.13E-01    2.398E-02    5.12E-03
+           K -L3 X-RAY                        4.00E-01    2.419E-02    9.69E-03
+           K -M2 X-RAY                        3.57E-02    2.722E-02    9.73E-04
+           K -M3 X-RAY                        6.94E-02    2.726E-02    1.89E-03
+           K -N3 X-RAY                        1.42E-02    2.784E-02    3.95E-04
+           AUGER KLL                          8.72E-02    2.010E-02*   1.75E-03
+           AUGER KLX                          3.65E-02    2.341E-02*   8.55E-04
+           AUGER KXY                          3.67E-03    2.673E-02*   9.81E-05
+           CK LLX                             1.46E-01    2.662E-04*   3.87E-05
+           AUGER LMM                          7.07E-01    2.736E-03*   1.93E-03
+           AUGER LMX                          1.73E-01    3.217E-03*   5.56E-04
+           AUGER LXY                          1.10E-02    3.717E-03*   4.10E-05
+           CK MMX                             7.96E-01    1.255E-04*   9.99E-05
+           AUGER MNN                          1.78E+00    3.710E-04*   6.62E-04
+           CK NNX                             2.55E+00    3.352E-05*   8.55E-05
+           AUGER NXY                          7.24E+00    8.860E-06*   6.41E-05
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.91E-01
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     5.70E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.52E-02
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.63E-05
+           ALL LISTED RADIATIONS                                       3.06E-01
+           ALL NEGLECTED RADIATIONS**                                  5.96E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF 0.062080 MEV ISOMERIC LEVEL IN 110-INDIUM      
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 110-TIN.
+             DECAY OF THIS 69.1 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Mar-2000
+%%%% 110 SN  50    EC           1.47960E+04 4.11 H     02-11-2005       OUTPEND 
+%%%% 110 SN  50    EC           1.47960E+04 4.11 H     02-11-2005       SEEISTAR
+110.  TIN          50.  4.110E+00 HOURS     69 EC                   110.SN 50.   0
+ 1 2  9.65251E+01  2.83000E-01  2.83000E-01  0.00000E+00            110.SN 50.   1   2
+ 6 1  3.01364E+00  2.55079E-01  2.55079E-01  2.00000E+00            110.SN 50.   2   1
+ 6 5  3.51107E-01  2.78786E-01  2.78786E-01  2.00000E+00            110.SN 50.   3   5
+ 6 6  1.69070E-02  2.79058E-01  2.79058E-01  2.00000E+00            110.SN 50.   4   6
+ 6 7  4.79631E-03  2.79272E-01  2.79272E-01  2.00000E+00            110.SN 50.   5   7
+ 6 3  7.26250E-02  2.82339E-01  2.82339E-01  2.00000E+00            110.SN 50.   6   3
+ 6 4  1.58302E-02  2.83000E-01  2.83000E-01  2.00000E+00            110.SN 50.   7   4
+ 2 1  2.13488E+01  2.39785E-02  2.39785E-02  0.00000E+00            110.SN 50.   8   1
+ 2 2  4.00485E+01  2.41926E-02  2.41926E-02  0.00000E+00            110.SN 50.   9   2
+ 2 3  3.57352E+00  2.72214E-02  2.72214E-02  0.00000E+00            110.SN 50.  10   3
+ 2 4  6.93842E+00  2.72603E-02  2.72603E-02  0.00000E+00            110.SN 50.  11   4
+ 2 5  2.71349E-02  2.74600E-02  2.74600E-02  0.00000E+00            110.SN 50.  12   5
+ 2 6  3.76520E-02  2.74680E-02  2.74680E-02  0.00000E+00            110.SN 50.  13   6
+ 2 7  7.29415E-01  2.78303E-02  2.78303E-02  0.00000E+00            110.SN 50.  14   7
+ 2 8  1.41995E+00  2.78371E-02  2.78371E-02  0.00000E+00            110.SN 50.  15   8
+ 2 9  3.71064E-03  2.78954E-02  2.78954E-02  0.00000E+00            110.SN 50.  16   9
+ 210  5.11043E-03  2.78964E-02  2.78964E-02  0.00000E+00            110.SN 50.  17  10
+ 211  5.28334E-03  2.79161E-02  2.79161E-02  0.00000E+00            110.SN 50.  18  11
+ 212  9.40934E-03  2.79164E-02  2.79164E-02  0.00000E+00            110.SN 50.  19  12
+ 221  3.74394E-04  2.71300E-04  2.71300E-04  0.00000E+00            110.SN 50.  20  21
+ 222  4.60595E-03  4.85400E-04  4.85400E-04  0.00000E+00            110.SN 50.  21  22
+ 223  1.89436E-01  3.51418E-03  3.51418E-03  0.00000E+00            110.SN 50.  22  23
+ 224  3.10629E-01  3.55313E-03  3.55313E-03  0.00000E+00            110.SN 50.  23  24
+ 225  2.29164E-03  3.75276E-03  3.75276E-03  0.00000E+00            110.SN 50.  24  25
+ 226  3.41922E-03  3.76081E-03  3.76081E-03  0.00000E+00            110.SN 50.  25  26
+ 227  3.59623E-02  4.12303E-03  4.12303E-03  0.00000E+00            110.SN 50.  26  27
+ 228  5.98180E-02  4.12994E-03  4.12994E-03  0.00000E+00            110.SN 50.  27  28
+ 229  2.16401E-04  4.18831E-03  4.18831E-03  0.00000E+00            110.SN 50.  28  29
+ 230  3.25107E-04  4.18921E-03  4.18921E-03  0.00000E+00            110.SN 50.  29  30
+ 231  3.04717E-04  4.20889E-03  4.20889E-03  0.00000E+00            110.SN 50.  30  31
+ 232  4.67722E-04  4.20923E-03  4.20923E-03  0.00000E+00            110.SN 50.  31  32
+ 241  7.32398E-07  2.14100E-04  2.14100E-04  0.00000E+00            110.SN 50.  32  41
+ 242  1.11136E-01  3.13126E-03  3.13126E-03  0.00000E+00            110.SN 50.  33  42
+ 243  1.39543E-03  3.28184E-03  3.28184E-03  0.00000E+00            110.SN 50.  34  43
+ 244  1.65478E+00  3.48147E-03  3.48147E-03  0.00000E+00            110.SN 50.  35  44
+ 245  1.28639E-02  3.81461E-03  3.81461E-03  0.00000E+00            110.SN 50.  36  45
+ 246  1.11603E-04  3.85862E-03  3.85862E-03  0.00000E+00            110.SN 50.  37  46
+ 247  1.85658E-01  3.91701E-03  3.91701E-03  0.00000E+00            110.SN 50.  38  47
+ 249  9.54214E-04  3.93167E-03  3.93167E-03  0.00000E+00            110.SN 50.  39  49
+ 250  8.72552E-07  3.93792E-03  3.93792E-03  0.00000E+00            110.SN 50.  40  50
+ 261  3.78319E-01  2.91716E-03  2.91716E-03  0.00000E+00            110.SN 50.  41  61
+ 262  1.88728E-03  3.02877E-03  3.02877E-03  0.00000E+00            110.SN 50.  42  62
+ 263  1.77076E-03  3.06773E-03  3.06773E-03  0.00000E+00            110.SN 50.  43  63
+ 264  3.28788E-01  3.26736E-03  3.26736E-03  0.00000E+00            110.SN 50.  44  64
+ 265  2.91644E+00  3.27540E-03  3.27540E-03  0.00000E+00            110.SN 50.  45  65
+ 266  2.69099E-02  3.60049E-03  3.60049E-03  0.00000E+00            110.SN 50.  46  66
+ 267  1.11316E-04  3.63762E-03  3.63762E-03  0.00000E+00            110.SN 50.  47  67
+ 268  1.06139E-04  3.64453E-03  3.64453E-03  0.00000E+00            110.SN 50.  48  68
+ 269  3.61876E-02  3.70290E-03  3.70290E-03  0.00000E+00            110.SN 50.  49  69
+ 270  3.20640E-01  3.70383E-03  3.70383E-03  0.00000E+00            110.SN 50.  50  70
+ 273  2.37832E-03  3.71757E-03  3.71757E-03  0.00000E+00            110.SN 50.  51  73
+ 274  9.40871E-07  3.72348E-03  3.72348E-03  0.00000E+00            110.SN 50.  52  74
+ 275  8.28255E-07  3.72382E-03  3.72382E-03  0.00000E+00            110.SN 50.  53  75
+ 291  2.51674E-01  4.32433E-04  4.32433E-04  0.00000E+00            110.SN 50.  54  91
+ 292  5.43373E-03  5.65924E-05  5.65924E-05  0.00000E+00            110.SN 50.  55  92
+ 294  1.45978E+03  8.12544E-06  8.12544E-06  0.00000E+00            110.SN 50.  56  94
+ 7 1  8.72378E+00  2.00957E-02  2.00957E-02  0.00000E+00            110.SN 50.  57   1
+ 7 2  3.65235E+00  2.34091E-02  2.34091E-02  0.00000E+00            110.SN 50.  58   2
+ 7 3  3.67128E-01  2.67252E-02  2.67252E-02  0.00000E+00            110.SN 50.  59   3
+ 7 4  1.45523E+01  2.66201E-04  2.66201E-04  0.00000E+00            110.SN 50.  60   4
+ 7 5  7.06833E+01  2.73648E-03  2.73648E-03  0.00000E+00            110.SN 50.  61   5
+ 7 6  1.72907E+01  3.21716E-03  3.21716E-03  0.00000E+00            110.SN 50.  62   6
+ 7 7  1.10247E+00  3.71670E-03  3.71670E-03  0.00000E+00            110.SN 50.  63   7
+ 7 8  7.95851E+01  1.25535E-04  1.25535E-04  0.00000E+00            110.SN 50.  64   8
+ 7 9  1.78490E+02  3.70997E-04  3.70997E-04  0.00000E+00            110.SN 50.  65   9
+ 710  2.93965E+00  4.37593E-04  4.37593E-04  0.00000E+00            110.SN 50.  66  10
+ 711  2.35869E-03  6.48804E-04  6.48804E-04  0.00000E+00            110.SN 50.  67  11
+ 712  2.54969E+02  3.35152E-05  3.35152E-05  0.00000E+00            110.SN 50.  68  12
+ 713  7.23945E+02  8.85970E-06  8.85970E-06  0.00000E+00            110.SN 50.  69  13
+%%%% 110 SN  50    EC           1.47960E+04 4.11 H     02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   2.73166E-01
+    X-ray                           (MeV) =   1.85184E-02
+    Free-bound X-ray                (MeV) =   1.18613E-04
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   2.58930E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   8.97642E-03
+    Auger and CK electron           (MeV) =   6.20099E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   5.65910E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   6.29000E-01
+  Ratio of E-total/Q-value          ( % ) =   8.99698E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   9.65251E-01
+    X-ray                                 =   8.09923E-01
+    Free-bound X-ray                      =   1.45978E+01
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   3.47490E-02
+    Auger and CK electron                 =   1.35630E+01
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

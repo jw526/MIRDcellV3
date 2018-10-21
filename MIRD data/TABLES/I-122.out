@@ -1,0 +1,41 @@
+ 122-IODINE-53           HALFLIFE = 3.63 MINUTES 
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                     12   5.99E-03    8.313E-01*   4.98E-03
+ BETA PLUS                     13   3.09E-03    8.770E-01*   2.71E-03
+ BETA PLUS                     14   9.98E-02    1.195E+00*   1.19E-01
+ BETA PLUS                     15   6.69E-01    1.458E+00*   9.75E-01
+ ANNIHILATION RADIATION             1.56E+00    5.110E-01    7.97E-01
+ GAMMA-RAY                      1   1.80E-01    5.641E-01    1.02E-01
+ GAMMA-RAY                      4   7.96E-03    6.836E-01    5.44E-03
+ GAMMA-RAY                      5   1.36E-02    6.928E-01    9.39E-03
+ GAMMA-RAY                      6   1.33E-02    7.933E-01    1.05E-02
+ GAMMA-RAY                     13   2.81E-03    1.257E+00    3.53E-03
+ GAMMA-RAY                     18   1.59E-03    1.500E+00    2.38E-03
+ GAMMA-RAY                     19   6.44E-04    1.535E+00    9.89E-04
+ GAMMA-RAY                     23   3.33E-03    1.747E+00    5.82E-03
+ GAMMA-RAY                     26   1.02E-03    1.844E+00    1.88E-03
+ GAMMA-RAY                     33   2.66E-03    2.192E+00    5.84E-03
+ GAMMA-RAY                     42   4.37E-04    2.585E+00    1.13E-03
+ K -L2 X-RAY                        4.79E-02    2.719E-02    1.30E-03
+ K -L3 X-RAY                        8.91E-02    2.747E-02    2.45E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    9.50E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.24E-02
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.10E+00
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.38E-03
+ ALL LISTED RADIATIONS                                       2.05E+00
+ ALL NEGLECTED RADIATIONS**                                  1.58E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 122-TELLURIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 122-IODINE.
+   THIS DAUGHTER GROUND STATE IS STABLE.

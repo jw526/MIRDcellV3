@@ -1,0 +1,35 @@
+ 77-ARSENIC-33           HALFLIFE = 38.83 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   6.30E-03    4.451E-02*   2.80E-04
+ BETA MINUS                     4   6.30E-03    1.344E-01*   8.47E-04
+ BETA MINUS                     5   1.60E-02    1.383E-01*   2.21E-03
+ BETA MINUS                     7   9.70E-01    2.288E-01*   2.22E-01
+ GAMMA-RAY                      5   2.02E-03    8.785E-02    1.77E-04
+ GAMMA-RAY                      7   9.86E-05    1.392E-01    1.37E-05
+ GAMMA-RAY                      8   1.46E-03    1.619E-01    2.37E-04
+ GAMMA-RAY                     10   1.59E-02    2.390E-01    3.80E-03
+ GAMMA-RAY                     11   3.94E-03    2.498E-01    9.85E-04
+ GAMMA-RAY                     12   8.27E-05    2.709E-01    2.24E-05
+ GAMMA-RAY                     13   5.79E-04    2.816E-01    1.63E-04
+ GAMMA-RAY                     15   5.58E-03    5.207E-01    2.91E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    8.30E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.98E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.25E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  4.92E-04
+ ALL LISTED RADIATIONS                                       2.34E-01
+ ALL NEGLECTED RADIATIONS**                                  5.11E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 77-SELENIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  77-ARSENIC.
+   THIS DAUGHTER GROUND STATE IS STABLE.

@@ -1,0 +1,44 @@
+ 67-COPPER-29            HALFLIFE = 61.83 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   1.10E-02    4.665E-02*   5.13E-04
+ BETA MINUS                     2   5.69E-01    1.158E-01*   6.59E-02
+ BETA MINUS                     3   2.20E-01    1.488E-01*   3.27E-02
+ BETA MINUS                     4   2.00E-01    1.839E-01*   3.67E-02
+ GAMMA-RAY                      1   7.00E-02    9.127E-02    6.39E-03
+ K CONV. ELECTRON, GAMMA-RAY    1   5.14E-03    8.164E-02    4.20E-04
+ GAMMA-RAY                      2   1.61E-01    9.331E-02    1.50E-02
+ K CONV. ELECTRON, GAMMA-RAY    2   1.21E-01    8.369E-02    1.01E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   2   1.09E-02    9.213E-02    1.00E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   2   1.74E-03    9.226E-02    1.60E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   2   2.53E-03    9.229E-02    2.34E-04
+ M CONV. ELECTRON, GAMMA-RAY    2   2.23E-03    9.322E-02*   2.08E-04
+ GAMMA-RAY                      3   4.87E-01    1.846E-01    8.99E-02
+ K CONV. ELECTRON, GAMMA-RAY    3   7.76E-03    1.750E-01    1.36E-03
+ GAMMA-RAY                      4   1.15E-03    2.090E-01    2.40E-04
+ GAMMA-RAY                      5   7.97E-03    3.002E-01    2.39E-03
+ GAMMA-RAY                      6   2.20E-03    3.935E-01    8.66E-04
+ K -L2 X-RAY                        1.88E-02    8.572E-03    1.61E-04
+ K -L3 X-RAY                        3.66E-02    8.596E-03    3.15E-04
+ AUGER KLL                          5.61E-02    7.487E-03*   4.20E-04
+ AUGER LMM                          1.95E-01    9.293E-04*   1.81E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.15E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     7.92E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.50E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  4.03E-04
+ ALL LISTED RADIATIONS                                       2.65E-01
+ ALL NEGLECTED RADIATIONS**                                  4.82E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 67-ZINC
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  67-COPPER.
+   THIS DAUGHTER GROUND STATE IS STABLE.

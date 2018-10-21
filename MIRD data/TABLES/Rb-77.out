@@ -1,0 +1,128 @@
+ 77-RUBIDIUM-37          HALFLIFE = 3.77 MINUTES 
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      2   4.27E-03    5.763E-01*   2.46E-03
+ BETA PLUS                      3   3.77E-03    6.595E-01*   2.49E-03
+ BETA PLUS                      4   3.77E-02    1.025E+00*   3.87E-02
+ BETA PLUS                      5   5.76E-03    1.078E+00*   6.20E-03
+ BETA PLUS                      6   3.08E-03    1.080E+00*   3.32E-03
+ BETA PLUS                      7   1.59E-03    1.100E+00*   1.75E-03
+ BETA PLUS                      8   1.79E-02    1.113E+00*   1.99E-02
+ BETA PLUS                      9   9.73E-03    1.139E+00*   1.11E-02
+ BETA PLUS                     10   1.21E-02    1.190E+00*   1.44E-02
+ BETA PLUS                     11   9.63E-03    1.267E+00*   1.22E-02
+ BETA PLUS                     12   7.94E-03    1.298E+00*   1.03E-02
+ BETA PLUS                     13   8.14E-03    1.360E+00*   1.11E-02
+ BETA PLUS                     14   1.09E-02    1.393E+00*   1.52E-02
+ BETA PLUS                     15   1.09E-02    1.435E+00*   1.57E-02
+ BETA PLUS                     16   2.68E-02    1.456E+00*   3.90E-02
+ BETA PLUS                     17   1.19E-02    1.490E+00*   1.78E-02
+ BETA PLUS                     18   1.39E-02    1.496E+00*   2.08E-02
+ BETA PLUS                     19   1.59E-02    1.502E+00*   2.39E-02
+ BETA PLUS                     20   5.46E-03    1.529E+00*   8.35E-03
+ BETA PLUS                     21   2.08E-02    1.569E+00*   3.27E-02
+ BETA PLUS                     22   1.29E-02    1.608E+00*   2.08E-02
+ BETA PLUS                     23   5.36E-03    1.628E+00*   8.73E-03
+ BETA PLUS                     24   8.94E-03    1.635E+00*   1.46E-02
+ BETA PLUS                     25   2.78E-02    1.644E+00*   4.57E-02
+ BETA PLUS                     26   2.28E-02    1.663E+00*   3.80E-02
+ BETA PLUS                     28   1.59E-02    1.757E+00*   2.79E-02
+ BETA PLUS                     29   7.05E-02    1.766E+00*   1.24E-01
+ BETA PLUS                     30   1.26E-01    1.869E+00*   2.36E-01
+ BETA PLUS                     31   1.49E-02    1.923E+00*   2.86E-02
+ BETA PLUS                     32   2.68E-01    1.955E+00*   5.24E-01
+ BETA PLUS                     33   1.49E-01    1.987E+00*   2.96E-01
+ ANNIHILATION RADIATION             1.93E+00    5.110E-01    9.84E-01
+ GAMMA-RAY                      2   5.70E-01    6.652E-02    3.79E-02
+ K CONV. ELECTRON, GAMMA-RAY    2   1.53E-01    5.224E-02    7.97E-03
+ GAMMA-RAY                      6   4.33E-02    1.499E-01    6.49E-03
+ GAMMA-RAY                      7   2.22E-01    1.788E-01    3.96E-02
+ GAMMA-RAY                     10   7.41E-03    2.452E-01    1.82E-03
+ GAMMA-RAY                     11   1.78E-02    2.543E-01    4.52E-03
+ GAMMA-RAY                     16   9.75E-02    3.934E-01    3.83E-02
+ GAMMA-RAY                     17   8.38E-03    4.331E-01    3.63E-03
+ GAMMA-RAY                     18   1.19E-02    4.690E-01    5.56E-03
+ GAMMA-RAY                     19   7.98E-03    5.110E-01    4.08E-03
+ GAMMA-RAY                     21   1.14E-02    5.452E-01    6.22E-03
+ GAMMA-RAY                     22   3.42E-03    5.540E-01    1.89E-03
+ GAMMA-RAY                     24   1.20E-02    5.772E-01    6.91E-03
+ GAMMA-RAY                     25   4.45E-03    5.973E-01    2.66E-03
+ GAMMA-RAY                     26   2.45E-02    6.086E-01    1.49E-02
+ GAMMA-RAY                     27   5.81E-03    6.090E-01    3.54E-03
+ GAMMA-RAY                     29   3.19E-02    6.267E-01    2.00E-02
+ GAMMA-RAY                     31   2.57E-02    6.479E-01    1.66E-02
+ GAMMA-RAY                     32   1.37E-02    6.668E-01    9.12E-03
+ GAMMA-RAY                     33   2.74E-03    6.749E-01    1.85E-03
+ GAMMA-RAY                     34   2.74E-03    7.124E-01    1.95E-03
+ GAMMA-RAY                     35   2.74E-03    7.134E-01    1.95E-03
+ GAMMA-RAY                     36   5.13E-03    7.245E-01    3.72E-03
+ GAMMA-RAY                     37   2.28E-03    7.291E-01    1.66E-03
+ GAMMA-RAY                     41   4.56E-03    7.761E-01    3.54E-03
+ GAMMA-RAY                     42   1.08E-02    7.798E-01    8.45E-03
+ GAMMA-RAY                     43   4.22E-03    7.826E-01    3.30E-03
+ GAMMA-RAY                     44   3.14E-03    7.922E-01    2.48E-03
+ GAMMA-RAY                     45   5.02E-03    8.009E-01    4.02E-03
+ GAMMA-RAY                     46   5.70E-03    8.056E-01    4.59E-03
+ GAMMA-RAY                     47   1.42E-02    8.056E-01    1.15E-02
+ GAMMA-RAY                     49   2.28E-03    8.341E-01    1.90E-03
+ GAMMA-RAY                     50   7.92E-03    8.526E-01    6.75E-03
+ GAMMA-RAY                     51   6.27E-03    8.600E-01    5.39E-03
+ GAMMA-RAY                     52   2.85E-03    8.713E-01    2.48E-03
+ GAMMA-RAY                     53   5.81E-03    9.102E-01    5.29E-03
+ GAMMA-RAY                     54   3.99E-03    9.468E-01    3.78E-03
+ GAMMA-RAY                     55   1.54E-02    9.587E-01    1.48E-02
+ GAMMA-RAY                     56   6.44E-03    9.663E-01    6.22E-03
+ GAMMA-RAY                     57   2.35E-02    9.709E-01    2.28E-02
+ GAMMA-RAY                     58   1.75E-02    9.883E-01    1.73E-02
+ GAMMA-RAY                     59   1.75E-02    9.883E-01    1.73E-02
+ GAMMA-RAY                     60   2.96E-03    9.917E-01    2.94E-03
+ GAMMA-RAY                     61   9.12E-03    1.012E+00    9.23E-03
+ GAMMA-RAY                     62   4.56E-03    1.024E+00    4.67E-03
+ GAMMA-RAY                     63   1.19E-02    1.037E+00    1.23E-02
+ GAMMA-RAY                     64   6.61E-03    1.068E+00    7.06E-03
+ GAMMA-RAY                     65   3.42E-03    1.109E+00    3.79E-03
+ GAMMA-RAY                     66   1.94E-03    1.124E+00    2.18E-03
+ GAMMA-RAY                     67   1.07E-02    1.154E+00    1.24E-02
+ GAMMA-RAY                     68   4.39E-03    1.177E+00    5.16E-03
+ GAMMA-RAY                     69   2.45E-03    1.199E+00    2.94E-03
+ GAMMA-RAY                     71   1.60E-03    1.243E+00    1.98E-03
+ GAMMA-RAY                     72   3.25E-03    1.311E+00    4.26E-03
+ GAMMA-RAY                     73   1.71E-03    1.360E+00    2.33E-03
+ GAMMA-RAY                     74   3.99E-03    1.378E+00    5.50E-03
+ GAMMA-RAY                     76   1.94E-03    1.427E+00    2.77E-03
+ GAMMA-RAY                     77   1.14E-03    1.448E+00    1.65E-03
+ GAMMA-RAY                     78   1.71E-03    1.511E+00    2.58E-03
+ GAMMA-RAY                     79   2.85E-03    1.542E+00    4.39E-03
+ GAMMA-RAY                     80   4.10E-03    1.606E+00    6.59E-03
+ GAMMA-RAY                     81   2.28E-03    1.632E+00    3.72E-03
+ GAMMA-RAY                     82   1.71E-03    1.662E+00    2.84E-03
+ GAMMA-RAY                     83   3.99E-03    1.668E+00    6.66E-03
+ GAMMA-RAY                     84   3.02E-03    1.672E+00    5.05E-03
+ GAMMA-RAY                     86   1.31E-03    1.802E+00    2.36E-03
+ GAMMA-RAY                     87   7.01E-03    1.838E+00    1.29E-02
+ GAMMA-RAY                     88   1.20E-03    2.340E+00    2.80E-03
+ GAMMA-RAY                     89   1.25E-03    2.508E+00    3.15E-03
+ GAMMA-RAY                     90   2.79E-03    2.577E+00    7.20E-03
+ GAMMA-RAY                     91   1.88E-03    2.594E+00    4.88E-03
+ GAMMA-RAY                     92   5.93E-03    2.762E+00    1.64E-02
+ GAMMA-RAY                     93   1.37E-03    2.823E+00    3.86E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.53E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.75E-02
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.68E+00
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  6.94E-03
+ ALL LISTED RADIATIONS                                       3.21E+00
+ ALL NEGLECTED RADIATIONS**                                  2.45E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 77-KRYPTON
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  77-RUBIDIUM.
+   DECAY OF THIS 74.4 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

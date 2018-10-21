@@ -1,0 +1,223 @@
+%%%%  36 CL  17    B- EC B+     9.49884E+12 3.01E+5 Y  02-11-2005       BALASTAR
+1  36   CL  17 3.01E+5 Y       B- EC B+   
+1INTENSITY AND ENERGY BALANCE DATA
+
+              36-CHLORINE-17
++                                    HALFLIFE = 301000 YEARS   
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  9.8100E+01
+   0.0000E+00  1.9000E+00
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   7.63E-06% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  7.168E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  7.168E-01 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%%  36 CL  17    B- EC B+     9.49884E+12 3.01E+5 Y  02-11-2005       BALAEND 
+%%%%  36 CL  17    B- EC B+     9.49884E+12 3.01E+5 Y  02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              36-CHLORINE-17
++                                    HALFLIFE = 301000 YEARS   
++                                                                  02-11-2005
+
+            MODES OF DECAY: BETA MINUS, ELECTRON CAPTURE, BETA PLUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+               BETA MINUS   1   9.81E-01   7.086E-01*  SECOND FORBIDDEN                         
+           ELECT. CAPTURE   1   1.89E-02   1.142E+00   SECOND FORBIDDEN                         
+                BETA PLUS   1   1.39E-04   1.201E-01*  SECOND FORBIDDEN                         
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Mar-2001
+%%%%  36 CL  17    B- EC B+     9.49884E+12 3.01E+5 Y  02-11-2005       INPUEND 
+%%%%  36 CL  17    B- EC B+     9.49884E+12 3.01E+5 Y  02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              36-CHLORINE-17
++                                    HALFLIFE = 301000 YEARS   
++                                                                  02-11-2005
+
+            MODES OF DECAY: BETA MINUS, ELECTRON CAPTURE, BETA PLUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           BETA MINUS                     1   9.81E-01    2.784E-01*   2.73E-01
+           BETA PLUS                      1   1.39E-04    5.837E-02*   8.11E-06
+           ANNIHILATION RADIATION             2.78E-04    5.110E-01    1.42E-04
+           K -L2 X-RAY                        4.21E-04    2.283E-03    9.62E-07
+           K -L3 X-RAY                        8.34E-04    2.285E-03    1.91E-06
+           K -M2 X-RAY                        1.96E-05    2.446E-03    4.80E-08
+           K -M3 X-RAY                        3.89E-05    2.446E-03    9.52E-08
+           L1-L2 X-RAY                        1.05E-06    5.324E-05    5.62E-11
+           L1-L3 X-RAY                        2.59E-06    5.457E-05    1.41E-10
+           L1-M2 X-RAY                        2.48E-07    2.156E-04    5.35E-11
+           L1-M3 X-RAY                        4.17E-07    2.157E-04    9.00E-11
+           L2-L3 X-RAY                        2.69E-15    1.330E-06    3.58E-21
+           L2-M1 X-RAY                        2.25E-06    1.518E-04    3.42E-10
+           L2-M3 X-RAY                        3.75E-10    1.625E-04    6.09E-14
+           L3-M1 X-RAY                        4.16E-06    1.504E-04    6.25E-10
+           L3-M2 X-RAY                        3.44E-10    1.611E-04    5.54E-14
+           L3-M3 X-RAY                        3.39E-10    1.612E-04    5.46E-14
+           Free-Bound X-RAY                   7.46E-02    1.291E-05    9.63E-07
+           AUGER KLL                          1.39E-02    2.089E-03*   2.90E-05
+           AUGER KLX                          1.73E-03    2.256E-03*   3.91E-06
+           AUGER KXY                          5.42E-05    2.426E-03*   1.32E-07
+           CK LLX                             7.83E-03    3.721E-05*   2.91E-07
+           AUGER LMM                          3.24E-02    1.475E-04*   4.78E-06
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.46E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.73E-01
+           ALL LISTED RADIATIONS                                       2.73E-01
+ 
+           *  AVERAGE ENERGY (MEV)
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 36-ARGON
+             DAUGHTER IS 9.8100E-01 PER TRANSFORMATION OF  36-CHLORINE.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 36-SULPHUR
+             DAUGHTER IS 1.9000E-02 PER TRANSFORMATION OF  36-CHLORINE.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Mar-2001
+%%%%  36 CL  17    B- EC B+     9.49884E+12 3.01E+5 Y  02-11-2005       OUTPEND 
+%%%%  36 CL  17    B- EC B+     9.49884E+12 3.01E+5 Y  02-11-2005       BETASTAR
+1
+              36-CHLORINE-17
++                                    HALFLIFE = 301000 YEARS   
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   1.434E+00      0.00200   1.424E+00      0.04500   1.607E+00
+            0.00010   1.434E+00      0.00220   1.424E+00      0.05000   1.629E+00
+            0.00011   1.434E+00      0.00240   1.424E+00      0.05500   1.651E+00
+            0.00012   1.434E+00      0.00260   1.424E+00      0.06000   1.671E+00
+            0.00013   1.434E+00      0.00280   1.424E+00      0.06500   1.690E+00
+            0.00014   1.434E+00      0.00300   1.424E+00      0.07000   1.708E+00
+            0.00015   1.433E+00      0.00320   1.424E+00      0.07500   1.726E+00
+            0.00016   1.433E+00      0.00360   1.424E+00      0.08000   1.742E+00
+            0.00018   1.433E+00      0.00400   1.424E+00      0.08500   1.758E+00
+            0.00020   1.433E+00      0.00450   1.424E+00      0.09000   1.773E+00
+            0.00022   1.433E+00      0.00500   1.424E+00      0.10000   1.801E+00
+            0.00024   1.433E+00      0.00550   1.425E+00      0.11000   1.826E+00
+            0.00026   1.433E+00      0.00600   1.425E+00      0.12000   1.849E+00
+            0.00028   1.433E+00      0.00650   1.426E+00      0.13000   1.870E+00
+            0.00030   1.433E+00      0.00700   1.427E+00      0.14000   1.889E+00
+            0.00032   1.433E+00      0.00750   1.428E+00      0.15000   1.905E+00
+            0.00036   1.432E+00      0.00800   1.429E+00      0.16000   1.920E+00
+            0.00040   1.432E+00      0.00850   1.430E+00      0.18000   1.945E+00
+            0.00045   1.432E+00      0.00900   1.432E+00      0.20000   1.962E+00
+            0.00050   1.432E+00      0.01000   1.435E+00      0.22000   1.973E+00
+            0.00055   1.431E+00      0.01100   1.439E+00      0.24000   1.976E+00
+            0.00060   1.431E+00      0.01200   1.443E+00      0.26000   1.972E+00
+            0.00065   1.431E+00      0.01300   1.447E+00      0.28000   1.961E+00
+            0.00070   1.431E+00      0.01400   1.452E+00      0.30000   1.941E+00
+            0.00075   1.430E+00      0.01500   1.456E+00      0.32000   1.912E+00
+            0.00080   1.430E+00      0.01600   1.461E+00      0.36000   1.825E+00
+            0.00085   1.430E+00      0.01800   1.471E+00      0.40000   1.696E+00
+            0.00090   1.430E+00      0.02000   1.481E+00      0.45000   1.471E+00
+            0.00100   1.429E+00      0.02200   1.492E+00      0.50000   1.180E+00
+            0.00110   1.428E+00      0.02400   1.502E+00      0.55000   8.372E-01
+            0.00120   1.428E+00      0.02600   1.513E+00      0.60000   4.798E-01
+            0.00130   1.427E+00      0.02800   1.523E+00      0.65000   1.699E-01
+            0.00140   1.427E+00      0.03000   1.534E+00      0.70000   4.424E-03
+            0.00150   1.426E+00      0.03200   1.544E+00      0.70860   0.000E+00
+            0.00160   1.426E+00      0.03600   1.564E+00
+            0.00180   1.425E+00      0.04000   1.583E+00
+
+            AVERAGE BETA ENERGY =   2.784E-01
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   9.811E-01
+%%%%  36 CL  17    B- EC B+     9.49884E+12 3.01E+5 Y  02-11-2005       BETAEND 
+%%%%  36 CL  17    B- EC B+     9.49884E+12 3.01E+5 Y  02-11-2005       SEEISTAR
+ 36.  CHLORINE     17.  3.010E+05 YEARS     23 B- EC B+              36.CL 17.   0
+ 5 1  9.81000E+01  2.78438E-01  7.08600E-01  1.00000E+00             36.CL 17.   1   1
+ 4 1  1.38976E-02  5.83665E-02  1.20070E-01  1.00000E+00             36.CL 17.   2   1
+ 3 3  2.77952E-02  5.11000E-01  5.11000E-01  0.00000E+00             36.CL 17.   3   3
+ 2 1  4.21223E-02  2.28317E-03  2.28317E-03  0.00000E+00             36.CL 17.   4   1
+ 2 2  8.33948E-02  2.28451E-03  2.28451E-03  0.00000E+00             36.CL 17.   5   2
+ 2 3  1.96470E-03  2.44556E-03  2.44556E-03  0.00000E+00             36.CL 17.   6   3
+ 2 4  3.89065E-03  2.44565E-03  2.44565E-03  0.00000E+00             36.CL 17.   7   4
+ 221  1.05481E-04  5.32401E-05  5.32401E-05  0.00000E+00             36.CL 17.   8  21
+ 222  2.58728E-04  5.45699E-05  5.45699E-05  0.00000E+00             36.CL 17.   9  22
+ 223  2.47928E-05  2.15630E-04  2.15630E-04  0.00000E+00             36.CL 17.  10  23
+ 224  4.17392E-05  2.15720E-04  2.15720E-04  0.00000E+00             36.CL 17.  11  24
+ 241  2.69286E-13  1.32999E-06  1.32999E-06  0.00000E+00             36.CL 17.  12  41
+ 242  2.25206E-04  1.51780E-04  1.51780E-04  0.00000E+00             36.CL 17.  13  42
+ 243  3.74967E-08  1.62480E-04  1.62480E-04  0.00000E+00             36.CL 17.  14  43
+ 261  4.15666E-04  1.50450E-04  1.50450E-04  0.00000E+00             36.CL 17.  15  61
+ 262  3.43859E-08  1.61060E-04  1.61060E-04  0.00000E+00             36.CL 17.  16  62
+ 263  3.38510E-08  1.61150E-04  1.61150E-04  0.00000E+00             36.CL 17.  17  63
+ 294  7.46011E+00  1.29091E-05  1.29091E-05  0.00000E+00             36.CL 17.  18  94
+ 7 1  1.38953E+00  2.08883E-03  2.08883E-03  0.00000E+00             36.CL 17.  19   1
+ 7 2  1.73371E-01  2.25601E-03  2.25601E-03  0.00000E+00             36.CL 17.  20   2
+ 7 3  5.42480E-03  2.42649E-03  2.42649E-03  0.00000E+00             36.CL 17.  21   3
+ 7 4  7.83091E-01  3.72100E-05  3.72100E-05  0.00000E+00             36.CL 17.  22   4
+ 7 5  3.24312E+00  1.47507E-04  1.47507E-04  0.00000E+00             36.CL 17.  23   5
+%%%%  36 CL  17    B- EC B+     9.49884E+12 3.01E+5 Y  02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   3.01139E-06
+    Free-bound X-ray                (MeV) =   9.63035E-07
+    Annihilation photon             (MeV) =   1.42033E-04
+    Beta+ particle                  (MeV) =   8.11154E-06
+    Neutrino                        (MeV) =   2.15442E-02
+    Beta- particle                  (MeV) =   2.73148E-01
+    Neutrino-                       (MeV) =   4.21989E-01
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   3.81430E-05
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   7.16873E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   7.16836E-01
+  Ratio of E-total/Q-value          ( % ) =   1.00005E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   1.32444E-03
+    Free-bound X-ray                      =   7.46011E-02
+    Annihilation photon                   =   2.77952E-04
+    Beta+ particle                        =   1.38976E-04
+    Beta- particle                        =   9.81000E-01
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   5.59454E-02
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

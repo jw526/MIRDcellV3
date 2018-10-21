@@ -1,0 +1,219 @@
+%%%% 165 ER  68    EC           3.72960E+04 10.36 H    02-11-2005       BALASTAR
+1 165   ER  68 10.36 H         EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              165-ERBIUM-68
++                                    HALFLIFE = 10.36 HOURS   
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  3.771E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  3.771E-01 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%% 165 ER  68    EC           3.72960E+04 10.36 H    02-11-2005       BALAEND 
+%%%% 165 ER  68    EC           3.72960E+04 10.36 H    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              165-ERBIUM-68
++                                    HALFLIFE = 10.36 HOURS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.00E+00   3.771E-01   ALLOWED                                  
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Mar-1992
+%%%% 165 ER  68    EC           3.72960E+04 10.36 H    02-11-2005       INPUEND 
+%%%% 165 ER  68    EC           3.72960E+04 10.36 H    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              165-ERBIUM-68
++                                    HALFLIFE = 10.36 HOURS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           K -L2 X-RAY                        2.15E-01    4.677E-02    1.01E-02
+           K -L3 X-RAY                        3.84E-01    4.764E-02    1.83E-02
+           K -M2 X-RAY                        3.98E-02    5.379E-02    2.14E-03
+           K -M3 X-RAY                        7.68E-02    5.397E-02    4.15E-03
+           K -M5 X-RAY                        8.84E-04    5.434E-02    4.80E-05
+           K -N2 X-RAY                        8.77E-03    5.536E-02    4.86E-04
+           K -N3 X-RAY                        1.70E-02    5.540E-02    9.41E-04
+           K -O2 X-RAY                        1.94E-03    5.567E-02    1.08E-04
+           K -O3 X-RAY                        4.04E-03    5.567E-02    2.25E-04
+           L1-M3 X-RAY                        6.57E-03    7.632E-03    5.01E-05
+           L2-M4 X-RAY                        4.78E-02    7.534E-03    3.60E-04
+           L2-N4 X-RAY                        8.43E-03    8.755E-03    7.38E-05
+           L3-M4 X-RAY                        8.02E-03    6.667E-03    5.34E-05
+           L3-M5 X-RAY                        7.08E-02    6.706E-03    4.75E-04
+           L3-N5 X-RAY                        1.20E-02    7.895E-03    9.49E-05
+           Free-Bound X-RAY                   8.33E+00    1.363E-05*   1.14E-04
+           AUGER KLL                          2.98E-02    3.825E-02*   1.14E-03
+           AUGER KLX                          1.50E-02    4.542E-02*   6.81E-04
+           AUGER KXY                          1.81E-03    5.260E-02*   9.51E-05
+           CK LLX                             1.40E-01    7.083E-04*   9.95E-05
+           AUGER LMM                          4.74E-01    5.309E-03*   2.52E-03
+           AUGER LMX                          1.68E-01    6.629E-03*   1.11E-03
+           AUGER LXY                          1.50E-02    7.984E-03*   1.20E-04
+           CK MMX                             6.30E-01    2.221E-04*   1.40E-04
+           AUGER MNN                          1.34E+00    1.075E-03*   1.44E-03
+           AUGER MNX                          6.99E-02    1.252E-03*   8.75E-05
+           CK NNX                             3.79E+00    1.348E-04*   5.11E-04
+           AUGER NXY                          1.55E-01    1.788E-04*   2.78E-05
+           CK OOX                             4.34E-01    1.897E-05*   8.23E-06
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    3.77E-02
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.11E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   7.99E-03
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  5.27E-06
+           ALL LISTED RADIATIONS                                       4.57E-02
+           ALL NEGLECTED RADIATIONS**                                  2.17E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 165-HOLMIUM
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 165-ERBIUM.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Mar-1992
+%%%% 165 ER  68    EC           3.72960E+04 10.36 H    02-11-2005       OUTPEND 
+%%%% 165 ER  68    EC           3.72960E+04 10.36 H    02-11-2005       SEEISTAR
+165.  ERBIUM       68.  1.036E+01 HOURS     68 EC                   165.ER 68.   0
+ 2 1  2.15476E+01  4.67702E-02  4.67702E-02  0.00000E+00            165.ER 68.   1   1
+ 2 2  3.83770E+01  4.76373E-02  4.76373E-02  0.00000E+00            165.ER 68.   2   2
+ 2 3  3.97502E+00  5.37885E-02  5.37885E-02  0.00000E+00            165.ER 68.   3   3
+ 2 4  7.68336E+00  5.39705E-02  5.39705E-02  0.00000E+00            165.ER 68.   4   4
+ 2 5  6.78907E-02  5.43038E-02  5.43038E-02  0.00000E+00            165.ER 68.   5   5
+ 2 6  8.83856E-02  5.43437E-02  5.43437E-02  0.00000E+00            165.ER 68.   6   6
+ 2 7  8.77488E-01  5.53559E-02  5.53559E-02  0.00000E+00            165.ER 68.   7   7
+ 2 8  1.69910E+00  5.53966E-02  5.53966E-02  0.00000E+00            165.ER 68.   8   8
+ 2 9  1.54140E-02  5.55253E-02  5.55253E-02  0.00000E+00            165.ER 68.   9   9
+ 210  1.99746E-02  5.55327E-02  5.55327E-02  0.00000E+00            165.ER 68.  10  10
+ 211  1.94102E-01  5.56652E-02  5.56652E-02  0.00000E+00            165.ER 68.  11  11
+ 212  4.03703E-01  5.56705E-02  5.56705E-02  0.00000E+00            165.ER 68.  12  12
+ 221  3.28839E-04  4.31500E-04  4.31500E-04  0.00000E+00            165.ER 68.  13  21
+ 222  2.04674E-02  1.29850E-03  1.29850E-03  0.00000E+00            165.ER 68.  14  22
+ 223  4.77176E-01  7.44981E-03  7.44981E-03  0.00000E+00            165.ER 68.  15  23
+ 224  6.57124E-01  7.63171E-03  7.63171E-03  0.00000E+00            165.ER 68.  16  24
+ 225  1.12141E-02  7.96500E-03  7.96500E-03  0.00000E+00            165.ER 68.  17  25
+ 226  1.67863E-02  8.00489E-03  8.00489E-03  0.00000E+00            165.ER 68.  18  26
+ 227  1.13691E-01  9.01715E-03  9.01715E-03  0.00000E+00            165.ER 68.  19  27
+ 228  1.63611E-01  9.05799E-03  9.05799E-03  0.00000E+00            165.ER 68.  20  28
+ 229  1.52425E-03  9.18658E-03  9.18658E-03  0.00000E+00            165.ER 68.  21  29
+ 230  2.35681E-03  9.19397E-03  9.19397E-03  0.00000E+00            165.ER 68.  22  30
+ 231  1.52716E-02  9.32631E-03  9.32631E-03  0.00000E+00            165.ER 68.  23  31
+ 232  2.11526E-02  9.33162E-03  9.33162E-03  0.00000E+00            165.ER 68.  24  32
+ 241  2.69220E-05  8.67000E-04  8.67000E-04  0.00000E+00            165.ER 68.  25  41
+ 242  1.57039E-01  6.82622E-03  6.82622E-03  0.00000E+00            165.ER 68.  26  42
+ 243  3.58888E-03  7.20021E-03  7.20021E-03  0.00000E+00            165.ER 68.  27  43
+ 244  4.78255E+00  7.53351E-03  7.53351E-03  0.00000E+00            165.ER 68.  28  44
+ 245  3.28308E-02  8.50835E-03  8.50835E-03  0.00000E+00            165.ER 68.  29  45
+ 246  8.41135E-04  8.62650E-03  8.62650E-03  0.00000E+00            165.ER 68.  30  46
+ 247  8.42514E-01  8.75507E-03  8.75507E-03  0.00000E+00            165.ER 68.  31  47
+ 248  1.07131E-03  8.91792E-03  8.91792E-03  0.00000E+00            165.ER 68.  32  48
+ 249  5.83527E-03  8.87351E-03  8.87351E-03  0.00000E+00            165.ER 68.  33  49
+ 250  1.87616E-04  8.90012E-03  8.90012E-03  0.00000E+00            165.ER 68.  34  50
+ 261  5.35825E-01  5.95920E-03  5.95920E-03  0.00000E+00            165.ER 68.  35  61
+ 262  3.84803E-03  6.15131E-03  6.15131E-03  0.00000E+00            165.ER 68.  36  62
+ 263  3.51586E-03  6.33320E-03  6.33320E-03  0.00000E+00            165.ER 68.  37  63
+ 264  8.01677E-01  6.66651E-03  6.66651E-03  0.00000E+00            165.ER 68.  38  64
+ 265  7.08453E+00  6.70641E-03  6.70641E-03  0.00000E+00            165.ER 68.  39  65
+ 266  7.92705E-02  7.64134E-03  7.64134E-03  0.00000E+00            165.ER 68.  40  66
+ 267  6.73442E-04  7.71866E-03  7.71866E-03  0.00000E+00            165.ER 68.  41  67
+ 268  6.53179E-04  7.75950E-03  7.75950E-03  0.00000E+00            165.ER 68.  42  68
+ 269  1.34348E-01  7.88806E-03  7.88806E-03  0.00000E+00            165.ER 68.  43  69
+ 270  1.20179E+00  7.89548E-03  7.89548E-03  0.00000E+00            165.ER 68.  44  70
+ 271  2.77024E-04  8.05088E-03  8.05088E-03  0.00000E+00            165.ER 68.  45  71
+ 272  1.57551E-03  8.05196E-03  8.05196E-03  0.00000E+00            165.ER 68.  46  72
+ 273  1.51322E-02  8.00651E-03  8.00651E-03  0.00000E+00            165.ER 68.  47  73
+ 274  1.54458E-04  8.02781E-03  8.02781E-03  0.00000E+00            165.ER 68.  48  74
+ 275  1.32951E-04  8.03310E-03  8.03310E-03  0.00000E+00            165.ER 68.  49  75
+ 291  1.76428E+00  1.29909E-03  1.29909E-03  0.00000E+00            165.ER 68.  50  91
+ 292  4.52782E-02  1.79533E-04  1.79533E-04  0.00000E+00            165.ER 68.  51  92
+ 293  2.25942E-05  2.55390E-05  2.55390E-05  0.00000E+00            165.ER 68.  52  93
+ 294  8.33420E+02  1.36278E-05  1.36278E-05  0.00000E+00            165.ER 68.  53  94
+ 7 1  2.97780E+00  3.82545E-02  3.82545E-02  0.00000E+00            165.ER 68.  54   1
+ 7 2  1.49817E+00  4.54244E-02  4.54244E-02  0.00000E+00            165.ER 68.  55   2
+ 7 3  1.80863E-01  5.26008E-02  5.26008E-02  0.00000E+00            165.ER 68.  56   3
+ 7 4  1.40417E+01  7.08314E-04  7.08314E-04  0.00000E+00            165.ER 68.  57   4
+ 7 5  4.74462E+01  5.30881E-03  5.30881E-03  0.00000E+00            165.ER 68.  58   5
+ 7 6  1.68154E+01  6.62935E-03  6.62935E-03  0.00000E+00            165.ER 68.  59   6
+ 7 7  1.50341E+00  7.98388E-03  7.98388E-03  0.00000E+00            165.ER 68.  60   7
+ 7 8  6.30381E+01  2.22072E-04  2.22072E-04  0.00000E+00            165.ER 68.  61   8
+ 7 9  1.34213E+02  1.07495E-03  1.07495E-03  0.00000E+00            165.ER 68.  62   9
+ 710  6.99131E+00  1.25193E-03  1.25193E-03  0.00000E+00            165.ER 68.  63  10
+ 711  3.55369E-01  1.44186E-03  1.44186E-03  0.00000E+00            165.ER 68.  64  11
+ 712  3.79190E+02  1.34806E-04  1.34806E-04  0.00000E+00            165.ER 68.  65  12
+ 713  1.55361E+01  1.78756E-04  1.78756E-04  0.00000E+00            165.ER 68.  66  13
+ 714  4.33819E+01  1.89749E-05  1.89749E-05  0.00000E+00            165.ER 68.  67  14
+ 715  3.35752E-01  4.43501E-05  4.43501E-05  0.00000E+00            165.ER 68.  68  15
+%%%% 165 ER  68    EC           3.72960E+04 10.36 H    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   3.77713E-02
+    Free-bound X-ray                (MeV) =   1.13577E-04
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   3.29673E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   7.99057E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   3.75549E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   3.77100E-01
+  Ratio of E-total/Q-value          ( % ) =   9.95886E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   9.39492E-01
+    Free-bound X-ray                      =   8.33420E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   7.27506E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

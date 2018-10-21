@@ -1,0 +1,54 @@
+ 133-IODINE-53           HALFLIFE = 20.8 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     2   1.26E-02    1.134E-01*   1.43E-03
+ BETA MINUS                     3   4.01E-03    1.255E-01*   5.03E-04
+ BETA MINUS                     4   3.81E-02    1.435E-01*   5.47E-03
+ BETA MINUS                     5   3.21E-02    1.654E-01*   5.30E-03
+ BETA MINUS                     6   6.31E-03    2.337E-01*   1.48E-03
+ BETA MINUS                     8   4.21E-02    3.029E-01*   1.27E-02
+ BETA MINUS                     9   1.83E-02    3.561E-01*   6.53E-03
+ BETA MINUS                    10   8.32E-01    4.452E-01*   3.70E-01
+ BETA MINUS                    11   1.04E-02    5.778E-01*   6.02E-03
+ GAMMA-RAY                      6   3.59E-03    2.627E-01    9.44E-04
+ GAMMA-RAY                     13   1.54E-03    4.176E-01    6.43E-04
+ GAMMA-RAY                     14   3.11E-03    4.229E-01    1.32E-03
+ GAMMA-RAY                     16   1.83E-02    5.105E-01    9.33E-03
+ GAMMA-RAY                     19   8.70E-01    5.299E-01    4.61E-01
+ K CONV. ELECTRON, GAMMA-RAY   19   6.07E-03    4.953E-01    3.01E-03
+ GAMMA-RAY                     24   5.44E-03    6.180E-01    3.36E-03
+ GAMMA-RAY                     28   6.50E-03    6.802E-01    4.42E-03
+ GAMMA-RAY                     29   1.51E-02    7.066E-01    1.06E-02
+ GAMMA-RAY                     30   4.60E-03    7.684E-01    3.54E-03
+ GAMMA-RAY                     32   1.55E-03    8.205E-01    1.27E-03
+ GAMMA-RAY                     33   1.24E-02    8.563E-01    1.07E-02
+ GAMMA-RAY                     34   4.51E-02    8.753E-01    3.94E-02
+ GAMMA-RAY                     35   2.14E-03    9.097E-01    1.95E-03
+ GAMMA-RAY                     39   5.56E-03    1.052E+00    5.85E-03
+ GAMMA-RAY                     40   1.38E-03    1.060E+00    1.47E-03
+ GAMMA-RAY                     42   1.51E-02    1.236E+00    1.86E-02
+ GAMMA-RAY                     43   2.35E-02    1.298E+00    3.05E-02
+ GAMMA-RAY                     45   1.50E-03    1.350E+00    2.02E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    6.07E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     5.07E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.13E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.43E-03
+ ALL LISTED RADIATIONS                                       1.02E+00
+ ALL NEGLECTED RADIATIONS**                                  6.50E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF 0.233221 MEV ISOMERIC LEVEL IN 133-XENON       
+   DAUGHTER IS 2.8846E-02 PER TRANSFORMATION OF 133-IODINE.
+   DECAY OF THIS 2.19 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 133-XENON
+   DAUGHTER IS 9.7115E-01 PER TRANSFORMATION OF 133-IODINE.
+   DECAY OF THIS 5.243 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

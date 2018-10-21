@@ -1,0 +1,90 @@
+ 221-FRANCIUM-87         HALFLIFE = 4.9 MINUTES 
+
+  MODE OF DECAY: ALPHA
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ ALPHA                          7   1.69E-03    5.937E+00    1.00E-02
+ RECOIL ATOM                        1.69E-03    1.095E-01    1.85E-04
+ ALPHA                          9   4.86E-03    5.980E+00    2.91E-02
+ RECOIL ATOM                        4.86E-03    1.103E-01    5.36E-04
+ ALPHA                         11   1.49E-03    6.075E+00    9.04E-03
+ RECOIL ATOM                        1.49E-03    1.120E-01    1.67E-04
+ ALPHA                         12   1.50E-01    6.126E+00    9.17E-01
+ RECOIL ATOM                        1.50E-01    1.130E-01    1.69E-02
+ ALPHA                         13   1.33E-02    6.243E+00    8.30E-02
+ RECOIL ATOM                        1.33E-02    1.152E-01    1.53E-03
+ ALPHA                         14   8.27E-01    6.341E+00    5.24E+00
+ RECOIL ATOM                        8.27E-01    1.170E-01    9.67E-02
+ GAMMA-RAY                      2   1.11E-03    9.950E-02    1.11E-04
+ K CONV. ELECTRON, GAMMA-RAY    2   1.03E-02    3.432E-03    3.52E-05
+ L1 CONV. ELECTRON, GAMMA-RAY   2   1.66E-03    8.203E-02    1.37E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   2   6.52E-04    8.266E-02    5.39E-05
+ L3 CONV. ELECTRON, GAMMA-RAY   2   3.85E-04    8.529E-02    3.28E-05
+ M CONV. ELECTRON, GAMMA-RAY    2   6.70E-04    9.610E-02*   6.44E-05
+ N+ CONV. ELECTRON, GAMMA-RAY   2   2.21E-04    9.950E-02*   2.20E-05
+ GAMMA-RAY                      3   3.70E-04    1.182E-01    4.38E-05
+ K CONV. ELECTRON, GAMMA-RAY    3   2.40E-03    2.213E-02    5.30E-05
+ L1 CONV. ELECTRON, GAMMA-RAY   3   3.86E-04    1.007E-01    3.89E-05
+ M CONV. ELECTRON, GAMMA-RAY    3   1.02E-04    1.148E-01*   1.17E-05
+ GAMMA-RAY                      4   7.41E-04    1.500E-01    1.11E-04
+ K CONV. ELECTRON, GAMMA-RAY    4   2.43E-03    5.393E-02    1.31E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   4   3.91E-04    1.325E-01    5.18E-05
+ M CONV. ELECTRON, GAMMA-RAY    4   1.03E-04    1.466E-01*   1.51E-05
+ GAMMA-RAY                      5   7.41E-04    1.713E-01    1.27E-04
+ K CONV. ELECTRON, GAMMA-RAY    5   1.68E-04    7.523E-02    1.26E-05
+ L2 CONV. ELECTRON, GAMMA-RAY   5   2.07E-04    1.545E-01    3.19E-05
+ L3 CONV. ELECTRON, GAMMA-RAY   5   1.26E-04    1.571E-01    1.98E-05
+ M CONV. ELECTRON, GAMMA-RAY    5   9.66E-05    1.679E-01*   1.62E-05
+ GAMMA-RAY                      6   1.16E-01    2.182E-01    2.53E-02
+ K CONV. ELECTRON, GAMMA-RAY    6   1.59E-02    1.221E-01    1.94E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   6   2.52E-03    2.007E-01    5.06E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   6   1.14E-02    2.014E-01    2.29E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   6   6.16E-03    2.040E-01    1.26E-03
+ M CONV. ELECTRON, GAMMA-RAY    6   5.33E-03    2.148E-01*   1.14E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   6   1.73E-03    2.182E-01*   3.78E-04
+ GAMMA-RAY                      8   1.85E-04    3.241E-01    6.00E-05
+ GAMMA-RAY                      9   3.70E-04    3.591E-01    1.33E-04
+ GAMMA-RAY                     10   3.70E-04    3.818E-01    1.41E-04
+ GAMMA-RAY                     11   1.39E-03    4.107E-01    5.70E-04
+ K CONV. ELECTRON, GAMMA-RAY   11   4.82E-05    3.146E-01    1.52E-05
+ K -L2 X-RAY                        8.88E-03    7.923E-02    7.04E-04
+ K -L3 X-RAY                        1.47E-02    8.185E-02    1.20E-03
+ K -M2 X-RAY                        1.66E-03    9.208E-02    1.53E-04
+ K -M3 X-RAY                        3.22E-03    9.267E-02    2.98E-04
+ K -N2 X-RAY                        4.02E-04    9.518E-02    3.82E-05
+ K -N3 X-RAY                        7.95E-04    9.533E-02    7.58E-05
+ L2-M4 X-RAY                        7.63E-03    1.393E-02    1.06E-04
+ L3-M5 X-RAY                        7.55E-03    1.143E-02    8.63E-05
+ Free-Bound X-RAY                   7.19E-01    4.429E-05*   3.18E-05
+ AUGER KLL                          7.06E-04    6.348E-02*   4.48E-05
+ AUGER KLX                          3.91E-04    7.663E-02*   3.00E-05
+ CK LLX                             6.78E-03    1.353E-03*   9.17E-06
+ AUGER LMM                          1.85E-02    8.817E-03*   1.63E-04
+ AUGER LMX                          8.60E-03    1.147E-02*   9.86E-05
+ AUGER LXY                          9.51E-04    1.415E-02*   1.35E-05
+ CK MMX                             2.80E-02    4.545E-04*   1.27E-05
+ AUGER MNN                          6.45E-02    2.073E-03*   1.34E-04
+ AUGER MNX                          9.29E-03    2.387E-03*   2.22E-05
+ CK NNX                             1.19E-01    1.769E-04*   2.11E-05
+ AUGER NXY                          2.18E-01    1.051E-04*   2.29E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.93E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.63E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   8.83E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  7.86E-05
+ ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               6.41E+00
+ ALL NEGLECTED ALPHA PARTICLES AND  RECOIL NUCLEI**          1.10E-02
+ ALL LISTED RADIATIONS                                       6.45E+00
+ ALL NEGLECTED RADIATIONS**                                  1.12E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 217-ASTATINE
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 221-FRANCIUM.
+   DECAY OF THIS 0.323E-01 SECONDS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE
+   .

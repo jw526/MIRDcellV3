@@ -1,0 +1,34 @@
+ 147-PROMETHIUM-61       HALFLIFE = 2.6234 YEARS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     3   1.00E+00    6.193E-02*   6.19E-02
+ GAMMA-RAY                      2   2.85E-05    1.212E-01    3.45E-06
+ K -L2 X-RAY                        6.33E-06    3.956E-02    2.50E-07
+ K -L3 X-RAY                        1.15E-05    4.017E-02    4.60E-07
+ K -M2 X-RAY                        1.15E-06    4.534E-02    5.21E-08
+ K -M3 X-RAY                        2.22E-06    4.547E-02    1.01E-07
+ K -N2 X-RAY                        2.49E-07    4.660E-02    1.16E-08
+ K -N3 X-RAY                        4.83E-07    4.663E-02    2.25E-08
+ K -O3 X-RAY                        1.02E-07    4.685E-02    4.76E-09
+ L2-M4 X-RAY                        1.08E-06    6.205E-03    6.72E-09
+ L3-M5 X-RAY                        1.67E-06    5.622E-03    9.39E-09
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.37E-06
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.69E-08
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   6.19E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  4.14E-06
+ ALL LISTED RADIATIONS                                       6.19E-02
+ ALL NEGLECTED RADIATIONS**                                  4.16E-06
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 147-SAMARIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 147-PROMETHIUM.
+   DECAY OF THIS 0.106E+12 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

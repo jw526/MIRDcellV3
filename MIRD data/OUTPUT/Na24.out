@@ -1,0 +1,248 @@
+%%%%  24 NA  11    B-           5.38524E+04 14.9590 H  02-11-2005       BALASTAR
+1  24   NA  11 14.9590 H       B-         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              24-SODIUM-11
++                                    HALFLIFE = 14.959 HOURS   
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+   1.3687E+00  1.0000E+02  1.0000E+02  1.7319E-03                      
+   4.1229E+00  9.9943E+01  9.9944E+01  7.7100E-04                      
+   4.2384E+00  1.9000E-03  1.4000E-03  3.0304E+01  ********************
+   5.2352E+00  5.3000E-02  5.3400E-02  7.5258E-01                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  2.396E-03                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  5.514E+00 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  5.513E+00 MEV
+ PERCENT ERROR =  2.863E-03                      
+%%%%  24 NA  11    B-           5.38524E+04 14.9590 H  02-11-2005       BALAEND 
+%%%%  24 NA  11    B-           5.38524E+04 14.9590 H  02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              24-SODIUM-11
++                                    HALFLIFE = 14.959 HOURS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: BETA MINUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+               BETA MINUS   1   5.30E-04   2.784E-01*  ALLOWED                                  
+               BETA MINUS   2   5.00E-06   1.275E+00*  SECOND FORBIDDEN                         
+               BETA MINUS   3   9.99E-01   1.391E+00*  ALLOWED                                  
+               BETA MINUS   4   3.00E-05   4.145E+00*  SECOND FORBIDDEN                         
+           I.C.E. + GAMMA   1   1.40E-05   9.968E-01   M1 MULTIPOLE                             
+           I.C.E. + GAMMA   2   1.00E+00   1.369E+00   E2 MULTIPOLE                             
+           I.C.E. + GAMMA   3   9.99E-01   2.754E+00   E2 MULTIPOLE                             
+           I.C.E. + GAMMA   4   3.00E-06   2.870E+00   M1+E2 MULTIPOLE                          
+                                                       MRS=529.                                 
+           I.C.E. + GAMMA   5   5.20E-04   3.866E+00   M1+E2 MULTIPOLE                          
+                                                       MRS=289.                                 
+           I.C.E. + GAMMA   6   1.10E-05   4.238E+00   E2 MULTIPOLE                             
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Apr-2000
+%%%%  24 NA  11    B-           5.38524E+04 14.9590 H  02-11-2005       INPUEND 
+%%%%  24 NA  11    B-           5.38524E+04 14.9590 H  02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              24-SODIUM-11
++                                    HALFLIFE = 14.959 HOURS   
++                                                                  02-11-2005
+
+            MODE OF DECAY: BETA MINUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           BETA MINUS                     3   9.99E-01    5.540E-01*   5.54E-01
+           GAMMA-RAY                      2   1.00E+00    1.369E+00    1.37E+00
+           GAMMA-RAY                      3   9.99E-01    2.754E+00    2.75E+00
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.12E+00
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.08E-03
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.54E-01
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.32E-04
+           ALL LISTED RADIATIONS                                       4.67E+00
+           ALL NEGLECTED RADIATIONS**                                  2.21E-03
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 24-MAGNESIUM
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  24-SODIUM.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Apr-2000
+%%%%  24 NA  11    B-           5.38524E+04 14.9590 H  02-11-2005       OUTPEND 
+%%%%  24 NA  11    B-           5.38524E+04 14.9590 H  02-11-2005       BETASTAR
+1
+              24-SODIUM-11
++                                    HALFLIFE = 14.959 HOURS   
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   3.524E-01      0.00360   3.557E-01      0.14000   7.689E-01
+            0.00010   3.524E-01      0.00400   3.566E-01      0.15000   7.913E-01
+            0.00011   3.524E-01      0.00450   3.579E-01      0.16000   8.129E-01
+            0.00012   3.524E-01      0.00500   3.594E-01      0.18000   8.541E-01
+            0.00013   3.524E-01      0.00550   3.610E-01      0.20000   8.926E-01
+            0.00014   3.524E-01      0.00600   3.627E-01      0.22000   9.285E-01
+            0.00015   3.524E-01      0.00650   3.644E-01      0.24000   9.619E-01
+            0.00016   3.524E-01      0.00700   3.663E-01      0.26000   9.928E-01
+            0.00018   3.524E-01      0.00750   3.682E-01      0.28000   1.021E+00
+            0.00020   3.524E-01      0.00800   3.701E-01      0.30000   1.047E+00
+            0.00022   3.524E-01      0.00850   3.720E-01      0.32000   1.071E+00
+            0.00024   3.524E-01      0.00900   3.740E-01      0.36000   1.110E+00
+            0.00026   3.524E-01      0.01000   3.781E-01      0.40000   1.139E+00
+            0.00028   3.524E-01      0.01100   3.822E-01      0.45000   1.160E+00
+            0.00030   3.524E-01      0.01200   3.863E-01      0.50000   1.166E+00
+            0.00032   3.524E-01      0.01300   3.904E-01      0.55000   1.157E+00
+            0.00036   3.524E-01      0.01400   3.945E-01      0.60000   1.132E+00
+            0.00040   3.524E-01      0.01500   3.987E-01      0.65000   1.093E+00
+            0.00045   3.525E-01      0.01600   4.028E-01      0.70000   1.041E+00
+            0.00050   3.525E-01      0.01800   4.109E-01      0.75000   9.768E-01
+            0.00055   3.525E-01      0.02000   4.190E-01      0.80000   9.019E-01
+            0.00060   3.525E-01      0.02200   4.269E-01      0.85000   8.179E-01
+            0.00065   3.525E-01      0.02400   4.348E-01      0.90000   7.268E-01
+            0.00070   3.525E-01      0.02600   4.425E-01      1.00000   5.318E-01
+            0.00075   3.525E-01      0.02800   4.500E-01      1.10000   3.363E-01
+            0.00080   3.525E-01      0.03000   4.575E-01      1.20000   1.639E-01
+            0.00085   3.525E-01      0.03200   4.649E-01      1.30000   4.170E-02
+            0.00090   3.525E-01      0.03600   4.793E-01      1.40000   1.052E-05
+            0.00100   3.525E-01      0.04000   4.933E-01      1.50000   1.069E-05
+            0.00110   3.526E-01      0.04500   5.103E-01      1.60000   1.081E-05
+            0.00120   3.526E-01      0.05000   5.268E-01      1.80000   1.093E-05
+            0.00130   3.527E-01      0.05500   5.428E-01      2.00000   1.088E-05
+            0.00140   3.528E-01      0.06000   5.585E-01      2.20000   1.066E-05
+            0.00150   3.529E-01      0.06500   5.737E-01      2.40000   1.025E-05
+            0.00160   3.529E-01      0.07000   5.886E-01      2.60000   9.627E-06
+            0.00180   3.531E-01      0.07500   6.031E-01      2.80000   8.761E-06
+            0.00200   3.532E-01      0.08000   6.174E-01      3.00000   7.636E-06
+            0.00220   3.534E-01      0.08500   6.313E-01      3.20000   6.257E-06
+            0.00240   3.537E-01      0.09000   6.450E-01      3.60000   3.004E-06
+            0.00260   3.539E-01      0.10000   6.716E-01      4.00000   3.037E-07
+            0.00280   3.542E-01      0.11000   6.972E-01      4.14493   0.000E+00
+            0.00300   3.545E-01      0.12000   7.219E-01
+            0.00320   3.549E-01      0.13000   7.458E-01
+
+            AVERAGE BETA ENERGY =   5.538E-01
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   1.000E+00
+%%%%  24 NA  11    B-           5.38524E+04 14.9590 H  02-11-2005       BETAEND 
+%%%%  24 NA  11    B-           5.38524E+04 14.9590 H  02-11-2005       SEEISTAR
+ 24.  SODIUM       11.  1.496E+01 HOURS     47 B-                    24.NA 11.   0
+ 5 1  5.29997E-02  8.92331E-02  2.78400E-01  0.00000E+00             24.NA 11.   1   1
+ 5 2  4.99998E-04  5.30493E-01  1.27524E+00  1.00000E+00             24.NA 11.   2   2
+ 5 3  9.99435E+01  5.53998E-01  1.39073E+00  0.00000E+00             24.NA 11.   3   3
+ 5 4  2.99998E-03  1.88222E+00  4.14493E+00  1.00000E+00             24.NA 11.   4   4
+ 1 1  1.40000E-03  9.96820E-01  9.96820E-01  0.00000E+00             24.NA 11.   5   1
+ 6 1  1.81110E-08  9.95526E-01  9.95526E-01  1.00000E+00             24.NA 11.   6   1
+ 6 5  1.19583E-09  9.96731E-01  9.96731E-01  1.00000E+00             24.NA 11.   7   5
+ 6 6  1.10948E-12  9.96763E-01  9.96763E-01  1.00000E+00             24.NA 11.   8   6
+ 6 7  1.27654E-12  9.96764E-01  9.96764E-01  1.00000E+00             24.NA 11.   9   7
+ 1 2  1.00000E+02  1.36863E+00  1.36863E+00  0.00000E+00             24.NA 11.  10   2
+ 6 1  1.21927E-03  1.36734E+00  1.36734E+00  2.00000E+00             24.NA 11.  11   1
+ 6 5  8.05452E-05  1.36854E+00  1.36854E+00  2.00000E+00             24.NA 11.  12   5
+ 6 6  6.91059E-08  1.36858E+00  1.36858E+00  2.00000E+00             24.NA 11.  13   6
+ 6 7  1.12938E-07  1.36858E+00  1.36858E+00  2.00000E+00             24.NA 11.  14   7
+ 1 3  9.99440E+01  2.75403E+00  2.75403E+00  0.00000E+00             24.NA 11.  15   3
+ 6 1  2.53458E-04  2.75273E+00  2.75273E+00  3.00000E+00             24.NA 11.  16   1
+ 6 5  1.72460E-05  2.75394E+00  2.75394E+00  3.00000E+00             24.NA 11.  17   5
+ 6 6  6.87246E-09  2.75397E+00  2.75397E+00  3.00000E+00             24.NA 11.  18   6
+ 6 7  1.66996E-08  2.75397E+00  2.75397E+00  3.00000E+00             24.NA 11.  19   7
+ 1 4  3.00000E-04  2.86950E+00  2.86950E+00  0.00000E+00             24.NA 11.  20   4
+ 6 1  7.12581E-10  2.86821E+00  2.86821E+00  4.00000E+00             24.NA 11.  21   1
+ 6 5  4.87888E-11  2.86941E+00  2.86941E+00  4.00000E+00             24.NA 11.  22   5
+ 6 6  1.86209E-14  2.86944E+00  2.86944E+00  4.00000E+00             24.NA 11.  23   6
+ 6 7  4.66499E-14  2.86944E+00  2.86944E+00  4.00000E+00             24.NA 11.  24   7
+ 1 5  5.20000E-02  3.86619E+00  3.86619E+00  0.00000E+00             24.NA 11.  25   5
+ 6 1  7.88402E-08  3.86490E+00  3.86490E+00  5.00000E+00             24.NA 11.  26   1
+ 6 5  5.76642E-09  3.86610E+00  3.86610E+00  5.00000E+00             24.NA 11.  27   5
+ 6 6  1.63324E-12  3.86613E+00  3.86613E+00  5.00000E+00             24.NA 11.  28   6
+ 6 7  5.23953E-12  3.86613E+00  3.86613E+00  5.00000E+00             24.NA 11.  29   7
+ 1 6  1.10000E-03  4.23796E+00  4.23796E+00  0.00000E+00             24.NA 11.  30   6
+ 6 1  1.46358E-09  4.23667E+00  4.23667E+00  6.00000E+00             24.NA 11.  31   1
+ 6 5  6.39965E-11  4.23787E+00  4.23787E+00  6.00000E+00             24.NA 11.  32   5
+ 6 6  1.57324E-14  4.23790E+00  4.23790E+00  6.00000E+00             24.NA 11.  33   6
+ 6 7  4.24762E-14  4.23790E+00  4.23790E+00  6.00000E+00             24.NA 11.  34   7
+ 2 1  1.36580E-05  1.23795E-03  1.23795E-03  0.00000E+00             24.NA 11.  35   1
+ 2 2  2.71279E-05  1.23826E-03  1.23826E-03  0.00000E+00             24.NA 11.  36   2
+ 221  4.25351E-08  3.29100E-05  3.29100E-05  0.00000E+00             24.NA 11.  37  21
+ 222  8.84247E-08  3.32200E-05  3.32200E-05  0.00000E+00             24.NA 11.  38  22
+ 241  5.38935E-19  3.10001E-07  3.10001E-07  0.00000E+00             24.NA 11.  39  41
+ 242  3.37170E-09  4.96601E-05  4.96601E-05  0.00000E+00             24.NA 11.  40  42
+ 261  6.23053E-09  4.93501E-05  4.93501E-05  0.00000E+00             24.NA 11.  41  61
+ 294  6.68495E-03  6.89001E-06  6.89001E-06  0.00000E+00             24.NA 11.  42  94
+ 7 1  1.38660E-03  1.16706E-03  1.16706E-03  0.00000E+00             24.NA 11.  43   1
+ 7 2  4.47346E-05  1.21751E-03  1.21751E-03  0.00000E+00             24.NA 11.  44   2
+ 7 3  7.08546E-07  1.28072E-03  1.28072E-03  0.00000E+00             24.NA 11.  45   3
+ 7 4  7.25351E-04  2.62261E-05  2.62261E-05  0.00000E+00             24.NA 11.  46   4
+ 7 5  2.95672E-03  4.26626E-05  4.26626E-05  0.00000E+00             24.NA 11.  47   5
+%%%%  24 NA  11    B-           5.38524E+04 14.9590 H  02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   4.12320E+00
+    X-ray                           (MeV) =   5.05040E-10
+    Free-bound X-ray                (MeV) =   4.60593E-10
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   5.53792E-01
+    Neutrino-                       (MeV) =   8.36427E-01
+    Internal conv. electron         (MeV) =   2.52325E-05
+    Auger and CK electron           (MeV) =   1.81878E-08
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   5.51344E+00
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   5.51360E+00
+  Ratio of E-total/Q-value          ( % ) =   9.99971E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   1.99999E+00
+    X-ray                                 =   4.09264E-07
+    Free-bound X-ray                      =   6.68495E-05
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   1.00000E+00
+    Internal conv. electron               =   1.57083E-05
+    Auger and CK electron                 =   5.11412E-05
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

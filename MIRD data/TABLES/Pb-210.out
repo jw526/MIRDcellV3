@@ -1,0 +1,69 @@
+ 210-LEAD-82             HALFLIFE = 22.2 YEARS   
+
+  MODES OF DECAY: BETA MINUS, ALPHA
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   8.40E-01    4.162E-03*   3.50E-03
+ BETA MINUS                     2   1.60E-01    1.616E-02*   2.59E-03
+ GAMMA-RAY                      1   4.25E-02    4.654E-02    1.98E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   1   5.54E-01    3.016E-02    1.67E-02
+ L2 CONV. ELECTRON, GAMMA-RAY   1   5.50E-02    3.077E-02    1.69E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   1   4.80E-03    3.311E-02    1.59E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   1.45E-01    4.337E-02*   6.28E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   4.73E-02    4.654E-02*   2.20E-03
+ L1-L3 X-RAY                        1.84E-03    2.951E-03    5.44E-06
+ L1-M2 X-RAY                        1.92E-02    1.268E-02    2.43E-04
+ L1-M3 X-RAY                        2.05E-02    1.321E-02    2.71E-04
+ L1-M4 X-RAY                        7.11E-04    1.368E-02    9.72E-06
+ L1-M5 X-RAY                        1.06E-03    1.379E-02    1.47E-05
+ L1-N2 X-RAY                        4.97E-03    1.558E-02    7.73E-05
+ L1-N3 X-RAY                        5.82E-03    1.571E-02    9.14E-05
+ L1-O2 X-RAY                        1.00E-03    1.625E-02    1.63E-05
+ L1-03 X-RAY                        1.16E-03    1.628E-02    1.88E-05
+ L2-M1 X-RAY                        7.68E-04    1.179E-02    9.06E-06
+ L2-M4 X-RAY                        2.82E-02    1.307E-02    3.68E-04
+ L2-N4 X-RAY                        5.82E-03    1.530E-02    8.90E-05
+ L2-O4 X-RAY                        7.73E-04    1.573E-02    1.22E-05
+ L3-M1 X-RAY                        6.57E-03    9.451E-03    6.21E-05
+ L3-M4 X-RAY                        1.15E-02    1.073E-02    1.23E-04
+ L3-M5 X-RAY                        1.01E-01    1.084E-02    1.10E-03
+ L3-N1 X-RAY                        1.50E-03    1.250E-02    1.87E-05
+ L3-N4 X-RAY                        2.17E-03    1.296E-02    2.81E-05
+ L3-N5 X-RAY                        1.96E-02    1.298E-02    2.55E-04
+ L3-O5 X-RAY                        2.53E-03    1.339E-02    3.39E-05
+ M X-RAY                            4.65E-02    2.460E-03    1.14E-04
+ Free-Bound X-RAY                   1.18E+01    3.247E-05    3.83E-04
+ CK LLX                             4.26E-01    8.425E-04*   3.59E-04
+ AUGER LMM                          2.52E-01    8.339E-03*   2.10E-03
+ AUGER LMX                          1.13E-01    1.082E-02*   1.23E-03
+ AUGER LXY                          1.22E-02    1.335E-02*   1.63E-04
+ CK MMX                             4.93E-01    4.434E-04*   2.18E-04
+ AUGER MNN                          1.05E+00    1.959E-03*   2.06E-03
+ AUGER MNX                          1.38E-01    2.235E-03*   3.08E-04
+ CK NNX                             1.98E+00    1.742E-04*   3.44E-04
+ AUGER NXY                          3.74E+00    9.053E-05*   3.39E-04
+ CK OOX                             2.76E+00    4.070E-05*   1.13E-04
+ ALPHA                          1   1.90E-08    3.720E+00    7.07E-08
+ RECOIL ATOM                        1.90E-08    7.227E-02    1.37E-09
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    5.32E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.39E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.04E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.93E-05
+ ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               7.20E-08
+ ALL LISTED RADIATIONS                                       4.57E-02
+ ALL NEGLECTED RADIATIONS**                                  4.32E-05
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 210-BISMUTH
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 210-LEAD.
+   DECAY OF THIS 5.013 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 206-MERCURY
+   DAUGHTER IS 1.9000E-08 PER TRANSFORMATION OF 210-LEAD.
+   DECAY OF THIS 8.15 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

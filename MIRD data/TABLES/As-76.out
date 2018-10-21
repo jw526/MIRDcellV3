@@ -1,0 +1,50 @@
+ 76-ARSENIC-33           HALFLIFE = 1.0778 DAYS    
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     4   1.69E-02    1.711E-01*   2.90E-03
+ BETA MINUS                    11   1.77E-02    4.334E-01*   7.68E-03
+ BETA MINUS                    14   7.51E-02    6.884E-01*   5.17E-02
+ BETA MINUS                    15   8.11E-03    7.461E-01*   6.05E-03
+ BETA MINUS                    16   3.53E-01    9.929E-01*   3.50E-01
+ BETA MINUS                    17   5.11E-01    1.264E+00*   6.45E-01
+ GAMMA-RAY                     10   4.50E-01    5.591E-01    2.52E-01
+ GAMMA-RAY                     11   1.20E-02    5.632E-01    6.77E-03
+ GAMMA-RAY                     12   1.39E-03    5.715E-01    7.97E-04
+ GAMMA-RAY                     16   6.16E-02    6.571E-01    4.05E-02
+ GAMMA-RAY                     18   3.64E-03    6.653E-01    2.43E-03
+ GAMMA-RAY                     21   1.17E-03    7.401E-01    8.66E-04
+ GAMMA-RAY                     23   1.21E-03    7.717E-01    9.38E-04
+ GAMMA-RAY                     30   1.30E-03    8.676E-01    1.13E-03
+ GAMMA-RAY                     31   5.85E-04    8.821E-01    5.16E-04
+ GAMMA-RAY                     40   1.26E-03    1.130E+00    1.42E-03
+ GAMMA-RAY                     42   1.44E-02    1.213E+00    1.75E-02
+ GAMMA-RAY                     43   3.42E-02    1.216E+00    4.16E-02
+ GAMMA-RAY                     44   1.21E-02    1.229E+00    1.49E-02
+ GAMMA-RAY                     46   2.79E-03    1.439E+00    4.02E-03
+ GAMMA-RAY                     47   1.08E-03    1.454E+00    1.57E-03
+ GAMMA-RAY                     53   2.92E-03    1.788E+00    5.23E-03
+ GAMMA-RAY                     55   5.40E-04    1.870E+00    1.01E-03
+ GAMMA-RAY                     58   5.49E-03    2.096E+00    1.15E-02
+ GAMMA-RAY                     59   3.28E-03    2.111E+00    6.93E-03
+ GAMMA-RAY                     61   3.15E-04    2.429E+00    7.65E-04
+ GAMMA-RAY                     62   4.37E-04    2.655E+00    1.16E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.13E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     3.44E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.06E+00
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.11E-03
+ ALL LISTED RADIATIONS                                       1.48E+00
+ ALL NEGLECTED RADIATIONS**                                  6.55E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 76-SELENIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  76-ARSENIC.
+   THIS DAUGHTER GROUND STATE IS STABLE.

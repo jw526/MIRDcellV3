@@ -1,0 +1,118 @@
+%%%% 212 PO  84    A            2.99000E-07 2.99E-7 S  02-11-2005       BALASTAR
+1 212   PO  84 2.99E-7 S       A          
+1INTENSITY AND ENERGY BALANCE DATA
+
+              212-POLONIUM-84
++                                    HALFLIFE = 0.299E-06 SECONDS 
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  8.954E+00 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  8.954E+00 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%% 212 PO  84    A            2.99000E-07 2.99E-7 S  02-11-2005       BALAEND 
+%%%% 212 PO  84    A            2.99000E-07 2.99E-7 S  02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              212-POLONIUM-84
++                                    HALFLIFE = 0.299E-06 SECONDS 
++                                                                  02-11-2005
+
+            MODE OF DECAY: ALPHA
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+                    ALPHA   1   1.00E+00   8.954E+00                                            
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: May-1998
+%%%% 212 PO  84    A            2.99000E-07 2.99E-7 S  02-11-2005       INPUEND 
+%%%% 212 PO  84    A            2.99000E-07 2.99E-7 S  02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              212-POLONIUM-84
++                                    HALFLIFE = 0.299E-06 SECONDS 
++                                                                  02-11-2005
+
+            MODE OF DECAY: ALPHA
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           ALPHA                          1   1.00E+00    8.785E+00    8.79E+00
+           RECOIL ATOM                        1.00E+00    1.691E-01    1.69E-01
+ 
+           ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               8.95E+00
+           ALL LISTED RADIATIONS                                       8.95E+00
+ 
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 208-LEAD
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 212-POLONIUM.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: May-1998
+%%%% 212 PO  84    A            2.99000E-07 2.99E-7 S  02-11-2005       OUTPEND 
+%%%% 212 PO  84    A            2.99000E-07 2.99E-7 S  02-11-2005       SEEISTAR
+212.  POLONIUM     84.  2.990E-07 SECONDS    1 A                    212.PO 84.   0
+ 8 1  1.00000E+02  8.78508E+00  1.69054E-01  0.00000E+00            212.PO 84.   1   1
+%%%% 212 PO  84    A            2.99000E-07 2.99E-7 S  02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   0.00000E+00
+    Free-bound X-ray                (MeV) =   0.00000E+00
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   0.00000E+00
+    Alpha particle                  (MeV) =   8.78508E+00
+    Recoil nucleus                  (MeV) =   1.69054E-01
+  E-total (except unplaced radiat.) (MeV) =   8.95413E+00
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   8.95413E+00
+  Ratio of E-total/Q-value          ( % ) =   1.00000E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   0.00000E+00
+    Free-bound X-ray                      =   0.00000E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   0.00000E+00
+    Alpha particle                        =   1.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

@@ -1,0 +1,60 @@
+ 178-TUNGSTEN-74         HALFLIFE = 21.6 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ K -L2 X-RAY                        7.02E-02    5.640E-02    3.96E-03
+ K -L3 X-RAY                        1.22E-01    5.769E-02    7.06E-03
+ K -M2 X-RAY                        1.31E-02    6.510E-02    8.52E-04
+ K -M3 X-RAY                        2.53E-02    6.538E-02    1.65E-03
+ K -M4 X-RAY                        2.74E-04    6.576E-02    1.80E-05
+ K -M5 X-RAY                        3.47E-04    6.582E-02    2.29E-05
+ K -N2 X-RAY                        2.96E-03    6.710E-02    1.99E-04
+ K -N3 X-RAY                        5.74E-03    6.717E-02    3.85E-04
+ K -O2 X-RAY                        6.71E-04    6.751E-02    4.53E-05
+ K -O3 X-RAY                        1.38E-03    6.752E-02    9.35E-05
+ L1-M2 X-RAY                        1.20E-02    9.195E-03    1.11E-04
+ L1-M3 X-RAY                        1.53E-02    9.472E-03    1.45E-04
+ L1-N2 X-RAY                        2.94E-03    1.119E-02    3.29E-05
+ L1-N3 X-RAY                        3.95E-03    1.126E-02    4.44E-05
+ L2-M4 X-RAY                        3.61E-02    9.361E-03    3.38E-04
+ L2-N4 X-RAY                        6.64E-03    1.092E-02    7.25E-05
+ L3-M1 X-RAY                        5.88E-03    7.195E-03    4.23E-05
+ L3-M4 X-RAY                        9.88E-03    8.077E-03    7.98E-05
+ L3-M5 X-RAY                        8.72E-02    8.138E-03    7.10E-04
+ L3-N4 X-RAY                        1.71E-03    9.637E-03    1.65E-05
+ L3-N5 X-RAY                        1.53E-02    9.648E-03    1.48E-04
+ M X-RAY                            3.04E-02    1.708E-03*   5.20E-05
+ Free-Bound X-RAY                   9.51E+00    2.473E-05*   2.35E-04
+ AUGER KLL                          7.47E-03    4.585E-02*   3.43E-04
+ AUGER KLX                          3.89E-03    5.472E-02*   2.13E-04
+ AUGER KXY                          4.88E-04    6.361E-02*   3.10E-05
+ CK LLX                             3.61E-01    5.322E-04*   1.92E-04
+ AUGER LMM                          3.86E-01    6.389E-03*   2.47E-03
+ AUGER LMX                          1.46E-01    8.089E-03*   1.18E-03
+ AUGER LXY                          1.39E-02    9.827E-03*   1.36E-04
+ CK MMX                             6.52E-01    3.206E-04*   2.09E-04
+ AUGER MNN                          1.41E+00    1.418E-03*   1.99E-03
+ AUGER MNX                          8.16E-02    1.602E-03*   1.31E-04
+ AUGER MXY                          4.80E-03    1.843E-03*   8.85E-06
+ CK NNX                             3.22E+00    1.603E-04*   5.16E-04
+ AUGER NXY                          1.12E-01    3.099E-04*   3.46E-05
+ CK OOX                             8.53E-01    1.216E-05*   1.04E-05
+ AUGER OXY                          1.20E+00    2.736E-05*   3.27E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.63E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     6.32E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   7.50E-03
+ ALL LISTED RADIATIONS                                       2.38E-02
+ ALL NEGLECTED RADIATIONS**                                  6.32E-05
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 178-TANTALUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 178-TUNGSTEN.
+   DECAY OF THIS 9.31 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

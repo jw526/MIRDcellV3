@@ -1,0 +1,46 @@
+ 109M-SILVER-47          HALFLIFE = 39.6 SECONDS 
+
+  MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   3.59E-02    8.803E-02    3.16E-03
+ K CONV. ELECTRON, GAMMA-RAY    1   4.09E-01    6.254E-02    2.56E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   1   3.25E-02    8.425E-02    2.73E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   1   1.92E-01    8.451E-02    1.62E-02
+ L3 CONV. ELECTRON, GAMMA-RAY   1   2.23E-01    8.468E-02    1.89E-02
+ M CONV. ELECTRON, GAMMA-RAY    1   9.21E-02    8.747E-02*   8.06E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.59E-02    8.803E-02*   1.40E-03
+ K -L2 X-RAY                        9.81E-02    2.196E-02    2.15E-03
+ K -L3 X-RAY                        1.85E-01    2.214E-02    4.09E-03
+ K -M2 X-RAY                        1.61E-02    2.489E-02    4.01E-04
+ K -M3 X-RAY                        3.13E-02    2.492E-02    7.81E-04
+ K -N2 X-RAY                        3.28E-03    2.542E-02    8.33E-05
+ K -N3 X-RAY                        6.34E-03    2.543E-02    1.61E-04
+ L2-M4 X-RAY                        1.52E-02    3.145E-03    4.77E-05
+ L3-M5 X-RAY                        2.32E-02    2.973E-03    6.90E-05
+ Free-Bound X-RAY                   6.72E+00    1.208E-05*   8.12E-05
+ AUGER KLL                          4.74E-02    1.847E-02*   8.76E-04
+ AUGER KLX                          1.92E-02    2.146E-02*   4.11E-04
+ AUGER LMM                          6.46E-01    2.497E-03*   1.61E-03
+ AUGER LMX                          1.40E-01    2.904E-03*   4.06E-04
+ CK MMX                             6.89E-01    1.286E-04*   8.87E-05
+ AUGER MNN                          1.66E+00    3.189E-04*   5.29E-04
+ CK NNX                             2.44E+00    3.790E-05*   9.26E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.10E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.45E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   7.69E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  8.88E-05
+ ALL LISTED RADIATIONS                                       8.79E-02
+ ALL NEGLECTED RADIATIONS**                                  1.33E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 109-SILVER
+   DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF 109M-SILVER.
+   THIS DAUGHTER GROUND STATE IS STABLE.

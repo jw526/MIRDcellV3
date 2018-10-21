@@ -1,0 +1,238 @@
+%%%%  46 SC  21    B-           7.23946E+06 83.79 D    02-11-2005       BALASTAR
+1  46   SC  21 83.79 D         B-         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              46-SCANDIUM-21
++                                    HALFLIFE = 83.79 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+   8.8929E-01  1.0000E+02  1.0000E+02  3.6010E-03                      
+   2.0098E+00  9.9996E+01  1.0000E+02  3.6088E-03                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  7.629E-06                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   7.63E-06% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  2.367E+00 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  2.367E+00 MEV
+ PERCENT ERROR =  7.052E-04                      
+%%%%  46 SC  21    B-           7.23946E+06 83.79 D    02-11-2005       BALAEND 
+%%%%  46 SC  21    B-           7.23946E+06 83.79 D    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              46-SCANDIUM-21
++                                    HALFLIFE = 83.79 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: BETA MINUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+               BETA MINUS   1   1.00E+00   3.569E-01*  ALLOWED                                  
+               BETA MINUS   2   3.60E-05   1.477E+00*  SECOND FORBIDDEN                         
+           I.C.E. + GAMMA   1   1.00E+00   8.893E-01   E2 MULTIPOLE                             
+           I.C.E. + GAMMA   2   1.00E+00   1.121E+00   E2 MULTIPOLE                             
+           I.C.E. + GAMMA   3   1.30E-07   2.010E+00   E4 MULTIPOLE                             
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Feb-2001
+%%%%  46 SC  21    B-           7.23946E+06 83.79 D    02-11-2005       INPUEND 
+%%%%  46 SC  21    B-           7.23946E+06 83.79 D    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              46-SCANDIUM-21
++                                    HALFLIFE = 83.79 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: BETA MINUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           BETA MINUS                     1   1.00E+00    1.118E-01*   1.12E-01
+           GAMMA-RAY                      1   1.00E+00    8.893E-01    8.89E-01
+           K CONV. ELECTRON, GAMMA-RAY    1   1.49E-04    8.843E-01    1.32E-04
+           GAMMA-RAY                      2   1.00E+00    1.121E+00    1.12E+00
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.01E+00
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     5.02E-07
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.12E-01
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.37E-04
+           ALL LISTED RADIATIONS                                       2.12E+00
+           ALL NEGLECTED RADIATIONS**                                  1.38E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 46-TITANIUM
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  46-SCANDIUM.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Feb-2001
+%%%%  46 SC  21    B-           7.23946E+06 83.79 D    02-11-2005       OUTPEND 
+%%%%  46 SC  21    B-           7.23946E+06 83.79 D    02-11-2005       BETASTAR
+1
+              46-SCANDIUM-21
++                                    HALFLIFE = 83.79 DAYS    
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   5.275E+00      0.00260   5.225E+00      0.07500   4.821E+00
+            0.00010   5.273E+00      0.00280   5.223E+00      0.08000   4.767E+00
+            0.00011   5.273E+00      0.00300   5.221E+00      0.08500   4.708E+00
+            0.00012   5.273E+00      0.00320   5.219E+00      0.09000   4.644E+00
+            0.00013   5.273E+00      0.00360   5.214E+00      0.10000   4.505E+00
+            0.00014   5.272E+00      0.00400   5.210E+00      0.11000   4.349E+00
+            0.00015   5.272E+00      0.00450   5.204E+00      0.12000   4.180E+00
+            0.00016   5.272E+00      0.00500   5.199E+00      0.13000   3.997E+00
+            0.00018   5.272E+00      0.00550   5.193E+00      0.14000   3.803E+00
+            0.00020   5.271E+00      0.00600   5.188E+00      0.15000   3.599E+00
+            0.00022   5.271E+00      0.00650   5.183E+00      0.16000   3.386E+00
+            0.00024   5.270E+00      0.00700   5.178E+00      0.18000   2.942E+00
+            0.00026   5.270E+00      0.00750   5.173E+00      0.20000   2.482E+00
+            0.00028   5.270E+00      0.00800   5.169E+00      0.22000   2.020E+00
+            0.00030   5.269E+00      0.00850   5.164E+00      0.24000   1.571E+00
+            0.00032   5.269E+00      0.00900   5.160E+00      0.26000   1.148E+00
+            0.00036   5.268E+00      0.01000   5.153E+00      0.28000   7.670E-01
+            0.00040   5.267E+00      0.01100   5.147E+00      0.30000   4.445E-01
+            0.00045   5.266E+00      0.01200   5.141E+00      0.32000   1.974E-01
+            0.00050   5.265E+00      0.01300   5.136E+00      0.36000   3.350E-05
+            0.00055   5.264E+00      0.01400   5.132E+00      0.40000   3.402E-05
+            0.00060   5.263E+00      0.01500   5.128E+00      0.45000   3.447E-05
+            0.00065   5.263E+00      0.01600   5.124E+00      0.50000   3.470E-05
+            0.00070   5.262E+00      0.01800   5.119E+00      0.55000   3.473E-05
+            0.00075   5.261E+00      0.02000   5.114E+00      0.60000   3.458E-05
+            0.00080   5.260E+00      0.02200   5.110E+00      0.65000   3.422E-05
+            0.00085   5.259E+00      0.02400   5.106E+00      0.70000   3.366E-05
+            0.00090   5.258E+00      0.02600   5.102E+00      0.75000   3.286E-05
+            0.00100   5.256E+00      0.02800   5.099E+00      0.80000   3.182E-05
+            0.00110   5.254E+00      0.03000   5.095E+00      0.85000   3.051E-05
+            0.00120   5.252E+00      0.03200   5.090E+00      0.90000   2.890E-05
+            0.00130   5.250E+00      0.03600   5.080E+00      1.00000   2.475E-05
+            0.00140   5.248E+00      0.04000   5.067E+00      1.10000   1.939E-05
+            0.00150   5.246E+00      0.04500   5.046E+00      1.20000   1.311E-05
+            0.00160   5.244E+00      0.05000   5.021E+00      1.30000   6.687E-06
+            0.00180   5.240E+00      0.05500   4.991E+00      1.40000   1.581E-06
+            0.00200   5.237E+00      0.06000   4.956E+00      1.47741   0.000E+00
+            0.00220   5.233E+00      0.06500   4.916E+00
+            0.00240   5.229E+00      0.07000   4.871E+00
+
+            AVERAGE BETA ENERGY =   1.118E-01
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   1.000E+00
+%%%%  46 SC  21    B-           7.23946E+06 83.79 D    02-11-2005       BETAEND 
+%%%%  46 SC  21    B-           7.23946E+06 83.79 D    02-11-2005       SEEISTAR
+ 46.  SCANDIUM     21.  8.379E+01 DAYS      49 B-                    46.SC 21.   0
+ 5 1  9.99964E+01  1.11808E-01  3.56854E-01  0.00000E+00             46.SC 21.   1   1
+ 5 2  3.60000E-03  6.04640E-01  1.47741E+00  1.00000E+00             46.SC 21.   2   2
+ 1 1  9.99838E+01  8.89277E-01  8.89277E-01  0.00000E+00             46.SC 21.   3   1
+ 6 1  1.48938E-02  8.84336E-01  8.84336E-01  1.00000E+00             46.SC 21.   4   1
+ 6 5  1.31881E-03  8.88720E-01  8.88720E-01  1.00000E+00             46.SC 21.   5   5
+ 6 6  9.07442E-06  8.88806E-01  8.88806E-01  1.00000E+00             46.SC 21.   6   6
+ 6 7  1.10907E-05  8.88812E-01  8.88812E-01  1.00000E+00             46.SC 21.   7   7
+ 1 2  9.99908E+01  1.12055E+00  1.12055E+00  0.00000E+00             46.SC 21.   8   2
+ 6 1  8.45899E-03  1.11560E+00  1.11560E+00  2.00000E+00             46.SC 21.   9   1
+ 6 5  7.47737E-04  1.11999E+00  1.11999E+00  2.00000E+00             46.SC 21.  10   5
+ 6 6  3.97149E-06  1.12007E+00  1.12007E+00  2.00000E+00             46.SC 21.  11   6
+ 6 7  5.11372E-06  1.12008E+00  1.12008E+00  2.00000E+00             46.SC 21.  12   7
+ 1 3  1.30000E-05  2.01000E+00  2.01000E+00  0.00000E+00             46.SC 21.  13   3
+ 6 1  8.28371E-10  2.00506E+00  2.00506E+00  3.00000E+00             46.SC 21.  14   1
+ 6 5  7.37443E-11  2.00944E+00  2.00944E+00  3.00000E+00             46.SC 21.  15   5
+ 6 6  5.35507E-13  2.00953E+00  2.00953E+00  3.00000E+00             46.SC 21.  16   6
+ 6 7  3.23219E-13  2.00953E+00  2.00953E+00  3.00000E+00             46.SC 21.  17   7
+ 2 1  1.50855E-03  4.46937E-03  4.46937E-03  0.00000E+00             46.SC 21.  18   1
+ 2 2  2.96907E-03  4.47537E-03  4.47537E-03  0.00000E+00             46.SC 21.  19   2
+ 2 3  1.71099E-04  4.89550E-03  4.89550E-03  0.00000E+00             46.SC 21.  20   3
+ 2 4  3.38031E-04  4.89619E-03  4.89619E-03  0.00000E+00             46.SC 21.  21   4
+ 2 5  1.37808E-08  4.93221E-03  4.93221E-03  0.00000E+00             46.SC 21.  22   5
+ 2 6  2.02820E-08  4.93226E-03  4.93226E-03  0.00000E+00             46.SC 21.  23   6
+ 221  5.88776E-07  8.62201E-05  8.62201E-05  0.00000E+00             46.SC 21.  24  21
+ 222  1.89208E-06  9.21999E-05  9.21999E-05  0.00000E+00             46.SC 21.  25  22
+ 223  2.98336E-06  5.12341E-04  5.12341E-04  0.00000E+00             46.SC 21.  26  23
+ 224  4.36504E-06  5.13019E-04  5.13019E-04  0.00000E+00             46.SC 21.  27  24
+ 225  2.82989E-09  5.49051E-04  5.49051E-04  0.00000E+00             46.SC 21.  28  25
+ 226  4.22062E-09  5.49101E-04  5.49101E-04  0.00000E+00             46.SC 21.  29  26
+ 241  3.97217E-13  5.97999E-06  5.97999E-06  0.00000E+00             46.SC 21.  30  41
+ 242  2.62630E-05  4.02611E-04  4.02611E-04  0.00000E+00             46.SC 21.  31  42
+ 243  2.95566E-08  4.26799E-04  4.26799E-04  0.00000E+00             46.SC 21.  32  43
+ 244  2.19580E-06  4.62830E-04  4.62830E-04  0.00000E+00             46.SC 21.  33  44
+ 245  4.91429E-07  4.64940E-04  4.64940E-04  0.00000E+00             46.SC 21.  34  45
+ 261  4.84605E-05  3.96631E-04  3.96631E-04  0.00000E+00             46.SC 21.  35  61
+ 262  2.72345E-08  4.20139E-04  4.20139E-04  0.00000E+00             46.SC 21.  36  62
+ 263  2.67108E-08  4.20819E-04  4.20819E-04  0.00000E+00             46.SC 21.  37  63
+ 264  3.14310E-07  4.56851E-04  4.56851E-04  0.00000E+00             46.SC 21.  38  64
+ 265  3.69303E-06  4.56900E-04  4.56900E-04  0.00000E+00             46.SC 21.  39  65
+ 266  9.12044E-07  4.58960E-04  4.58960E-04  0.00000E+00             46.SC 21.  40  66
+ 291  4.98991E-08  2.49425E-05  2.49425E-05  0.00000E+00             46.SC 21.  41  91
+ 294  1.85291E-01  7.99609E-06  7.99609E-06  0.00000E+00             46.SC 21.  42  94
+ 7 1  1.47518E-02  3.96720E-03  3.96720E-03  0.00000E+00             46.SC 21.  43   1
+ 7 2  3.41513E-03  4.40251E-03  4.40251E-03  0.00000E+00             46.SC 21.  44   2
+ 7 3  1.99099E-04  4.84163E-03  4.84163E-03  0.00000E+00             46.SC 21.  45   3
+ 7 4  8.06107E-03  4.64525E-05  4.64525E-05  0.00000E+00             46.SC 21.  46   4
+ 7 5  3.85048E-02  3.80915E-04  3.80915E-04  0.00000E+00             46.SC 21.  47   5
+ 7 6  8.97597E-04  4.24962E-04  4.24962E-04  0.00000E+00             46.SC 21.  48   6
+ 7 8  9.40129E-02  2.71800E-05  2.71800E-05  0.00000E+00             46.SC 21.  49   8
+%%%%  46 SC  21    B-           7.23946E+06 83.79 D    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   2.00957E+00
+    X-ray                           (MeV) =   2.25601E-07
+    Free-bound X-ray                (MeV) =   1.48160E-08
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   1.11825E-01
+    Neutrino-                       (MeV) =   2.45069E-01
+    Internal conv. electron         (MeV) =   2.46456E-04
+    Auger and CK electron           (MeV) =   9.25006E-07
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   2.36672E+00
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   2.36670E+00
+  Ratio of E-total/Q-value          ( % ) =   1.00001E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   1.99975E+00
+    X-ray                                 =   5.07908E-05
+    Free-bound X-ray                      =   1.85291E-03
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   1.00000E+00
+    Internal conv. electron               =   2.54486E-04
+    Auger and CK electron                 =   1.59842E-03
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

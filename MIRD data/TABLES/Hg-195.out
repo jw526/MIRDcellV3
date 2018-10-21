@@ -1,0 +1,95 @@
+ 195-MERCURY-80          HALFLIFE = 10.53 HOURS   
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      1   5.00E-04    2.397E-01*   1.20E-04
+ ANNIHILATION RADIATION             1.24E-03    5.110E-01    6.34E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   1   7.78E-03    4.302E-02    3.35E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   1   7.04E-03    4.488E-02    3.16E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   4.51E-03    5.407E-02*   2.44E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.35E-03    5.680E-02*   7.69E-05
+ GAMMA-RAY                      2   6.19E-02    6.146E-02    3.80E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   2   2.06E-01    4.712E-02    9.70E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   2   2.04E-01    4.768E-02    9.73E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   2   1.81E-01    4.954E-02    8.98E-03
+ M CONV. ELECTRON, GAMMA-RAY    2   1.48E-01    5.873E-02*   8.68E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   2   4.43E-02    6.146E-02*   2.72E-03
+ GAMMA-RAY                      3   1.90E-02    1.801E-01    3.42E-03
+ K CONV. ELECTRON, GAMMA-RAY    3   2.19E-02    9.915E-02    2.17E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   3   3.29E-03    1.658E-01    5.46E-04
+ M CONV. ELECTRON, GAMMA-RAY    3   8.71E-04    1.774E-01*   1.55E-04
+ GAMMA-RAY                      5   1.57E-02    2.071E-01    3.25E-03
+ K CONV. ELECTRON, GAMMA-RAY    5   2.44E-03    1.261E-01    3.08E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   5   1.12E-03    1.933E-01    2.16E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   5   6.97E-04    1.952E-01    1.36E-04
+ M CONV. ELECTRON, GAMMA-RAY    5   5.47E-04    2.044E-01*   1.12E-04
+ GAMMA-RAY                      7   1.51E-02    2.618E-01    3.96E-03
+ K CONV. ELECTRON, GAMMA-RAY    7   5.27E-03    1.808E-01    9.52E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   7   7.86E-04    2.474E-01    1.95E-04
+ GAMMA-RAY                     12   1.24E-03    4.395E-01    5.44E-04
+ GAMMA-RAY                     14   1.99E-02    5.851E-01    1.16E-02
+ K CONV. ELECTRON, GAMMA-RAY   14   2.70E-04    5.042E-01    1.36E-04
+ GAMMA-RAY                     15   1.78E-02    5.997E-01    1.07E-02
+ K CONV. ELECTRON, GAMMA-RAY   15   6.80E-04    5.187E-01    3.53E-04
+ GAMMA-RAY                     19   6.80E-02    7.798E-01    5.30E-02
+ K CONV. ELECTRON, GAMMA-RAY   19   1.58E-03    6.988E-01    1.11E-03
+ L1 CONV. ELECTRON, GAMMA-RAY  19   2.34E-04    7.655E-01    1.79E-04
+ GAMMA-RAY                     21   2.92E-03    8.211E-01    2.40E-03
+ GAMMA-RAY                     22   3.60E-03    8.413E-01    3.03E-03
+ GAMMA-RAY                     23   2.72E-03    8.413E-01    2.29E-03
+ GAMMA-RAY                     26   6.26E-04    9.106E-01    5.70E-04
+ GAMMA-RAY                     27   4.22E-03    9.309E-01    3.92E-03
+ GAMMA-RAY                     29   2.72E-04    1.009E+00    2.75E-04
+ GAMMA-RAY                     30   1.87E-03    1.022E+00    1.91E-03
+ GAMMA-RAY                     31   1.97E-04    1.049E+00    2.07E-04
+ GAMMA-RAY                     32   6.94E-04    1.083E+00    7.51E-04
+ GAMMA-RAY                     34   1.44E-02    1.111E+00    1.60E-02
+ K CONV. ELECTRON, GAMMA-RAY   34   1.37E-04    1.030E+00    1.41E-04
+ GAMMA-RAY                     35   1.24E-02    1.172E+00    1.46E-02
+ K CONV. ELECTRON, GAMMA-RAY   35   1.04E-04    1.091E+00    1.13E-04
+ GAMMA-RAY                     36   2.11E-04    1.190E+00    2.51E-04
+ K -L2 X-RAY                        2.33E-01    6.718E-02    1.57E-02
+ K -L3 X-RAY                        3.96E-01    6.904E-02    2.74E-02
+ K -M2 X-RAY                        4.36E-02    7.782E-02    3.39E-03
+ K -M3 X-RAY                        8.44E-02    7.823E-02    6.60E-03
+ K -N2 X-RAY                        1.02E-02    8.032E-02    8.21E-04
+ K -N3 X-RAY                        2.00E-02    8.042E-02    1.61E-03
+ K -O3 X-RAY                        4.66E-03    8.090E-02    3.77E-04
+ L2-M4 X-RAY                        1.44E-01    1.148E-02    1.65E-03
+ L2-N4 X-RAY                        2.85E-02    1.342E-02    3.82E-04
+ L3-M4 X-RAY                        2.36E-02    9.621E-03    2.27E-04
+ L3-M5 X-RAY                        2.08E-01    9.710E-03    2.02E-03
+ L3-N5 X-RAY                        3.88E-02    1.159E-02    4.50E-04
+ Free-Bound X-RAY                   2.47E+01    1.110E-05*   2.74E-04
+ AUGER KLL                          2.12E-02    5.424E-02*   1.15E-03
+ AUGER KLX                          1.14E-02    6.510E-02*   7.43E-04
+ AUGER KXY                          1.48E-03    7.597E-02*   1.12E-04
+ CK LLX                             3.51E-01    7.360E-04*   2.59E-04
+ AUGER LMM                          6.44E-01    7.500E-03*   4.83E-03
+ AUGER LMX                          2.71E-01    9.632E-03*   2.61E-03
+ AUGER LXY                          2.76E-02    1.180E-02*   3.26E-04
+ CK MMX                             8.60E-01    4.164E-04*   3.58E-04
+ AUGER MNN                          2.20E+00    1.755E-03*   3.85E-03
+ AUGER MNX                          2.27E-01    1.976E-03*   4.49E-04
+ CK NNX                             4.40E+00    1.746E-04*   7.68E-04
+ AUGER NXY                          8.33E+00    6.423E-05*   5.35E-04
+ CK OOX                             5.44E+00    4.015E-05*   2.18E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.98E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.82E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   6.39E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.10E-03
+ ALL LISTED RADIATIONS                                       2.62E-01
+ ALL NEGLECTED RADIATIONS**                                  3.92E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 195-GOLD
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 195-MERCURY.
+   DECAY OF THIS 186.098 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

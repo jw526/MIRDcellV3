@@ -1,0 +1,73 @@
+ 214-LEAD-82             HALFLIFE = 26.8 MINUTES 
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     2   2.73E-02    4.945E-02*   1.35E-03
+ BETA MINUS                     4   1.16E-02    1.444E-01*   1.68E-03
+ BETA MINUS                     5   4.82E-01    2.068E-01*   9.97E-02
+ BETA MINUS                     6   4.16E-01    2.270E-01*   9.45E-02
+ BETA MINUS                     8   6.21E-02    3.363E-01*   2.09E-02
+ GAMMA-RAY                      2   1.20E-02    5.323E-02    6.39E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   2   1.05E-01    3.685E-02    3.88E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   2   1.10E-02    3.746E-02    4.11E-04
+ M CONV. ELECTRON, GAMMA-RAY    2   2.79E-02    5.006E-02*   1.39E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   2   9.07E-03    5.323E-02*   4.83E-04
+ GAMMA-RAY                     15   7.43E-02    2.420E-01    1.80E-02
+ K CONV. ELECTRON, GAMMA-RAY   15   5.38E-02    1.512E-01    8.13E-03
+ L1 CONV. ELECTRON, GAMMA-RAY  15   8.43E-03    2.256E-01    1.90E-03
+ M CONV. ELECTRON, GAMMA-RAY   15   2.19E-03    2.388E-01*   5.23E-04
+ GAMMA-RAY                     16   5.24E-03    2.589E-01    1.36E-03
+ K CONV. ELECTRON, GAMMA-RAY   16   3.15E-03    1.680E-01    5.29E-04
+ GAMMA-RAY                     17   4.74E-03    2.748E-01    1.30E-03
+ GAMMA-RAY                     18   1.93E-01    2.952E-01    5.70E-02
+ K CONV. ELECTRON, GAMMA-RAY   18   7.54E-02    2.044E-01    1.54E-02
+ L1 CONV. ELECTRON, GAMMA-RAY  18   1.17E-02    2.788E-01    3.27E-03
+ L2 CONV. ELECTRON, GAMMA-RAY  18   1.47E-03    2.795E-01    4.12E-04
+ M CONV. ELECTRON, GAMMA-RAY   18   3.19E-03    2.921E-01*   9.31E-04
+ N+ CONV. ELECTRON, GAMMA-RAY  18   1.04E-03    2.952E-01*   3.07E-04
+ GAMMA-RAY                     23   3.76E-01    3.519E-01    1.32E-01
+ K CONV. ELECTRON, GAMMA-RAY   23   9.80E-02    2.611E-01    2.56E-02
+ L1 CONV. ELECTRON, GAMMA-RAY  23   1.52E-02    3.356E-01    5.10E-03
+ L2 CONV. ELECTRON, GAMMA-RAY  23   1.44E-03    3.362E-01    4.83E-04
+ M CONV. ELECTRON, GAMMA-RAY   23   3.94E-03    3.488E-01*   1.38E-03
+ N+ CONV. ELECTRON, GAMMA-RAY  23   1.29E-03    3.519E-01*   4.53E-04
+ GAMMA-RAY                     24   2.21E-03    4.620E-01    1.02E-03
+ GAMMA-RAY                     25   3.20E-03    4.804E-01    1.54E-03
+ GAMMA-RAY                     26   4.22E-03    4.871E-01    2.06E-03
+ GAMMA-RAY                     28   1.86E-03    5.337E-01    9.93E-04
+ GAMMA-RAY                     30   6.90E-04    5.438E-01    3.75E-04
+ GAMMA-RAY                     31   3.52E-03    5.801E-01    2.04E-03
+ GAMMA-RAY                     32   7.80E-04    7.660E-01    5.97E-04
+ GAMMA-RAY                     33   1.07E-02    7.860E-01    8.41E-03
+ GAMMA-RAY                     34   5.87E-03    8.390E-01    4.93E-03
+ K -L2 X-RAY                        6.60E-02    7.506E-02    4.95E-03
+ K -L3 X-RAY                        1.10E-01    7.741E-02    8.54E-03
+ K -M2 X-RAY                        1.23E-02    8.714E-02    1.07E-03
+ K -M3 X-RAY                        2.39E-02    8.767E-02    2.10E-03
+ K -N2 X-RAY                        2.96E-03    9.003E-02    2.66E-04
+ K -N3 X-RAY                        5.83E-03    9.016E-02    5.25E-04
+ L2-M4 X-RAY                        3.07E-02    1.307E-02    4.01E-04
+ L3-M5 X-RAY                        5.81E-02    1.084E-02    6.30E-04
+ AUGER KLL                          5.47E-03    6.030E-02*   3.30E-04
+ AUGER LMM                          1.42E-01    8.275E-03*   1.17E-03
+ AUGER LMX                          6.37E-02    1.074E-02*   6.84E-04
+ AUGER MNN                          5.19E-01    1.961E-03*   1.02E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.51E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.27E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.92E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.93E-03
+ ALL LISTED RADIATIONS                                       5.43E-01
+ ALL NEGLECTED RADIATIONS**                                  5.19E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 214-BISMUTH
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 214-LEAD.
+   DECAY OF THIS 19.9 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

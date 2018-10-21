@@ -1,0 +1,67 @@
+ 188-RHENIUM-75          HALFLIFE = 17.004 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                    18   4.84E-03    2.042E-01*   9.88E-04
+ BETA MINUS                    23   6.86E-03    3.452E-01*   2.37E-03
+ BETA MINUS                    24   1.75E-02    5.276E-01*   9.24E-03
+ BETA MINUS                    25   2.63E-01    7.287E-01*   1.92E-01
+ BETA MINUS                    26   7.01E-01    7.952E-01*   5.57E-01
+ GAMMA-RAY                      2   1.56E-01    1.550E-01    2.42E-02
+ K CONV. ELECTRON, GAMMA-RAY    2   5.06E-02    8.098E-02    4.09E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   2   5.79E-03    1.421E-01    8.22E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   2   3.02E-02    1.426E-01    4.30E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   2   2.25E-02    1.442E-01    3.24E-03
+ M CONV. ELECTRON, GAMMA-RAY    2   1.49E-02    1.526E-01*   2.27E-03
+ GAMMA-RAY                      6   8.25E-04    4.533E-01    3.74E-04
+ GAMMA-RAY                      7   1.08E-02    4.780E-01    5.17E-03
+ GAMMA-RAY                      8   8.55E-04    4.861E-01    4.16E-04
+ GAMMA-RAY                     12   1.37E-02    6.330E-01    8.70E-03
+ GAMMA-RAY                     13   1.61E-03    6.350E-01    1.02E-03
+ GAMMA-RAY                     14   1.21E-03    6.725E-01    8.16E-04
+ GAMMA-RAY                     16   1.90E-04    8.252E-01    1.57E-04
+ GAMMA-RAY                     18   4.45E-03    8.295E-01    3.69E-03
+ GAMMA-RAY                     19   7.65E-05    8.451E-01    6.46E-05
+ GAMMA-RAY                     20   5.97E-03    9.313E-01    5.56E-03
+ GAMMA-RAY                     23   1.64E-04    1.018E+00    1.67E-04
+ GAMMA-RAY                     28   9.18E-04    1.132E+00    1.04E-03
+ GAMMA-RAY                     29   1.78E-04    1.150E+00    2.05E-04
+ GAMMA-RAY                     30   1.78E-04    1.151E+00    2.05E-04
+ GAMMA-RAY                     31   1.94E-04    1.175E+00    2.28E-04
+ GAMMA-RAY                     32   1.50E-04    1.192E+00    1.79E-04
+ GAMMA-RAY                     34   5.90E-05    1.302E+00    7.68E-05
+ GAMMA-RAY                     36   7.18E-04    1.308E+00    9.39E-04
+ GAMMA-RAY                     37   1.42E-04    1.323E+00    1.88E-04
+ GAMMA-RAY                     39   2.08E-04    1.458E+00    3.03E-04
+ GAMMA-RAY                     44   1.09E-03    1.610E+00    1.76E-03
+ GAMMA-RAY                     46   1.12E-04    1.670E+00    1.87E-04
+ GAMMA-RAY                     50   2.09E-04    1.786E+00    3.73E-04
+ GAMMA-RAY                     51   3.99E-04    1.802E+00    7.19E-04
+ GAMMA-RAY                     57   5.35E-05    1.865E+00    9.98E-05
+ GAMMA-RAY                     61   1.57E-04    1.957E+00    3.08E-04
+ K -L2 X-RAY                        1.42E-02    6.164E-02    8.75E-04
+ K -L3 X-RAY                        2.45E-02    6.319E-02    1.55E-03
+ K -M2 X-RAY                        2.65E-03    7.128E-02    1.89E-04
+ K -M3 X-RAY                        5.13E-03    7.161E-02    3.67E-04
+ K -N3 X-RAY                        1.19E-03    7.360E-02    8.75E-05
+ L2-M4 X-RAY                        1.20E-02    1.038E-02    1.24E-04
+ L3-M5 X-RAY                        1.20E-02    8.906E-03    1.07E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    6.04E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     8.11E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   7.77E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.61E-03
+ ALL LISTED RADIATIONS                                       8.37E-01
+ ALL NEGLECTED RADIATIONS**                                  3.42E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 188-OSMIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 188-RHENIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

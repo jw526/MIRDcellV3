@@ -1,0 +1,65 @@
+ 124-IODINE-53           HALFLIFE = 4.176 DAYS    
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      2   3.00E-03    3.669E-01*   1.10E-03
+ BETA PLUS                      3   1.17E-01    6.871E-01*   8.06E-02
+ BETA PLUS                      4   1.08E-01    9.748E-01*   1.06E-01
+ ANNIHILATION RADIATION             4.57E-01    5.110E-01    2.34E-01
+ GAMMA-RAY                      7   2.08E-03    5.412E-01    1.13E-03
+ GAMMA-RAY                      9   6.29E-01    6.027E-01    3.79E-01
+ K CONV. ELECTRON, GAMMA-RAY    9   2.65E-03    5.709E-01    1.52E-03
+ GAMMA-RAY                     10   9.88E-03    6.458E-01    6.38E-03
+ GAMMA-RAY                     15   1.04E-01    7.228E-01    7.48E-02
+ K CONV. ELECTRON, GAMMA-RAY   15   2.82E-04    6.910E-01    1.95E-04
+ GAMMA-RAY                     25   4.35E-03    9.682E-01    4.21E-03
+ GAMMA-RAY                     28   4.41E-03    1.045E+00    4.61E-03
+ GAMMA-RAY                     29   1.26E-03    1.054E+00    1.33E-03
+ GAMMA-RAY                     34   1.56E-02    1.326E+00    2.07E-02
+ GAMMA-RAY                     36   3.02E-03    1.368E+00    4.13E-03
+ GAMMA-RAY                     37   1.75E-02    1.376E+00    2.41E-02
+ GAMMA-RAY                     41   1.99E-03    1.489E+00    2.96E-03
+ GAMMA-RAY                     42   3.13E-02    1.509E+00    4.73E-02
+ GAMMA-RAY                     43   1.65E-03    1.560E+00    2.57E-03
+ GAMMA-RAY                     45   2.09E-03    1.638E+00    3.42E-03
+ GAMMA-RAY                     47   1.12E-03    1.676E+00    1.88E-03
+ GAMMA-RAY                     49   1.09E-01    1.691E+00    1.84E-01
+ GAMMA-RAY                     51   1.76E-03    1.720E+00    3.03E-03
+ GAMMA-RAY                     53   2.14E-03    1.851E+00    3.96E-03
+ GAMMA-RAY                     54   1.64E-03    1.919E+00    3.14E-03
+ GAMMA-RAY                     56   3.52E-03    2.038E+00    7.18E-03
+ GAMMA-RAY                     57   3.59E-03    2.079E+00    7.45E-03
+ GAMMA-RAY                     58   5.91E-03    2.091E+00    1.24E-02
+ GAMMA-RAY                     59   1.45E-03    2.099E+00    3.04E-03
+ GAMMA-RAY                     60   1.13E-03    2.144E+00    2.43E-03
+ GAMMA-RAY                     62   5.91E-03    2.232E+00    1.32E-02
+ GAMMA-RAY                     64   6.86E-03    2.283E+00    1.57E-02
+ GAMMA-RAY                     67   6.92E-04    2.454E+00    1.70E-03
+ GAMMA-RAY                     69   4.78E-03    2.747E+00    1.31E-02
+ K -L2 X-RAY                        1.67E-01    2.719E-02    4.53E-03
+ K -L3 X-RAY                        3.10E-01    2.747E-02    8.53E-03
+ K -M3 X-RAY                        5.54E-02    3.099E-02    1.72E-03
+ AUGER KLL                          5.39E-02    2.267E-02*   1.22E-03
+ AUGER KLX                          2.37E-02    2.651E-02*   6.29E-04
+ AUGER LMM                          4.91E-01    3.085E-03*   1.51E-03
+ AUGER LMX                          1.39E-01    3.679E-03*   5.11E-04
+ AUGER MNN                          1.25E+00    4.495E-04*   5.62E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.10E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.59E-02
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.93E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  8.71E-04
+ ALL LISTED RADIATIONS                                       1.29E+00
+ ALL NEGLECTED RADIATIONS**                                  1.68E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 124-TELLURIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 124-IODINE.
+   THIS DAUGHTER GROUND STATE IS STABLE.

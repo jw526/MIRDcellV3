@@ -1,0 +1,41 @@
+ 82-STRONTIUM-38         HALFLIFE = 25.36 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ K -L2 X-RAY                        1.67E-01    1.329E-02    2.22E-03
+ K -L3 X-RAY                        3.22E-01    1.335E-02    4.30E-03
+ K -M2 X-RAY                        2.40E-02    1.491E-02    3.58E-04
+ K -M3 X-RAY                        4.68E-02    1.492E-02    6.98E-04
+ K -N2 X-RAY                        2.61E-03    1.514E-02    3.96E-05
+ K -N3 X-RAY                        5.04E-03    1.514E-02    7.63E-05
+ L2-M4 X-RAY                        6.93E-03    1.748E-03    1.21E-05
+ L3-M5 X-RAY                        1.33E-02    1.688E-03    2.25E-05
+ Free-Bound X-RAY                   9.00E+00    1.528E-05*   1.38E-04
+ AUGER KLL                          2.13E-01    1.140E-02*   2.43E-03
+ AUGER KLX                          7.00E-02    1.305E-02*   9.14E-04
+ AUGER KXY                          5.61E-03    1.470E-02*   8.25E-05
+ CK LLX                             2.25E-01    1.075E-04*   2.42E-05
+ AUGER LMM                          9.93E-01    1.490E-03*   1.48E-03
+ AUGER LMX                          8.06E-02    1.612E-03*   1.30E-04
+ CK MMX                             1.07E+00    7.353E-05*   7.85E-05
+ AUGER MNN                          2.64E+00    6.503E-05*   1.72E-04
+ CK NNX                             2.64E+00    1.260E-05*   3.33E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    7.87E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.36E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.35E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  9.03E-06
+ ALL LISTED RADIATIONS                                       1.32E-02
+ ALL NEGLECTED RADIATIONS**                                  2.26E-05
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 82-RUBIDIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  82-STRONTIUM.
+   DECAY OF THIS 1.273 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

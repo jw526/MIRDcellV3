@@ -1,0 +1,42 @@
+ 81-KRYPTON-36           HALFLIFE = 229000 YEARS   
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   2.97E-03    2.760E-01    8.20E-04
+ K CONV. ELECTRON, GAMMA-RAY    1   2.17E-05    2.626E-01    5.70E-06
+ K -L2 X-RAY                        1.53E-01    1.183E-02    1.82E-03
+ K -L3 X-RAY                        2.96E-01    1.188E-02    3.52E-03
+ K -M2 X-RAY                        2.12E-02    1.324E-02    2.80E-04
+ K -M3 X-RAY                        4.13E-02    1.325E-02    5.47E-04
+ K -N2 X-RAY                        1.41E-03    1.342E-02    1.89E-05
+ K -N3 X-RAY                        2.72E-03    1.342E-02    3.65E-05
+ L2-M4 X-RAY                        5.29E-03    1.523E-03    8.06E-06
+ L3-M5 X-RAY                        1.08E-02    1.475E-03    1.59E-05
+ Free-Bound X-RAY                   7.13E+00    1.759E-05*   1.25E-04
+ AUGER KLL                          2.45E-01    1.020E-02*   2.50E-03
+ AUGER KLX                          7.51E-02    1.164E-02*   8.74E-04
+ AUGER KXY                          5.76E-03    1.307E-02*   7.53E-05
+ CK LLX                             2.31E-01    9.137E-05*   2.11E-05
+ AUGER LMM                          1.06E+00    1.321E-03*   1.40E-03
+ AUGER LMX                          6.29E-02    1.412E-03*   8.89E-05
+ CK MMX                             1.24E+00    5.776E-05*   7.18E-05
+ AUGER MNN                          3.21E+00    4.387E-05*   1.41E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    7.19E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.08E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.18E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.00E-06
+ ALL LISTED RADIATIONS                                       1.24E-02
+ ALL NEGLECTED RADIATIONS**                                  1.38E-05
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 81-BROMINE
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  81-KRYPTON.
+   THIS DAUGHTER GROUND STATE IS STABLE.

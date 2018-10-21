@@ -1,0 +1,34 @@
+ 49-CALCIUM-20           HALFLIFE = 8.718 MINUTES 
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     2   6.60E-03    2.729E-01*   1.80E-03
+ BETA MINUS                     3   7.00E-02    4.534E-01*   3.17E-02
+ BETA MINUS                     4   1.80E-03    7.042E-01*   1.27E-03
+ BETA MINUS                     5   9.15E-01    9.056E-01*   8.29E-01
+ BETA MINUS                     6   4.10E-03    1.244E+00*   5.10E-03
+ GAMMA-RAY                      6   6.26E-03    1.409E+00    8.82E-03
+ GAMMA-RAY                      7   1.93E-03    2.229E+00    4.31E-03
+ GAMMA-RAY                      8   4.88E-03    2.372E+00    1.16E-02
+ GAMMA-RAY                      9   9.21E-01    3.084E+00    2.84E+00
+ GAMMA-RAY                     10   7.00E-02    4.072E+00    2.85E-01
+ GAMMA-RAY                     12   2.12E-03    4.738E+00    1.00E-02
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    3.16E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     7.02E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   8.69E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  6.67E-04
+ ALL LISTED RADIATIONS                                       4.03E+00
+ ALL NEGLECTED RADIATIONS**                                  7.69E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 49-SCANDIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  49-CALCIUM.
+   DECAY OF THIS 57.2 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

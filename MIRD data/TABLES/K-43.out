@@ -1,0 +1,38 @@
+ 43-POTASSIUM-19         HALFLIFE = 22.3 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   2.60E-02    1.362E-01*   3.54E-03
+ BETA MINUS                     2   9.09E-01    2.971E-01*   2.70E-01
+ BETA MINUS                     3   4.06E-02    4.682E-01*   1.90E-02
+ BETA MINUS                     4   9.00E-03    5.670E-01*   5.10E-03
+ BETA MINUS                     5   1.54E-02    7.606E-01*   1.17E-02
+ GAMMA-RAY                      1   4.80E-02    2.206E-01    1.06E-02
+ GAMMA-RAY                      2   8.68E-01    3.728E-01    3.24E-01
+ GAMMA-RAY                      3   1.18E-01    3.969E-01    4.70E-02
+ GAMMA-RAY                      4   3.65E-03    4.042E-01    1.47E-03
+ GAMMA-RAY                      5   1.13E-01    5.934E-01    6.68E-02
+ GAMMA-RAY                      6   7.92E-01    6.175E-01    4.89E-01
+ GAMMA-RAY                      7   1.48E-03    8.011E-01    1.18E-03
+ GAMMA-RAY                      8   2.86E-03    9.902E-01    2.84E-03
+ GAMMA-RAY                      9   1.96E-02    1.022E+00    2.00E-02
+ GAMMA-RAY                     10   1.31E-03    1.394E+00    1.83E-03
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    9.64E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     5.30E-07
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.09E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.09E-04
+ ALL LISTED RADIATIONS                                       1.27E+00
+ ALL NEGLECTED RADIATIONS**                                  3.10E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 43-CALCIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  43-POTASSIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

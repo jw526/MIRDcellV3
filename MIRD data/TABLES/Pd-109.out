@@ -1,0 +1,54 @@
+ 109-PALLADIUM-46        HALFLIFE = 13.7012 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                    11   9.99E-01    3.609E-01*   3.61E-01
+ GAMMA-RAY                      2   3.61E-02    8.804E-02    3.18E-03
+ K CONV. ELECTRON, GAMMA-RAY    2   4.11E-01    6.255E-02    2.57E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   2   3.26E-02    8.426E-02    2.75E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   2   1.93E-01    8.451E-02    1.63E-02
+ L3 CONV. ELECTRON, GAMMA-RAY   2   2.24E-01    8.469E-02    1.90E-02
+ M CONV. ELECTRON, GAMMA-RAY    2   9.25E-02    8.747E-02*   8.09E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   2   1.60E-02    8.804E-02*   1.41E-03
+ GAMMA-RAY                      7   4.88E-05    3.091E-01    1.51E-05
+ GAMMA-RAY                      8   3.20E-04    3.114E-01    9.95E-05
+ GAMMA-RAY                     11   6.59E-05    4.130E-01    2.72E-05
+ GAMMA-RAY                     12   1.07E-04    4.152E-01    4.46E-05
+ GAMMA-RAY                     18   2.44E-05    5.581E-01    1.36E-05
+ GAMMA-RAY                     19   7.98E-05    6.025E-01    4.81E-05
+ GAMMA-RAY                     20   9.98E-05    6.363E-01    6.35E-05
+ GAMMA-RAY                     21   2.44E-04    6.473E-01    1.58E-04
+ GAMMA-RAY                     22   3.10E-05    7.019E-01    2.18E-05
+ GAMMA-RAY                     25   1.68E-05    7.367E-01    1.24E-05
+ GAMMA-RAY                     27   1.12E-04    7.814E-01    8.77E-05
+ K -L2 X-RAY                        9.86E-02    2.196E-02    2.16E-03
+ K -L3 X-RAY                        1.86E-01    2.214E-02    4.11E-03
+ K -M2 X-RAY                        1.62E-02    2.489E-02    4.03E-04
+ K -M3 X-RAY                        3.15E-02    2.492E-02    7.84E-04
+ K -N2 X-RAY                        3.29E-03    2.542E-02    8.37E-05
+ K -N3 X-RAY                        6.37E-03    2.543E-02    1.62E-04
+ L2-M4 X-RAY                        1.52E-02    3.145E-03    4.79E-05
+ L3-M5 X-RAY                        2.33E-02    2.973E-03    6.93E-05
+ Free-Bound X-RAY                   6.75E+00    1.208E-05*   8.16E-05
+ AUGER KLL                          4.76E-02    1.847E-02*   8.80E-04
+ AUGER LMM                          6.49E-01    2.497E-03*   1.62E-03
+ AUGER MNN                          1.67E+00    3.189E-04*   5.31E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.17E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     9.67E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.37E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.25E-03
+ ALL LISTED RADIATIONS                                       4.48E-01
+ ALL NEGLECTED RADIATIONS**                                  1.35E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 109-SILVER
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 109-PALLADIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

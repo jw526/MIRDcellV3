@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="$$codebase" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>CellDosimetry</title>
+        <vendor>Mac</vendor>
+        <homepage href=""/>
+        <description>CellDosimetry</description>
+        <description kind="short">CellDosimetry</description>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se java-vm-args="-Djava.security.policy=applet.policy" version="1.6+"/>
+        <jar href="CellDosimetry.jar" main="true"/>
+    <jar href="lib/commons-math3-3.0.jar"/>
+<jar href="lib/jcommon-1.0.17.jar"/>
+<jar href="lib/jfreechart-1.0.14.jar"/>
+<jar href="lib/swing-layout-1.0.4.jar"/>
+</resources>
+    <application-desc main-class="WebDose.AAMain">
+    </application-desc>
+</jnlp>

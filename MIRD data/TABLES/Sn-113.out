@@ -1,0 +1,50 @@
+ 113-TIN-50              HALFLIFE = 115.09 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   2.11E-02    2.551E-01    5.38E-03
+ K CONV. ELECTRON, GAMMA-RAY    1   8.35E-04    2.272E-01    1.90E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   1   9.30E-05    2.509E-01    2.33E-05
+ K -L2 X-RAY                        2.10E-01    2.398E-02    5.03E-03
+ K -L3 X-RAY                        3.93E-01    2.419E-02    9.52E-03
+ K -M2 X-RAY                        3.51E-02    2.722E-02    9.56E-04
+ K -M3 X-RAY                        6.82E-02    2.726E-02    1.86E-03
+ K -N2 X-RAY                        7.17E-03    2.783E-02    1.99E-04
+ K -N3 X-RAY                        1.40E-02    2.784E-02    3.88E-04
+ L2-M4 X-RAY                        1.61E-02    3.481E-03    5.61E-05
+ L3-M5 X-RAY                        2.85E-02    3.275E-03    9.32E-05
+ Free-Bound X-RAY                   1.41E+01    8.125E-06*   1.15E-04
+ AUGER KLL                          8.57E-02    2.010E-02*   1.72E-03
+ AUGER KLX                          3.59E-02    2.341E-02*   8.40E-04
+ AUGER KXY                          3.61E-03    2.673E-02*   9.64E-05
+ CK LLX                             1.37E-01    2.639E-04*   3.60E-05
+ AUGER LMM                          6.86E-01    2.735E-03*   1.87E-03
+ AUGER LMX                          1.68E-01    3.215E-03*   5.39E-04
+ AUGER LXY                          1.07E-02    3.715E-03*   3.97E-05
+ CK MMX                             7.68E-01    1.257E-04*   9.64E-05
+ AUGER MNN                          1.73E+00    3.709E-04*   6.42E-04
+ AUGER MNX                          2.85E-02    4.372E-04*   1.24E-05
+ CK NNX                             2.46E+00    3.352E-05*   8.25E-05
+ AUGER NXY                          7.00E+00    8.859E-06*   6.20E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.36E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     9.79E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   6.26E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.27E-05
+ ALL LISTED RADIATIONS                                       2.99E-02
+ ALL NEGLECTED RADIATIONS**                                  1.11E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF 0.391699 MEV ISOMERIC LEVEL IN 113-INDIUM      
+   DAUGHTER IS 9.9998E-01 PER TRANSFORMATION OF 113-TIN.
+   DECAY OF THIS 1.6579 HOURS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 113-INDIUM
+   DAUGHTER IS 2.2352E-05 PER TRANSFORMATION OF 113-TIN.
+   THIS DAUGHTER GROUND STATE IS STABLE.

@@ -1,0 +1,36 @@
+ 55-IRON-26              HALFLIFE = 2.737 YEARS   
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ K -L2 X-RAY                        8.11E-02    5.848E-03    4.74E-04
+ K -L3 X-RAY                        1.59E-01    5.859E-03    9.32E-04
+ K -M2 X-RAY                        9.67E-03    6.449E-03    6.23E-05
+ K -M3 X-RAY                        1.90E-02    6.450E-03    1.23E-04
+ L3-M1 X-RAY                        3.11E-03    5.596E-04    1.74E-06
+ Free-Bound X-RAY                   6.05E+00    1.149E-05*   6.95E-05
+ AUGER KLL                          4.90E-01    5.151E-03*   2.52E-03
+ AUGER KLX                          1.18E-01    5.762E-03*   6.82E-04
+ AUGER KXY                          7.22E-03    6.377E-03*   4.60E-05
+ CK LLX                             2.84E-01    6.490E-05*   1.84E-05
+ AUGER LMM                          1.41E+00    5.594E-04*   7.88E-04
+ AUGER LMX                          2.20E-02    6.068E-04*   1.34E-05
+ CK MMX                             2.72E+00    3.645E-05*   9.92E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.66E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.12E-06
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.17E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.52E-12
+ ALL LISTED RADIATIONS                                       5.83E-03
+ ALL NEGLECTED RADIATIONS**                                  2.12E-06
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 55-MANGANESE
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  55-IRON.
+   THIS DAUGHTER GROUND STATE IS STABLE.

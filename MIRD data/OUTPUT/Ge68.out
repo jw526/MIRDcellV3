@@ -1,0 +1,177 @@
+%%%%  68 GE  32    EC           2.34101E+07 270.95 D   02-11-2005       BALASTAR
+1  68   GE  32 270.95 D        EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              68-GERMANIUM-32
++                                    HALFLIFE = 270.95 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  1.060E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  1.060E-01 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%%  68 GE  32    EC           2.34101E+07 270.95 D   02-11-2005       BALAEND 
+%%%%  68 GE  32    EC           2.34101E+07 270.95 D   02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              68-GERMANIUM-32
++                                    HALFLIFE = 270.95 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.00E+00   1.060E-01   ALLOWED                                  
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Nov-2002
+%%%%  68 GE  32    EC           2.34101E+07 270.95 D   02-11-2005       INPUEND 
+%%%%  68 GE  32    EC           2.34101E+07 270.95 D   02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              68-GERMANIUM-32
++                                    HALFLIFE = 270.95 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           K -L2 X-RAY                        1.29E-01    9.181E-03    1.19E-03
+           K -L3 X-RAY                        2.51E-01    9.209E-03    2.31E-03
+           K -M2 X-RAY                        1.63E-02    1.022E-02    1.67E-04
+           K -M3 X-RAY                        3.19E-02    1.022E-02    3.26E-04
+           L3-M5 X-RAY                        5.42E-03    1.095E-03    5.94E-06
+           Free-Bound X-RAY                   6.20E+00    1.579E-05*   9.78E-05
+           AUGER KLL                          3.38E-01    7.996E-03*   2.70E-03
+           AUGER KLX                          8.92E-02    9.049E-03*   8.08E-04
+           AUGER KXY                          6.40E-03    1.010E-02*   6.46E-05
+           CK LLX                             2.47E-01    9.468E-05*   2.33E-05
+           AUGER LMM                          1.23E+00    1.003E-03*   1.23E-03
+           AUGER LMX                          1.92E-02    1.054E-03*   2.02E-05
+           CK MMX                             1.56E+00    5.439E-05*   8.51E-05
+           AUGER MNN                          1.70E+00    1.174E-05*   2.00E-05
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.10E-03
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.36E-05
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.96E-03
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.15E-07
+           ALL LISTED RADIATIONS                                       9.05E-03
+           ALL NEGLECTED RADIATIONS**                                  1.37E-05
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 68-GALLIUM
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  68-GERMANIUM.
+             DECAY OF THIS 67.71 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Nov-2002
+%%%%  68 GE  32    EC           2.34101E+07 270.95 D   02-11-2005       OUTPEND 
+%%%%  68 GE  32    EC           2.34101E+07 270.95 D   02-11-2005       SEEISTAR
+ 68.  GERMANIUM    32.  2.710E+02 DAYS      41 EC                    68.GE 32.   0
+ 2 1  1.29195E+01  9.18060E-03  9.18060E-03  0.00000E+00             68.GE 32.   1   1
+ 2 2  2.51179E+01  9.20900E-03  9.20900E-03  0.00000E+00             68.GE 32.   2   2
+ 2 3  1.63283E+00  1.02200E-02  1.02200E-02  0.00000E+00             68.GE 32.   3   3
+ 2 4  3.19054E+00  1.02237E-02  1.02237E-02  0.00000E+00             68.GE 32.   4   4
+ 2 5  2.59537E-03  1.03036E-02  1.03036E-02  0.00000E+00             68.GE 32.   5   5
+ 2 6  3.74870E-03  1.03041E-02  1.03041E-02  0.00000E+00             68.GE 32.   6   6
+ 2 7  9.31483E-03  1.03260E-02  1.03260E-02  0.00000E+00             68.GE 32.   7   7
+ 2 8  1.77671E-02  1.03261E-02  1.03261E-02  0.00000E+00             68.GE 32.   8   8
+ 221  4.64242E-04  1.40300E-04  1.40300E-04  0.00000E+00             68.GE 32.   9  21
+ 222  2.33381E-03  1.68700E-04  1.68700E-04  0.00000E+00             68.GE 32.  10  22
+ 223  2.30260E-02  1.17969E-03  1.17969E-03  0.00000E+00             68.GE 32.  11  23
+ 224  3.71736E-02  1.18342E-03  1.18342E-03  0.00000E+00             68.GE 32.  12  24
+ 225  9.39380E-05  1.26333E-03  1.26333E-03  0.00000E+00             68.GE 32.  13  25
+ 226  1.30588E-04  1.26383E-03  1.26383E-03  0.00000E+00             68.GE 32.  14  26
+ 227  1.42307E-04  1.28570E-03  1.28570E-03  0.00000E+00             68.GE 32.  15  27
+ 228  2.54273E-04  1.28582E-03  1.28582E-03  0.00000E+00             68.GE 32.  16  28
+ 241  3.24322E-08  2.84000E-05  2.84000E-05  0.00000E+00             68.GE 32.  17  41
+ 242  1.82936E-01  9.92652E-04  9.92652E-04  0.00000E+00             68.GE 32.  18  42
+ 243  8.10020E-04  1.04312E-03  1.04312E-03  0.00000E+00             68.GE 32.  19  43
+ 244  3.10918E-01  1.12303E-03  1.12303E-03  0.00000E+00             68.GE 32.  20  44
+ 245  5.67816E-03  1.13871E-03  1.13871E-03  0.00000E+00             68.GE 32.  21  45
+ 246  5.91999E-07  1.14552E-03  1.14552E-03  0.00000E+00             68.GE 32.  22  46
+ 261  3.47325E-01  9.64249E-04  9.64249E-04  0.00000E+00             68.GE 32.  23  61
+ 262  8.14027E-04  1.01099E-03  1.01099E-03  0.00000E+00             68.GE 32.  24  62
+ 263  7.85356E-04  1.01472E-03  1.01472E-03  0.00000E+00             68.GE 32.  25  63
+ 264  5.21621E-02  1.09463E-03  1.09463E-03  0.00000E+00             68.GE 32.  26  64
+ 265  5.42109E-01  1.09513E-03  1.09513E-03  0.00000E+00             68.GE 32.  27  65
+ 266  9.65123E-03  1.11031E-03  1.11031E-03  0.00000E+00             68.GE 32.  28  66
+ 267  5.35818E-07  1.11700E-03  1.11700E-03  0.00000E+00             68.GE 32.  29  67
+ 268  5.04388E-07  1.11712E-03  1.11712E-03  0.00000E+00             68.GE 32.  30  68
+ 291  6.82075E-03  7.97939E-05  7.97939E-05  0.00000E+00             68.GE 32.  31  91
+ 294  6.19509E+02  1.57857E-05  1.57857E-05  0.00000E+00             68.GE 32.  32  94
+ 7 1  3.37980E+01  7.99646E-03  7.99646E-03  0.00000E+00             68.GE 32.  33   1
+ 7 2  8.92478E+00  9.04875E-03  9.04875E-03  0.00000E+00             68.GE 32.  34   2
+ 7 3  6.39551E-01  1.01050E-02  1.01050E-02  0.00000E+00             68.GE 32.  35   3
+ 7 4  2.46570E+01  9.46814E-05  9.46814E-05  0.00000E+00             68.GE 32.  36   4
+ 7 5  1.22824E+02  1.00317E-03  1.00317E-03  0.00000E+00             68.GE 32.  37   5
+ 7 6  1.91549E+00  1.05393E-03  1.05393E-03  0.00000E+00             68.GE 32.  38   6
+ 7 7  9.91528E-03  1.15708E-03  1.15708E-03  0.00000E+00             68.GE 32.  39   7
+ 7 8  1.56458E+02  5.43937E-05  5.43937E-05  0.00000E+00             68.GE 32.  40   8
+ 7 9  1.70282E+02  1.17417E-05  1.17417E-05  0.00000E+00             68.GE 32.  41   9
+%%%%  68 GE  32    EC           2.34101E+07 270.95 D   02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   4.01180E-03
+    Free-bound X-ray                (MeV) =   9.77941E-05
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   9.62863E-02
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   4.95573E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   1.05352E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   1.06000E-01
+  Ratio of E-total/Q-value          ( % ) =   9.93884E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   4.44178E-01
+    Free-bound X-ray                      =   6.19509E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   5.19509E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

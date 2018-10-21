@@ -1,0 +1,41 @@
+ 89-ZIRCONIUM-40         HALFLIFE = 78.41 HOURS   
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      1   2.27E-01    3.955E-01*   8.99E-02
+ ANNIHILATION RADIATION             4.55E-01    5.110E-01    2.32E-01
+ GAMMA-RAY                      1   9.90E-01    9.092E-01    9.00E-01
+ K CONV. ELECTRON, GAMMA-RAY    1   7.43E-03    8.922E-01    6.63E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   1   8.36E-04    9.068E-01    7.58E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   1.60E-04    9.089E-01*   1.45E-04
+ GAMMA-RAY                      2   7.33E-04    1.621E+00    1.19E-03
+ GAMMA-RAY                      3   1.06E-03    1.657E+00    1.76E-03
+ GAMMA-RAY                      4   7.45E-03    1.713E+00    1.28E-02
+ GAMMA-RAY                      5   1.23E-03    1.745E+00    2.14E-03
+ K -L2 X-RAY                        1.41E-01    1.484E-02    2.09E-03
+ K -L3 X-RAY                        2.70E-01    1.492E-02    4.03E-03
+ AUGER KLL                          1.45E-01    1.267E-02*   1.84E-03
+ AUGER KLX                          5.04E-02    1.455E-02*   7.33E-04
+ AUGER LMM                          7.32E-01    1.662E-03*   1.22E-03
+ AUGER LMX                          7.33E-02    1.827E-03*   1.34E-04
+ AUGER MNN                          1.74E+00    9.459E-05*   1.65E-04
+ CK NNX                             5.68E+00    2.029E-05*   1.15E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.16E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.29E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.02E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.72E-04
+ ALL LISTED RADIATIONS                                       1.26E+00
+ ALL NEGLECTED RADIATIONS**                                  1.56E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 89-YTTRIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  89-ZIRCONIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

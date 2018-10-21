@@ -1,0 +1,61 @@
+ 134M-CESIUM-55          HALFLIFE = 2.903 HOURS   
+
+  MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   1.08E-02    1.124E-02    1.22E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   1   6.50E-01    5.557E-03    3.61E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   1   8.24E-02    5.879E-03    4.84E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   1   5.02E-02    6.236E-03    3.13E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   1.62E-01    1.025E-02*   1.66E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   4.18E-02    1.124E-02*   4.70E-04
+ GAMMA-RAY                      2   1.26E-01    1.275E-01    1.61E-02
+ K CONV. ELECTRON, GAMMA-RAY    2   3.44E-01    9.152E-02    3.15E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   2   2.98E-02    1.218E-01    3.63E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   2   1.98E-01    1.221E-01    2.42E-02
+ L3 CONV. ELECTRON, GAMMA-RAY   2   1.86E-01    1.225E-01    2.27E-02
+ M CONV. ELECTRON, GAMMA-RAY    2   9.33E-02    1.265E-01*   1.18E-02
+ N+ CONV. ELECTRON, GAMMA-RAY   2   2.26E-02    1.275E-01*   2.88E-03
+ K CONV. ELECTRON, GAMMA-RAY    3   2.83E-03    1.027E-01    2.91E-04
+ K -L2 X-RAY                        8.94E-02    3.062E-02    2.74E-03
+ K -L3 X-RAY                        1.65E-01    3.098E-02    5.12E-03
+ K -M2 X-RAY                        1.56E-02    3.493E-02    5.46E-04
+ K -M3 X-RAY                        3.03E-02    3.499E-02    1.06E-03
+ K -N2 X-RAY                        3.29E-03    3.580E-02    1.18E-04
+ K -N3 X-RAY                        6.42E-03    3.582E-02    2.30E-04
+ K -O3 X-RAY                        7.68E-04    3.597E-02    2.76E-05
+ L1-M2 X-RAY                        1.03E-02    4.625E-03    4.74E-05
+ L1-M3 X-RAY                        1.60E-02    4.694E-03    7.52E-05
+ L2-M4 X-RAY                        4.20E-02    4.616E-03    1.94E-04
+ L2-N4 X-RAY                        6.54E-03    5.278E-03    3.45E-05
+ L3-M5 X-RAY                        5.26E-02    4.273E-03    2.25E-04
+ L3-N5 X-RAY                        8.02E-03    4.923E-03    3.95E-05
+ Free-Bound X-RAY                   2.13E+01    2.189E-05*   4.66E-04
+ AUGER KLL                          2.35E-02    2.540E-02*   5.96E-04
+ AUGER KLX                          1.07E-02    2.981E-02*   3.18E-04
+ CK LLX                             4.65E-01    3.635E-04*   1.69E-04
+ AUGER LMM                          1.01E+00    3.519E-03*   3.56E-03
+ AUGER LMX                          3.15E-01    4.248E-03*   1.34E-03
+ AUGER LXY                          2.45E-02    5.011E-03*   1.23E-04
+ CK MMX                             1.34E+00    1.211E-04*   1.62E-04
+ AUGER MNN                          2.60E+00    5.313E-04*   1.38E-03
+ AUGER MNX                          1.73E-01    6.602E-04*   1.14E-04
+ AUGER NXY                          1.01E+01    4.161E-05*   4.19E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.71E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.47E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.12E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  4.16E-04
+ ALL LISTED RADIATIONS                                       1.39E-01
+ ALL NEGLECTED RADIATIONS**                                  5.63E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 134-CESIUM
+   DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF 134M-CESIUM.
+   DECAY OF THIS 2.0648 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

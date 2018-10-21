@@ -1,0 +1,42 @@
+ 88-YTTRIUM-39           HALFLIFE = 106.65 DAYS    
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      1   2.10E-03    3.595E-01*   7.55E-04
+ GAMMA-RAY                      2   9.37E-01    8.980E-01    8.41E-01
+ K CONV. ELECTRON, GAMMA-RAY    2   2.57E-04    8.820E-01    2.26E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   2   2.66E-05    8.958E-01    2.38E-05
+ GAMMA-RAY                      4   9.92E-01    1.836E+00    1.82E+00
+ K CONV. ELECTRON, GAMMA-RAY    4   1.45E-04    1.820E+00    2.64E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   4   1.51E-05    1.834E+00    2.78E-05
+ GAMMA-RAY                      5   7.15E-03    2.734E+00    1.95E-02
+ K -L3 X-RAY                        3.36E-01    1.412E-02    4.75E-03
+ AUGER KLL                          2.00E-01    1.202E-02*   2.41E-03
+ AUGER KLX                          6.78E-02    1.379E-02*   9.35E-04
+ AUGER KXY                          5.54E-03    1.556E-02*   8.62E-05
+ CK LLX                             2.12E-01    1.006E-04*   2.13E-05
+ AUGER LMM                          9.66E-01    1.573E-03*   1.52E-03
+ AUGER LMX                          8.59E-02    1.714E-03*   1.47E-04
+ CK MMX                             9.82E-01    9.391E-05*   9.22E-05
+ AUGER MNN                          2.31E+00    7.496E-05*   1.73E-04
+ AUGER MNX                          1.12E-01    1.099E-04*   1.23E-05
+ CK NNX                             2.32E+00    1.364E-05*   3.16E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.69E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     7.25E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   6.72E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.09E-05
+ ALL LISTED RADIATIONS                                       2.69E+00
+ ALL NEGLECTED RADIATIONS**                                  7.28E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 88-STRONTIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  88-YTTRIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

@@ -1,0 +1,58 @@
+ 179-TANTALUM-73         HALFLIFE = 1.82 YEARS   
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ K -L2 X-RAY                        1.20E-01    5.472E-02    6.55E-03
+ K -L3 X-RAY                        2.09E-01    5.592E-02    1.17E-02
+ K -M2 X-RAY                        2.23E-02    6.312E-02    1.41E-03
+ K -M3 X-RAY                        4.31E-02    6.338E-02    2.73E-03
+ K -M4 X-RAY                        4.52E-04    6.376E-02    2.88E-05
+ K -M5 X-RAY                        5.75E-04    6.381E-02    3.67E-05
+ K -N2 X-RAY                        5.01E-03    6.505E-02    3.26E-04
+ K -N3 X-RAY                        9.70E-03    6.511E-02    6.32E-04
+ K -O2 X-RAY                        1.13E-03    6.544E-02    7.41E-05
+ K -O3 X-RAY                        2.35E-03    6.544E-02    1.54E-04
+ L1-M2 X-RAY                        9.66E-03    8.887E-03    8.59E-05
+ L1-M3 X-RAY                        1.25E-02    9.146E-03    1.14E-04
+ L1-N3 X-RAY                        3.18E-03    1.087E-02    3.46E-05
+ L2-M4 X-RAY                        4.29E-02    9.038E-03    3.88E-04
+ L2-N4 X-RAY                        7.81E-03    1.054E-02    8.23E-05
+ L3-M1 X-RAY                        5.89E-03    6.982E-03    4.11E-05
+ L3-M4 X-RAY                        9.75E-03    7.833E-03    7.64E-05
+ L3-M5 X-RAY                        8.60E-02    7.890E-03    6.79E-04
+ L3-N5 X-RAY                        1.49E-02    9.344E-03    1.40E-04
+ M X-RAY                            2.76E-02    1.639E-03*   4.52E-05
+ Free-Bound X-RAY                   9.44E+00    1.929E-05*   1.82E-04
+ AUGER KLL                          1.33E-02    4.453E-02*   5.91E-04
+ AUGER KLX                          6.87E-03    5.310E-02*   3.65E-04
+ AUGER KXY                          8.55E-04    6.169E-02*   5.27E-05
+ CK LLX                             3.19E-01    5.079E-04*   1.62E-04
+ AUGER LMM                          4.07E-01    6.204E-03*   2.53E-03
+ AUGER LMX                          1.52E-01    7.834E-03*   1.19E-03
+ AUGER LXY                          1.42E-02    9.498E-03*   1.35E-04
+ CK MMX                             5.90E-01    3.078E-04*   1.82E-04
+ AUGER MNN                          1.38E+00    1.364E-03*   1.89E-03
+ AUGER MNX                          7.29E-02    1.545E-03*   1.13E-04
+ AUGER MXY                          4.51E-03    1.769E-03*   7.98E-06
+ CK NNX                             3.28E+00    1.595E-04*   5.23E-04
+ AUGER NXY                          1.08E-01    2.908E-04*   3.13E-05
+ CK OOX                             8.41E-01    1.098E-05*   9.24E-06
+ AUGER OXY                          1.18E+00    2.446E-05*   2.89E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.55E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.03E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   7.80E-03
+ ALL LISTED RADIATIONS                                       3.33E-02
+ ALL NEGLECTED RADIATIONS**                                  1.03E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 179-HAFNIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 179-TANTALUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

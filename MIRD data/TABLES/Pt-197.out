@@ -1,0 +1,59 @@
+ 197-PLATINUM-78         HALFLIFE = 19.8915 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   8.20E-02    1.321E-01*   1.08E-02
+ BETA MINUS                     2   8.12E-01    1.976E-01*   1.60E-01
+ BETA MINUS                     3   1.06E-01    2.252E-01*   2.39E-02
+ GAMMA-RAY                      1   1.70E-01    7.735E-02    1.32E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   1   3.07E-01    6.301E-02    1.94E-02
+ L2 CONV. ELECTRON, GAMMA-RAY   1   1.41E-01    6.357E-02    8.97E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   1   1.05E-01    6.543E-02    6.86E-03
+ M CONV. ELECTRON, GAMMA-RAY    1   1.35E-01    7.462E-02*   1.01E-02
+ N+ CONV. ELECTRON, GAMMA-RAY   1   4.10E-02    7.735E-02*   3.17E-03
+ GAMMA-RAY                      2   3.66E-02    1.914E-01    7.01E-03
+ K CONV. ELECTRON, GAMMA-RAY    2   3.58E-02    1.105E-01    3.95E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   2   5.37E-03    1.771E-01    9.52E-04
+ M CONV. ELECTRON, GAMMA-RAY    2   1.41E-03    1.887E-01*   2.66E-04
+ GAMMA-RAY                      3   2.31E-03    2.688E-01    6.20E-04
+ K -L2 X-RAY                        1.01E-02    6.718E-02    6.77E-04
+ K -L3 X-RAY                        1.72E-02    6.904E-02    1.18E-03
+ K -M2 X-RAY                        1.89E-03    7.782E-02    1.47E-04
+ K -M3 X-RAY                        3.65E-03    7.823E-02    2.86E-04
+ K -N2 X-RAY                        4.42E-04    8.032E-02    3.55E-05
+ K -N3 X-RAY                        8.65E-04    8.042E-02    6.95E-05
+ L1-M2 X-RAY                        8.61E-03    1.119E-02    9.63E-05
+ L1-M3 X-RAY                        9.93E-03    1.160E-02    1.15E-04
+ L1-N2 X-RAY                        2.18E-03    1.370E-02    2.98E-05
+ L1-N3 X-RAY                        2.71E-03    1.380E-02    3.73E-05
+ L2-M4 X-RAY                        5.05E-02    1.148E-02    5.79E-04
+ L2-N4 X-RAY                        9.96E-03    1.342E-02    1.34E-04
+ L3-M1 X-RAY                        5.34E-03    8.521E-03    4.55E-05
+ L3-M4 X-RAY                        9.28E-03    9.621E-03    8.93E-05
+ L3-M5 X-RAY                        8.18E-02    9.710E-03    7.94E-04
+ L3-N5 X-RAY                        1.53E-02    1.159E-02    1.77E-04
+ M X-RAY                            3.33E-02    2.147E-03*   7.15E-05
+ Free-Bound X-RAY                   1.11E+01    1.110E-05*   1.23E-04
+ AUGER LMM                          2.62E-01    7.554E-03*   1.98E-03
+ AUGER LMX                          1.10E-01    9.695E-03*   1.07E-03
+ AUGER MNN                          9.75E-01    1.755E-03*   1.71E-03
+ CK NNX                             1.97E+00    1.747E-04*   3.44E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.55E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.48E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.54E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.39E-03
+ ALL LISTED RADIATIONS                                       2.79E-01
+ ALL NEGLECTED RADIATIONS**                                  1.53E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 197-GOLD
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 197-PLATINUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

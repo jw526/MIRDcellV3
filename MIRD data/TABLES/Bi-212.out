@@ -1,0 +1,66 @@
+ 212-BISMUTH-83          HALFLIFE = 60.55 MINUTES 
+
+  MODES OF DECAY: BETA MINUS, ALPHA
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   6.73E-03    1.287E-01*   8.66E-04
+ BETA MINUS                     4   1.87E-02    1.912E-01*   3.58E-03
+ BETA MINUS                     5   1.43E-02    2.293E-01*   3.29E-03
+ BETA MINUS                     6   4.36E-02    5.313E-01*   2.32E-02
+ BETA MINUS                     7   5.55E-01    8.323E-01*   4.62E-01
+ GAMMA-RAY                      3   6.58E-02    7.273E-01    4.79E-02
+ GAMMA-RAY                      4   1.10E-02    7.854E-01    8.65E-03
+ GAMMA-RAY                      5   3.78E-03    8.934E-01    3.38E-03
+ GAMMA-RAY                      6   1.67E-03    9.521E-01    1.59E-03
+ GAMMA-RAY                      7   1.60E-04    1.074E+00    1.72E-04
+ GAMMA-RAY                      8   5.64E-03    1.079E+00    6.08E-03
+ GAMMA-RAY                      9   2.88E-03    1.513E+00    4.36E-03
+ GAMMA-RAY                     10   1.49E-02    1.621E+00    2.41E-02
+ GAMMA-RAY                     11   5.77E-04    1.680E+00    9.68E-04
+ GAMMA-RAY                     13   8.97E-04    1.806E+00    1.62E-03
+ ALPHA                          4   4.27E-03    5.606E+00    2.39E-02
+ RECOIL ATOM                        4.27E-03    1.079E-01    4.61E-04
+ ALPHA                          5   5.92E-04    5.626E+00    3.33E-03
+ RECOIL ATOM                        5.92E-04    1.083E-01    6.41E-05
+ ALPHA                          6   6.39E-03    5.768E+00    3.68E-02
+ RECOIL ATOM                        6.39E-03    1.110E-01    7.09E-04
+ ALPHA                          7   2.51E-01    6.051E+00    1.52E+00
+ RECOIL ATOM                        2.51E-01    1.164E-01    2.92E-02
+ ALPHA                          8   9.73E-02    6.090E+00    5.93E-01
+ RECOIL ATOM                        9.73E-02    1.172E-01    1.14E-02
+ GAMMA-RAY                      1   1.06E-02    3.986E-02    4.24E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   1   1.81E-01    2.453E-02    4.44E-03
+ M CONV. ELECTRON, GAMMA-RAY    1   4.68E-02    3.691E-02*   1.73E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.49E-02    3.986E-02*   5.95E-04
+ GAMMA-RAY                      4   3.37E-03    2.882E-01    9.72E-04
+ GAMMA-RAY                      5   1.25E-03    3.280E-01    4.11E-04
+ GAMMA-RAY                      7   3.63E-03    4.530E-01    1.64E-03
+ GAMMA-RAY                      8   5.03E-04    4.730E-01    2.38E-04
+ L2-M4 X-RAY                        9.57E-03    1.225E-02    1.17E-04
+ L3-M5 X-RAY                        3.16E-02    1.027E-02    3.24E-04
+ AUGER LMM                          8.71E-02    7.930E-03*   6.91E-04
+ AUGER MNN                          3.57E-01    1.856E-03*   6.62E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.03E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     8.81E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.01E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.98E-03
+ ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               2.22E+00
+ ALL NEGLECTED ALPHA PARTICLES AND  RECOIL NUCLEI**          3.02E-04
+ ALL LISTED RADIATIONS                                       2.82E+00
+ ALL NEGLECTED RADIATIONS**                                  5.16E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 212-POLONIUM
+   DAUGHTER IS 6.4060E-01 PER TRANSFORMATION OF 212-BISMUTH.
+   DECAY OF THIS 0.299E-06 SECONDS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE
+   .
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 208-THALLIUM
+   DAUGHTER IS 3.5940E-01 PER TRANSFORMATION OF 212-BISMUTH.
+   DECAY OF THIS 3.053 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

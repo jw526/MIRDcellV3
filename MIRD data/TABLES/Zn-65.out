@@ -1,0 +1,36 @@
+ 65-ZINC-30              HALFLIFE = 244.06 DAYS    
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      1   1.40E-02    1.426E-01*   2.00E-03
+ ANNIHILATION RADIATION             2.80E-02    5.110E-01    1.43E-02
+ GAMMA-RAY                      3   5.06E-01    1.116E+00    5.64E-01
+ K CONV. ELECTRON, GAMMA-RAY    3   8.41E-05    1.107E+00    9.31E-05
+ L1 CONV. ELECTRON, GAMMA-RAY   3   8.16E-06    1.114E+00    9.09E-06
+ K -L2 X-RAY                        1.14E-01    7.985E-03    9.10E-04
+ K -L3 X-RAY                        2.22E-01    8.006E-03    1.78E-03
+ AUGER KLL                          3.89E-01    6.991E-03*   2.72E-03
+ AUGER KLX                          9.62E-02    7.880E-03*   7.58E-04
+ AUGER KXY                          6.66E-03    8.773E-03*   5.84E-05
+ CK LLX                             2.43E-01    9.097E-05*   2.21E-05
+ AUGER LMM                          1.29E+00    8.561E-04*   1.11E-03
+ CK MMX                             1.80E+00    5.682E-05*   1.02E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    5.81E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.54E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   6.87E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  4.58E-06
+ ALL LISTED RADIATIONS                                       5.88E-01
+ ALL NEGLECTED RADIATIONS**                                  4.58E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 65-COPPER
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  65-ZINC.
+   THIS DAUGHTER GROUND STATE IS STABLE.

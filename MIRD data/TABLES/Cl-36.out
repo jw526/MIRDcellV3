@@ -1,0 +1,44 @@
+ 36-CHLORINE-17          HALFLIFE = 301000 YEARS   
+
+  MODES OF DECAY: BETA MINUS, ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   9.81E-01    2.784E-01*   2.73E-01
+ BETA PLUS                      1   1.39E-04    5.837E-02*   8.11E-06
+ ANNIHILATION RADIATION             2.78E-04    5.110E-01    1.42E-04
+ K -L2 X-RAY                        4.21E-04    2.283E-03    9.62E-07
+ K -L3 X-RAY                        8.34E-04    2.285E-03    1.91E-06
+ K -M2 X-RAY                        1.96E-05    2.446E-03    4.80E-08
+ K -M3 X-RAY                        3.89E-05    2.446E-03    9.52E-08
+ L1-L2 X-RAY                        1.05E-06    5.324E-05    5.62E-11
+ L1-L3 X-RAY                        2.59E-06    5.457E-05    1.41E-10
+ L1-M2 X-RAY                        2.48E-07    2.156E-04    5.35E-11
+ L1-M3 X-RAY                        4.17E-07    2.157E-04    9.00E-11
+ L2-L3 X-RAY                        2.69E-15    1.330E-06    3.58E-21
+ L2-M1 X-RAY                        2.25E-06    1.518E-04    3.42E-10
+ L2-M3 X-RAY                        3.75E-10    1.625E-04    6.09E-14
+ L3-M1 X-RAY                        4.16E-06    1.504E-04    6.25E-10
+ L3-M2 X-RAY                        3.44E-10    1.611E-04    5.54E-14
+ L3-M3 X-RAY                        3.39E-10    1.612E-04    5.46E-14
+ Free-Bound X-RAY                   7.46E-02    1.291E-05    9.63E-07
+ AUGER KLL                          1.39E-02    2.089E-03*   2.90E-05
+ AUGER KLX                          1.73E-03    2.256E-03*   3.91E-06
+ AUGER KXY                          5.42E-05    2.426E-03*   1.32E-07
+ CK LLX                             7.83E-03    3.721E-05*   2.91E-07
+ AUGER LMM                          3.24E-02    1.475E-04*   4.78E-06
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.46E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.73E-01
+ ALL LISTED RADIATIONS                                       2.73E-01
+ 
+ *  AVERAGE ENERGY (MEV)
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 36-ARGON
+   DAUGHTER IS 9.8100E-01 PER TRANSFORMATION OF  36-CHLORINE.
+   THIS DAUGHTER GROUND STATE IS STABLE.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 36-SULPHUR
+   DAUGHTER IS 1.9000E-02 PER TRANSFORMATION OF  36-CHLORINE.
+   THIS DAUGHTER GROUND STATE IS STABLE.

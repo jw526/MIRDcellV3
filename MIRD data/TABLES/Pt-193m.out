@@ -1,0 +1,69 @@
+ 193M-PLATINUM-78        HALFLIFE = 4.33 DAYS    
+
+  MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.00E+00    1.642E-03*   1.64E-03
+ GAMMA-RAY                      2   6.57E-03    1.263E-02    8.30E-05
+ M CONV. ELECTRON, GAMMA-RAY    2   6.86E-01    9.997E-03*   6.86E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   2   2.10E-01    1.263E-02*   2.66E-03
+ GAMMA-RAY                      3   1.10E-03    1.355E-01    1.49E-04
+ K CONV. ELECTRON, GAMMA-RAY    3   1.51E-01    5.689E-02    8.61E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   3   1.78E-01    1.216E-01    2.16E-02
+ L2 CONV. ELECTRON, GAMMA-RAY   3   3.99E-02    1.222E-01    4.87E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   3   3.83E-01    1.239E-01    4.74E-02
+ M CONV. ELECTRON, GAMMA-RAY    3   1.89E-01    1.329E-01*   2.51E-02
+ N+ CONV. ELECTRON, GAMMA-RAY   3   5.82E-02    1.355E-01*   7.89E-03
+ K -L2 X-RAY                        4.23E-02    6.530E-02    2.76E-03
+ K -L3 X-RAY                        7.22E-02    6.705E-02    4.84E-03
+ K -M2 X-RAY                        7.91E-03    7.559E-02    5.98E-04
+ K -M3 X-RAY                        1.53E-02    7.598E-02    1.16E-03
+ K -M4 X-RAY                        1.93E-04    7.640E-02    1.47E-05
+ K -M5 X-RAY                        2.38E-04    7.649E-02    1.82E-05
+ K -N2 X-RAY                        1.84E-03    7.801E-02    1.44E-04
+ K -N3 X-RAY                        3.60E-03    7.810E-02    2.81E-04
+ K -O2 X-RAY                        4.24E-04    7.854E-02    3.33E-05
+ K -O3 X-RAY                        8.43E-04    7.856E-02    6.62E-05
+ L1-M2 X-RAY                        4.79E-03    1.084E-02    5.19E-05
+ L1-M3 X-RAY                        5.62E-03    1.123E-02    6.31E-05
+ L1-N2 X-RAY                        1.20E-03    1.326E-02    1.60E-05
+ L1-N3 X-RAY                        1.52E-03    1.335E-02    2.02E-05
+ L2-M4 X-RAY                        2.73E-02    1.110E-02    3.03E-04
+ L2-N4 X-RAY                        5.33E-03    1.298E-02    6.91E-05
+ L3-M1 X-RAY                        9.85E-03    8.294E-03    8.17E-05
+ L3-M4 X-RAY                        1.71E-02    9.355E-03    1.60E-04
+ L3-M5 X-RAY                        1.51E-01    9.438E-03    1.42E-03
+ L3-N1 X-RAY                        2.02E-03    1.085E-02    2.19E-05
+ L3-N4 X-RAY                        3.09E-03    1.123E-02    3.47E-05
+ L3-N5 X-RAY                        2.79E-02    1.125E-02    3.13E-04
+ L3-O5 X-RAY                        2.05E-03    1.156E-02    2.37E-05
+ M X-RAY                            5.98E-02    2.086E-03*   1.25E-04
+ Free-Bound X-RAY                   3.05E+01    1.014E-05*   3.09E-04
+ AUGER KLL                          3.95E-03    5.278E-02*   2.08E-04
+ AUGER LMM                          3.86E-01    7.021E-03*   2.71E-03
+ AUGER LMX                          1.58E-01    9.054E-03*   1.43E-03
+ AUGER LXY                          1.58E-02    1.111E-02*   1.76E-04
+ CK MMX                             1.34E+00    4.201E-04*   5.63E-04
+ AUGER MNN                          1.89E+00    1.719E-03*   3.25E-03
+ AUGER MNX                          1.87E-01    1.955E-03*   3.66E-04
+ CK NNX                             6.03E+00    1.745E-04*   1.05E-03
+ AUGER NXY                          9.78E+00    6.501E-05*   6.36E-04
+ CK OOX                             7.44E+00    3.751E-05*   2.79E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.32E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     5.06E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.37E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.71E-04
+ ALL LISTED RADIATIONS                                       1.51E-01
+ ALL NEGLECTED RADIATIONS**                                  4.22E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 193-PLATINUM
+   DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF 193M-PLATINUM.
+   DECAY OF THIS 50 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

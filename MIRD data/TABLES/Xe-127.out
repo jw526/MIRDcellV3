@@ -1,0 +1,68 @@
+ 127-XENON-54            HALFLIFE = 36.4 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   1.32E-02    5.761E-02    7.61E-04
+ K CONV. ELECTRON, GAMMA-RAY    1   4.27E-02    2.445E-02    1.04E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   1   5.14E-03    5.245E-02    2.70E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   1.24E-03    5.674E-02*   7.03E-05
+ GAMMA-RAY                      2   4.29E-02    1.453E-01    6.23E-03
+ K CONV. ELECTRON, GAMMA-RAY    2   1.53E-02    1.121E-01    1.72E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   2   1.49E-03    1.401E-01    2.09E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   2   1.21E-03    1.404E-01    1.70E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   2   1.27E-03    1.407E-01    1.79E-04
+ M CONV. ELECTRON, GAMMA-RAY    2   8.33E-04    1.444E-01*   1.20E-04
+ GAMMA-RAY                      3   2.55E-01    1.721E-01    4.40E-02
+ K CONV. ELECTRON, GAMMA-RAY    3   3.68E-02    1.390E-01    5.12E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   3   4.45E-03    1.670E-01    7.43E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   3   3.00E-04    1.673E-01    5.03E-05
+ M CONV. ELECTRON, GAMMA-RAY    3   9.77E-04    1.713E-01*   1.67E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   3   2.41E-04    1.721E-01*   4.14E-05
+ GAMMA-RAY                      4   6.83E-01    2.029E-01    1.39E-01
+ K CONV. ELECTRON, GAMMA-RAY    4   6.68E-02    1.697E-01    1.13E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   4   7.74E-03    1.977E-01    1.53E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   4   1.26E-03    1.980E-01    2.49E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   4   9.38E-04    1.983E-01    1.86E-04
+ M CONV. ELECTRON, GAMMA-RAY    4   2.02E-03    2.020E-01*   4.09E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   4   4.91E-04    2.029E-01*   9.95E-05
+ GAMMA-RAY                      5   1.72E-01    3.750E-01    6.45E-02
+ K CONV. ELECTRON, GAMMA-RAY    5   2.88E-03    3.418E-01    9.85E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   5   3.17E-04    3.698E-01    1.17E-04
+ M CONV. ELECTRON, GAMMA-RAY    5   9.19E-05    3.741E-01*   3.44E-05
+ K -L2 X-RAY                        2.54E-01    2.831E-02    7.20E-03
+ K -L3 X-RAY                        4.72E-01    2.861E-02    1.35E-02
+ K -M2 X-RAY                        4.39E-02    3.224E-02    1.41E-03
+ K -M3 X-RAY                        8.51E-02    3.229E-02    2.75E-03
+ K -N2 X-RAY                        9.15E-03    3.302E-02    3.02E-04
+ K -N3 X-RAY                        1.79E-02    3.303E-02    5.91E-04
+ AUGER KLL                          7.63E-02    2.356E-02*   1.80E-03
+ AUGER KLX                          3.42E-02    2.759E-02*   9.43E-04
+ AUGER KXY                          3.65E-03    3.161E-02*   1.15E-04
+ CK LLX                             1.65E-01    3.110E-04*   5.13E-05
+ AUGER LMM                          7.37E-01    3.208E-03*   2.36E-03
+ AUGER LMX                          2.18E-01    3.843E-03*   8.37E-04
+ AUGER LXY                          1.59E-02    4.502E-03*   7.15E-05
+ CK MMX                             8.16E-01    1.250E-04*   1.02E-04
+ AUGER MNN                          1.88E+00    4.772E-04*   8.97E-04
+ AUGER MNX                          8.96E-02    5.791E-04*   5.19E-05
+ CK NNX                             2.21E+00    2.705E-05*   5.98E-05
+ AUGER NXY                          7.09E+00    2.896E-05*   2.05E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.80E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     8.21E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.23E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.69E-04
+ ALL LISTED RADIATIONS                                       3.12E-01
+ ALL NEGLECTED RADIATIONS**                                  9.89E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 127-IODINE
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 127-XENON.
+   THIS DAUGHTER GROUND STATE IS STABLE.

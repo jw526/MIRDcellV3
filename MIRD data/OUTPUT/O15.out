@@ -1,0 +1,179 @@
+%%%%  15 O    8    EC B+        1.22240E+02 122.24 S   02-11-2005       BALASTAR
+1  15   O    8 122.24 S        EC B+      
+1INTENSITY AND ENERGY BALANCE DATA
+
+              15-OXYGEN-8
++                                    HALFLIFE = 122.24 SECONDS 
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   7.63E-06% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  2.754E+00 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  2.754E+00 MEV
+ PERCENT ERROR =  8.657E-06                      
+%%%%  15 O    8    EC B+        1.22240E+02 122.24 S   02-11-2005       BALAEND 
+%%%%  15 O    8    EC B+        1.22240E+02 122.24 S   02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              15-OXYGEN-8
++                                    HALFLIFE = 122.24 SECONDS 
++                                                                  02-11-2005
+
+            MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   9.97E-04   2.754E+00   ALLOWED                                  
+                BETA PLUS   1   9.99E-01   1.732E+00*  ALLOWED                                  
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Apr-2002
+%%%%  15 O    8    EC B+        1.22240E+02 122.24 S   02-11-2005       INPUEND 
+%%%%  15 O    8    EC B+        1.22240E+02 122.24 S   02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              15-OXYGEN-8
++                                    HALFLIFE = 122.24 SECONDS 
++                                                                  02-11-2005
+
+            MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           BETA PLUS                      1   9.99E-01    7.354E-01*   7.35E-01
+           ANNIHILATION RADIATION             2.00E+00    5.110E-01    1.02E+00
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.02E+00
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   7.35E-01
+           ALL LISTED RADIATIONS                                       1.76E+00
+ 
+           *  AVERAGE ENERGY (MEV)
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 15-NITROGEN
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  15-OXYGEN.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Apr-2002
+%%%%  15 O    8    EC B+        1.22240E+02 122.24 S   02-11-2005       OUTPEND 
+%%%%  15 O    8    EC B+        1.22240E+02 122.24 S   02-11-2005       BETASTAR
+1
+              15-OXYGEN-8
++                                    HALFLIFE = 122.24 SECONDS 
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   0.000E+00      0.00260   1.042E-02      0.07500   2.706E-01
+            0.00010   1.869E-08      0.00280   1.171E-02      0.08000   2.833E-01
+            0.00011   3.977E-08      0.00300   1.300E-02      0.08500   2.958E-01
+            0.00012   7.682E-08      0.00320   1.429E-02      0.09000   3.080E-01
+            0.00013   1.373E-07      0.00360   1.685E-02      0.10000   3.317E-01
+            0.00014   2.304E-07      0.00400   1.940E-02      0.11000   3.546E-01
+            0.00015   3.668E-07      0.00450   2.253E-02      0.12000   3.768E-01
+            0.00016   5.585E-07      0.00500   2.561E-02      0.13000   3.984E-01
+            0.00018   1.163E-06      0.00550   2.863E-02      0.14000   4.194E-01
+            0.00020   2.163E-06      0.00600   3.160E-02      0.15000   4.399E-01
+            0.00022   3.688E-06      0.00650   3.451E-02      0.16000   4.599E-01
+            0.00024   5.874E-06      0.00700   3.737E-02      0.18000   4.985E-01
+            0.00026   8.858E-06      0.00750   4.019E-02      0.20000   5.354E-01
+            0.00028   1.277E-05      0.00800   4.295E-02      0.22000   5.706E-01
+            0.00030   1.775E-05      0.00850   4.567E-02      0.24000   6.044E-01
+            0.00032   2.390E-05      0.00900   4.835E-02      0.26000   6.366E-01
+            0.00036   4.017E-05      0.01000   5.358E-02      0.28000   6.673E-01
+            0.00040   6.238E-05      0.01100   5.867E-02      0.30000   6.967E-01
+            0.00045   9.950E-05      0.01200   6.361E-02      0.32000   7.245E-01
+            0.00050   1.480E-04      0.01300   6.843E-02      0.36000   7.759E-01
+            0.00055   2.088E-04      0.01400   7.313E-02      0.40000   8.214E-01
+            0.00060   2.825E-04      0.01500   7.772E-02      0.45000   8.700E-01
+            0.00065   3.695E-04      0.01600   8.221E-02      0.50000   9.091E-01
+            0.00070   4.703E-04      0.01800   9.091E-02      0.55000   9.388E-01
+            0.00075   5.849E-04      0.02000   9.929E-02      0.60000   9.588E-01
+            0.00080   7.132E-04      0.02200   1.074E-01      0.65000   9.692E-01
+            0.00085   8.551E-04      0.02400   1.152E-01      0.70000   9.702E-01
+            0.00090   1.010E-03      0.02600   1.228E-01      0.75000   9.619E-01
+            0.00100   1.358E-03      0.02800   1.302E-01      0.80000   9.445E-01
+            0.00110   1.753E-03      0.03000   1.374E-01      0.85000   9.185E-01
+            0.00120   2.189E-03      0.03200   1.445E-01      0.90000   8.843E-01
+            0.00130   2.662E-03      0.03600   1.581E-01      1.00000   7.937E-01
+            0.00140   3.166E-03      0.04000   1.712E-01      1.10000   6.786E-01
+            0.00150   3.697E-03      0.04500   1.868E-01      1.20000   5.464E-01
+            0.00160   4.250E-03      0.05000   2.019E-01      1.30000   4.061E-01
+            0.00180   5.410E-03      0.05500   2.165E-01      1.40000   2.684E-01
+            0.00200   6.621E-03      0.06000   2.306E-01      1.50000   1.458E-01
+            0.00220   7.868E-03      0.06500   2.443E-01      1.60000   5.219E-02
+            0.00240   9.136E-03      0.07000   2.576E-01      1.73200   0.000E+00
+
+            AVERAGE BETA ENERGY =   7.354E-01
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   9.990E-01
+%%%%  15 O    8    EC B+        1.22240E+02 122.24 S   02-11-2005       BETAEND 
+%%%%  15 O    8    EC B+        1.22240E+02 122.24 S   02-11-2005       SEEISTAR
+ 15.  OXYGEN        8.  1.222E+02 SECONDS    2 EC B+                 15.O   8.   0
+ 4 1  9.99003E+01  7.35422E-01  1.73200E+00  0.00000E+00             15.O   8.   1   1
+ 3 3  1.99801E+02  5.11000E-01  5.11000E-01  0.00000E+00             15.O   8.   2   3
+%%%%  15 O    8    EC B+        1.22240E+02 122.24 S   02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   0.00000E+00
+    Free-bound X-ray                (MeV) =   0.00000E+00
+    Annihilation photon             (MeV) =   1.02098E+00
+    Beta+ particle                  (MeV) =   7.34689E-01
+    Neutrino                        (MeV) =   9.98330E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   0.00000E+00
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   2.75400E+00
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   2.75400E+00
+  Ratio of E-total/Q-value          ( % ) =   1.00000E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   0.00000E+00
+    Free-bound X-ray                      =   0.00000E+00
+    Annihilation photon                   =   1.99801E+00
+    Beta+ particle                        =   9.99003E-01
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   0.00000E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

@@ -1,0 +1,205 @@
+%%%% 118 TE  52    EC           5.18400E+05  6.00 D    02-11-2005       BALASTAR
+1 118   TE  52  6.00 D         EC         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              118-TELLURIUM-52
++                                    HALFLIFE = 6 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  2.780E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  2.780E-01 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%% 118 TE  52    EC           5.18400E+05  6.00 D    02-11-2005       BALAEND 
+%%%% 118 TE  52    EC           5.18400E+05  6.00 D    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              118-TELLURIUM-52
++                                    HALFLIFE = 6 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.00E+00   2.780E-01   ALLOWED                                  
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Sep-1995
+%%%% 118 TE  52    EC           5.18400E+05  6.00 D    02-11-2005       INPUEND 
+%%%% 118 TE  52    EC           5.18400E+05  6.00 D    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              118-TELLURIUM-52
++                                    HALFLIFE = 6 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           K -L2 X-RAY                        2.09E-01    2.609E-02    5.44E-03
+           K -L3 X-RAY                        3.89E-01    2.635E-02    1.03E-02
+           K -M2 X-RAY                        3.55E-02    2.967E-02    1.05E-03
+           K -M3 X-RAY                        6.89E-02    2.972E-02    2.05E-03
+           K -N2 X-RAY                        7.31E-03    3.036E-02    2.22E-04
+           K -N3 X-RAY                        1.43E-02    3.037E-02    4.35E-04
+           L2-M4 X-RAY                        1.81E-02    3.838E-03    6.94E-05
+           L3-M5 X-RAY                        3.16E-02    3.593E-03    1.13E-04
+           Free-Bound X-RAY                   1.33E+01    1.223E-05*   1.62E-04
+           AUGER KLL                          7.27E-02    2.179E-02*   1.59E-03
+           AUGER KLX                          3.15E-02    2.545E-02*   8.02E-04
+           AUGER KXY                          3.27E-03    2.911E-02*   9.51E-05
+           CK LLX                             1.42E-01    2.881E-04*   4.09E-05
+           AUGER LMM                          6.47E-01    2.968E-03*   1.92E-03
+           AUGER LMX                          1.75E-01    3.524E-03*   6.18E-04
+           AUGER LXY                          1.21E-02    4.100E-03*   4.94E-05
+           CK MMX                             7.43E-01    1.218E-04*   9.05E-05
+           AUGER MNN                          1.65E+00    4.228E-04*   6.96E-04
+           AUGER MNX                          4.99E-02    5.056E-04*   2.52E-05
+           CK NNX                             2.21E+00    2.735E-05*   6.05E-05
+           AUGER NXY                          6.53E+00    1.690E-05*   1.10E-04
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.98E-02
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.36E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   6.09E-03
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  8.48E-08
+           ALL LISTED RADIATIONS                                       2.59E-02
+           ALL NEGLECTED RADIATIONS**                                  1.36E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 118-ANTIMONY
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 118-TELLURIUM.
+             DECAY OF THIS 3.6 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Sep-1995
+%%%% 118 TE  52    EC           5.18400E+05  6.00 D    02-11-2005       OUTPEND 
+%%%% 118 TE  52    EC           5.18400E+05  6.00 D    02-11-2005       SEEISTAR
+118.  TELLURIUM    52.  6.000E+00 DAYS      62 EC                   118.TE 52.   0
+ 2 1  2.08608E+01  2.60930E-02  2.60930E-02  0.00000E+00            118.TE 52.   1   1
+ 2 2  3.89303E+01  2.63486E-02  2.63486E-02  0.00000E+00            118.TE 52.   2   2
+ 2 3  3.54908E+00  2.96698E-02  2.96698E-02  0.00000E+00            118.TE 52.   3   3
+ 2 4  6.88591E+00  2.97173E-02  2.97173E-02  0.00000E+00            118.TE 52.   4   4
+ 2 5  3.00597E-02  2.99313E-02  2.99313E-02  0.00000E+00            118.TE 52.   5   5
+ 2 6  4.14576E-02  2.99411E-02  2.99411E-02  0.00000E+00            118.TE 52.   6   6
+ 2 7  7.30908E-01  3.03620E-02  3.03620E-02  0.00000E+00            118.TE 52.   7   7
+ 2 8  1.43209E+00  3.03709E-02  3.03709E-02  0.00000E+00            118.TE 52.   8   8
+ 2 9  4.76210E-03  3.04371E-02  3.04371E-02  0.00000E+00            118.TE 52.   9   9
+ 210  6.53447E-03  3.04384E-02  3.04384E-02  0.00000E+00            118.TE 52.  10  10
+ 211  2.69825E-02  3.04713E-02  3.04713E-02  0.00000E+00            118.TE 52.  11  11
+ 212  4.95702E-02  3.04720E-02  3.04720E-02  0.00000E+00            118.TE 52.  12  12
+ 221  3.55985E-04  2.87700E-04  2.87700E-04  0.00000E+00            118.TE 52.  13  21
+ 222  5.18001E-03  5.43200E-04  5.43200E-04  0.00000E+00            118.TE 52.  14  22
+ 223  2.06093E-01  3.86454E-03  3.86454E-03  0.00000E+00            118.TE 52.  15  23
+ 224  3.32774E-01  3.91202E-03  3.91202E-03  0.00000E+00            118.TE 52.  16  24
+ 225  2.71724E-03  4.12591E-03  4.12591E-03  0.00000E+00            118.TE 52.  17  25
+ 226  4.05544E-03  4.13585E-03  4.13585E-03  0.00000E+00            118.TE 52.  18  26
+ 227  4.13650E-02  4.55667E-03  4.55667E-03  0.00000E+00            118.TE 52.  19  27
+ 228  6.80616E-02  4.56558E-03  4.56558E-03  0.00000E+00            118.TE 52.  20  28
+ 229  2.90266E-04  4.63183E-03  4.63183E-03  0.00000E+00            118.TE 52.  21  29
+ 230  4.38359E-04  4.63316E-03  4.63316E-03  0.00000E+00            118.TE 52.  22  30
+ 231  1.70770E-03  4.66597E-03  4.66597E-03  0.00000E+00            118.TE 52.  23  31
+ 232  2.67177E-03  4.66668E-03  4.66668E-03  0.00000E+00            118.TE 52.  24  32
+ 241  1.07458E-06  2.55500E-04  2.55500E-04  0.00000E+00            118.TE 52.  25  41
+ 242  1.10530E-01  3.45702E-03  3.45702E-03  0.00000E+00            118.TE 52.  26  42
+ 243  1.46714E-03  3.62431E-03  3.62431E-03  0.00000E+00            118.TE 52.  27  43
+ 244  1.80841E+00  3.83820E-03  3.83820E-03  0.00000E+00            118.TE 52.  28  44
+ 245  1.40004E-02  4.22772E-03  4.22772E-03  0.00000E+00            118.TE 52.  29  45
+ 246  1.41470E-04  4.27787E-03  4.27787E-03  0.00000E+00            118.TE 52.  30  46
+ 247  2.32615E-01  4.34414E-03  4.34414E-03  0.00000E+00            118.TE 52.  31  47
+ 249  1.33500E-03  4.37009E-03  4.37009E-03  0.00000E+00            118.TE 52.  32  49
+ 250  5.55626E-06  4.37899E-03  4.37899E-03  0.00000E+00            118.TE 52.  33  50
+ 261  3.83439E-01  3.20151E-03  3.20151E-03  0.00000E+00            118.TE 52.  34  61
+ 262  1.99436E-03  3.32134E-03  3.32134E-03  0.00000E+00            118.TE 52.  35  62
+ 263  1.86525E-03  3.36881E-03  3.36881E-03  0.00000E+00            118.TE 52.  36  63
+ 264  3.55877E-01  3.58271E-03  3.58271E-03  0.00000E+00            118.TE 52.  37  64
+ 265  3.15576E+00  3.59266E-03  3.59266E-03  0.00000E+00            118.TE 52.  38  65
+ 266  2.97716E-02  3.97223E-03  3.97223E-03  0.00000E+00            118.TE 52.  39  66
+ 267  1.39026E-04  4.01348E-03  4.01348E-03  0.00000E+00            118.TE 52.  40  67
+ 268  1.32891E-04  4.02238E-03  4.02238E-03  0.00000E+00            118.TE 52.  41  68
+ 269  4.48058E-02  4.08864E-03  4.08864E-03  0.00000E+00            118.TE 52.  42  69
+ 270  3.98317E-01  4.08994E-03  4.08994E-03  0.00000E+00            118.TE 52.  43  70
+ 273  3.36103E-03  4.11459E-03  4.11459E-03  0.00000E+00            118.TE 52.  44  73
+ 274  5.72051E-06  4.12277E-03  4.12277E-03  0.00000E+00            118.TE 52.  45  74
+ 275  5.20349E-06  4.12348E-03  4.12348E-03  0.00000E+00            118.TE 52.  46  75
+ 291  3.22036E-01  4.99027E-04  4.99027E-04  0.00000E+00            118.TE 52.  47  91
+ 292  7.44459E-03  6.89557E-05  6.89557E-05  0.00000E+00            118.TE 52.  48  92
+ 294  1.32734E+03  1.22328E-05  1.22328E-05  0.00000E+00            118.TE 52.  49  94
+ 7 1  7.27407E+00  2.17904E-02  2.17904E-02  0.00000E+00            118.TE 52.  50   1
+ 7 2  3.15069E+00  2.54497E-02  2.54497E-02  0.00000E+00            118.TE 52.  51   2
+ 7 3  3.26779E-01  2.91102E-02  2.91102E-02  0.00000E+00            118.TE 52.  52   3
+ 7 4  1.42018E+01  2.88104E-04  2.88104E-04  0.00000E+00            118.TE 52.  53   4
+ 7 5  6.47276E+01  2.96845E-03  2.96845E-03  0.00000E+00            118.TE 52.  54   5
+ 7 6  1.75277E+01  3.52378E-03  3.52378E-03  0.00000E+00            118.TE 52.  55   6
+ 7 7  1.20568E+00  4.10004E-03  4.10004E-03  0.00000E+00            118.TE 52.  56   7
+ 7 8  7.42741E+01  1.21783E-04  1.21783E-04  0.00000E+00            118.TE 52.  57   8
+ 7 9  1.64604E+02  4.22751E-04  4.22751E-04  0.00000E+00            118.TE 52.  58   9
+ 710  4.99055E+00  5.05619E-04  5.05619E-04  0.00000E+00            118.TE 52.  59  10
+ 711  1.28221E-02  6.61666E-04  6.61666E-04  0.00000E+00            118.TE 52.  60  11
+ 712  2.21130E+02  2.73452E-05  2.73452E-05  0.00000E+00            118.TE 52.  61  12
+ 713  6.53326E+02  1.68987E-05  1.68987E-05  0.00000E+00            118.TE 52.  62  13
+%%%% 118 TE  52    EC           5.18400E+05  6.00 D    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   1.97753E-02
+    Free-bound X-ray                (MeV) =   1.62370E-04
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   2.50830E-01
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   6.09392E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   2.76862E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   2.78000E-01
+  Ratio of E-total/Q-value          ( % ) =   9.95906E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   8.00876E-01
+    Free-bound X-ray                      =   1.32734E+01
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   1.22675E+01
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

@@ -1,0 +1,101 @@
+ 190M-IRIDIUM-77         HALFLIFE = 3.087 HOURS   
+
+  MODES OF DECAY: ELECTRON CAPTURE, ISOMERIC LEVEL
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ K -L2 X-RAY                        2.01E-01    6.164E-02    1.24E-02
+ K -L3 X-RAY                        3.46E-01    6.319E-02    2.18E-02
+ K -M2 X-RAY                        3.75E-02    7.128E-02    2.67E-03
+ K -M3 X-RAY                        7.25E-02    7.161E-02    5.19E-03
+ K -M4 X-RAY                        8.62E-04    7.202E-02    6.21E-05
+ K -M5 X-RAY                        1.08E-03    7.210E-02    7.76E-05
+ K -N2 X-RAY                        8.64E-03    7.352E-02    6.35E-04
+ K -N3 X-RAY                        1.68E-02    7.360E-02    1.24E-03
+ K -O2 X-RAY                        1.97E-03    7.400E-02    1.46E-04
+ K -O3 X-RAY                        3.98E-03    7.401E-02    2.95E-04
+ L2-M4 X-RAY                        6.15E-02    1.038E-02    6.38E-04
+ L2-N4 X-RAY                        1.17E-02    1.213E-02    1.42E-04
+ L3-M4 X-RAY                        1.15E-02    8.832E-03    1.02E-04
+ L3-M5 X-RAY                        1.02E-01    8.906E-03    9.07E-04
+ L3-N5 X-RAY                        1.84E-02    1.059E-02    1.95E-04
+ M X-RAY                            3.17E-02    1.920E-03    6.10E-05
+ Free-Bound X-RAY                   7.28E+00    4.406E-05    3.21E-04
+ AUGER KLL                          1.98E-02    4.993E-02*   9.89E-04
+ AUGER KLX                          1.05E-02    5.977E-02*   6.27E-04
+ AUGER KXY                          1.34E-03    6.961E-02*   9.31E-05
+ CK LLX                             1.51E-01    6.020E-04*   9.08E-05
+ AUGER LMM                          3.56E-01    6.865E-03*   2.45E-03
+ AUGER LMX                          1.41E-01    8.763E-03*   1.24E-03
+ AUGER LXY                          1.39E-02    1.069E-02*   1.48E-04
+ CK MMX                             4.80E-01    3.325E-04*   1.60E-04
+ AUGER MNN                          1.16E+00    1.581E-03*   1.83E-03
+ AUGER MNX                          9.07E-02    1.777E-03*   1.61E-04
+ CK NNX                             2.42E+00    1.635E-04*   3.95E-04
+ AUGER NXY                          9.70E-02    3.432E-04*   3.33E-05
+ CK OOX                             1.42E+00    2.962E-05*   4.20E-05
+ L2 CONV. ELECTRON, GAMMA-RAY   1   4.57E-03    9.591E-03    4.39E-05
+ L3 CONV. ELECTRON, GAMMA-RAY   1   5.50E-03    1.124E-02    6.18E-05
+ M CONV. ELECTRON, GAMMA-RAY    1   2.57E-03    1.991E-02*   5.12E-05
+ GAMMA-RAY                      2   2.56E-02    3.618E-02    9.26E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   2   8.79E-03    2.279E-02    2.00E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   2   6.99E-03    2.332E-02    1.63E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   2   9.02E-03    2.497E-02    2.25E-04
+ M CONV. ELECTRON, GAMMA-RAY    2   5.86E-03    3.364E-02*   1.97E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   2   1.67E-03    3.618E-02*   6.04E-05
+ GAMMA-RAY                      3   1.02E-02    5.613E-02    5.75E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   3   4.34E-02    4.273E-02    1.86E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   3   4.13E-03    4.327E-02    1.79E-04
+ M CONV. ELECTRON, GAMMA-RAY    3   1.11E-02    5.359E-02*   5.94E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   3   3.38E-03    5.613E-02*   1.90E-04
+ GAMMA-RAY                      4   2.81E-02    1.353E-01    3.81E-03
+ K CONV. ELECTRON, GAMMA-RAY    4   1.23E-02    5.903E-02    7.25E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   4   1.44E-03    1.220E-01    1.75E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   4   1.09E-02    1.225E-01    1.34E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   4   8.45E-03    1.241E-01    1.05E-03
+ M CONV. ELECTRON, GAMMA-RAY    4   5.35E-03    1.328E-01*   7.10E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   4   1.55E-03    1.353E-01*   2.09E-04
+ K CONV. ELECTRON, GAMMA-RAY    5   1.82E-02    7.239E-02    1.31E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   5   1.56E-02    1.353E-01    2.11E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   5   3.62E-03    1.358E-01    4.91E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   5   2.90E-02    1.375E-01    3.99E-03
+ M CONV. ELECTRON, GAMMA-RAY    5   1.48E-02    1.462E-01*   2.16E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   5   4.48E-03    1.487E-01*   6.67E-04
+ GAMMA-RAY                      6   1.26E-02    2.052E-01    2.59E-03
+ K CONV. ELECTRON, GAMMA-RAY    6   6.71E-04    1.289E-01    8.65E-05
+ K -L2 X-RAY                        8.67E-03    6.345E-02    5.50E-04
+ K -L3 X-RAY                        1.49E-02    6.510E-02    9.68E-04
+ K -M2 X-RAY                        1.62E-03    7.341E-02    1.19E-04
+ K -M3 X-RAY                        3.14E-03    7.377E-02    2.31E-04
+ L2-M4 X-RAY                        1.20E-02    1.074E-02    1.29E-04
+ L3-M5 X-RAY                        2.59E-02    9.169E-03    2.37E-04
+ Free-Bound X-RAY                   1.86E+00    4.534E-05    8.45E-05
+ AUGER KLL                          8.32E-04    5.135E-02*   4.27E-05
+ CK LLX                             6.04E-02    5.698E-04*   3.44E-05
+ AUGER LMM                          8.37E-02    7.051E-03*   5.90E-04
+ AUGER LMX                          3.39E-02    9.027E-03*   3.06E-04
+ AUGER LXY                          3.37E-03    1.103E-02*   3.72E-05
+ CK MMX                             1.27E-01    3.521E-04*   4.46E-05
+ AUGER MNN                          2.96E-01    1.642E-03*   4.85E-04
+ AUGER MNX                          2.60E-02    1.842E-03*   4.80E-05
+ CK NNX                             6.12E-01    1.709E-04*   1.05E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    5.71E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     6.43E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.88E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.33E-04
+ ALL LISTED RADIATIONS                                       8.59E-02
+ ALL NEGLECTED RADIATIONS**                                  7.76E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF 1.705800 MEV ISOMERIC LEVEL IN 190-OSMIUM      
+   DAUGHTER IS 9.1400E-01  PER TRANSFORMATION OF 190M-IRIDIUM.
+   DECAY OF THIS 9.9 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 190-IRIDIUM
+   DAUGHTER IS 8.6000E-02  PER TRANSFORMATION OF 190M-IRIDIUM.
+   DECAY OF THIS 11.78 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

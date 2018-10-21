@@ -1,0 +1,18 @@
+ 63-NICKEL-28            HALFLIFE = 100.1 YEARS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   1.00E+00    1.742E-02*   1.74E-02
+ 
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.74E-02
+ ALL LISTED RADIATIONS                                       1.74E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 63-COPPER
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  63-NICKEL.
+   THIS DAUGHTER GROUND STATE IS STABLE.

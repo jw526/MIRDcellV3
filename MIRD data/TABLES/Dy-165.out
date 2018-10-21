@@ -1,0 +1,64 @@
+ 165-DYSPROSIUM-66       HALFLIFE = 2.334 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     5   1.69E-02    8.221E-02*   1.39E-03
+ BETA MINUS                     8   3.29E-03    2.296E-01*   7.55E-04
+ BETA MINUS                    12   1.50E-01    4.147E-01*   6.20E-02
+ BETA MINUS                    13   8.27E-01    4.536E-01*   3.75E-01
+ GAMMA-RAY                      7   3.58E-02    9.470E-02    3.39E-03
+ K CONV. ELECTRON, GAMMA-RAY    7   9.37E-02    3.900E-02    3.65E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   7   1.27E-02    8.534E-02    1.08E-03
+ GAMMA-RAY                     20   1.46E-04    2.595E-01    3.79E-05
+ GAMMA-RAY                     22   4.98E-03    2.798E-01    1.39E-03
+ GAMMA-RAY                     24   8.40E-03    3.617E-01    3.04E-03
+ K CONV. ELECTRON, GAMMA-RAY   24   1.95E-03    3.060E-01    5.97E-04
+ GAMMA-RAY                     25   1.07E-04    4.053E-01    4.32E-05
+ GAMMA-RAY                     26   4.25E-04    4.561E-01    1.94E-04
+ GAMMA-RAY                     28   4.40E-04    4.796E-01    2.11E-04
+ GAMMA-RAY                     32   3.81E-04    5.155E-01    1.96E-04
+ GAMMA-RAY                     33   5.63E-05    5.405E-01    3.04E-05
+ GAMMA-RAY                     34   1.62E-03    5.458E-01    8.85E-04
+ GAMMA-RAY                     35   1.32E-03    5.657E-01    7.48E-04
+ GAMMA-RAY                     36   1.32E-03    5.657E-01    7.48E-04
+ GAMMA-RAY                     37   7.87E-04    5.756E-01    4.53E-04
+ GAMMA-RAY                     39   5.29E-05    6.103E-01    3.23E-05
+ GAMMA-RAY                     40   9.74E-04    6.206E-01    6.05E-04
+ GAMMA-RAY                     41   5.68E-03    6.334E-01    3.60E-03
+ GAMMA-RAY                     42   2.66E-04    6.601E-01    1.76E-04
+ GAMMA-RAY                     43   1.16E-04    6.941E-01    8.05E-05
+ GAMMA-RAY                     44   5.34E-03    7.153E-01    3.82E-03
+ GAMMA-RAY                     45   1.40E-04    7.254E-01    1.02E-04
+ GAMMA-RAY                     46   8.06E-05    8.201E-01    6.61E-05
+ GAMMA-RAY                     49   6.38E-05    9.849E-01    6.29E-05
+ GAMMA-RAY                     50   5.51E-04    9.951E-01    5.48E-04
+ GAMMA-RAY                     52   3.12E-04    1.056E+00    3.30E-04
+ GAMMA-RAY                     53   9.16E-04    1.080E+00    9.89E-04
+ K -L2 X-RAY                        2.70E-02    4.677E-02    1.26E-03
+ K -L3 X-RAY                        4.82E-02    4.764E-02    2.29E-03
+ K -M2 X-RAY                        4.99E-03    5.379E-02    2.68E-04
+ K -M3 X-RAY                        9.64E-03    5.397E-02    5.20E-04
+ K -N2 X-RAY                        1.10E-03    5.536E-02    6.10E-05
+ K -N3 X-RAY                        2.13E-03    5.540E-02    1.18E-04
+ K -O3 X-RAY                        5.07E-04    5.567E-02    2.82E-05
+ L2-M4 X-RAY                        6.01E-03    7.534E-03    4.53E-05
+ L3-M5 X-RAY                        8.81E-03    6.706E-03    5.91E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.64E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     3.01E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.45E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.55E-03
+ ALL LISTED RADIATIONS                                       4.71E-01
+ ALL NEGLECTED RADIATIONS**                                  2.85E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 165-HOLMIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 165-DYSPROSIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

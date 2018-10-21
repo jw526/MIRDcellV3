@@ -1,0 +1,40 @@
+ 85-STRONTIUM-38         HALFLIFE = 64.84 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      5   9.57E-01    5.140E-01    4.92E-01
+ K CONV. ELECTRON, GAMMA-RAY    5   6.08E-03    4.988E-01    3.03E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   5   6.56E-04    5.120E-01    3.36E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   5   2.55E-05    5.121E-01    1.31E-05
+ M CONV. ELECTRON, GAMMA-RAY    5   1.17E-04    5.138E-01*   6.00E-05
+ K -L2 X-RAY                        1.71E-01    1.329E-02    2.28E-03
+ K -L3 X-RAY                        3.29E-01    1.335E-02    4.40E-03
+ K -M3 X-RAY                        4.78E-02    1.492E-02    7.14E-04
+ AUGER KLL                          2.18E-01    1.140E-02*   2.49E-03
+ AUGER KLX                          7.16E-02    1.305E-02*   9.35E-04
+ AUGER KXY                          5.74E-03    1.470E-02*   8.44E-05
+ CK LLX                             2.19E-01    1.070E-04*   2.35E-05
+ AUGER LMM                          1.00E+00    1.490E-03*   1.50E-03
+ AUGER LMX                          8.14E-02    1.612E-03*   1.31E-04
+ CK MMX                             1.08E+00    7.354E-05*   7.92E-05
+ AUGER MNN                          2.67E+00    6.501E-05*   1.73E-04
+ CK NNX                             2.66E+00    1.260E-05*   3.35E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.99E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     7.86E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   8.89E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.29E-05
+ ALL LISTED RADIATIONS                                       5.08E-01
+ ALL NEGLECTED RADIATIONS**                                  8.09E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 85-RUBIDIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  85-STRONTIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

@@ -1,0 +1,193 @@
+%%%%  91 Y   39 M  IT           2.98260E+03 49.71 M    17-02-2004       BALASTAR
+1  91M  Y   39 49.71 M         IT         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              91M-YTTRIUM-39
++                                    HALFLIFE = 49.71 MINUTES 
++                                                                  17-02-2004
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0011E+02
+   5.5557E-01  1.0011E+02  1.0011E+02  0.0000E+00                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.001E+02
+ TOTAL INTENSITY FROM PARENT=  1.001E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.001E+02
+ VALUE IS WITHIN   1.14E-01% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  5.562E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  5.562E-01 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%%  91 Y   39 M  IT           2.98260E+03 49.71 M    17-02-2004       BALAEND 
+%%%%  91 Y   39 M  IT           2.98260E+03 49.71 M    17-02-2004       INPUSTAR
+1                                      **INPUT DATA**
+              91M-YTTRIUM-39
++                                    HALFLIFE = 49.71 MINUTES 
++                                                                  17-02-2004
+
+            MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           I.C.E. + GAMMA   1   1.00E+00   5.556E-01   M4 MULTIPOLE                             
++                                                                    AK= 0.0462                 
+                                                       AL1=0.00541   AM= 0.00111                
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Feb-1999
+%%%%  91 Y   39 M  IT           2.98260E+03 49.71 M    17-02-2004       INPUEND 
+%%%%  91 Y   39 M  IT           2.98260E+03 49.71 M    17-02-2004       OUTPSTAR
+1                                      **OUTPUT DATA**
+              91M-YTTRIUM-39
++                                    HALFLIFE = 49.71 MINUTES 
++                                                                  17-02-2004
+
+            MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      1   9.50E-01    5.556E-01    5.28E-01
+           K CONV. ELECTRON, GAMMA-RAY    1   4.39E-02    5.386E-01    2.37E-02
+           L1 CONV. ELECTRON, GAMMA-RAY   1   5.14E-03    5.532E-01    2.85E-03
+           L2 CONV. ELECTRON, GAMMA-RAY   1   4.58E-04    5.534E-01    2.53E-04
+           L3 CONV. ELECTRON, GAMMA-RAY   1   3.98E-04    5.535E-01    2.20E-04
+           M CONV. ELECTRON, GAMMA-RAY    1   1.06E-03    5.553E-01*   5.86E-04
+           N+ CONV. ELECTRON, GAMMA-RAY   1   1.73E-04    5.556E-01*   9.62E-05
+           AUGER KLL                          9.34E-03    1.267E-02*   1.18E-04
+           AUGER KLX                          3.25E-03    1.455E-02*   4.73E-05
+           AUGER LMM                          4.78E-02    1.662E-03*   7.95E-05
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    5.28E-01
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.78E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   2.79E-02
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.83E-05
+           ALL LISTED RADIATIONS                                       5.56E-01
+           ALL NEGLECTED RADIATIONS**                                  5.16E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 91-YTTRIUM
+             DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF  91M-YTTRIUM.
+             DECAY OF THIS 58.51 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Feb-1999
+%%%%  91 Y   39 M  IT           2.98260E+03 49.71 M    17-02-2004       OUTPEND 
+%%%%  91 Y   39 M  IT           2.98260E+03 49.71 M    17-02-2004       SEEISTAR
+ 91.M YTTRIUM      39.  4.971E+01 MINUTES   58 IT                    91.Y  39.   0
+ 1 1  9.50000E+01  5.55570E-01  5.55570E-01  0.00000E+00             91.Y  39.   1   1
+ 6 1  4.39165E+00  5.38570E-01  5.38570E-01  1.00000E+00             91.Y  39.   2   1
+ 6 5  5.14273E-01  5.53215E-01  5.53215E-01  1.00000E+00             91.Y  39.   3   5
+ 6 6  4.57883E-02  5.53410E-01  5.53410E-01  1.00000E+00             91.Y  39.   4   6
+ 6 7  3.97802E-02  5.53488E-01  5.53488E-01  1.00000E+00             91.Y  39.   5   7
+ 6 3  1.05609E-01  5.55270E-01  5.55270E-01  1.00000E+00             91.Y  39.   6   3
+ 6 4  1.73137E-02  5.55570E-01  5.55570E-01  1.00000E+00             91.Y  39.   7   4
+ 2 1  9.08228E-01  1.48403E-02  1.48403E-02  0.00000E+00             91.Y  39.   8   1
+ 2 2  1.74022E+00  1.49185E-02  1.49185E-02  0.00000E+00             91.Y  39.   9   2
+ 2 3  1.34840E-01  1.66877E-02  1.66877E-02  0.00000E+00             91.Y  39.  10   3
+ 2 4  2.62723E-01  1.67001E-02  1.67001E-02  0.00000E+00             91.Y  39.  11   4
+ 2 5  5.17815E-04  1.68313E-02  1.68313E-02  0.00000E+00             91.Y  39.  12   5
+ 2 6  7.37305E-04  1.68335E-02  1.68335E-02  0.00000E+00             91.Y  39.  13   6
+ 2 7  1.98782E-02  1.69663E-02  1.69663E-02  0.00000E+00             91.Y  39.  14   7
+ 2 8  3.82689E-02  1.69678E-02  1.69678E-02  0.00000E+00             91.Y  39.  15   8
+ 2 9  3.05546E-06  1.69948E-02  1.69948E-02  0.00000E+00             91.Y  39.  16   9
+ 210  4.31730E-06  1.69949E-02  1.69949E-02  0.00000E+00             91.Y  39.  17  10
+ 221  1.48018E-05  1.95200E-04  1.95200E-04  0.00000E+00             91.Y  39.  18  21
+ 222  9.06824E-05  2.73399E-04  2.73399E-04  0.00000E+00             91.Y  39.  19  22
+ 223  1.54918E-03  2.04264E-03  2.04264E-03  0.00000E+00             91.Y  39.  20  23
+ 224  2.71251E-03  2.05498E-03  2.05498E-03  0.00000E+00             91.Y  39.  21  24
+ 225  1.11824E-05  2.18616E-03  2.18616E-03  0.00000E+00             91.Y  39.  22  25
+ 226  1.66484E-05  2.18839E-03  2.18839E-03  0.00000E+00             91.Y  39.  23  26
+ 227  2.11167E-04  2.32119E-03  2.32119E-03  0.00000E+00             91.Y  39.  24  27
+ 228  3.72757E-04  2.32276E-03  2.32276E-03  0.00000E+00             91.Y  39.  25  28
+ 229  5.25617E-08  2.34966E-03  2.34966E-03  0.00000E+00             91.Y  39.  26  29
+ 230  7.81468E-08  2.34977E-03  2.34977E-03  0.00000E+00             91.Y  39.  27  30
+ 241  5.09151E-09  7.82003E-05  7.82003E-05  0.00000E+00             91.Y  39.  28  41
+ 242  5.25299E-03  1.77392E-03  1.77392E-03  0.00000E+00             91.Y  39.  29  42
+ 243  4.40972E-05  1.85978E-03  1.85978E-03  0.00000E+00             91.Y  39.  30  43
+ 244  4.17685E-02  1.99096E-03  1.99096E-03  0.00000E+00             91.Y  39.  31  44
+ 245  3.33728E-04  2.10635E-03  2.10635E-03  0.00000E+00             91.Y  39.  32  45
+ 246  1.29383E-06  2.12756E-03  2.12756E-03  0.00000E+00             91.Y  39.  33  46
+ 247  2.25678E-04  2.15446E-03  2.15446E-03  0.00000E+00             91.Y  39.  34  47
+ 261  1.61867E-02  1.69571E-03  1.69571E-03  0.00000E+00             91.Y  39.  35  61
+ 262  6.26507E-05  1.76923E-03  1.76923E-03  0.00000E+00             91.Y  39.  36  62
+ 263  5.94463E-05  1.78158E-03  1.78158E-03  0.00000E+00             91.Y  39.  37  63
+ 264  9.15400E-03  1.91276E-03  1.91276E-03  0.00000E+00             91.Y  39.  38  64
+ 265  8.35015E-02  1.91499E-03  1.91499E-03  0.00000E+00             91.Y  39.  39  65
+ 266  7.05347E-04  2.02814E-03  2.02814E-03  0.00000E+00             91.Y  39.  40  66
+ 267  1.43660E-06  2.04779E-03  2.04779E-03  0.00000E+00             91.Y  39.  41  67
+ 268  1.37734E-06  2.04936E-03  2.04936E-03  0.00000E+00             91.Y  39.  42  68
+ 269  4.90549E-05  2.07626E-03  2.07626E-03  0.00000E+00             91.Y  39.  43  69
+ 270  4.33960E-04  2.07637E-03  2.07637E-03  0.00000E+00             91.Y  39.  44  70
+ 291  2.21206E-03  1.62646E-04  1.62646E-04  0.00000E+00             91.Y  39.  45  91
+ 292  3.26766E-05  2.11586E-05  2.11586E-05  0.00000E+00             91.Y  39.  46  92
+ 294  6.66335E+01  5.29808E-06  5.29808E-06  0.00000E+00             91.Y  39.  47  94
+ 7 1  9.34249E-01  1.26657E-02  1.26657E-02  0.00000E+00             91.Y  39.  48   1
+ 7 2  3.24807E-01  1.45497E-02  1.45497E-02  0.00000E+00             91.Y  39.  49   2
+ 7 3  2.71744E-02  1.64357E-02  1.64357E-02  0.00000E+00             91.Y  39.  50   3
+ 7 4  1.04268E+00  1.00569E-04  1.00569E-04  0.00000E+00             91.Y  39.  51   4
+ 7 5  4.78236E+00  1.66237E-03  1.66237E-03  0.00000E+00             91.Y  39.  52   5
+ 7 6  4.78591E-01  1.82713E-03  1.82713E-03  0.00000E+00             91.Y  39.  53   6
+ 7 7  1.79814E-02  2.04902E-03  2.04902E-03  0.00000E+00             91.Y  39.  54   7
+ 7 8  5.06723E+00  9.62041E-05  9.62041E-05  0.00000E+00             91.Y  39.  55   8
+ 7 9  1.13629E+01  9.45715E-05  9.45715E-05  0.00000E+00             91.Y  39.  56   9
+ 710  4.17975E-01  1.31709E-04  1.31709E-04  0.00000E+00             91.Y  39.  57  10
+ 712  3.70643E+01  2.02945E-05  2.02945E-05  0.00000E+00             91.Y  39.  58  12
+%%%%  91 Y   39 M  IT           2.98260E+03 49.71 M    17-02-2004       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   5.27792E-01
+    X-ray                           (MeV) =   4.73972E-04
+    Free-bound X-ray                (MeV) =   3.53030E-06
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   2.76533E-02
+    Auger and CK electron           (MeV) =   2.83410E-04
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   5.56206E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   5.55570E-01
+  Ratio of E-total/Q-value          ( % ) =   1.00114E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   9.50000E-01
+    X-ray                                 =   3.27042E-02
+    Free-bound X-ray                      =   6.66335E-01
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   5.11441E-02
+    Auger and CK electron                 =   6.15203E-01
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

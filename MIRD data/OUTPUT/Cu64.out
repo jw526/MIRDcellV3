@@ -1,0 +1,233 @@
+%%%%  64 CU  29    EC B+ B-     4.57200E+04 12.700 H   02-11-2005       BALASTAR
+1  64   CU  29 12.700 H        EC B+ B-   
+1INTENSITY AND ENERGY BALANCE DATA
+
+              64-COPPER-29
++                                    HALFLIFE = 12.7 HOURS   
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  6.1002E+01
+   1.3458E+00  4.7122E-01  4.7342E-01  4.6446E-01                      
+   0.0000E+00  3.9000E+01
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  2.197E-03                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  1.248E+00 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  1.248E+00 MEV
+ PERCENT ERROR =  2.351E-03                      
+%%%%  64 CU  29    EC B+ B-     4.57200E+04 12.700 H   02-11-2005       BALAEND 
+%%%%  64 CU  29    EC B+ B-     4.57200E+04 12.700 H   02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              64-COPPER-29
++                                    HALFLIFE = 12.7 HOURS   
++                                                                  02-11-2005
+
+            MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS, BETA MINUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   4.71E-03   3.293E-01   ALLOWED                                  
+           ELECT. CAPTURE   2   4.31E-01   1.675E+00   ALLOWED                                  
+                BETA PLUS   1   1.74E-01   6.531E-01*  ALLOWED                                  
+           I.C.E. + GAMMA   1   4.73E-03   1.346E+00   E2 MULTIPOLE                             
+               BETA MINUS   1   3.90E-01   5.787E-01*  ALLOWED                                  
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Sep-1996
+%%%%  64 CU  29    EC B+ B-     4.57200E+04 12.700 H   02-11-2005       INPUEND 
+%%%%  64 CU  29    EC B+ B-     4.57200E+04 12.700 H   02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              64-COPPER-29
++                                    HALFLIFE = 12.7 HOURS   
++                                                                  02-11-2005
+
+            MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS, BETA MINUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           BETA PLUS                      1   1.74E-01    2.782E-01*   4.84E-02
+           ANNIHILATION RADIATION             3.48E-01    5.110E-01    1.78E-01
+           GAMMA-RAY                      1   4.73E-03    1.346E+00    6.37E-03
+           K -L2 X-RAY                        4.68E-02    7.418E-03    3.47E-04
+           K -L3 X-RAY                        9.13E-02    7.436E-03    6.79E-04
+           AUGER KLL                          1.83E-01    6.498E-03*   1.19E-03
+           AUGER KLX                          4.57E-02    7.314E-03*   3.34E-04
+           AUGER LMM                          5.81E-01    7.727E-04*   4.49E-04
+           BETA MINUS                     1   3.90E-01    1.904E-01*   7.43E-02
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.85E-01
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.76E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.25E-01
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  8.09E-05
+           ALL LISTED RADIATIONS                                       3.10E-01
+           ALL NEGLECTED RADIATIONS**                                  2.56E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 64-NICKEL
+             DAUGHTER IS 6.1000E-01 PER TRANSFORMATION OF  64-COPPER.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 64-ZINC
+             DAUGHTER IS 3.9000E-01 PER TRANSFORMATION OF  64-COPPER.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Sep-1996
+%%%%  64 CU  29    EC B+ B-     4.57200E+04 12.700 H   02-11-2005       OUTPEND 
+%%%%  64 CU  29    EC B+ B-     4.57200E+04 12.700 H   02-11-2005       BETASTAR
+1
+              64-COPPER-29
++                                    HALFLIFE = 12.7 HOURS   
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   1.108E+00      0.00180   1.105E+00      0.03600   1.203E+00
+            0.00010   1.108E+00      0.00200   1.104E+00      0.04000   1.220E+00
+            0.00011   1.108E+00      0.00220   1.104E+00      0.04500   1.242E+00
+            0.00012   1.108E+00      0.00240   1.104E+00      0.05000   1.263E+00
+            0.00013   1.108E+00      0.00260   1.104E+00      0.05500   1.284E+00
+            0.00014   1.108E+00      0.00280   1.103E+00      0.06000   1.304E+00
+            0.00015   1.107E+00      0.00300   1.103E+00      0.06500   1.324E+00
+            0.00016   1.107E+00      0.00320   1.103E+00      0.07000   1.342E+00
+            0.00018   1.107E+00      0.00360   1.102E+00      0.07500   1.359E+00
+            0.00020   1.107E+00      0.00400   1.102E+00      0.08000   1.376E+00
+            0.00022   1.107E+00      0.00450   1.102E+00      0.08500   1.391E+00
+            0.00024   1.107E+00      0.00500   1.103E+00      0.09000   1.406E+00
+            0.00026   1.107E+00      0.00550   1.103E+00      0.10000   1.431E+00
+            0.00028   1.107E+00      0.00600   1.104E+00      0.11000   1.453E+00
+            0.00030   1.107E+00      0.00650   1.104E+00      0.12000   1.470E+00
+            0.00032   1.107E+00      0.00700   1.105E+00      0.13000   1.484E+00
+            0.00036   1.107E+00      0.00750   1.105E+00      0.14000   1.493E+00
+            0.00040   1.107E+00      0.00800   1.106E+00      0.15000   1.498E+00
+            0.00045   1.107E+00      0.00850   1.107E+00      0.16000   1.500E+00
+            0.00050   1.107E+00      0.00900   1.108E+00      0.18000   1.492E+00
+            0.00055   1.107E+00      0.01000   1.110E+00      0.20000   1.470E+00
+            0.00060   1.107E+00      0.01100   1.112E+00      0.22000   1.435E+00
+            0.00065   1.107E+00      0.01200   1.114E+00      0.24000   1.388E+00
+            0.00070   1.107E+00      0.01300   1.116E+00      0.26000   1.329E+00
+            0.00075   1.107E+00      0.01400   1.119E+00      0.28000   1.261E+00
+            0.00080   1.106E+00      0.01500   1.122E+00      0.30000   1.184E+00
+            0.00085   1.106E+00      0.01600   1.125E+00      0.32000   1.100E+00
+            0.00090   1.106E+00      0.01800   1.131E+00      0.36000   9.144E-01
+            0.00100   1.106E+00      0.02000   1.138E+00      0.40000   7.163E-01
+            0.00110   1.106E+00      0.02200   1.145E+00      0.45000   4.706E-01
+            0.00120   1.106E+00      0.02400   1.153E+00      0.50000   2.534E-01
+            0.00130   1.106E+00      0.02600   1.161E+00      0.55000   9.592E-02
+            0.00140   1.105E+00      0.02800   1.169E+00      0.60000   2.446E-02
+            0.00150   1.105E+00      0.03000   1.177E+00      0.65000   9.276E-05
+            0.00160   1.105E+00      0.03200   1.186E+00      0.65310   0.000E+00
+
+            AVERAGE BETA ENERGY =   2.175E-01
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   5.641E-01
+%%%%  64 CU  29    EC B+ B-     4.57200E+04 12.700 H   02-11-2005       BETAEND 
+%%%%  64 CU  29    EC B+ B-     4.57200E+04 12.700 H   02-11-2005       SEEISTAR
+ 64.  COPPER       29.  1.270E+01 HOURS     40 EC B+ B-              64.CU 29.   0
+ 4 1  1.74083E+01  2.78220E-01  6.53100E-01  0.00000E+00             64.CU 29.   1   1
+ 3 3  3.48166E+01  5.11000E-01  5.11000E-01  0.00000E+00             64.CU 29.   2   3
+ 1 1  4.73360E-01  1.34577E+00  1.34577E+00  0.00000E+00             64.CU 29.   3   1
+ 6 1  5.26289E-05  1.33747E+00  1.33747E+00  1.00000E+00             64.CU 29.   4   1
+ 6 5  5.04790E-06  1.34476E+00  1.34476E+00  1.00000E+00             64.CU 29.   5   5
+ 6 6  4.04405E-08  1.34489E+00  1.34489E+00  1.00000E+00             64.CU 29.   6   6
+ 6 7  4.88713E-08  1.34490E+00  1.34490E+00  1.00000E+00             64.CU 29.   7   7
+ 2 1  4.67669E+00  7.41782E-03  7.41782E-03  0.00000E+00             64.CU 29.   8   1
+ 2 2  9.13314E+00  7.43578E-03  7.43578E-03  0.00000E+00             64.CU 29.   9   2
+ 2 3  5.71934E-01  8.22229E-03  8.22229E-03  0.00000E+00             64.CU 29.  10   3
+ 2 4  1.12146E+00  8.22459E-03  8.22459E-03  0.00000E+00             64.CU 29.  11   4
+ 2 5  4.90268E-04  8.28784E-03  8.28784E-03  0.00000E+00             64.CU 29.  12   5
+ 2 6  7.12552E-04  8.28815E-03  8.28815E-03  0.00000E+00             64.CU 29.  13   6
+ 221  2.87253E-04  1.21520E-04  1.21520E-04  0.00000E+00             64.CU 29.  14  21
+ 222  1.24585E-03  1.39480E-04  1.39480E-04  0.00000E+00             64.CU 29.  15  22
+ 223  8.45338E-03  9.26018E-04  9.26018E-04  0.00000E+00             64.CU 29.  16  23
+ 224  1.29407E-02  9.28291E-04  9.28291E-04  0.00000E+00             64.CU 29.  17  24
+ 225  3.03960E-05  9.91580E-04  9.91580E-04  0.00000E+00             64.CU 29.  18  25
+ 226  3.98426E-05  9.91840E-04  9.91840E-04  0.00000E+00             64.CU 29.  19  26
+ 241  7.39672E-09  1.79600E-05  1.79600E-05  0.00000E+00             64.CU 29.  20  41
+ 242  8.58609E-02  7.66341E-04  7.66341E-04  0.00000E+00             64.CU 29.  21  42
+ 243  2.62668E-04  8.06771E-04  8.06771E-04  0.00000E+00             64.CU 29.  22  43
+ 244  5.88630E-02  8.70064E-04  8.70064E-04  0.00000E+00             64.CU 29.  23  44
+ 245  2.04067E-03  8.76890E-04  8.76890E-04  0.00000E+00             64.CU 29.  24  45
+ 261  1.62379E-01  7.48381E-04  7.48381E-04  0.00000E+00             64.CU 29.  25  61
+ 262  2.68248E-04  7.86540E-04  7.86540E-04  0.00000E+00             64.CU 29.  26  62
+ 263  2.60448E-04  7.88810E-04  7.88810E-04  0.00000E+00             64.CU 29.  27  63
+ 264  1.00100E-02  8.52098E-04  8.52098E-04  0.00000E+00             64.CU 29.  28  64
+ 265  1.08971E-01  8.52360E-04  8.52360E-04  0.00000E+00             64.CU 29.  29  65
+ 266  3.72983E-03  8.58930E-04  8.58930E-04  0.00000E+00             64.CU 29.  30  66
+ 291  1.19430E-03  5.92856E-05  5.92856E-05  0.00000E+00             64.CU 29.  31  91
+ 294  2.24303E+02  1.44988E-05  1.44988E-05  0.00000E+00             64.CU 29.  32  94
+ 7 1  1.82594E+01  6.49788E-03  6.49788E-03  0.00000E+00             64.CU 29.  33   1
+ 7 2  4.56620E+00  7.31362E-03  7.31362E-03  0.00000E+00             64.CU 29.  34   2
+ 7 3  3.01183E-01  8.13349E-03  8.13349E-03  0.00000E+00             64.CU 29.  35   3
+ 7 4  1.11620E+01  7.88419E-05  7.88419E-05  0.00000E+00             64.CU 29.  36   4
+ 7 5  5.81125E+01  7.72710E-04  7.72710E-04  0.00000E+00             64.CU 29.  37   5
+ 7 6  5.90183E-01  8.19158E-04  8.19158E-04  0.00000E+00             64.CU 29.  38   6
+ 7 8  8.77196E+01  4.78726E-05  4.78726E-05  0.00000E+00             64.CU 29.  39   8
+ 5 1  3.90000E+01  1.90428E-01  5.78700E-01  0.00000E+00             64.CU 29.  40   1
+%%%%  64 CU  29    EC B+ B-     4.57200E+04 12.700 H   02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   6.37034E-03
+    X-ray                           (MeV) =   1.16905E-03
+    Free-bound X-ray                (MeV) =   3.25213E-05
+    Annihilation photon             (MeV) =   1.77913E-01
+    Beta+ particle                  (MeV) =   4.84334E-02
+    Neutrino                        (MeV) =   7.85234E-01
+    Beta- particle                  (MeV) =   7.42669E-02
+    Neutrino-                       (MeV) =   1.51426E-01
+    Internal conv. electron         (MeV) =   7.72978E-07
+    Auger and CK electron           (MeV) =   2.04959E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   1.24690E+00
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   1.24750E+00
+  Ratio of E-total/Q-value          ( % ) =   9.99512E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   4.73360E-03
+    X-ray                                 =   1.59613E-01
+    Free-bound X-ray                      =   2.24303E+00
+    Annihilation photon                   =   3.48166E-01
+    Beta+ particle                        =   1.74083E-01
+    Beta- particle                        =   3.90000E-01
+    Internal conv. electron               =   5.77662E-07
+    Auger and CK electron                 =   1.80711E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

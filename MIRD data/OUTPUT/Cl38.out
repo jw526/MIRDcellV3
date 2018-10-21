@@ -1,0 +1,231 @@
+%%%%  38 CL  17    B-           2.23440E+03 37.24 M    02-11-2005       BALASTAR
+1  38   CL  17 37.24 M         B-         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              38-CHLORINE-17
++                                    HALFLIFE = 37.24 MINUTES 
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  9.9999E+01
+   2.1675E+00  4.2400E+01  4.2401E+01  1.1606E-03                      
+   3.8102E+00  3.1899E+01  3.1900E+01  4.2452E-03                      
+   3.9367E+00  2.9999E-03  0.0000E+00  2.0000E+02  ********************
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  1.152E-03                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   7.63E-06% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  4.917E+00 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  4.917E+00 MEV
+ PERCENT ERROR =  1.969E-03                      
+%%%%  38 CL  17    B-           2.23440E+03 37.24 M    02-11-2005       BALAEND 
+%%%%  38 CL  17    B-           2.23440E+03 37.24 M    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              38-CHLORINE-17
++                                    HALFLIFE = 37.24 MINUTES 
++                                                                  02-11-2005
+
+            MODE OF DECAY: BETA MINUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+               BETA MINUS   1   3.00E-05   9.801E-01*  FIRST FORBIDDEN                          
+               BETA MINUS   2   3.19E-01   1.107E+00*  ALLOWED                                  
+               BETA MINUS   3   1.05E-01   2.749E+00*  FIRST FORBIDDEN                          
+               BETA MINUS   4   5.76E-01   4.917E+00*  UNIQUE FIRST FORBIDDEN                   
+           I.C.E. + GAMMA   1   3.19E-01   1.643E+00   E1+M2 MULTIPOLE                          
+                                                       MRS=0.000256                             
+           I.C.E. + GAMMA   2   4.24E-01   2.167E+00   E2 MULTIPOLE                             
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Mar-2001
+%%%%  38 CL  17    B-           2.23440E+03 37.24 M    02-11-2005       INPUEND 
+%%%%  38 CL  17    B-           2.23440E+03 37.24 M    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              38-CHLORINE-17
++                                    HALFLIFE = 37.24 MINUTES 
++                                                                  02-11-2005
+
+            MODE OF DECAY: BETA MINUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           BETA MINUS                     2   3.19E-01    4.199E-01*   1.34E-01
+           BETA MINUS                     3   1.05E-01    1.181E+00*   1.24E-01
+           BETA MINUS                     4   5.76E-01    2.244E+00*   1.29E+00
+           GAMMA-RAY                      1   3.19E-01    1.643E+00    5.24E-01
+           GAMMA-RAY                      2   4.24E-01    2.167E+00    9.19E-01
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.44E+00
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     3.66E-09
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.55E+00
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.99E-05
+           ALL LISTED RADIATIONS                                       2.99E+00
+           ALL NEGLECTED RADIATIONS**                                  2.99E-05
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 38-ARGON
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  38-CHLORINE.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Mar-2001
+%%%%  38 CL  17    B-           2.23440E+03 37.24 M    02-11-2005       OUTPEND 
+%%%%  38 CL  17    B-           2.23440E+03 37.24 M    02-11-2005       BETASTAR
+1
+              38-CHLORINE-17
++                                    HALFLIFE = 37.24 MINUTES 
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   2.627E-01      0.00360   2.636E-01      0.14000   4.395E-01
+            0.00010   2.627E-01      0.00400   2.638E-01      0.15000   4.495E-01
+            0.00011   2.627E-01      0.00450   2.641E-01      0.16000   4.591E-01
+            0.00012   2.627E-01      0.00500   2.644E-01      0.18000   4.769E-01
+            0.00013   2.627E-01      0.00550   2.648E-01      0.20000   4.932E-01
+            0.00014   2.627E-01      0.00600   2.651E-01      0.22000   5.079E-01
+            0.00015   2.627E-01      0.00650   2.655E-01      0.24000   5.210E-01
+            0.00016   2.627E-01      0.00700   2.660E-01      0.26000   5.325E-01
+            0.00018   2.627E-01      0.00750   2.664E-01      0.28000   5.425E-01
+            0.00020   2.627E-01      0.00800   2.669E-01      0.30000   5.510E-01
+            0.00022   2.627E-01      0.00850   2.674E-01      0.32000   5.580E-01
+            0.00024   2.627E-01      0.00900   2.679E-01      0.36000   5.675E-01
+            0.00026   2.627E-01      0.01000   2.691E-01      0.40000   5.711E-01
+            0.00028   2.627E-01      0.01100   2.703E-01      0.45000   5.678E-01
+            0.00030   2.627E-01      0.01200   2.716E-01      0.50000   5.563E-01
+            0.00032   2.627E-01      0.01300   2.729E-01      0.55000   5.373E-01
+            0.00036   2.627E-01      0.01400   2.743E-01      0.60000   5.116E-01
+            0.00040   2.627E-01      0.01500   2.757E-01      0.65000   4.803E-01
+            0.00045   2.627E-01      0.01600   2.771E-01      0.70000   4.447E-01
+            0.00050   2.627E-01      0.01800   2.801E-01      0.75000   4.061E-01
+            0.00055   2.627E-01      0.02000   2.831E-01      0.80000   3.661E-01
+            0.00060   2.627E-01      0.02200   2.862E-01      0.85000   3.265E-01
+            0.00065   2.627E-01      0.02400   2.893E-01      0.90000   2.891E-01
+            0.00070   2.627E-01      0.02600   2.924E-01      1.00000   2.300E-01
+            0.00075   2.627E-01      0.02800   2.955E-01      1.10000   2.077E-01
+            0.00080   2.627E-01      0.03000   2.986E-01      1.20000   2.140E-01
+            0.00085   2.627E-01      0.03200   3.017E-01      1.30000   2.185E-01
+            0.00090   2.627E-01      0.03600   3.079E-01      1.40000   2.214E-01
+            0.00100   2.627E-01      0.04000   3.140E-01      1.50000   2.226E-01
+            0.00110   2.628E-01      0.04500   3.215E-01      1.60000   2.223E-01
+            0.00120   2.628E-01      0.05000   3.289E-01      1.80000   2.177E-01
+            0.00130   2.628E-01      0.05500   3.361E-01      2.00000   2.090E-01
+            0.00140   2.628E-01      0.06000   3.432E-01      2.20000   1.978E-01
+            0.00150   2.628E-01      0.06500   3.502E-01      2.40000   1.860E-01
+            0.00160   2.628E-01      0.07000   3.570E-01      2.60000   1.754E-01
+            0.00180   2.628E-01      0.07500   3.637E-01      2.80000   1.683E-01
+            0.00200   2.628E-01      0.08000   3.703E-01      3.00000   1.607E-01
+            0.00220   2.629E-01      0.08500   3.767E-01      3.20000   1.504E-01
+            0.00240   2.630E-01      0.09000   3.830E-01      3.60000   1.210E-01
+            0.00260   2.631E-01      0.10000   3.952E-01      4.00000   8.036E-02
+            0.00280   2.632E-01      0.11000   4.070E-01      4.50000   2.447E-02
+            0.00300   2.633E-01      0.12000   4.183E-01      4.91680   0.000E+00
+            0.00320   2.634E-01      0.13000   4.291E-01
+
+            AVERAGE BETA ENERGY =   1.550E+00
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   1.000E+00
+%%%%  38 CL  17    B-           2.23440E+03 37.24 M    02-11-2005       BETAEND 
+%%%%  38 CL  17    B-           2.23440E+03 37.24 M    02-11-2005       SEEISTAR
+ 38.  CHLORINE     17.  3.724E+01 MINUTES   34 B-                    38.CL 17.   0
+ 5 1  2.99991E-03  3.64980E-01  9.80150E-01  0.00000E+00             38.CL 17.   1   1
+ 5 2  3.18990E+01  4.19873E-01  1.10658E+00  0.00000E+00             38.CL 17.   2   2
+ 5 3  1.04997E+01  1.18122E+00  2.74933E+00  0.00000E+00             38.CL 17.   3   3
+ 5 4  5.75983E+01  2.24386E+00  4.91680E+00  1.00000E+00             38.CL 17.   4   4
+ 1 1  3.19000E+01  1.64271E+00  1.64271E+00  0.00000E+00             38.CL 17.   5   1
+ 6 1  3.66751E-04  1.63954E+00  1.63954E+00  1.00000E+00             38.CL 17.   6   1
+ 6 5  3.00685E-05  1.64240E+00  1.64240E+00  1.00000E+00             38.CL 17.   7   5
+ 6 6  3.37426E-08  1.64246E+00  1.64246E+00  1.00000E+00             38.CL 17.   8   6
+ 6 7  1.12858E-07  1.64247E+00  1.64247E+00  1.00000E+00             38.CL 17.   9   7
+ 1 2  4.24000E+01  2.16741E+00  2.16741E+00  0.00000E+00             38.CL 17.  10   2
+ 6 1  5.28721E-04  2.16423E+00  2.16423E+00  2.00000E+00             38.CL 17.  11   1
+ 6 5  4.35184E-05  2.16709E+00  2.16709E+00  2.00000E+00             38.CL 17.  12   5
+ 6 6  6.61988E-08  2.16716E+00  2.16716E+00  2.00000E+00             38.CL 17.  13   6
+ 6 7  1.23087E-07  2.16716E+00  2.16716E+00  2.00000E+00             38.CL 17.  14   7
+ 2 1  3.18670E-05  2.92816E-03  2.92816E-03  0.00000E+00             38.CL 17.  15   1
+ 2 2  6.29818E-05  2.93051E-03  2.93051E-03  0.00000E+00             38.CL 17.  16   2
+ 2 3  2.60813E-06  3.16298E-03  3.16298E-03  0.00000E+00             38.CL 17.  17   3
+ 2 4  5.15475E-06  3.16318E-03  3.16318E-03  0.00000E+00             38.CL 17.  18   4
+ 221  4.82612E-08  6.40000E-05  6.40000E-05  0.00000E+00             38.CL 17.  19  21
+ 222  1.29989E-07  6.63399E-05  6.63399E-05  0.00000E+00             38.CL 17.  20  22
+ 223  3.77319E-08  2.98810E-04  2.98810E-04  0.00000E+00             38.CL 17.  21  23
+ 224  5.94986E-08  2.99001E-04  2.99001E-04  0.00000E+00             38.CL 17.  22  24
+ 241  1.00581E-15  2.34000E-06  2.34000E-06  0.00000E+00             38.CL 17.  23  41
+ 242  3.10732E-07  2.20510E-04  2.20510E-04  0.00000E+00             38.CL 17.  24  42
+ 243  1.33773E-10  2.34999E-04  2.34999E-04  0.00000E+00             38.CL 17.  25  43
+ 261  5.72938E-07  2.18170E-04  2.18170E-04  0.00000E+00             38.CL 17.  26  61
+ 262  1.22083E-10  2.32471E-04  2.32471E-04  0.00000E+00             38.CL 17.  27  62
+ 263  1.19820E-10  2.32660E-04  2.32660E-04  0.00000E+00             38.CL 17.  28  63
+ 294  3.75720E-03  1.69786E-05  1.69786E-05  0.00000E+00             38.CL 17.  29  94
+ 7 1  6.67254E-04  2.65364E-03  2.65364E-03  0.00000E+00             38.CL 17.  30   1
+ 7 2  1.20148E-04  2.89583E-03  2.89583E-03  0.00000E+00             38.CL 17.  31   2
+ 7 3  5.45876E-06  3.14067E-03  3.14067E-03  0.00000E+00             38.CL 17.  32   3
+ 7 4  3.72507E-04  4.41057E-05  4.41057E-05  0.00000E+00             38.CL 17.  33   4
+ 7 5  1.62244E-03  2.15713E-04  2.15713E-04  0.00000E+00             38.CL 17.  34   5
+%%%%  38 CL  17    B-           2.23440E+03 37.24 M    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   1.44301E+00
+    X-ray                           (MeV) =   3.02669E-09
+    Free-bound X-ray                (MeV) =   6.37921E-10
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   1.55040E+00
+    Neutrino-                       (MeV) =   1.92328E+00
+    Internal conv. electron         (MeV) =   1.88992E-05
+    Auger and CK electron           (MeV) =   2.50214E-08
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   4.91670E+00
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   4.91680E+00
+  Ratio of E-total/Q-value          ( % ) =   9.99980E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   7.43000E-01
+    X-ray                                 =   1.03771E-06
+    Free-bound X-ray                      =   3.75720E-05
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   1.00000E+00
+    Internal conv. electron               =   9.69395E-06
+    Auger and CK electron                 =   2.78781E-05
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

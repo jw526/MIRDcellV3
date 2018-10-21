@@ -1,0 +1,18 @@
+ 148-GADOLINIUM-64       HALFLIFE = 74.6 YEARS   
+
+  MODE OF DECAY: ALPHA
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ ALPHA                          1   1.00E+00    3.183E+00    3.18E+00
+ RECOIL ATOM                        1.00E+00    8.847E-02    8.85E-02
+ 
+ ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               3.27E+00
+ ALL LISTED RADIATIONS                                       3.27E+00
+ 
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 144-SAMARIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 148-GADOLINIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

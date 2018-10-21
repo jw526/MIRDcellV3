@@ -1,0 +1,86 @@
+ 195M-PLATINUM-78        HALFLIFE = 4.02 DAYS    
+
+  MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      3   2.27E-02    3.089E-02    7.02E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   3   6.16E-01    1.703E-02    1.05E-02
+ L2 CONV. ELECTRON, GAMMA-RAY   3   6.43E-02    1.758E-02    1.13E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   3   1.17E-02    1.932E-02    2.25E-04
+ M CONV. ELECTRON, GAMMA-RAY    3   1.61E-01    2.825E-02*   4.54E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   3   4.95E-02    3.089E-02*   1.53E-03
+ GAMMA-RAY                      4   1.14E-01    9.890E-02    1.13E-02
+ K CONV. ELECTRON, GAMMA-RAY    4   6.68E-01    2.029E-02    1.36E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   4   1.01E-01    8.504E-02    8.55E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   4   1.28E-02    8.559E-02    1.10E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   4   3.82E-03    8.733E-02    3.34E-04
+ M CONV. ELECTRON, GAMMA-RAY    4   2.74E-02    9.626E-02*   2.63E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   4   8.39E-03    9.890E-02*   8.30E-04
+ GAMMA-RAY                      5   8.46E-04    1.295E-01    1.10E-04
+ K CONV. ELECTRON, GAMMA-RAY    5   1.31E-01    5.088E-02    6.67E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   5   1.75E-01    1.156E-01    2.02E-02
+ L2 CONV. ELECTRON, GAMMA-RAY   5   3.86E-02    1.162E-01    4.49E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   5   4.01E-01    1.179E-01    4.73E-02
+ M CONV. ELECTRON, GAMMA-RAY    5   1.96E-01    1.269E-01*   2.48E-02
+ N+ CONV. ELECTRON, GAMMA-RAY   5   6.02E-02    1.295E-01*   7.79E-03
+ GAMMA-RAY                      6   2.83E-02    1.298E-01    3.67E-03
+ K CONV. ELECTRON, GAMMA-RAY    6   1.31E-02    5.117E-02    6.73E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   6   1.61E-03    1.159E-01    1.87E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   6   1.45E-02    1.165E-01    1.69E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   6   1.12E-02    1.182E-01    1.33E-03
+ M CONV. ELECTRON, GAMMA-RAY    6   7.06E-03    1.272E-01*   8.98E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   6   2.07E-03    1.298E-01*   2.68E-04
+ GAMMA-RAY                      8   3.89E-04    2.114E-01    8.22E-05
+ GAMMA-RAY                      9   5.44E-04    2.395E-01    1.30E-04
+ K -L2 X-RAY                        2.27E-01    6.530E-02    1.48E-02
+ K -L3 X-RAY                        3.88E-01    6.705E-02    2.60E-02
+ K -M2 X-RAY                        4.25E-02    7.559E-02    3.22E-03
+ K -M3 X-RAY                        8.23E-02    7.598E-02    6.25E-03
+ K -M4 X-RAY                        1.04E-03    7.640E-02    7.92E-05
+ K -M5 X-RAY                        1.28E-03    7.649E-02    9.80E-05
+ K -N2 X-RAY                        9.91E-03    7.801E-02    7.73E-04
+ K -N3 X-RAY                        1.93E-02    7.810E-02    1.51E-03
+ K -O2 X-RAY                        2.28E-03    7.854E-02    1.79E-04
+ K -O3 X-RAY                        4.53E-03    7.856E-02    3.56E-04
+ L1-M2 X-RAY                        2.41E-02    1.084E-02    2.61E-04
+ L1-M3 X-RAY                        2.83E-02    1.123E-02    3.18E-04
+ L1-N2 X-RAY                        6.07E-03    1.326E-02    8.04E-05
+ L1-N3 X-RAY                        7.64E-03    1.335E-02    1.02E-04
+ L2-M4 X-RAY                        1.22E-01    1.110E-02    1.35E-03
+ L2-N4 X-RAY                        2.38E-02    1.298E-02    3.09E-04
+ L3-M1 X-RAY                        2.18E-02    8.294E-03    1.81E-04
+ L3-M4 X-RAY                        3.78E-02    9.355E-03    3.53E-04
+ L3-M5 X-RAY                        3.33E-01    9.438E-03    3.14E-03
+ L3-N5 X-RAY                        6.16E-02    1.125E-02    6.93E-04
+ M X-RAY                            1.11E-01    2.068E-03*   2.30E-04
+ Free-Bound X-RAY                   3.95E+01    1.014E-05*   4.01E-04
+ AUGER KLL                          2.12E-02    5.278E-02*   1.12E-03
+ AUGER KLX                          1.14E-02    6.329E-02*   7.20E-04
+ CK LLX                             7.64E-01    5.950E-04*   4.54E-04
+ AUGER LMM                          9.82E-01    7.202E-03*   7.07E-03
+ AUGER LMX                          4.05E-01    9.253E-03*   3.74E-03
+ AUGER LXY                          4.07E-02    1.133E-02*   4.61E-04
+ CK MMX                             1.33E+00    4.050E-04*   5.40E-04
+ AUGER MNN                          3.51E+00    1.694E-03*   5.94E-03
+ AUGER MNX                          3.33E-01    1.904E-03*   6.34E-04
+ CK NNX                             7.13E+00    1.710E-04*   1.22E-03
+ AUGER NXY                          1.36E+01    5.607E-05*   7.60E-04
+ CK OOX                             8.45E+00    3.748E-05*   3.17E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    7.67E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.33E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.84E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.09E-04
+ ALL LISTED RADIATIONS                                       2.61E-01
+ ALL NEGLECTED RADIATIONS**                                  7.42E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 195-PLATINUM
+   DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF 195M-PLATINUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

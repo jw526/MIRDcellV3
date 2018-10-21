@@ -1,0 +1,76 @@
+ 171-ERBIUM-68           HALFLIFE = 7.516 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     6   5.19E-03    1.477E-01*   7.67E-04
+ BETA MINUS                     7   2.19E-02    1.775E-01*   3.88E-03
+ BETA MINUS                    10   1.90E-03    2.645E-01*   5.02E-04
+ BETA MINUS                    12   9.43E-01    3.623E-01*   3.42E-01
+ BETA MINUS                    15   2.30E-02    5.334E-01*   1.23E-02
+ M CONV. ELECTRON, GAMMA-RAY    1   7.12E-01    3.160E-03*   2.25E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.94E-01    5.025E-03*   9.75E-04
+ GAMMA-RAY                      4   2.05E-01    1.116E-01    2.29E-02
+ K CONV. ELECTRON, GAMMA-RAY    4   3.95E-01    5.213E-02    2.06E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   4   5.45E-02    1.015E-01    5.53E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   4   6.95E-03    1.020E-01    7.09E-04
+ M CONV. ELECTRON, GAMMA-RAY    4   1.44E-02    1.098E-01*   1.58E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   4   4.06E-03    1.116E-01*   4.53E-04
+ GAMMA-RAY                      5   2.30E-02    1.167E-01    2.68E-03
+ K CONV. ELECTRON, GAMMA-RAY    5   1.66E-02    5.717E-02    9.47E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   5   8.52E-03    1.070E-01    9.12E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   5   7.78E-03    1.080E-01    8.41E-04
+ M CONV. ELECTRON, GAMMA-RAY    5   4.38E-03    1.148E-01*   5.03E-04
+ GAMMA-RAY                      6   9.10E-02    1.240E-01    1.13E-02
+ K CONV. ELECTRON, GAMMA-RAY    6   5.60E-02    6.453E-02    3.61E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   6   5.50E-03    1.139E-01    6.27E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   6   2.55E-02    1.144E-01    2.91E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   6   2.28E-02    1.154E-01    2.63E-03
+ M CONV. ELECTRON, GAMMA-RAY    6   1.31E-02    1.222E-01*   1.60E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   6   3.48E-03    1.240E-01*   4.32E-04
+ GAMMA-RAY                     11   6.42E-03    2.106E-01    1.35E-03
+ GAMMA-RAY                     12   3.02E-03    2.371E-01    7.16E-04
+ GAMMA-RAY                     14   5.80E-03    2.774E-01    1.61E-03
+ GAMMA-RAY                     16   2.89E-01    2.959E-01    8.55E-02
+ K CONV. ELECTRON, GAMMA-RAY   16   4.86E-03    2.364E-01    1.15E-03
+ GAMMA-RAY                     17   6.44E-01    3.083E-01    1.99E-01
+ K CONV. ELECTRON, GAMMA-RAY   17   9.80E-03    2.488E-01    2.44E-03
+ GAMMA-RAY                     19   2.57E-03    3.720E-01    9.56E-04
+ GAMMA-RAY                     33   8.90E-04    6.210E-01    5.53E-04
+ GAMMA-RAY                     35   2.52E-03    6.707E-01    1.69E-03
+ GAMMA-RAY                     37   2.85E-03    6.761E-01    1.93E-03
+ GAMMA-RAY                     40   9.76E-04    7.325E-01    7.15E-04
+ GAMMA-RAY                     43   2.40E-03    7.841E-01    1.88E-03
+ GAMMA-RAY                     44   6.40E-03    7.966E-01    5.10E-03
+ GAMMA-RAY                     46   5.50E-04    8.697E-01    4.78E-04
+ GAMMA-RAY                     49   6.35E-03    9.077E-01    5.76E-03
+ GAMMA-RAY                     50   7.70E-04    9.126E-01    7.03E-04
+ K -L2 X-RAY                        1.33E-01    4.986E-02    6.63E-03
+ K -L3 X-RAY                        2.35E-01    5.085E-02    1.20E-02
+ K -M2 X-RAY                        2.46E-02    5.741E-02    1.41E-03
+ K -M3 X-RAY                        4.76E-02    5.762E-02    2.74E-03
+ K -N3 X-RAY                        1.06E-02    5.916E-02    6.26E-04
+ L3-M5 X-RAY                        5.74E-02    7.168E-03    4.11E-04
+ AUGER KLL                          1.68E-02    4.070E-02*   6.83E-04
+ AUGER LMM                          3.39E-01    5.668E-03*   1.92E-03
+ AUGER LMX                          1.22E-01    7.104E-03*   8.65E-04
+ AUGER MNN                          1.66E+00    1.218E-03*   2.02E-03
+ CK NNX                             5.02E+00    1.472E-04*   7.40E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    3.68E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.97E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.16E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  4.49E-03
+ ALL LISTED RADIATIONS                                       7.84E-01
+ ALL NEGLECTED RADIATIONS**                                  9.45E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 171-THULIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 171-ERBIUM.
+   DECAY OF THIS 1.92 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

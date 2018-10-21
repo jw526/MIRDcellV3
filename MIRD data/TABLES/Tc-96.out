@@ -1,0 +1,61 @@
+ 96-TECHNETIUM-43        HALFLIFE = 4.28 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      4   2.43E-02    3.143E-01    7.65E-03
+ K CONV. ELECTRON, GAMMA-RAY    4   2.72E-04    2.943E-01    8.00E-05
+ L1 CONV. ELECTRON, GAMMA-RAY   4   2.96E-05    3.114E-01    9.23E-06
+ GAMMA-RAY                      5   1.40E-02    3.165E-01    4.42E-03
+ K CONV. ELECTRON, GAMMA-RAY    5   1.48E-04    2.965E-01    4.39E-05
+ GAMMA-RAY                     10   7.48E-03    4.347E-01    3.25E-03
+ K CONV. ELECTRON, GAMMA-RAY   10   3.70E-05    4.147E-01    1.53E-05
+ K CONV. ELECTRON, GAMMA-RAY   11   2.07E-05    4.401E-01    9.12E-06
+ GAMMA-RAY                     14   9.18E-03    5.689E-01    5.22E-03
+ K CONV. ELECTRON, GAMMA-RAY   14   2.34E-05    5.489E-01    1.28E-05
+ GAMMA-RAY                     18   9.98E-01    7.782E-01    7.76E-01
+ K CONV. ELECTRON, GAMMA-RAY   18   1.25E-03    7.583E-01    9.45E-04
+ L1 CONV. ELECTRON, GAMMA-RAY  18   1.33E-04    7.754E-01    1.03E-04
+ M CONV. ELECTRON, GAMMA-RAY   18   2.60E-05    7.778E-01*   2.02E-05
+ GAMMA-RAY                     19   8.20E-01    8.125E-01    6.66E-01
+ K CONV. ELECTRON, GAMMA-RAY   19   9.20E-04    7.926E-01    7.29E-04
+ L1 CONV. ELECTRON, GAMMA-RAY  19   9.82E-05    8.097E-01    7.95E-05
+ M CONV. ELECTRON, GAMMA-RAY   19   1.92E-05    8.121E-01*   1.56E-05
+ GAMMA-RAY                     21   9.76E-01    8.499E-01    8.29E-01
+ K CONV. ELECTRON, GAMMA-RAY   21   9.82E-04    8.299E-01    8.15E-04
+ L1 CONV. ELECTRON, GAMMA-RAY  21   1.05E-04    8.470E-01    8.88E-05
+ M CONV. ELECTRON, GAMMA-RAY   21   2.04E-05    8.495E-01*   1.73E-05
+ GAMMA-RAY                     23   1.10E-02    1.091E+00    1.20E-02
+ GAMMA-RAY                     24   1.52E-01    1.127E+00    1.71E-01
+ K CONV. ELECTRON, GAMMA-RAY   24   6.94E-05    1.107E+00    7.68E-05
+ GAMMA-RAY                     25   3.69E-03    1.200E+00    4.43E-03
+ K -L2 X-RAY                        1.91E-01    1.734E-02    3.31E-03
+ K -L3 X-RAY                        3.64E-01    1.744E-02    6.35E-03
+ AUGER KLL                          1.46E-01    1.471E-02*   2.14E-03
+ AUGER KLX                          5.39E-02    1.697E-02*   9.16E-04
+ AUGER KXY                          4.82E-03    1.924E-02*   9.28E-05
+ CK LLX                             2.03E-01    1.071E-04*   2.17E-05
+ AUGER LMM                          8.49E-01    1.952E-03*   1.66E-03
+ AUGER LMX                          1.20E-01    2.201E-03*   2.65E-04
+ AUGER LXY                          5.13E-03    2.486E-03*   1.28E-05
+ CK MMX                             8.92E-01    1.066E-04*   9.51E-05
+ AUGER MNN                          2.14E+00    1.763E-04*   3.77E-04
+ CK NNX                             4.69E+00    2.736E-05*   1.28E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.49E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.39E-02
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   8.77E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.07E-04
+ ALL LISTED RADIATIONS                                       2.50E+00
+ ALL NEGLECTED RADIATIONS**                                  1.40E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 96-MOLYBDENUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  96-TECHNETIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

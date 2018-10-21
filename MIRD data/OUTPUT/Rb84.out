@@ -1,0 +1,493 @@
+%%%%  84 RB  37    EC B+ B-     2.83133E+06 32.77 D    02-11-2005       BALASTAR
+1  84   RB  37 32.77 D         EC B+ B-   
+1INTENSITY AND ENERGY BALANCE DATA
+
+              84-RUBIDIUM-37
++                                    HALFLIFE = 32.77 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  9.6263E+01
+   8.8162E-01  6.8956E+01  6.9022E+01  9.5217E-02                      
+   1.8978E+00  1.0901E+00  1.0873E+00  2.5767E-01                      
+   0.0000E+00  3.8000E+00
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.001E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  6.285E-02                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  2.613E+00 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  2.614E+00 MEV
+ PERCENT ERROR =  1.983E-02                      
+%%%%  84 RB  37    EC B+ B-     2.83133E+06 32.77 D    02-11-2005       BALAEND 
+%%%%  84 RB  37    EC B+ B-     2.83133E+06 32.77 D    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              84-RUBIDIUM-37
++                                    HALFLIFE = 32.77 DAYS    
++                                                                  02-11-2005
+
+            MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS, BETA MINUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           ELECT. CAPTURE   1   1.09E-02   7.831E-01   FIRST FORBIDDEN                          
+           ELECT. CAPTURE   2   5.46E-01   1.799E+00   FIRST FORBIDDEN                          
+           ELECT. CAPTURE   3   1.34E-01   2.681E+00   UNIQUE FIRST FORBIDDEN                   
+                BETA PLUS   1   1.40E-01   7.773E-01*  FIRST FORBIDDEN                          
+                BETA PLUS   2   1.31E-01   1.659E+00*  UNIQUE FIRST FORBIDDEN                   
+           I.C.E. + GAMMA   1   6.90E-01   8.816E-01   E2 MULTIPOLE                             
+           I.C.E. + GAMMA   2   3.49E-03   1.016E+00   M1 MULTIPOLE                             
+           I.C.E. + GAMMA   3   7.38E-03   1.898E+00   E2 MULTIPOLE                             
+               BETA MINUS   1   3.80E-02   8.940E-01*  UNIQUE FIRST FORBIDDEN                   
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Jun-1997
+%%%%  84 RB  37    EC B+ B-     2.83133E+06 32.77 D    02-11-2005       INPUEND 
+%%%%  84 RB  37    EC B+ B-     2.83133E+06 32.77 D    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              84-RUBIDIUM-37
++                                    HALFLIFE = 32.77 DAYS    
++                                                                  02-11-2005
+
+            MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS, BETA MINUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           BETA PLUS                      1   1.40E-01    3.388E-01*   4.74E-02
+           BETA PLUS                      2   1.31E-01    7.567E-01*   9.91E-02
+           ANNIHILATION RADIATION             5.42E-01    5.110E-01    2.77E-01
+           GAMMA-RAY                      1   6.90E-01    8.816E-01    6.08E-01
+           K CONV. ELECTRON, GAMMA-RAY    1   4.13E-04    8.673E-01    3.58E-04
+           GAMMA-RAY                      2   3.49E-03    1.016E+00    3.55E-03
+           GAMMA-RAY                      3   7.38E-03    1.898E+00    1.40E-02
+           K -L2 X-RAY                        1.14E-01    1.255E-02    1.44E-03
+           K -L3 X-RAY                        2.21E-01    1.261E-02    2.78E-03
+           AUGER KLL                          1.63E-01    1.080E-02*   1.76E-03
+           AUGER KLX                          5.18E-02    1.234E-02*   6.39E-04
+           AUGER LMM                          7.14E-01    1.407E-03*   1.00E-03
+           BETA MINUS                     1   3.80E-02    3.328E-01*   1.26E-02
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    9.07E-01
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     8.46E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.63E-01
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.70E-04
+           ALL LISTED RADIATIONS                                       1.07E+00
+           ALL NEGLECTED RADIATIONS**                                  1.22E-03
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 84-KRYPTON
+             DAUGHTER IS 9.6200E-01 PER TRANSFORMATION OF  84-RUBIDIUM.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 84-STRONTIUM
+             DAUGHTER IS 3.8000E-02 PER TRANSFORMATION OF  84-RUBIDIUM.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Jun-1997
+%%%%  84 RB  37    EC B+ B-     2.83133E+06 32.77 D    02-11-2005       OUTPEND 
+%%%%  84 RB  37    EC B+ B-     2.83133E+06 32.77 D    02-11-2005       BETASTAR
+1
+              84-RUBIDIUM-37
++                                    HALFLIFE = 32.77 DAYS    
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   5.947E-02      0.00260   5.910E-02      0.07500   1.904E-01
+            0.00010   5.946E-02      0.00280   5.908E-02      0.08000   2.019E-01
+            0.00011   5.946E-02      0.00300   5.906E-02      0.08500   2.133E-01
+            0.00012   5.945E-02      0.00320   5.904E-02      0.09000   2.244E-01
+            0.00013   5.945E-02      0.00360   5.902E-02      0.10000   2.462E-01
+            0.00014   5.945E-02      0.00400   5.900E-02      0.11000   2.671E-01
+            0.00015   5.945E-02      0.00450   5.899E-02      0.12000   2.870E-01
+            0.00016   5.945E-02      0.00500   5.901E-02      0.13000   3.059E-01
+            0.00018   5.945E-02      0.00550   5.905E-02      0.14000   3.238E-01
+            0.00020   5.944E-02      0.00600   5.921E-02      0.15000   3.407E-01
+            0.00022   5.944E-02      0.00650   5.937E-02      0.16000   3.565E-01
+            0.00024   5.944E-02      0.00700   5.955E-02      0.18000   3.849E-01
+            0.00026   5.943E-02      0.00750   5.975E-02      0.20000   4.092E-01
+            0.00028   5.943E-02      0.00800   5.998E-02      0.22000   4.294E-01
+            0.00030   5.943E-02      0.00850   6.023E-02      0.24000   4.457E-01
+            0.00032   5.943E-02      0.00900   6.050E-02      0.26000   4.582E-01
+            0.00036   5.942E-02      0.01000   6.112E-02      0.28000   4.671E-01
+            0.00040   5.941E-02      0.01100   6.182E-02      0.30000   4.725E-01
+            0.00045   5.941E-02      0.01200   6.262E-02      0.32000   4.746E-01
+            0.00050   5.940E-02      0.01300   6.350E-02      0.36000   4.695E-01
+            0.00055   5.939E-02      0.01400   6.446E-02      0.40000   4.533E-01
+            0.00060   5.938E-02      0.01500   6.551E-02      0.45000   4.201E-01
+            0.00065   5.938E-02      0.01600   6.663E-02      0.50000   3.757E-01
+            0.00070   5.937E-02      0.01800   6.910E-02      0.55000   3.240E-01
+            0.00075   5.936E-02      0.02000   7.184E-02      0.60000   2.695E-01
+            0.00080   5.936E-02      0.02200   7.483E-02      0.65000   2.172E-01
+            0.00085   5.935E-02      0.02400   7.805E-02      0.70000   1.727E-01
+            0.00090   5.934E-02      0.02600   8.147E-02      0.75000   1.423E-01
+            0.00100   5.933E-02      0.02800   8.507E-02      0.80000   1.305E-01
+            0.00110   5.931E-02      0.03000   8.883E-02      0.85000   1.232E-01
+            0.00120   5.930E-02      0.03200   9.273E-02      0.90000   1.185E-01
+            0.00130   5.928E-02      0.03600   1.009E-01      1.00000   1.102E-01
+            0.00140   5.927E-02      0.04000   1.095E-01      1.10000   9.779E-02
+            0.00150   5.925E-02      0.04500   1.206E-01      1.20000   8.131E-02
+            0.00160   5.924E-02      0.05000   1.320E-01      1.30000   6.126E-02
+            0.00180   5.921E-02      0.05500   1.436E-01      1.40000   3.918E-02
+            0.00200   5.918E-02      0.06000   1.553E-01      1.50000   1.807E-02
+            0.00220   5.916E-02      0.06500   1.671E-01      1.60000   3.029E-03
+            0.00240   5.913E-02      0.07000   1.788E-01      1.65890   0.000E+00
+
+            AVERAGE BETA ENERGY =   5.152E-01
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   3.090E-01
+%%%%  84 RB  37    EC B+ B-     2.83133E+06 32.77 D    02-11-2005       BETAEND 
+%%%%  84 RB  37    EC B+ B-     2.83133E+06 32.77 D    02-11-2005       SEEISTAR
+ 84.  RUBIDIUM     37.  3.277E+01 DAYS      66 EC B+ B-              84.RB 37.   0
+ 4 1  1.40015E+01  3.38774E-01  7.77285E-01  0.00000E+00             84.RB 37.   1   1
+ 4 2  1.31014E+01  7.56686E-01  1.65890E+00  1.00000E+00             84.RB 37.   2   2
+ 3 3  5.42056E+01  5.11000E-01  5.11000E-01  0.00000E+00             84.RB 37.   3   3
+ 1 1  6.89754E+01  8.81604E-01  8.81604E-01  0.00000E+00             84.RB 37.   4   1
+ 6 1  4.13138E-02  8.67324E-01  8.67324E-01  1.00000E+00             84.RB 37.   5   1
+ 6 5  4.24254E-03  8.79702E-01  8.79702E-01  1.00000E+00             84.RB 37.   6   5
+ 6 6  1.07422E-04  8.79876E-01  8.79876E-01  1.00000E+00             84.RB 37.   7   6
+ 6 7  1.01803E-04  8.79931E-01  8.79931E-01  1.00000E+00             84.RB 37.   8   7
+ 6 3  7.35067E-04  8.81397E-01  8.81397E-01  1.00000E+00             84.RB 37.   9   3
+ 6 4  8.97635E-05  8.81604E-01  8.81604E-01  1.00000E+00             84.RB 37.  10   4
+ 1 2  3.49016E-01  1.01616E+00  1.01616E+00  0.00000E+00             84.RB 37.  11   2
+ 6 1  1.41089E-04  1.00188E+00  1.00188E+00  2.00000E+00             84.RB 37.  12   1
+ 6 5  1.46136E-05  1.01426E+00  1.01426E+00  2.00000E+00             84.RB 37.  13   5
+ 6 6  1.88801E-07  1.01443E+00  1.01443E+00  2.00000E+00             84.RB 37.  14   6
+ 6 7  1.15048E-07  1.01448E+00  1.01448E+00  2.00000E+00             84.RB 37.  15   7
+ 6 3  2.46441E-06  1.01595E+00  1.01595E+00  2.00000E+00             84.RB 37.  16   3
+ 6 4  3.03618E-07  1.01616E+00  1.01616E+00  2.00000E+00             84.RB 37.  17   4
+ 1 3  7.38037E-01  1.89775E+00  1.89775E+00  0.00000E+00             84.RB 37.  18   3
+ 6 1  8.62130E-05  1.88347E+00  1.88347E+00  3.00000E+00             84.RB 37.  19   1
+ 6 5  9.01124E-06  1.89585E+00  1.89585E+00  3.00000E+00             84.RB 37.  20   5
+ 6 6  9.10862E-08  1.89602E+00  1.89602E+00  3.00000E+00             84.RB 37.  21   6
+ 6 7  9.85086E-08  1.89608E+00  1.89608E+00  3.00000E+00             84.RB 37.  22   7
+ 6 3  1.51836E-06  1.89754E+00  1.89754E+00  3.00000E+00             84.RB 37.  23   3
+ 6 4  1.85265E-07  1.89775E+00  1.89775E+00  3.00000E+00             84.RB 37.  24   4
+ 2 1  1.14360E+01  1.25517E-02  1.25517E-02  0.00000E+00             84.RB 37.  25   1
+ 2 2  2.20522E+01  1.26066E-02  1.26066E-02  0.00000E+00             84.RB 37.  26   2
+ 2 3  1.60899E+00  1.40649E-02  1.40649E-02  0.00000E+00             84.RB 37.  27   3
+ 2 4  3.13787E+00  1.40730E-02  1.40730E-02  0.00000E+00             84.RB 37.  28   4
+ 2 5  4.69096E-03  1.41846E-02  1.41846E-02  0.00000E+00             84.RB 37.  29   5
+ 2 6  6.72104E-03  1.41860E-02  1.41860E-02  0.00000E+00             84.RB 37.  30   6
+ 2 7  1.41383E-01  1.42666E-02  1.42666E-02  0.00000E+00             84.RB 37.  31   7
+ 2 8  2.71983E-01  1.42673E-02  1.42673E-02  0.00000E+00             84.RB 37.  32   8
+ 221  2.25977E-04  1.74000E-04  1.74000E-04  0.00000E+00             84.RB 37.  33  21
+ 222  1.30168E-03  2.28901E-04  2.28901E-04  0.00000E+00             84.RB 37.  34  22
+ 223  1.76747E-02  1.68718E-03  1.68718E-03  0.00000E+00             84.RB 37.  35  23
+ 224  3.14381E-02  1.69534E-03  1.69534E-03  0.00000E+00             84.RB 37.  36  24
+ 225  1.03983E-04  1.80695E-03  1.80695E-03  0.00000E+00             84.RB 37.  37  25
+ 226  1.54731E-04  1.80832E-03  1.80832E-03  0.00000E+00             84.RB 37.  38  26
+ 227  1.65739E-03  1.88887E-03  1.88887E-03  0.00000E+00             84.RB 37.  39  27
+ 228  2.92954E-03  1.88958E-03  1.88958E-03  0.00000E+00             84.RB 37.  40  28
+ 241  4.39216E-08  5.49000E-05  5.49000E-05  0.00000E+00             84.RB 37.  41  41
+ 242  8.26743E-02  1.45012E-03  1.45012E-03  0.00000E+00             84.RB 37.  42  42
+ 243  5.74254E-04  1.52134E-03  1.52134E-03  0.00000E+00             84.RB 37.  43  43
+ 244  4.27295E-01  1.63295E-03  1.63295E-03  0.00000E+00             84.RB 37.  44  44
+ 245  4.09194E-03  1.70086E-03  1.70086E-03  0.00000E+00             84.RB 37.  45  45
+ 246  8.94555E-06  1.71558E-03  1.71558E-03  0.00000E+00             84.RB 37.  46  46
+ 261  2.15869E-01  1.39523E-03  1.39523E-03  0.00000E+00             84.RB 37.  47  61
+ 262  7.27244E-04  1.45829E-03  1.45829E-03  0.00000E+00             84.RB 37.  48  62
+ 263  6.94274E-04  1.46644E-03  1.46644E-03  0.00000E+00             84.RB 37.  49  63
+ 264  8.65041E-02  1.57805E-03  1.57805E-03  0.00000E+00             84.RB 37.  50  64
+ 265  8.41943E-01  1.57942E-03  1.57942E-03  0.00000E+00             84.RB 37.  51  65
+ 266  8.04282E-03  1.64596E-03  1.64596E-03  0.00000E+00             84.RB 37.  52  66
+ 267  9.47200E-06  1.65997E-03  1.65997E-03  0.00000E+00             84.RB 37.  53  67
+ 268  8.98282E-06  1.66068E-03  1.66068E-03  0.00000E+00             84.RB 37.  54  68
+ 291  1.59994E-02  1.25056E-04  1.25056E-04  0.00000E+00             84.RB 37.  55  91
+ 294  4.67649E+02  1.93810E-05  1.93810E-05  0.00000E+00             84.RB 37.  56  94
+ 7 1  1.63084E+01  1.07980E-02  1.07980E-02  0.00000E+00             84.RB 37.  57   1
+ 7 2  5.17609E+00  1.23371E-02  1.23371E-02  0.00000E+00             84.RB 37.  58   2
+ 7 3  4.05604E-01  1.38786E-02  1.38786E-02  0.00000E+00             84.RB 37.  59   3
+ 7 4  1.52435E+01  9.99398E-05  9.99398E-05  0.00000E+00             84.RB 37.  60   4
+ 7 5  7.13628E+01  1.40735E-03  1.40735E-03  0.00000E+00             84.RB 37.  61   5
+ 7 6  5.15892E+00  1.51224E-03  1.51224E-03  0.00000E+00             84.RB 37.  62   6
+ 7 7  1.47897E-01  1.67114E-03  1.67114E-03  0.00000E+00             84.RB 37.  63   7
+ 7 8  8.04081E+01  6.55324E-05  6.55324E-05  0.00000E+00             84.RB 37.  64   8
+ 7 9  2.04470E+02  5.62901E-05  5.62901E-05  0.00000E+00             84.RB 37.  65   9
+ 5 1  3.80000E+00  3.32782E-01  8.94000E-01  1.00000E+00             84.RB 37.  66   1
+%%%%  84 RB  37    EC B+ B-     2.83133E+06 32.77 D    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   6.25643E-01
+    X-ray                           (MeV) =   4.97097E-03
+    Free-bound X-ray                (MeV) =   9.06349E-05
+    Annihilation photon             (MeV) =   2.76991E-01
+    Beta+ particle                  (MeV) =   1.46569E-01
+    Neutrino                        (MeV) =   1.52032E+00
+    Beta- particle                  (MeV) =   1.26457E-02
+    Neutrino-                       (MeV) =   2.13263E-02
+    Internal conv. electron         (MeV) =   4.08181E-04
+    Auger and CK electron           (MeV) =   3.72368E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   2.61269E+00
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   2.61300E+00
+  Ratio of E-total/Q-value          ( % ) =   9.99882E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   7.00625E-01
+    X-ray                                 =   4.03998E-01
+    Free-bound X-ray                      =   4.67649E+00
+    Annihilation photon                   =   5.42056E-01
+    Beta+ particle                        =   2.71028E-01
+    Beta- particle                        =   3.80000E-02
+    Internal conv. electron               =   4.68463E-04
+    Auger and CK electron                 =   3.98681E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+
+%%%%  84 RB  37 M  IT           1.21560E+03 20.26 M    02-11-2005       BALASTAR
+1  84M  RB  37 20.26 M         IT         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              84M-RUBIDIUM-37
++                                    HALFLIFE = 20.26 MINUTES 
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  9.9741E+01
+   2.4802E-01  6.3112E+01  6.2200E+01  1.4552E+00                      
+   4.6362E-01  1.0065E+02  1.0065E+02  0.0000E+00                      
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  9.974E+01
+ TOTAL INTENSITY FROM PARENT=  1.007E+02
+ PERCENT ERROR =  9.141E-01                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.007E+02
+ VALUE IS WITHIN   6.53E-01% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  4.666E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  4.644E-01 MEV
+ PERCENT ERROR =  4.856E-01                      
+%%%%  84 RB  37 M  IT           1.21560E+03 20.26 M    02-11-2005       BALAEND 
+%%%%  84 RB  37 M  IT           1.21560E+03 20.26 M    02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              84M-RUBIDIUM-37
++                                    HALFLIFE = 20.26 MINUTES 
++                                                                  02-11-2005
+
+            MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+           I.C.E. + GAMMA   1   6.31E-01   2.156E-01   M3+E4 MULTIPOLE                          
+                                                       MRS=1.69      AK= 0.889                  
+                                                       AL1=0.0881    AL2=0.0646                 
+                                                       AL3=0.0575    AM= 0.0362                 
+                                                       AN+=0.00438                              
+           I.C.E. + GAMMA   2   6.22E-01   2.480E-01   M1+E2 MULTIPOLE                          
+                                                       MRS=9.00      AK= 0.0290                 
+                                                       AL1=0.00288                              
+           I.C.E. + GAMMA   3   3.75E-01   4.636E-01   E4 MULTIPOLE                             
++                                                                    AK= 0.0334                 
+                                                       AL1=0.00340   AL2=0.00101                
+ 
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Jun-1997
+%%%%  84 RB  37 M  IT           1.21560E+03 20.26 M    02-11-2005       INPUEND 
+%%%%  84 RB  37 M  IT           1.21560E+03 20.26 M    02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              84M-RUBIDIUM-37
++                                    HALFLIFE = 20.26 MINUTES 
++                                                                  02-11-2005
+
+            MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           GAMMA-RAY                      1   2.95E-01    2.156E-01    6.36E-02
+           K CONV. ELECTRON, GAMMA-RAY    1   2.62E-01    2.005E-01    5.26E-02
+           L1 CONV. ELECTRON, GAMMA-RAY   1   2.60E-02    2.136E-01    5.55E-03
+           L2 CONV. ELECTRON, GAMMA-RAY   1   1.91E-02    2.137E-01    4.07E-03
+           L3 CONV. ELECTRON, GAMMA-RAY   1   1.70E-02    2.138E-01    3.63E-03
+           M CONV. ELECTRON, GAMMA-RAY    1   1.07E-02    2.154E-01*   2.30E-03
+           N+ CONV. ELECTRON, GAMMA-RAY   1   1.29E-03    2.156E-01*   2.79E-04
+           GAMMA-RAY                      2   6.02E-01    2.480E-01    1.49E-01
+           K CONV. ELECTRON, GAMMA-RAY    2   1.75E-02    2.329E-01    4.07E-03
+           L1 CONV. ELECTRON, GAMMA-RAY   2   1.74E-03    2.460E-01    4.27E-04
+           M CONV. ELECTRON, GAMMA-RAY    2   3.56E-04    2.478E-01*   8.82E-05
+           GAMMA-RAY                      3   3.61E-01    4.636E-01    1.67E-01
+           K CONV. ELECTRON, GAMMA-RAY    3   1.21E-02    4.485E-01    5.41E-03
+           L1 CONV. ELECTRON, GAMMA-RAY   3   1.23E-03    4.616E-01    5.66E-04
+           L2 CONV. ELECTRON, GAMMA-RAY   3   3.66E-04    4.618E-01    1.69E-04
+           L3 CONV. ELECTRON, GAMMA-RAY   3   2.13E-04    4.618E-01    9.85E-05
+           M CONV. ELECTRON, GAMMA-RAY    3   3.07E-04    4.634E-01*   1.42E-04
+           K -L2 X-RAY                        5.70E-02    1.329E-02    7.57E-04
+           K -L3 X-RAY                        1.10E-01    1.335E-02    1.46E-03
+           AUGER KLL                          7.26E-02    1.140E-02*   8.28E-04
+           AUGER KLX                          2.38E-02    1.305E-02*   3.11E-04
+           AUGER LMM                          3.62E-01    1.490E-03*   5.39E-04
+ 
+           ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    3.83E-01
+           ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.66E-04
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   8.10E-02
+           ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.13E-04
+           ALL LISTED RADIATIONS                                       4.64E-01
+           ALL NEGLECTED RADIATIONS**                                  7.79E-04
+ 
+           *  AVERAGE ENERGY (MEV)
+           ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+              TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 84-RUBIDIUM
+             DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF  84M-RUBIDIUM.
+             DECAY OF THIS 32.77 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Jun-1997
+%%%%  84 RB  37 M  IT           1.21560E+03 20.26 M    02-11-2005       OUTPEND 
+%%%%  84 RB  37 M  IT           1.21560E+03 20.26 M    02-11-2005       SEEISTAR
+ 84.M RUBIDIUM     37.  2.026E+01 MINUTES   65 IT                    84.RB 37.   0
+ 1 1  2.94980E+01  2.15610E-01  2.15610E-01  0.00000E+00             84.RB 37.   1   1
+ 6 1  2.62168E+01  2.00451E-01  2.00451E-01  1.00000E+00             84.RB 37.   2   1
+ 6 5  2.59840E+00  2.13562E-01  2.13562E-01  1.00000E+00             84.RB 37.   3   5
+ 6 6  1.90562E+00  2.13743E-01  2.13743E-01  1.00000E+00             84.RB 37.   4   6
+ 6 7  1.69582E+00  2.13805E-01  2.13805E-01  1.00000E+00             84.RB 37.   5   7
+ 6 3  1.06814E+00  2.15373E-01  2.15373E-01  1.00000E+00             84.RB 37.   6   3
+ 6 4  1.29242E-01  2.15610E-01  2.15610E-01  1.00000E+00             84.RB 37.   7   4
+ 1 2  6.02000E+01  2.48020E-01  2.48020E-01  0.00000E+00             84.RB 37.   8   2
+ 6 1  1.74792E+00  2.32861E-01  2.32861E-01  2.00000E+00             84.RB 37.   9   1
+ 6 5  1.73585E-01  2.45972E-01  2.45972E-01  2.00000E+00             84.RB 37.  10   5
+ 6 6  1.82927E-02  2.46153E-01  2.46153E-01  2.00000E+00             84.RB 37.  11   6
+ 6 7  2.00407E-02  2.46215E-01  2.46215E-01  2.00000E+00             84.RB 37.  12   7
+ 6 3  3.55855E-02  2.47783E-01  2.47783E-01  2.00000E+00             84.RB 37.  13   3
+ 6 4  4.84591E-03  2.48020E-01  2.48020E-01  2.00000E+00             84.RB 37.  14   4
+ 1 3  3.61200E+01  4.63620E-01  4.63620E-01  0.00000E+00             84.RB 37.  15   3
+ 6 1  1.20553E+00  4.48461E-01  4.48461E-01  3.00000E+00             84.RB 37.  16   1
+ 6 5  1.22709E-01  4.61572E-01  4.61572E-01  3.00000E+00             84.RB 37.  17   5
+ 6 6  3.66301E-02  4.61753E-01  4.61753E-01  3.00000E+00             84.RB 37.  18   6
+ 6 7  2.13339E-02  4.61815E-01  4.61815E-01  3.00000E+00             84.RB 37.  19   7
+ 6 3  3.06537E-02  4.63383E-01  4.63383E-01  3.00000E+00             84.RB 37.  20   3
+ 6 4  4.01558E-03  4.63620E-01  4.63620E-01  3.00000E+00             84.RB 37.  21   4
+ 2 1  5.69721E+00  1.32919E-02  1.32919E-02  0.00000E+00             84.RB 37.  22   1
+ 2 2  1.09603E+01  1.33539E-02  1.33539E-02  0.00000E+00             84.RB 37.  23   2
+ 2 3  8.16849E-01  1.49123E-02  1.49123E-02  0.00000E+00             84.RB 37.  24   3
+ 2 4  1.59231E+00  1.49217E-02  1.49217E-02  0.00000E+00             84.RB 37.  25   4
+ 2 5  2.62408E-03  1.50398E-02  1.50398E-02  0.00000E+00             84.RB 37.  26   5
+ 2 6  3.75243E-03  1.50414E-02  1.50414E-02  0.00000E+00             84.RB 37.  27   6
+ 2 7  8.89979E-02  1.51383E-02  1.51383E-02  0.00000E+00             84.RB 37.  28   7
+ 2 8  1.71508E-01  1.51392E-02  1.51392E-02  0.00000E+00             84.RB 37.  29   8
+ 221  9.79478E-05  1.80900E-04  1.80900E-04  0.00000E+00             84.RB 37.  30  21
+ 222  5.76230E-04  2.42900E-04  2.42900E-04  0.00000E+00             84.RB 37.  31  22
+ 223  8.34524E-03  1.80131E-03  1.80131E-03  0.00000E+00             84.RB 37.  32  23
+ 224  1.47651E-02  1.81071E-03  1.81071E-03  0.00000E+00             84.RB 37.  33  24
+ 225  5.27619E-05  1.92881E-03  1.92881E-03  0.00000E+00             84.RB 37.  34  25
+ 226  7.85220E-05  1.93043E-03  1.93043E-03  0.00000E+00             84.RB 37.  35  26
+ 227  9.30038E-04  2.02727E-03  2.02727E-03  0.00000E+00             84.RB 37.  36  27
+ 228  1.65061E-03  2.02825E-03  2.02825E-03  0.00000E+00             84.RB 37.  37  28
+ 241  2.87576E-08  6.20000E-05  6.20000E-05  0.00000E+00             84.RB 37.  38  41
+ 242  4.42715E-02  1.55392E-03  1.55392E-03  0.00000E+00             84.RB 37.  39  42
+ 243  3.30488E-04  1.62981E-03  1.62981E-03  0.00000E+00             84.RB 37.  40  43
+ 244  2.69804E-01  1.74790E-03  1.74790E-03  0.00000E+00             84.RB 37.  41  44
+ 245  2.38662E-03  1.83038E-03  1.83038E-03  0.00000E+00             84.RB 37.  42  45
+ 246  6.68427E-06  1.84735E-03  1.84735E-03  0.00000E+00             84.RB 37.  43  46
+ 261  1.09578E-01  1.49192E-03  1.49192E-03  0.00000E+00             84.RB 37.  44  61
+ 262  3.87169E-04  1.55841E-03  1.55841E-03  0.00000E+00             84.RB 37.  45  62
+ 263  3.68851E-04  1.56780E-03  1.56780E-03  0.00000E+00             84.RB 37.  46  63
+ 264  5.03539E-02  1.68590E-03  1.68590E-03  0.00000E+00             84.RB 37.  47  64
+ 265  4.76382E-01  1.68753E-03  1.68753E-03  0.00000E+00             84.RB 37.  48  65
+ 266  4.30746E-03  1.76838E-03  1.76838E-03  0.00000E+00             84.RB 37.  49  66
+ 267  6.40659E-06  1.78437E-03  1.78437E-03  0.00000E+00             84.RB 37.  50  67
+ 268  6.12299E-06  1.78535E-03  1.78535E-03  0.00000E+00             84.RB 37.  51  68
+ 291  1.02246E-02  1.35809E-04  1.35809E-04  0.00000E+00             84.RB 37.  52  91
+ 292  1.10969E-04  1.66827E-05  1.66827E-05  0.00000E+00             84.RB 37.  53  92
+ 294  3.23536E+02  1.52813E-05  1.52813E-05  0.00000E+00             84.RB 37.  54  94
+ 7 1  7.26231E+00  1.14024E-02  1.14024E-02  0.00000E+00             84.RB 37.  55   1
+ 7 2  2.38337E+00  1.30522E-02  1.30522E-02  0.00000E+00             84.RB 37.  56   2
+ 7 3  1.90978E-01  1.47045E-02  1.47045E-02  0.00000E+00             84.RB 37.  57   3
+ 7 4  6.96650E+00  1.04202E-04  1.04202E-04  0.00000E+00             84.RB 37.  58   4
+ 7 5  3.61542E+01  1.48982E-03  1.48982E-03  0.00000E+00             84.RB 37.  59   5
+ 7 6  2.92487E+00  1.61108E-03  1.61108E-03  0.00000E+00             84.RB 37.  60   6
+ 7 7  9.48991E-02  1.79084E-03  1.79084E-03  0.00000E+00             84.RB 37.  61   7
+ 7 8  3.84960E+01  7.35331E-05  7.35331E-05  0.00000E+00             84.RB 37.  62   8
+ 7 9  9.51348E+01  6.49626E-05  6.49626E-05  0.00000E+00             84.RB 37.  63   9
+ 710  1.69302E+00  9.22144E-05  9.22144E-05  0.00000E+00             84.RB 37.  64  10
+ 712  9.47809E+01  1.26043E-05  1.26043E-05  0.00000E+00             84.RB 37.  65  12
+%%%%  84 RB  37 M  IT           1.21560E+03 20.26 M    02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   3.80368E-01
+    X-ray                           (MeV) =   2.63726E-03
+    Free-bound X-ray                (MeV) =   4.94405E-05
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   0.00000E+00
+    Neutrino-                       (MeV) =   0.00000E+00
+    Internal conv. electron         (MeV) =   7.94719E-02
+    Auger and CK electron           (MeV) =   1.86558E-03
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   4.64392E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   4.63620E-01
+  Ratio of E-total/Q-value          ( % ) =   1.00167E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   1.25818E+00
+    X-ray                                 =   2.03286E-01
+    Free-bound X-ray                      =   3.23536E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   0.00000E+00
+    Internal conv. electron               =   3.70352E-01
+    Auger and CK electron                 =   2.86082E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

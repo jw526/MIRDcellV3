@@ -1,0 +1,73 @@
+ 153-GADOLINIUM-64       HALFLIFE = 240.4 DAYS    
+
+  MODE OF DECAY: ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      6   2.42E-02    6.967E-02    1.69E-03
+ K CONV. ELECTRON, GAMMA-RAY    6   1.10E-01    2.111E-02    2.33E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   6   1.43E-02    6.165E-02    8.80E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   6   2.22E-03    6.205E-02    1.38E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   6   1.39E-03    6.270E-02    8.74E-05
+ M CONV. ELECTRON, GAMMA-RAY    6   3.93E-03    6.820E-02*   2.68E-04
+ N+ CONV. ELECTRON, GAMMA-RAY   6   1.08E-03    6.967E-02*   7.54E-05
+ GAMMA-RAY                      8   1.96E-03    8.337E-02    1.63E-04
+ K CONV. ELECTRON, GAMMA-RAY    8   4.64E-03    3.480E-02    1.61E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   8   8.22E-04    7.574E-02    6.23E-05
+ L3 CONV. ELECTRON, GAMMA-RAY   8   8.61E-04    7.640E-02    6.58E-05
+ K CONV. ELECTRON, GAMMA-RAY    9   1.50E-03    4.092E-02    6.15E-05
+ GAMMA-RAY                     11   2.90E-01    9.743E-02    2.83E-02
+ K CONV. ELECTRON, GAMMA-RAY   11   7.43E-02    4.886E-02    3.63E-03
+ L1 CONV. ELECTRON, GAMMA-RAY  11   7.62E-03    8.941E-02    6.82E-04
+ L2 CONV. ELECTRON, GAMMA-RAY  11   1.59E-03    8.981E-02    1.43E-04
+ L3 CONV. ELECTRON, GAMMA-RAY  11   2.00E-03    9.046E-02    1.81E-04
+ M CONV. ELECTRON, GAMMA-RAY   11   2.42E-03    9.596E-02*   2.32E-04
+ N+ CONV. ELECTRON, GAMMA-RAY  11   6.54E-04    9.743E-02*   6.38E-05
+ GAMMA-RAY                     12   2.11E-01    1.032E-01    2.18E-02
+ K CONV. ELECTRON, GAMMA-RAY   12   3.08E-01    5.461E-02    1.68E-02
+ L1 CONV. ELECTRON, GAMMA-RAY  12   4.03E-02    9.516E-02    3.83E-03
+ L2 CONV. ELECTRON, GAMMA-RAY  12   4.31E-03    9.556E-02    4.12E-04
+ L3 CONV. ELECTRON, GAMMA-RAY  12   1.70E-03    9.621E-02    1.64E-04
+ M CONV. ELECTRON, GAMMA-RAY   12   1.01E-02    1.017E-01*   1.02E-03
+ N+ CONV. ELECTRON, GAMMA-RAY  12   2.79E-03    1.032E-01*   2.88E-04
+ K -L2 X-RAY                        3.50E-01    4.094E-02    1.43E-02
+ K -L3 X-RAY                        6.31E-01    4.160E-02    2.63E-02
+ K -M2 X-RAY                        6.37E-02    4.696E-02    2.99E-03
+ K -M3 X-RAY                        1.23E-01    4.710E-02    5.81E-03
+ K -N2 X-RAY                        1.39E-02    4.828E-02    6.70E-04
+ K -N3 X-RAY                        2.69E-02    4.831E-02    1.30E-03
+ K -O2 X-RAY                        2.87E-03    4.854E-02    1.39E-04
+ K -O3 X-RAY                        5.86E-03    4.854E-02    2.84E-04
+ L2-M4 X-RAY                        6.17E-02    6.458E-03    3.98E-04
+ L3-M5 X-RAY                        9.57E-02    5.831E-03    5.58E-04
+ L3-N5 X-RAY                        1.60E-02    6.826E-03    1.09E-04
+ Free-Bound X-RAY                   1.51E+01    1.423E-05*   2.15E-04
+ AUGER KLL                          5.74E-02    3.362E-02*   1.93E-03
+ AUGER KLX                          2.82E-02    3.978E-02*   1.12E-03
+ AUGER KXY                          3.31E-03    4.595E-02*   1.52E-04
+ CK LLX                             2.13E-01    5.452E-04*   1.16E-04
+ AUGER LMM                          8.19E-01    4.622E-03*   3.79E-03
+ AUGER LMX                          2.82E-01    5.724E-03*   1.62E-03
+ AUGER LXY                          2.44E-02    6.860E-03*   1.67E-04
+ CK MMX                             1.04E+00    1.793E-04*   1.86E-04
+ AUGER MNN                          2.22E+00    8.541E-04*   1.90E-03
+ AUGER MNX                          1.37E-01    1.027E-03*   1.41E-04
+ CK NNX                             6.52E+00    1.130E-04*   7.37E-04
+ AUGER NXY                          7.33E-01    1.053E-04*   7.72E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.05E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     7.01E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.35E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.56E-04
+ ALL LISTED RADIATIONS                                       1.48E-01
+ ALL NEGLECTED RADIATIONS**                                  9.57E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 153-EUROPIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 153-GADOLINIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

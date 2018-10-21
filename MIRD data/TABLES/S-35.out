@@ -1,0 +1,18 @@
+ 35-SULPHUR-16           HALFLIFE = 87.51 DAYS    
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   1.00E+00    4.872E-02*   4.87E-02
+ 
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.87E-02
+ ALL LISTED RADIATIONS                                       4.87E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 35-CHLORINE
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  35-SULPHUR.
+   THIS DAUGHTER GROUND STATE IS STABLE.

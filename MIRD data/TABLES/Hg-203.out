@@ -1,0 +1,41 @@
+ 203-MERCURY-80          HALFLIFE = 46.612 DAYS    
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   1.00E+00    5.780E-02*   5.78E-02
+ GAMMA-RAY                      1   8.15E-01    2.792E-01    2.27E-01
+ K CONV. ELECTRON, GAMMA-RAY    1   1.38E-01    1.934E-01    2.67E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   1   2.07E-02    2.639E-01    5.47E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   1   1.04E-02    2.645E-01    2.74E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   1   4.67E-03    2.665E-01    1.25E-03
+ M CONV. ELECTRON, GAMMA-RAY    1   8.78E-03    2.763E-01*   2.43E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   2.74E-03    2.792E-01*   7.66E-04
+ K -L2 X-RAY                        3.89E-02    7.105E-02    2.76E-03
+ K -L3 X-RAY                        6.56E-02    7.314E-02    4.80E-03
+ K -M2 X-RAY                        7.28E-03    8.239E-02    5.99E-04
+ K -M3 X-RAY                        1.41E-02    8.285E-02    1.17E-03
+ K -N3 X-RAY                        3.38E-03    8.520E-02    2.88E-04
+ AUGER KLL                          3.37E-03    5.722E-02*   1.93E-04
+ AUGER KLX                          1.83E-03    6.881E-02*   1.26E-04
+ AUGER LMM                          6.28E-02    7.872E-03*   4.94E-04
+ AUGER LMX                          2.73E-02    1.016E-02*   2.78E-04
+ AUGER MNN                          2.10E-01    1.860E-03*   3.90E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.37E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     9.99E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   9.86E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.25E-04
+ ALL LISTED RADIATIONS                                       3.36E-01
+ ALL NEGLECTED RADIATIONS**                                  1.32E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 203-THALLIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 203-MERCURY.
+   THIS DAUGHTER GROUND STATE IS STABLE.

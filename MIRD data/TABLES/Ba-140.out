@@ -1,0 +1,53 @@
+ 140-BARIUM-56           HALFLIFE = 12.752 DAYS    
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   2.39E-01    1.406E-01*   3.36E-02
+ BETA MINUS                     2   9.34E-02    1.809E-01*   1.69E-02
+ BETA MINUS                     3   4.44E-02    3.102E-01*   1.38E-02
+ BETA MINUS                     4   3.82E-01    3.445E-01*   1.32E-01
+ BETA MINUS                     5   2.41E-01    3.616E-01*   8.72E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   1   4.80E-01    7.604E-03    3.65E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   1   4.77E-02    7.944E-03    3.79E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   1.13E-01    1.272E-02*   1.44E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   3.14E-02    1.385E-02*   4.35E-04
+ GAMMA-RAY                      2   1.41E-01    2.997E-02    4.22E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   2   5.60E-01    2.372E-02    1.33E-02
+ L2 CONV. ELECTRON, GAMMA-RAY   2   4.84E-02    2.406E-02    1.17E-03
+ M CONV. ELECTRON, GAMMA-RAY    2   1.29E-01    2.884E-02*   3.73E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   2   3.58E-02    2.997E-02*   1.07E-03
+ GAMMA-RAY                      8   2.02E-03    1.327E-01    2.69E-04
+ GAMMA-RAY                      9   6.22E-02    1.627E-01    1.01E-02
+ K CONV. ELECTRON, GAMMA-RAY    9   1.50E-02    1.237E-01    1.85E-03
+ GAMMA-RAY                     12   4.29E-02    3.048E-01    1.31E-02
+ K CONV. ELECTRON, GAMMA-RAY   12   1.91E-03    2.659E-01    5.07E-04
+ GAMMA-RAY                     14   3.15E-02    4.237E-01    1.34E-02
+ GAMMA-RAY                     15   1.93E-02    4.376E-01    8.44E-03
+ GAMMA-RAY                     17   2.44E-01    5.373E-01    1.31E-01
+ K CONV. ELECTRON, GAMMA-RAY   17   2.57E-03    4.983E-01    1.28E-03
+ K -L2 X-RAY                        5.69E-03    3.304E-02    1.88E-04
+ K -L3 X-RAY                        1.04E-02    3.346E-02    3.49E-04
+ Free-Bound X-RAY                   1.95E+01    2.104E-05*   4.11E-04
+ AUGER LMM                          7.69E-01    3.863E-03*   2.97E-03
+ AUGER LMX                          2.57E-01    4.695E-03*   1.21E-03
+ AUGER MNN                          1.97E+00    5.866E-04*   1.16E-03
+ AUGER NXY                          6.68E+00    6.132E-05*   4.09E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.81E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.17E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.18E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.64E-03
+ ALL LISTED RADIATIONS                                       4.99E-01
+ ALL NEGLECTED RADIATIONS**                                  3.80E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 140-LANTHANUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 140-BARIUM.
+   DECAY OF THIS 1.6781 DAYS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

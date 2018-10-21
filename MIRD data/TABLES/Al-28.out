@@ -1,0 +1,44 @@
+ 28-ALUMINUM-13          HALFLIFE = 2.2414 MINUTES 
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   1.00E+00    1.242E+00*   1.24E+00
+ GAMMA-RAY                      1   1.00E+00    1.779E+00    1.78E+00
+ K CONV. ELECTRON, GAMMA-RAY    1   8.67E-06    1.777E+00    1.54E-05
+ L1 CONV. ELECTRON, GAMMA-RAY   1   6.28E-07    1.779E+00    1.12E-06
+ L2 CONV. ELECTRON, GAMMA-RAY   1   6.24E-10    1.779E+00    1.11E-09
+ L3 CONV. ELECTRON, GAMMA-RAY   1   1.11E-09    1.779E+00    1.98E-09
+ K -L2 X-RAY                        1.39E-07    1.720E-03    2.38E-10
+ K -L3 X-RAY                        2.75E-07    1.721E-03    4.73E-10
+ K -M2 X-RAY                        2.36E-09    1.822E-03    4.30E-12
+ K -M3 X-RAY                        4.69E-09    1.822E-03    8.54E-12
+ L1-L2 X-RAY                        4.19E-10    4.288E-05    1.79E-14
+ L1-L3 X-RAY                        9.37E-10    4.357E-05    4.08E-14
+ L1-M2 X-RAY                        2.42E-11    1.450E-04    3.51E-15
+ L1-M3 X-RAY                        4.45E-11    1.450E-04    6.46E-15
+ L2-L3 X-RAY                        1.09E-19    6.900E-07    7.52E-26
+ L2-M1 X-RAY                        2.67E-10    9.504E-05    2.54E-14
+ L2-M3 X-RAY                        1.04E-14    1.022E-04    1.06E-18
+ L3-M1 X-RAY                        4.94E-10    9.435E-05    4.67E-14
+ L3-M2 X-RAY                        9.55E-15    1.014E-04    9.69E-19
+ L3-M3 X-RAY                        9.43E-15    1.015E-04    9.57E-19
+ Free-Bound X-RAY                   3.86E-05    9.457E-06*   3.65E-10
+ AUGER KLL                          7.67E-06    1.593E-03*   1.22E-08
+ AUGER KLX                          5.69E-07    1.697E-03*   9.66E-10
+ AUGER KXY                          1.16E-08    1.806E-03*   2.09E-11
+ CK LLX                             4.04E-06    3.110E-05*   1.26E-10
+ AUGER LMM                          1.70E-05    9.026E-05*   1.53E-09
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.78E+00
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.24E+00
+ ALL LISTED RADIATIONS                                       3.02E+00
+ 
+ *  AVERAGE ENERGY (MEV)
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 28-SILICON
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  28-ALUMINUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

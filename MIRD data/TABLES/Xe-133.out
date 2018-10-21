@@ -1,0 +1,50 @@
+ 133-XENON-54            HALFLIFE = 5.243 DAYS    
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     2   8.11E-03    7.515E-02*   6.10E-04
+ BETA MINUS                     3   9.92E-01    1.006E-01*   9.98E-02
+ GAMMA-RAY                      1   2.70E-03    7.962E-02    2.15E-04
+ K CONV. ELECTRON, GAMMA-RAY    1   4.12E-03    4.364E-02    1.80E-04
+ GAMMA-RAY                      2   3.80E-01    8.100E-02    3.08E-02
+ K CONV. ELECTRON, GAMMA-RAY    2   5.54E-01    4.501E-02    2.49E-02
+ L1 CONV. ELECTRON, GAMMA-RAY   2   6.75E-02    7.531E-02    5.08E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   2   9.47E-03    7.563E-02    7.16E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   2   6.54E-03    7.599E-02    4.97E-04
+ M CONV. ELECTRON, GAMMA-RAY    2   1.73E-02    8.001E-02*   1.38E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   2   4.48E-03    8.100E-02*   3.62E-04
+ GAMMA-RAY                      3   6.60E-04    1.606E-01    1.06E-04
+ K -L2 X-RAY                        1.44E-01    3.062E-02    4.41E-03
+ K -L3 X-RAY                        2.66E-01    3.098E-02    8.23E-03
+ K -M2 X-RAY                        2.52E-02    3.493E-02    8.79E-04
+ K -M3 X-RAY                        4.88E-02    3.499E-02    1.71E-03
+ K -N2 X-RAY                        5.30E-03    3.580E-02    1.90E-04
+ K -N3 X-RAY                        1.03E-02    3.582E-02    3.70E-04
+ L2-M4 X-RAY                        1.58E-02    4.616E-03    7.28E-05
+ L3-M5 X-RAY                        2.66E-02    4.273E-03    1.14E-04
+ Free-Bound X-RAY                   7.67E+00    2.189E-05*   1.68E-04
+ AUGER KLL                          3.77E-02    2.540E-02*   9.58E-04
+ AUGER KLX                          1.71E-02    2.981E-02*   5.11E-04
+ AUGER LMM                          3.94E-01    3.445E-03*   1.36E-03
+ AUGER LMX                          1.22E-01    4.166E-03*   5.07E-04
+ AUGER MNN                          1.00E+00    5.282E-04*   5.29E-04
+ AUGER NXY                          3.64E+00    4.144E-05*   1.51E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.72E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.07E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.38E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.40E-04
+ ALL LISTED RADIATIONS                                       1.85E-01
+ ALL NEGLECTED RADIATIONS**                                  5.47E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 133-CESIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 133-XENON.
+   THIS DAUGHTER GROUND STATE IS STABLE.

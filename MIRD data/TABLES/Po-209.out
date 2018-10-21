@@ -1,0 +1,73 @@
+ 209-POLONIUM-84         HALFLIFE = 102 YEARS   
+
+  MODES OF DECAY: ALPHA, ELECTRON CAPTURE
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ ALPHA                          3   9.07E-03    4.628E+00    4.20E-02
+ RECOIL ATOM                        9.07E-03    9.036E-02    8.20E-04
+ ALPHA                          4   7.89E-01    4.883E+00    3.85E+00
+ RECOIL ATOM                        7.89E-01    9.535E-02    7.52E-02
+ ALPHA                          5   1.97E-01    4.886E+00    9.64E-01
+ RECOIL ATOM                        1.97E-01    9.539E-02    1.88E-02
+ N+ CONV. ELECTRON, GAMMA-RAY   1   7.96E-01    2.329E-03*   1.85E-03
+ GAMMA-RAY                      2   4.18E-03    2.605E-01    1.09E-03
+ K CONV. ELECTRON, GAMMA-RAY    2   2.10E-03    1.722E-01    3.62E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   2   3.24E-04    2.447E-01    7.92E-05
+ L2 CONV. ELECTRON, GAMMA-RAY   2   6.24E-05    2.452E-01    1.53E-05
+ L3 CONV. ELECTRON, GAMMA-RAY   2   1.95E-05    2.475E-01    4.83E-06
+ M CONV. ELECTRON, GAMMA-RAY    2   9.69E-05    2.574E-01*   2.50E-05
+ N+ CONV. ELECTRON, GAMMA-RAY   2   3.11E-05    2.605E-01*   8.09E-06
+ GAMMA-RAY                      3   1.42E-03    2.628E-01    3.72E-04
+ K CONV. ELECTRON, GAMMA-RAY    3   6.96E-04    1.745E-01    1.22E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   3   1.07E-04    2.470E-01    2.65E-05
+ L2 CONV. ELECTRON, GAMMA-RAY   3   2.05E-05    2.475E-01    5.08E-06
+ M CONV. ELECTRON, GAMMA-RAY    3   3.21E-05    2.597E-01*   8.32E-06
+ K -L2 X-RAY                        7.90E-04    7.304E-02    5.77E-05
+ K -L3 X-RAY                        1.33E-03    7.525E-02    9.98E-05
+ K -M2 X-RAY                        1.48E-04    8.474E-02    1.25E-05
+ K -M3 X-RAY                        2.86E-04    8.524E-02    2.44E-05
+ Free-Bound X-RAY                   4.20E+00    2.660E-05    1.12E-04
+ AUGER KLL                          6.69E-05    5.875E-02*   3.93E-06
+ AUGER LMM                          1.17E-03    8.046E-03*   9.38E-06
+ AUGER LMX                          5.16E-04    1.042E-02*   5.37E-06
+ AUGER MNN                          3.93E-03    1.911E-03*   7.51E-06
+ CK NNX                             1.11E+00    1.808E-04*   2.00E-04
+ AUGER NXY                          1.11E+00    9.722E-05*   1.08E-04
+ CK OOX                             1.16E+00    4.238E-05*   4.91E-05
+ GAMMA-RAY                      1   4.70E-03    8.966E-01    4.22E-03
+ K CONV. ELECTRON, GAMMA-RAY    1   8.11E-05    8.058E-01    6.53E-05
+ L1 CONV. ELECTRON, GAMMA-RAY   1   1.24E-05    8.802E-01    1.09E-05
+ K -L2 X-RAY                        9.82E-04    7.506E-02    7.37E-05
+ K -L3 X-RAY                        1.64E-03    7.741E-02    1.27E-04
+ K -M2 X-RAY                        1.84E-04    8.714E-02    1.60E-05
+ K -M3 X-RAY                        3.56E-04    8.767E-02    3.12E-05
+ K -N3 X-RAY                        8.67E-05    9.016E-02    7.82E-06
+ L3-M5 X-RAY                        6.57E-04    1.084E-02    7.12E-06
+ AUGER KLL                          8.14E-05    6.030E-02*   4.91E-06
+ AUGER KLX                          4.47E-05    7.265E-02*   3.25E-06
+ AUGER LMM                          1.57E-03    8.236E-03*   1.29E-05
+ AUGER LMX                          7.05E-04    1.070E-02*   7.54E-06
+ AUGER MNN                          5.49E-03    1.961E-03*   1.08E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    6.25E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.78E-05
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.01E-03
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.49E-05
+ ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               4.95E+00
+ ALL NEGLECTED ALPHA PARTICLES AND  RECOIL NUCLEI**          2.98E-05
+ ALL LISTED RADIATIONS                                       4.96E+00
+ ALL NEGLECTED RADIATIONS**                                  1.03E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 205-LEAD
+   DAUGHTER IS 9.9520E-01 PER TRANSFORMATION OF 209-POLONIUM.
+   DECAY OF THIS 0.153E+08 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 209-BISMUTH
+   DAUGHTER IS 4.8000E-03 PER TRANSFORMATION OF 209-POLONIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

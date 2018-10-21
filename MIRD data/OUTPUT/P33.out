@@ -1,0 +1,168 @@
+%%%%  33 P   15    B-           2.18938E+06   25.34 D  02-11-2005       BALASTAR
+1  33   P   15   25.34 D       B-         
+1INTENSITY AND ENERGY BALANCE DATA
+
+              33-PHOSPHORUS-15
++                                    HALFLIFE = 25.34 DAYS    
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  1.0000E+02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  0.000E+00                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  2.485E-01 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  2.485E-01 MEV
+ PERCENT ERROR =  0.000E+00                      
+%%%%  33 P   15    B-           2.18938E+06   25.34 D  02-11-2005       BALAEND 
+%%%%  33 P   15    B-           2.18938E+06   25.34 D  02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              33-PHOSPHORUS-15
++                                    HALFLIFE = 25.34 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: BETA MINUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+               BETA MINUS   1   1.00E+00   2.485E-01*  ALLOWED                                  
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Mar-2001
+%%%%  33 P   15    B-           2.18938E+06   25.34 D  02-11-2005       INPUEND 
+%%%%  33 P   15    B-           2.18938E+06   25.34 D  02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              33-PHOSPHORUS-15
++                                    HALFLIFE = 25.34 DAYS    
++                                                                  02-11-2005
+
+            MODE OF DECAY: BETA MINUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           BETA MINUS                     1   1.00E+00    7.643E-02*   7.64E-02
+ 
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   7.64E-02
+           ALL LISTED RADIATIONS                                       7.64E-02
+ 
+           *  AVERAGE ENERGY (MEV)
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 33-SULPHUR
+             DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  33-PHOSPHORUS.
+             THIS DAUGHTER GROUND STATE IS STABLE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Mar-2001
+%%%%  33 P   15    B-           2.18938E+06   25.34 D  02-11-2005       OUTPEND 
+%%%%  33 P   15    B-           2.18938E+06   25.34 D  02-11-2005       BETASTAR
+1
+              33-PHOSPHORUS-15
++                                    HALFLIFE = 25.34 DAYS    
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   7.825E+00      0.00140   7.758E+00      0.02200   7.520E+00
+            0.00010   7.820E+00      0.00150   7.753E+00      0.02400   7.508E+00
+            0.00011   7.819E+00      0.00160   7.748E+00      0.02600   7.494E+00
+            0.00012   7.819E+00      0.00180   7.741E+00      0.02800   7.476E+00
+            0.00013   7.818E+00      0.00200   7.734E+00      0.03000   7.456E+00
+            0.00014   7.818E+00      0.00220   7.727E+00      0.03200   7.433E+00
+            0.00015   7.817E+00      0.00240   7.720E+00      0.03600   7.378E+00
+            0.00016   7.817E+00      0.00260   7.713E+00      0.04000   7.312E+00
+            0.00018   7.816E+00      0.00280   7.705E+00      0.04500   7.214E+00
+            0.00020   7.815E+00      0.00300   7.699E+00      0.05000   7.101E+00
+            0.00022   7.814E+00      0.00320   7.692E+00      0.05500   6.972E+00
+            0.00024   7.813E+00      0.00360   7.678E+00      0.06000   6.829E+00
+            0.00026   7.812E+00      0.00400   7.666E+00      0.06500   6.673E+00
+            0.00028   7.811E+00      0.00450   7.652E+00      0.07000   6.505E+00
+            0.00030   7.810E+00      0.00500   7.639E+00      0.07500   6.326E+00
+            0.00032   7.809E+00      0.00550   7.627E+00      0.08000   6.137E+00
+            0.00036   7.807E+00      0.00600   7.617E+00      0.08500   5.939E+00
+            0.00040   7.805E+00      0.00650   7.608E+00      0.09000   5.733E+00
+            0.00045   7.803E+00      0.00700   7.600E+00      0.10000   5.299E+00
+            0.00050   7.801E+00      0.00750   7.593E+00      0.11000   4.843E+00
+            0.00055   7.798E+00      0.00800   7.587E+00      0.12000   4.372E+00
+            0.00060   7.796E+00      0.00850   7.581E+00      0.13000   3.891E+00
+            0.00065   7.794E+00      0.00900   7.577E+00      0.14000   3.409E+00
+            0.00070   7.791E+00      0.01000   7.569E+00      0.15000   2.932E+00
+            0.00075   7.789E+00      0.01100   7.563E+00      0.16000   2.466E+00
+            0.00080   7.786E+00      0.01200   7.558E+00      0.18000   1.599E+00
+            0.00085   7.784E+00      0.01300   7.554E+00      0.20000   8.636E-01
+            0.00090   7.782E+00      0.01400   7.551E+00      0.22000   3.201E-01
+            0.00100   7.777E+00      0.01500   7.548E+00      0.24000   3.047E-02
+            0.00110   7.772E+00      0.01600   7.545E+00      0.24850   0.000E+00
+            0.00120   7.767E+00      0.01800   7.538E+00
+            0.00130   7.763E+00      0.02000   7.530E+00
+
+            AVERAGE BETA ENERGY =   7.643E-02
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   1.000E+00
+%%%%  33 P   15    B-           2.18938E+06   25.34 D  02-11-2005       BETAEND 
+%%%%  33 P   15    B-           2.18938E+06   25.34 D  02-11-2005       SEEISTAR
+ 33.  PHOSPHORUS   15.  2.534E+01 DAYS       1 B-                    33.P  15.   0
+ 5 1  1.00000E+02  7.64288E-02  2.48500E-01  0.00000E+00             33.P  15.   1   1
+%%%%  33 P   15    B-           2.18938E+06   25.34 D  02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   0.00000E+00
+    Free-bound X-ray                (MeV) =   0.00000E+00
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   7.64288E-02
+    Neutrino-                       (MeV) =   1.72071E-01
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   0.00000E+00
+    Alpha particle                  (MeV) =   0.00000E+00
+    Recoil nucleus                  (MeV) =   0.00000E+00
+  E-total (except unplaced radiat.) (MeV) =   2.48500E-01
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   2.48500E-01
+  Ratio of E-total/Q-value          ( % ) =   1.00000E+02
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   0.00000E+00
+    Free-bound X-ray                      =   0.00000E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   1.00000E+00
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   0.00000E+00
+    Alpha particle                        =   0.00000E+00
+  Yield of unplaced radiation             =   0.00000E+00
+
+

@@ -1,0 +1,56 @@
+ 217-ASTATINE-85         HALFLIFE = 0.323E-01 SECONDS 
+
+  MODE OF DECAY: ALPHA
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ ALPHA                          4   9.99E-01    7.069E+00    7.06E+00
+ RECOIL ATOM                        9.99E-01    1.328E-01    1.33E-01
+ GAMMA-RAY                      4   5.64E-04    2.585E-01    1.46E-04
+ K CONV. ELECTRON, GAMMA-RAY    4   3.40E-04    1.677E-01    5.71E-05
+ L1 CONV. ELECTRON, GAMMA-RAY   4   5.32E-05    2.421E-01    1.29E-05
+ L2 CONV. ELECTRON, GAMMA-RAY   4   5.14E-06    2.427E-01    1.25E-06
+ L3 CONV. ELECTRON, GAMMA-RAY   4   3.76E-07    2.451E-01    9.22E-08
+ M CONV. ELECTRON, GAMMA-RAY    4   1.38E-05    2.553E-01*   3.53E-06
+ N+ CONV. ELECTRON, GAMMA-RAY   4   4.51E-06    2.585E-01*   1.17E-06
+ GAMMA-RAY                      8   1.20E-04    5.931E-01    7.10E-05
+ K CONV. ELECTRON, GAMMA-RAY    8   1.82E-06    5.023E-01    9.15E-07
+ L1 CONV. ELECTRON, GAMMA-RAY   8   2.74E-07    5.767E-01    1.58E-07
+ L2 CONV. ELECTRON, GAMMA-RAY   8   1.77E-07    5.773E-01    1.02E-07
+ K -L2 X-RAY                        9.68E-05    7.506E-02    7.26E-06
+ K -L3 X-RAY                        1.62E-04    7.741E-02    1.25E-05
+ K -M2 X-RAY                        1.81E-05    8.714E-02    1.58E-06
+ K -M3 X-RAY                        3.51E-05    8.767E-02    3.07E-06
+ K -N2 X-RAY                        4.34E-06    9.003E-02    3.91E-07
+ K -N3 X-RAY                        8.55E-06    9.016E-02    7.71E-07
+ L2-M4 X-RAY                        3.65E-05    1.307E-02    4.77E-07
+ L3-M5 X-RAY                        5.67E-05    1.084E-02    6.14E-07
+ AUGER KLL                          8.02E-06    6.030E-02*   4.84E-07
+ AUGER KLX                          4.41E-06    7.265E-02*   3.20E-07
+ AUGER LMM                          1.36E-04    8.239E-03*   1.12E-06
+ AUGER LMX                          6.12E-05    1.070E-02*   6.55E-07
+ AUGER LXY                          6.57E-06    1.319E-02*   8.67E-08
+ CK MMX                             1.94E-04    4.252E-04*   8.25E-08
+ AUGER MNN                          4.63E-04    1.962E-03*   9.09E-07
+ AUGER MNX                          6.09E-05    2.238E-03*   1.36E-07
+ CK NNX                             8.60E-04    1.736E-04*   1.49E-07
+ AUGER NXY                          1.62E-03    8.939E-05*   1.44E-07
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.43E-04
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.15E-06
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   8.13E-05
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  3.01E-07
+ ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               7.19E+00
+ ALL NEGLECTED ALPHA PARTICLES AND  RECOIL NUCLEI**          6.16E-03
+ ALL LISTED RADIATIONS                                       7.19E+00
+ ALL NEGLECTED RADIATIONS**                                  6.16E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 213-BISMUTH
+   DAUGHTER IS 9.9988E-01 PER TRANSFORMATION OF 217-ASTATINE.
+   DECAY OF THIS 45.59 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

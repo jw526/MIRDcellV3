@@ -1,0 +1,70 @@
+ 72-GALLIUM-31           HALFLIFE = 14.1 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     4   7.78E-03    9.641E-02*   7.50E-04
+ BETA MINUS                     7   3.39E-03    1.768E-01*   6.00E-04
+ BETA MINUS                     8   2.99E-03    1.829E-01*   5.47E-04
+ BETA MINUS                     9   1.50E-01    2.207E-01*   3.30E-02
+ BETA MINUS                    11   2.17E-01    2.273E-01*   4.92E-02
+ BETA MINUS                    13   2.76E-01    3.457E-01*   9.55E-02
+ BETA MINUS                    15   1.87E-02    3.848E-01*   7.18E-03
+ BETA MINUS                    18   8.88E-02    5.732E-01*   5.09E-02
+ BETA MINUS                    19   1.50E-03    5.961E-01*   8.92E-04
+ BETA MINUS                    20   3.09E-03    6.239E-01*   1.93E-03
+ BETA MINUS                    21   2.98E-02    7.781E-01*   2.32E-02
+ BETA MINUS                    22   7.98E-03    9.348E-01*   7.46E-03
+ BETA MINUS                    23   8.48E-02    1.059E+00*   8.98E-02
+ BETA MINUS                    24   1.03E-01    1.359E+00*   1.40E-01
+ GAMMA-RAY                     18   5.54E-02    6.010E-01    3.33E-02
+ GAMMA-RAY                     19   2.48E-01    6.300E-01    1.56E-01
+ K CONV. ELECTRON, GAMMA-RAY   20   4.64E-03    6.801E-01    3.16E-03
+ GAMMA-RAY                     24   3.20E-02    7.864E-01    2.52E-02
+ GAMMA-RAY                     25   2.01E-02    8.102E-01    1.63E-02
+ GAMMA-RAY                     26   9.56E-01    8.340E-01    7.98E-01
+ GAMMA-RAY                     27   9.13E-03    8.611E-01    7.86E-03
+ GAMMA-RAY                     29   9.88E-02    8.943E-01    8.83E-02
+ GAMMA-RAY                     34   1.10E-02    9.706E-01    1.07E-02
+ GAMMA-RAY                     36   7.99E-03    9.999E-01    7.98E-03
+ GAMMA-RAY                     39   6.91E-02    1.051E+00    7.26E-02
+ GAMMA-RAY                     43   7.89E-03    1.215E+00    9.59E-03
+ GAMMA-RAY                     44   1.45E-02    1.231E+00    1.79E-02
+ GAMMA-RAY                     45   1.13E-02    1.260E+00    1.42E-02
+ GAMMA-RAY                     46   1.56E-02    1.277E+00    2.00E-02
+ GAMMA-RAY                     49   3.55E-02    1.464E+00    5.19E-02
+ GAMMA-RAY                     53   1.99E-03    1.568E+00    3.12E-03
+ GAMMA-RAY                     54   8.18E-03    1.572E+00    1.28E-02
+ GAMMA-RAY                     55   4.24E-02    1.597E+00    6.76E-02
+ GAMMA-RAY                     58   8.99E-03    1.681E+00    1.51E-02
+ GAMMA-RAY                     59   3.88E-03    1.711E+00    6.64E-03
+ GAMMA-RAY                     61   2.09E-03    1.838E+00    3.85E-03
+ GAMMA-RAY                     62   5.25E-02    1.861E+00    9.77E-02
+ GAMMA-RAY                     63   2.31E-03    1.878E+00    4.35E-03
+ GAMMA-RAY                     64   1.58E-03    1.920E+00    3.03E-03
+ GAMMA-RAY                     67   1.04E-02    2.110E+00    2.20E-02
+ GAMMA-RAY                     68   2.59E-01    2.202E+00    5.71E-01
+ GAMMA-RAY                     69   1.78E-03    2.214E+00    3.94E-03
+ GAMMA-RAY                     72   7.68E-02    2.491E+00    1.91E-01
+ GAMMA-RAY                     73   1.28E-01    2.508E+00    3.20E-01
+ GAMMA-RAY                     74   2.50E-03    2.515E+00    6.28E-03
+ GAMMA-RAY                     77   1.32E-03    2.621E+00    3.46E-03
+ GAMMA-RAY                     80   4.30E-03    2.844E+00    1.22E-02
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.67E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     3.31E-02
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   5.04E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.11E-03
+ ALL LISTED RADIATIONS                                       3.18E+00
+ ALL NEGLECTED RADIATIONS**                                  3.52E-02
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 72-GERMANIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  72-GALLIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

@@ -1,0 +1,32 @@
+ 99-TECHNETIUM-43        HALFLIFE = 211100 YEARS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     2   1.00E+00    1.013E-01*   1.01E-01
+ GAMMA-RAY                      1   6.50E-06    8.950E-02    5.82E-07
+ K -L2 X-RAY                        1.75E-06    1.912E-02    3.35E-08
+ K -L3 X-RAY                        3.32E-06    1.925E-02    6.40E-08
+ K -M2 X-RAY                        2.79E-07    2.160E-02    6.03E-09
+ K -M3 X-RAY                        5.42E-07    2.163E-02    1.17E-08
+ K -N2 X-RAY                        5.46E-08    2.203E-02    1.20E-09
+ K -N3 X-RAY                        1.05E-07    2.204E-02    2.32E-09
+ Free-Bound X-RAY                   8.45E-05    8.910E-06*   7.53E-10
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    7.01E-07
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.23E-09
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.01E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.06E-06
+ ALL LISTED RADIATIONS                                       1.01E-01
+ ALL NEGLECTED RADIATIONS**                                  2.06E-06
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 99-RUTHENIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  99-TECHNETIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

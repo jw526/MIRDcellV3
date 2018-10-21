@@ -1,0 +1,48 @@
+ 93-TECHNETIUM-43        HALFLIFE = 2.75 HOURS   
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      1   1.59E-02    2.925E-01*   4.65E-03
+ BETA PLUS                      2   7.00E-03    3.111E-01*   2.18E-03
+ BETA PLUS                      3   8.63E-02    3.607E-01*   3.11E-02
+ ANNIHILATION RADIATION             2.18E-01    5.110E-01    1.12E-01
+ GAMMA-RAY                      3   6.62E-01    1.363E+00    9.02E-01
+ K CONV. ELECTRON, GAMMA-RAY    3   2.45E-04    1.343E+00    3.29E-04
+ GAMMA-RAY                      4   5.69E-03    1.382E+00    7.87E-03
+ GAMMA-RAY                      5   2.58E-03    1.425E+00    3.68E-03
+ GAMMA-RAY                      6   8.67E-02    1.477E+00    1.28E-01
+ GAMMA-RAY                      7   2.44E-01    1.520E+00    3.70E-01
+ K CONV. ELECTRON, GAMMA-RAY    7   7.02E-05    1.500E+00    1.05E-04
+ GAMMA-RAY                      8   7.61E-03    1.539E+00    1.17E-02
+ GAMMA-RAY                      9   3.16E-03    2.409E+00    7.62E-03
+ GAMMA-RAY                     11   3.51E-03    2.731E+00    9.58E-03
+ GAMMA-RAY                     13   8.74E-04    2.902E+00    2.54E-03
+ K -L2 X-RAY                        1.71E-01    1.734E-02    2.97E-03
+ K -L3 X-RAY                        3.26E-01    1.744E-02    5.69E-03
+ AUGER KLL                          1.31E-01    1.471E-02*   1.92E-03
+ AUGER KLX                          4.84E-02    1.697E-02*   8.21E-04
+ AUGER KXY                          4.32E-03    1.924E-02*   8.32E-05
+ AUGER LMM                          7.55E-01    1.952E-03*   1.47E-03
+ AUGER LMX                          1.07E-01    2.201E-03*   2.35E-04
+ CK MMX                             7.92E-01    1.067E-04*   8.44E-05
+ AUGER MNN                          1.90E+00    1.762E-04*   3.34E-04
+ CK NNX                             4.16E+00    2.736E-05*   1.14E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.56E+00
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     4.72E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.34E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.60E-04
+ ALL LISTED RADIATIONS                                       1.61E+00
+ ALL NEGLECTED RADIATIONS**                                  4.88E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 93-MOLYBDENUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  93-TECHNETIUM.
+   DECAY OF THIS 4000 YEARS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

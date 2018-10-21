@@ -1,0 +1,51 @@
+ 211-LEAD-82             HALFLIFE = 36.1 MINUTES 
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     4   8.29E-03    7.462E-02*   6.19E-04
+ BETA MINUS                     8   6.31E-02    1.639E-01*   1.03E-02
+ BETA MINUS                     9   1.54E-02    3.178E-01*   4.89E-03
+ BETA MINUS                    10   9.12E-01    4.756E-01*   4.34E-01
+ GAMMA-RAY                      8   3.87E-04    2.440E-01    9.45E-05
+ GAMMA-RAY                      9   3.10E-04    3.136E-01    9.72E-05
+ GAMMA-RAY                     10   3.49E-04    3.429E-01    1.20E-04
+ GAMMA-RAY                     11   4.26E-04    3.621E-01    1.54E-04
+ GAMMA-RAY                     12   3.78E-02    4.049E-01    1.53E-02
+ K CONV. ELECTRON, GAMMA-RAY   12   3.76E-03    3.140E-01    1.18E-03
+ GAMMA-RAY                     13   1.76E-02    4.271E-01    7.50E-03
+ K CONV. ELECTRON, GAMMA-RAY   13   2.72E-03    3.363E-01    9.14E-04
+ GAMMA-RAY                     17   2.58E-04    4.811E-01    1.24E-04
+ GAMMA-RAY                     25   4.26E-04    6.094E-01    2.60E-04
+ GAMMA-RAY                     26   1.29E-04    6.767E-01    8.74E-05
+ GAMMA-RAY                     27   4.62E-03    7.046E-01    3.26E-03
+ GAMMA-RAY                     28   6.17E-03    7.665E-01    4.73E-03
+ GAMMA-RAY                     29   3.52E-02    8.320E-01    2.93E-02
+ K CONV. ELECTRON, GAMMA-RAY   29   8.60E-04    7.412E-01    6.38E-04
+ GAMMA-RAY                     31   2.19E-04    9.510E-01    2.09E-04
+ GAMMA-RAY                     32   1.73E-04    1.015E+00    1.76E-04
+ GAMMA-RAY                     33   1.23E-04    1.080E+00    1.32E-04
+ GAMMA-RAY                     36   1.15E-03    1.109E+00    1.27E-03
+ GAMMA-RAY                     37   1.02E-04    1.196E+00    1.22E-04
+ GAMMA-RAY                     39   6.84E-05    1.271E+00    8.69E-05
+ K -L2 X-RAY                        2.42E-03    7.506E-02    1.81E-04
+ K -L3 X-RAY                        4.04E-03    7.741E-02    3.13E-04
+ K -M3 X-RAY                        8.76E-04    8.767E-02    7.68E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    6.36E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     7.88E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   4.52E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.92E-03
+ ALL LISTED RADIATIONS                                       5.16E-01
+ ALL NEGLECTED RADIATIONS**                                  2.71E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 211-BISMUTH
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 211-LEAD.
+   DECAY OF THIS 2.14 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

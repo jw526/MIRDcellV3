@@ -1,0 +1,54 @@
+ 83M-KRYPTON-36          HALFLIFE = 1.83 HOURS   
+
+  MODE OF DECAY: ISOMERIC LEVEL
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ GAMMA-RAY                      1   5.58E-02    9.405E-03    5.25E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   1   6.65E-01    7.503E-03    4.99E-03
+ L2 CONV. ELECTRON, GAMMA-RAY   1   7.49E-02    7.677E-03    5.75E-04
+ L3 CONV. ELECTRON, GAMMA-RAY   1   5.71E-02    7.732E-03    4.42E-04
+ M CONV. ELECTRON, GAMMA-RAY    1   1.32E-01    9.198E-03*   1.21E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   1   1.55E-02    9.405E-03*   1.46E-04
+ GAMMA-RAY                      2   4.98E-04    3.215E-02    1.60E-05
+ K CONV. ELECTRON, GAMMA-RAY    2   2.37E-01    1.787E-02    4.24E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   2   1.58E-02    3.025E-02    4.78E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   2   2.45E-01    3.042E-02    7.45E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   2   3.81E-01    3.048E-02    1.16E-02
+ M CONV. ELECTRON, GAMMA-RAY    2   1.11E-01    3.194E-02*   3.53E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   2   9.80E-03    3.215E-02*   3.15E-04
+ K -L2 X-RAY                        4.48E-02    1.255E-02    5.63E-04
+ K -L3 X-RAY                        8.64E-02    1.261E-02    1.09E-03
+ K -M2 X-RAY                        6.31E-03    1.406E-02    8.87E-05
+ K -M3 X-RAY                        1.23E-02    1.407E-02    1.73E-04
+ K -N2 X-RAY                        5.54E-04    1.427E-02    7.91E-06
+ K -N3 X-RAY                        1.07E-03    1.427E-02    1.52E-05
+ L2-M4 X-RAY                        9.28E-03    1.633E-03    1.51E-05
+ L3-M1 X-RAY                        4.47E-03    1.395E-03    6.24E-06
+ L3-M4 X-RAY                        1.79E-03    1.578E-03    2.83E-06
+ L3-M5 X-RAY                        1.74E-02    1.579E-03    2.75E-05
+ Free-Bound X-RAY                   1.11E+01    1.940E-05*   2.14E-04
+ AUGER KLL                          6.39E-02    1.080E-02*   6.90E-04
+ AUGER KLX                          2.03E-02    1.234E-02*   2.50E-04
+ CK LLX                             6.32E-01    1.053E-04*   6.66E-05
+ AUGER LMM                          1.56E+00    1.414E-03*   2.21E-03
+ AUGER LMX                          1.15E-01    1.523E-03*   1.75E-04
+ CK MMX                             1.92E+00    6.582E-05*   1.26E-04
+ AUGER MNN                          4.82E+00    5.650E-05*   2.72E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    2.74E-03
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     7.95E-06
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.88E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  2.76E-05
+ ALL LISTED RADIATIONS                                       4.15E-02
+ ALL NEGLECTED RADIATIONS**                                  3.56E-05
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 83-KRYPTON
+   DAUGHTER IS 1.0000E+00  PER TRANSFORMATION OF  83M-KRYPTON.
+   THIS DAUGHTER GROUND STATE IS STABLE.

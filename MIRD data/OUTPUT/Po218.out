@@ -1,0 +1,182 @@
+%%%% 218 PO  84    A  B-        1.86000E+02   3.10 M   02-11-2005       BALASTAR
+1 218   PO  84   3.10 M        A  B-      
+1INTENSITY AND ENERGY BALANCE DATA
+
+              218-POLONIUM-84
++                                    HALFLIFE = 3.1 MINUTES 
++                                                                  02-11-2005
+
+
+    LEVEL       INTENSITY   INTENSITY
+    ENERGY      ENTERING    LEAVING     PERCENT
+    (MEV)       LEVEL       LEVEL       ERROR
+
+   0.0000E+00  9.9979E+01
+   8.3600E-01  1.0998E-03  0.0000E+00  2.0000E+02  ********************
+   0.0000E+00  2.0000E-02
+
+
+ INTENSITY TO GROUND AND ISOMERIC STATE(S) OF DAUGHTER(S)=  1.000E+02
+ TOTAL INTENSITY FROM PARENT=  1.000E+02
+ PERCENT ERROR =  1.099E-03                      
+
+
+ TOTAL INTENSITY FROM PARENT =  1.000E+02
+ VALUE IS WITHIN   0.00E+00% OF 100                      
+
+
+ TOTAL ENERGY AVAILABLE =  6.114E+00 MEV
+ TOTAL ENERGY CONTENT OF ALL RADIATIONS =  6.114E+00 MEV
+ PERCENT ERROR =  1.482E-04                      
+%%%% 218 PO  84    A  B-        1.86000E+02   3.10 M   02-11-2005       BALAEND 
+%%%% 218 PO  84    A  B-        1.86000E+02   3.10 M   02-11-2005       INPUSTAR
+1                                      **INPUT DATA**
+              218-POLONIUM-84
++                                    HALFLIFE = 3.1 MINUTES 
++                                                                  02-11-2005
+
+            MODES OF DECAY: ALPHA, BETA MINUS
+ 
+                                MEAN
+                                NUMBER/    TRANSITION
+                TYPE OF    ID   TRANSFOR-  ENERGY
+              TRANSITION   NO.  MATION     (MEV)       OTHER NUCLEAR PARAMETERS
+
+                    ALPHA   1   1.10E-05   5.279E+00                                            
+                    ALPHA   2   1.00E+00   6.115E+00                                            
+               BETA MINUS   1   2.00E-04   2.590E-01*  FIRST FORBIDDEN                          
+ 
+           * ENDPOINT ENERGY (MEV)
+           - - - - - - - - - -
+           Reference: Evaluated Nuclear Structure Data File (ENSDF)
+                DATE DATA WERE ENTERED INTO ENSDF: Jan-1996
+%%%% 218 PO  84    A  B-        1.86000E+02   3.10 M   02-11-2005       INPUEND 
+%%%% 218 PO  84    A  B-        1.86000E+02   3.10 M   02-11-2005       OUTPSTAR
+1                                      **OUTPUT DATA**
+              218-POLONIUM-84
++                                    HALFLIFE = 3.1 MINUTES 
++                                                                  02-11-2005
+
+            MODES OF DECAY: ALPHA, BETA MINUS
+ 
+                                              MEAN
+                                              NUMBER/                  MEV/
+                                         ID   TRANSFOR-   ENERGY       TRANSFOR-
+                  TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+           ALPHA                          1   1.10E-05    5.182E+00    5.70E-05
+           RECOIL ATOM                        1.10E-05    9.692E-02    1.07E-06
+           ALPHA                          2   1.00E+00    6.002E+00    6.00E+00
+           RECOIL ATOM                        1.00E+00    1.123E-01    1.12E-01
+           BETA MINUS                     1   2.00E-04    7.137E-02*   1.43E-05
+ 
+           ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.43E-05
+           ALL LISTED ALPHA PARTICLES AND  RECOIL NUCLEI               6.11E+00
+           ALL LISTED RADIATIONS                                       6.11E+00
+ 
+           *  AVERAGE ENERGY (MEV)
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 214-LEAD
+             DAUGHTER IS 9.9980E-01 PER TRANSFORMATION OF 218-POLONIUM.
+             DECAY OF THIS 26.8 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           TOTAL FEEDING OF GROUND STATE LEVEL IN 218-ASTATINE
+             DAUGHTER IS 2.0000E-04 PER TRANSFORMATION OF 218-POLONIUM.
+             DECAY OF THIS 1.5 SECONDS HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.
+           - - - - - - - - - -
+           INPUT DATA SOURCE: EVALUATED NUCLEAR STRUCTURE DATA FILE (ENSDF)
+             DATE INPUT DATA WERE ENTERED INTO ENSDF: Jan-1996
+%%%% 218 PO  84    A  B-        1.86000E+02   3.10 M   02-11-2005       OUTPEND 
+%%%% 218 PO  84    A  B-        1.86000E+02   3.10 M   02-11-2005       BETASTAR
+1
+              218-POLONIUM-84
++                                    HALFLIFE = 3.1 MINUTES 
++                                                                  02-11-2005
+
+            BETA SPECTRUM DATA FOR ALL DECAY BRANCHES
+
+                      BETAS PER                BETAS PER                BETAS PER
+            ENERGY    MEV            ENERGY    MEV            ENERGY    MEV
+            (MEV)     PER DECAY      (MEV)     PER DECAY      (MEV)     PER DECAY
+
+            0.00000   1.957E-03      0.00140   1.942E-03      0.02200   1.721E-03
+            0.00010   1.956E-03      0.00150   1.941E-03      0.02400   1.702E-03
+            0.00011   1.956E-03      0.00160   1.939E-03      0.02600   1.682E-03
+            0.00012   1.956E-03      0.00180   1.937E-03      0.02800   1.663E-03
+            0.00013   1.956E-03      0.00200   1.935E-03      0.03000   1.643E-03
+            0.00014   1.956E-03      0.00220   1.933E-03      0.03200   1.624E-03
+            0.00015   1.956E-03      0.00240   1.931E-03      0.03600   1.584E-03
+            0.00016   1.956E-03      0.00260   1.928E-03      0.04000   1.545E-03
+            0.00018   1.955E-03      0.00280   1.926E-03      0.04500   1.495E-03
+            0.00020   1.955E-03      0.00300   1.924E-03      0.05000   1.446E-03
+            0.00022   1.955E-03      0.00320   1.922E-03      0.05500   1.396E-03
+            0.00024   1.955E-03      0.00360   1.917E-03      0.06000   1.346E-03
+            0.00026   1.954E-03      0.00400   1.913E-03      0.06500   1.296E-03
+            0.00028   1.954E-03      0.00450   1.907E-03      0.07000   1.246E-03
+            0.00030   1.954E-03      0.00500   1.901E-03      0.07500   1.196E-03
+            0.00032   1.954E-03      0.00550   1.896E-03      0.08000   1.147E-03
+            0.00036   1.953E-03      0.00600   1.890E-03      0.08500   1.097E-03
+            0.00040   1.953E-03      0.00650   1.885E-03      0.09000   1.048E-03
+            0.00045   1.952E-03      0.00700   1.879E-03      0.10000   9.512E-04
+            0.00050   1.952E-03      0.00750   1.873E-03      0.11000   8.560E-04
+            0.00055   1.951E-03      0.00800   1.868E-03      0.12000   7.631E-04
+            0.00060   1.951E-03      0.00850   1.862E-03      0.13000   6.729E-04
+            0.00065   1.950E-03      0.00900   1.857E-03      0.14000   5.862E-04
+            0.00070   1.950E-03      0.01000   1.845E-03      0.15000   5.032E-04
+            0.00075   1.949E-03      0.01100   1.834E-03      0.16000   4.246E-04
+            0.00080   1.948E-03      0.01200   1.823E-03      0.18000   2.826E-04
+            0.00085   1.948E-03      0.01300   1.812E-03      0.20000   1.646E-04
+            0.00090   1.947E-03      0.01400   1.801E-03      0.22000   7.501E-05
+            0.00100   1.946E-03      0.01500   1.790E-03      0.24000   1.855E-05
+            0.00110   1.945E-03      0.01600   1.778E-03      0.25900   0.000E+00
+            0.00120   1.944E-03      0.01800   1.760E-03
+            0.00130   1.943E-03      0.02000   1.740E-03
+
+            AVERAGE BETA ENERGY =   7.137E-02
+
+            TOTAL BETAS PER DECAY FOR ALL BRANCHES =   2.000E-04
+%%%% 218 PO  84    A  B-        1.86000E+02   3.10 M   02-11-2005       BETAEND 
+%%%% 218 PO  84    A  B-        1.86000E+02   3.10 M   02-11-2005       SEEISTAR
+218.  POLONIUM     84.  3.100E+00 MINUTES    3 A  B-                218.PO 84.   0
+ 8 1  1.09978E-03  5.18176E+00  9.69183E-02  0.00000E+00            218.PO 84.   1   1
+ 8 2  9.99789E+01  6.00241E+00  1.12268E-01  0.00000E+00            218.PO 84.   2   2
+ 5 1  2.00000E-02  7.13734E-02  2.59000E-01  0.00000E+00            218.PO 84.   3   1
+%%%% 218 PO  84    A  B-        1.86000E+02   3.10 M   02-11-2005       SEEIEND 
+ 
+
+
+   ***************************************************** 
+   *                 Radiation Summary                 * 
+   ***************************************************** 
+ 
+  Energy released by
+    Gamma-ray                       (MeV) =   0.00000E+00
+    X-ray                           (MeV) =   0.00000E+00
+    Free-bound X-ray                (MeV) =   0.00000E+00
+    Annihilation photon             (MeV) =   0.00000E+00
+    Beta+ particle                  (MeV) =   0.00000E+00
+    Neutrino                        (MeV) =   0.00000E+00
+    Beta- particle                  (MeV) =   1.42747E-05
+    Neutrino-                       (MeV) =   3.75253E-05
+    Internal conv. electron         (MeV) =   0.00000E+00
+    Auger and CK electron           (MeV) =   0.00000E+00
+    Alpha particle                  (MeV) =   6.00120E+00
+    Recoil nucleus                  (MeV) =   1.12245E-01
+  E-total (except unplaced radiat.) (MeV) =   6.11350E+00
+  E-unplaced radiation              (MeV) =   0.00000E+00
+  Q-value from ENSDF data           (MeV) =   6.11351E+00
+  Ratio of E-total/Q-value          ( % ) =   9.99998E+01
+  Ratio of E-unplaced radi./Q-value ( % ) =   0.00000E+00
+
+ 
+  Total yield of
+    Gamma-ray                             =   0.00000E+00
+    X-ray                                 =   0.00000E+00
+    Free-bound X-ray                      =   0.00000E+00
+    Annihilation photon                   =   0.00000E+00
+    Beta+ particle                        =   0.00000E+00
+    Beta- particle                        =   2.00000E-04
+    Internal conv. electron               =   0.00000E+00
+    Auger and CK electron                 =   0.00000E+00
+    Alpha particle                        =   9.99800E-01
+  Yield of unplaced radiation             =   0.00000E+00
+
+

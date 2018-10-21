@@ -1,0 +1,48 @@
+ 62-ZINC-30              HALFLIFE = 9.186 HOURS   
+
+  MODES OF DECAY: ELECTRON CAPTURE, BETA PLUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA PLUS                      1   8.39E-02    2.586E-01*   2.17E-02
+ ANNIHILATION RADIATION             1.68E-01    5.110E-01    8.57E-02
+ GAMMA-RAY                      1   2.55E-01    4.085E-02    1.04E-02
+ K CONV. ELECTRON, GAMMA-RAY    1   1.48E-01    3.191E-02    4.73E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   1   1.47E-02    3.976E-02    5.86E-04
+ GAMMA-RAY                      3   2.52E-02    2.434E-01    6.14E-03
+ GAMMA-RAY                      4   1.90E-02    2.470E-01    4.69E-03
+ GAMMA-RAY                      5   1.35E-02    2.604E-01    3.52E-03
+ GAMMA-RAY                      6   2.89E-03    3.049E-01    8.80E-04
+ GAMMA-RAY                      7   4.50E-03    3.496E-01    1.57E-03
+ GAMMA-RAY                      9   2.24E-02    3.940E-01    8.81E-03
+ GAMMA-RAY                     11   1.48E-01    5.076E-01    7.52E-02
+ K CONV. ELECTRON, GAMMA-RAY   11   1.27E-04    4.987E-01    6.35E-05
+ GAMMA-RAY                     12   1.53E-01    5.483E-01    8.41E-02
+ K CONV. ELECTRON, GAMMA-RAY   12   1.11E-04    5.394E-01    5.98E-05
+ GAMMA-RAY                     13   2.60E-01    5.966E-01    1.55E-01
+ K CONV. ELECTRON, GAMMA-RAY   13   1.56E-04    5.876E-01    9.16E-05
+ GAMMA-RAY                     15   2.55E-03    6.374E-01    1.62E-03
+ K -L2 X-RAY                        1.26E-01    7.985E-03    1.00E-03
+ K -L3 X-RAY                        2.45E-01    8.006E-03    1.96E-03
+ AUGER KLL                          4.30E-01    6.991E-03*   3.01E-03
+ AUGER KLX                          1.06E-01    7.880E-03*   8.36E-04
+ AUGER KXY                          7.35E-03    8.773E-03*   6.45E-05
+ AUGER LMM                          1.42E+00    8.561E-04*   1.22E-03
+ CK MMX                             1.97E+00    5.685E-05*   1.12E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    4.41E-01
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     2.27E-03
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.25E-02
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  1.86E-04
+ ALL LISTED RADIATIONS                                       4.73E-01
+ ALL NEGLECTED RADIATIONS**                                  2.46E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 62-COPPER
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF  62-ZINC.
+   DECAY OF THIS 9.673 MINUTES HALFLIFE LEVEL WILL CONTRIBUTE TO DOSE.

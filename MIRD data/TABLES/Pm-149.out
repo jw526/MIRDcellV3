@@ -1,0 +1,48 @@
+ 149-PROMETHIUM-61       HALFLIFE = 53.08 HOURS   
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                    12   3.39E-02    2.560E-01*   8.68E-03
+ BETA MINUS                    14   5.98E-03    3.598E-01*   2.15E-03
+ BETA MINUS                    15   9.56E-01    3.689E-01*   3.53E-01
+ GAMMA-RAY                      6   5.27E-05    2.546E-01    1.34E-05
+ GAMMA-RAY                      8   9.61E-05    2.632E-01    2.53E-05
+ GAMMA-RAY                      9   2.88E-04    2.771E-01    7.99E-05
+ GAMMA-RAY                     10   7.44E-05    2.812E-01    2.09E-05
+ GAMMA-RAY                     11   3.10E-02    2.860E-01    8.86E-03
+ K CONV. ELECTRON, GAMMA-RAY   11   2.48E-03    2.391E-01    5.94E-04
+ GAMMA-RAY                     15   3.72E-05    3.275E-01    1.22E-05
+ GAMMA-RAY                     23   1.15E-04    5.359E-01    6.15E-05
+ GAMMA-RAY                     24   2.48E-05    5.443E-01    1.35E-05
+ GAMMA-RAY                     28   1.52E-04    5.584E-01    8.48E-05
+ GAMMA-RAY                     29   1.86E-04    5.684E-01    1.06E-04
+ GAMMA-RAY                     30   2.42E-05    5.711E-01    1.38E-05
+ GAMMA-RAY                     31   6.91E-04    5.909E-01    4.08E-04
+ GAMMA-RAY                     33   1.49E-04    6.139E-01    9.14E-05
+ GAMMA-RAY                     34   9.30E-05    6.365E-01    5.92E-05
+ GAMMA-RAY                     37   1.64E-04    8.081E-01    1.33E-04
+ GAMMA-RAY                     40   3.25E-04    8.305E-01    2.70E-04
+ GAMMA-RAY                     41   3.32E-04    8.334E-01    2.76E-04
+ GAMMA-RAY                     43   1.08E-03    8.595E-01    9.33E-04
+ GAMMA-RAY                     44   2.39E-04    8.820E-01    2.11E-04
+ K -L2 X-RAY                        6.82E-04    3.956E-02    2.70E-05
+ K -L3 X-RAY                        1.24E-03    4.017E-02    4.96E-05
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    1.18E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.40E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   3.64E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  9.18E-04
+ ALL LISTED RADIATIONS                                       3.76E-01
+ ALL NEGLECTED RADIATIONS**                                  1.06E-03
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 149-SAMARIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 149-PROMETHIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.

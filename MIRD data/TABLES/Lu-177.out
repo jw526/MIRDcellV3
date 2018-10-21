@@ -1,0 +1,51 @@
+ 177-LUTETIUM-71         HALFLIFE = 6.647 DAYS    
+
+  MODE OF DECAY: BETA MINUS
+ 
+                                    MEAN
+                                    NUMBER/                  MEV/
+                               ID   TRANSFOR-   ENERGY       TRANSFOR-
+        TYPE OF RADIATION      NO.  MATION      (MEV)        MATION
+
+ BETA MINUS                     1   1.22E-01    4.753E-02*   5.80E-03
+ BETA MINUS                     3   9.10E-02    1.115E-01*   1.02E-02
+ BETA MINUS                     4   7.86E-01    1.491E-01*   1.17E-01
+ GAMMA-RAY                      1   1.54E-03    7.165E-02    1.10E-04
+ GAMMA-RAY                      2   6.40E-02    1.129E-01    7.23E-03
+ K CONV. ELECTRON, GAMMA-RAY    2   5.17E-02    4.747E-02    2.45E-03
+ L1 CONV. ELECTRON, GAMMA-RAY   2   5.53E-03    1.017E-01    5.62E-04
+ L2 CONV. ELECTRON, GAMMA-RAY   2   3.47E-02    1.022E-01    3.55E-03
+ L3 CONV. ELECTRON, GAMMA-RAY   2   3.07E-02    1.034E-01    3.17E-03
+ M CONV. ELECTRON, GAMMA-RAY    2   1.77E-02    1.109E-01*   1.96E-03
+ N+ CONV. ELECTRON, GAMMA-RAY   2   4.82E-03    1.129E-01*   5.44E-04
+ GAMMA-RAY                      3   4.80E-04    1.367E-01    6.56E-05
+ GAMMA-RAY                      4   1.10E-01    2.084E-01    2.29E-02
+ K CONV. ELECTRON, GAMMA-RAY    4   5.97E-03    1.429E-01    8.53E-04
+ L1 CONV. ELECTRON, GAMMA-RAY   4   7.70E-04    1.971E-01    1.52E-04
+ GAMMA-RAY                      5   2.12E-03    2.497E-01    5.29E-04
+ GAMMA-RAY                      6   2.19E-03    3.213E-01    7.04E-04
+ K -L2 X-RAY                        1.63E-02    5.472E-02    8.93E-04
+ K -L3 X-RAY                        2.85E-02    5.592E-02    1.60E-03
+ K -M2 X-RAY                        3.04E-03    6.312E-02    1.92E-04
+ K -M3 X-RAY                        5.87E-03    6.338E-02    3.72E-04
+ K -N2 X-RAY                        6.84E-04    6.505E-02    4.45E-05
+ K -N3 X-RAY                        1.32E-03    6.511E-02    8.61E-05
+ L2-M4 X-RAY                        1.18E-02    9.038E-03    1.06E-04
+ L3-M5 X-RAY                        1.28E-02    7.890E-03    1.01E-04
+ AUGER LMM                          6.34E-02    6.203E-03*   3.93E-04
+ AUGER LMX                          2.35E-02    7.823E-03*   1.84E-04
+ AUGER MNN                          1.95E-01    1.366E-03*   2.66E-04
+ 
+ ALL LISTED X-RAYS, GAMMA-RAYS AND ANNIHILATION RADIATION    3.49E-02
+ ALL NEGLECTED X-RAYS, GAMMA-RAYS AND ANNIH. RADIATION**     1.48E-04
+ ALL LISTED BETAS, INTERNAL CONVERSION AND AUGER ELECTRONS   1.47E-01
+ ALL NEGLECTED BETAS, INT. CONVERSION AND AUGER ELECTRONS**  6.01E-04
+ ALL LISTED RADIATIONS                                       1.82E-01
+ ALL NEGLECTED RADIATIONS**                                  7.49E-04
+ 
+ *  AVERAGE ENERGY (MEV)
+ ** EACH NEGLECTED TRANSITION CONTRIBUTES LESS THAN  0.100%
+    TO THE TOTAL MEV/TRANSFORMATION FOR THIS CATEGORY.
+ TOTAL FEEDING OF GROUND STATE LEVEL IN 177-HAFNIUM
+   DAUGHTER IS 1.0000E+00 PER TRANSFORMATION OF 177-LUTETIUM.
+   THIS DAUGHTER GROUND STATE IS STABLE.
